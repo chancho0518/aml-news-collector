@@ -9,6 +9,7 @@ const {
   saveJson,
   pruneIndex,
   articleId,
+  isDuplicateText,
   appendToDailyFile,
 } = require('./store');
 
@@ -34,16 +35,20 @@ async function collectFromSource(source) {
   }
 
   for (const item of feed.items || []) {
-    const text = `${item.title || ''} ${item.contentSnippet || item.content || ''}`;
+    const title = item.title || '';
+    const text = `${title} ${item.contentSnippet || item.content || ''}`;
     if (!isKeywordMatch(text)) continue;
+
+    const rawSnippet = (item.contentSnippet || item.content || '').replace(/\s+/g, ' ').trim();
+    const snippet = isDuplicateText(rawSnippet, title) ? '' : rawSnippet.slice(0, 300);
 
     collected.push({
       id: articleId(item.guid || item.link || item.title),
       source: source.name,
       category: source.category,
       lang: isKorean(text) ? 'ko' : 'en',
-      title: item.title || '',
-      snippet: (item.contentSnippet || item.content || '').replace(/\s+/g, ' ').trim().slice(0, 300),
+      title,
+      snippet,
       link: item.link || '',
       publishedAt: item.isoDate || item.pubDate || null,
       collectedAt: new Date().toISOString(),

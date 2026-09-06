@@ -7,6 +7,7 @@ const {
   saveJson,
   pruneIndex,
   articleId,
+  isDuplicateText,
   appendToDailyFile,
   appendToLatestBatch,
 } = require('./store');
@@ -68,13 +69,17 @@ async function main() {
       if (!index[id]) {
         index[id] = new Date().toISOString();
         if (link) {
+          const title = parsed.subject || '(제목 없음)';
+          const rawSnippet = (parsed.text || '').replace(/\s+/g, ' ').trim();
+          const snippet = isDuplicateText(rawSnippet, title) ? '' : rawSnippet.slice(0, 300);
+
           newArticles.push({
             id,
             source: 'OFAC (Email)',
             category: 'investigative',
             lang: 'en',
-            title: parsed.subject || '(제목 없음)',
-            snippet: (parsed.text || '').replace(/\s+/g, ' ').trim().slice(0, 300),
+            title,
+            snippet,
             link,
             publishedAt: parsed.date ? parsed.date.toISOString() : null,
             collectedAt: new Date().toISOString(),
