@@ -40,6 +40,16 @@ function articleId(key) {
   return crypto.createHash('sha1').update(key).digest('hex');
 }
 
+// 공백/구두점 차이만 있고 실질적으로 같은 문장인지 비교 (예: Google News의 제목=요약 중복)
+function normalizeForCompare(text) {
+  return (text || '').toLowerCase().replace(/[^a-z0-9가-힣]+/g, '');
+}
+
+function isDuplicateText(a, b) {
+  if (!a || !b) return false;
+  return normalizeForCompare(a) === normalizeForCompare(b);
+}
+
 function appendToDailyFile(newArticles) {
   const dailyFilePath = path.join(PROCESSED_DIR, `${todayString()}.json`);
   const existing = loadJson(dailyFilePath, []);
@@ -72,6 +82,7 @@ module.exports = {
   saveJson,
   pruneIndex,
   articleId,
+  isDuplicateText,
   appendToDailyFile,
   appendToLatestBatch,
   patchDailyFile,

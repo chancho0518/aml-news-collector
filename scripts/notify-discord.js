@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { isDuplicateText } = require('./store');
 
 const LATEST_BATCH_PATH = path.join(__dirname, '..', 'tmp', 'latest-batch.json');
 const WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL;
@@ -30,7 +31,10 @@ function chunk(array, size) {
 
 function toEmbed(article) {
   const description = article.translation
-    ? [article.translation.titleKo, article.translation.snippetKo].filter(Boolean).join('\n')
+    ? [article.translation.titleKo, article.translation.snippetKo]
+        .filter(Boolean)
+        .filter((line, index, lines) => index === 0 || !isDuplicateText(line, lines[0]))
+        .join('\n')
     : undefined;
 
   return {
