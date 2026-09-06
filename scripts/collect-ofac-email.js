@@ -80,6 +80,7 @@ async function main() {
             lang: 'en',
             title,
             snippet,
+            keywords: ['OFAC'],
             link,
             publishedAt: parsed.date ? parsed.date.toISOString() : null,
             collectedAt: new Date().toISOString(),
