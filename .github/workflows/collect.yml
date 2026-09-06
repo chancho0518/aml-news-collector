@@ -27,6 +27,11 @@ jobs:
       - name: Run collector
         run: npm run collect
 
+      - name: Send Discord notification
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: npm run notify:discord
+
       - name: Commit and push results
         run: |
           git config user.name "github-actions[bot]"

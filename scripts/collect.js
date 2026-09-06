@@ -9,6 +9,7 @@ const { isKeywordMatch } = require('./keywords');
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const PROCESSED_DIR = path.join(DATA_DIR, 'processed');
 const INDEX_PATH = path.join(DATA_DIR, 'index', 'seen.json');
+const LATEST_BATCH_PATH = path.join(__dirname, '..', 'tmp', 'latest-batch.json');
 const DEDUP_WINDOW_DAYS = 90;
 const HANGUL_REGEX = /[가-힣]/;
 
@@ -101,6 +102,7 @@ async function main() {
 
   saveJson(dailyFilePath, merged);
   saveJson(INDEX_PATH, index);
+  saveJson(LATEST_BATCH_PATH, newArticles);
 
   console.log(`수집 완료: 후보 ${candidates.length}건 중 신규 ${newArticles.length}건 저장 (${dailyFilePath})`);
 }
