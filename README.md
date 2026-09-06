@@ -10,7 +10,9 @@ aml-news-collector/
 ├── scripts/
 │   ├── sources.js                  # RSS 소스 13개 정의
 │   ├── keywords.js                 # AML 키워드셋 + 매칭 함수
-│   ├── collect.js                  # 수집 → 필터링 → 중복제거 → 저장
+│   ├── store.js                    # 저장/중복제거 공통 로직
+│   ├── collect.js                  # RSS 수집 → 필터링 → 중복제거 → 저장
+│   ├── collect-ofac-email.js       # OFAC GovDelivery 이메일(IMAP) 수집 → 저장
 │   └── notify-discord.js           # 이번 실행에서 새로 수집된 기사를 Discord 웹훅으로 전송
 ├── data/
 │   ├── processed/{YYYY-MM-DD}.json # 날짜별 수집 결과 누적
@@ -43,6 +45,35 @@ npm run collect
    (PowerShell: `$env:DISCORD_WEBHOOK_URL="복사한 URL"; npm run notify:discord`)
 
 `DISCORD_WEBHOOK_URL`이 없으면 알림 단계는 에러 없이 조용히 건너뜁니다.
+
+## OFAC 이메일 수집 (Phase 1.5)
+
+OFAC은 2025년 1월 RSS를 폐지해서, GovDelivery 이메일 구독으로만 업데이트를 받을 수 있습니다.
+전용 Gmail 계정으로 구독을 받고, IMAP + 앱 비밀번호로 그 계정의 안 읽은 메일을 읽어와 처리합니다
+(Gmail API OAuth 대신 IMAP을 쓰는 이유: 개인/서비스 전용 단일 메일함이라 OAuth 앱 심사가 불필요하고,
+앱 비밀번호는 refresh token처럼 주기적으로 만료되지 않아 무인 자동화에 더 적합합니다).
+
+### 준비
+
+1. OFAC 업데이트 전용 Gmail 계정 생성
+2. 그 계정으로 구독 신청: https://service.govdelivery.com/service/subscribe.html?code=USTREAS_61
+3. 그 계정에서 2단계 인증 활성화 → https://myaccount.google.com/apppasswords 에서 앱 비밀번호 발급
+4. GitHub 저장소 **Settings → Secrets and variables → Actions**에 등록:
+   - `GMAIL_ADDRESS`: 위 Gmail 주소
+   - `GMAIL_APP_PASSWORD`: 발급받은 16자리 앱 비밀번호
+
+### 동작 방식
+
+- `INBOX`에서 **안 읽은 메일**만 검색해 제목(`subject`)을 기사 제목으로, 본문에서 찾은 첫 `treasury.gov`(또는 GovDelivery 게시글) 링크를 기사 링크로 사용
+- 구독/수신거부 관리 링크만 있고 실제 콘텐츠 링크가 없는 메일(가입 환영 메일 등)은 기사로 저장하지 않음
+- 처리한 메일은 다음 실행에서 다시 훑지 않도록 읽음 처리
+- `GMAIL_ADDRESS`/`GMAIL_APP_PASSWORD`가 없으면 이 단계는 에러 없이 조용히 건너뜀
+
+### 로컬 테스트
+
+```bash
+GMAIL_ADDRESS="계정 주소" GMAIL_APP_PASSWORD="앱 비밀번호" npm run collect:ofac
+```
 
 ## 배포 체크리스트 (Phase 1 마무리)
 
