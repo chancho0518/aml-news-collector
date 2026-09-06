@@ -29,8 +29,13 @@ function chunk(array, size) {
 }
 
 function toEmbed(article) {
+  const description = article.translation
+    ? [article.translation.titleKo, article.translation.snippetKo].filter(Boolean).join('\n')
+    : undefined;
+
   return {
     title: article.title.slice(0, 256),
+    description: description ? description.slice(0, 500) : undefined,
     url: article.link,
     color: SOURCE_COLORS[article.category] ?? 0x6b7280,
     footer: { text: `${article.source} · ${article.lang.toUpperCase()}` },

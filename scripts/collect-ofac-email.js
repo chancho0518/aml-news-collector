@@ -74,6 +74,7 @@ async function main() {
             category: 'investigative',
             lang: 'en',
             title: parsed.subject || '(제목 없음)',
+            snippet: (parsed.text || '').replace(/\s+/g, ' ').trim().slice(0, 300),
             link,
             publishedAt: parsed.date ? parsed.date.toISOString() : null,
             collectedAt: new Date().toISOString(),

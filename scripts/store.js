@@ -52,6 +52,16 @@ function appendToLatestBatch(newArticles) {
   saveJson(LATEST_BATCH_PATH, [...existing, ...newArticles]);
 }
 
+// patchById: { [articleId]: { ...병합할 필드 } }
+function patchDailyFile(patchById) {
+  const dailyFilePath = path.join(PROCESSED_DIR, `${todayString()}.json`);
+  const existing = loadJson(dailyFilePath, []);
+  const patched = existing.map((article) =>
+    patchById[article.id] ? { ...article, ...patchById[article.id] } : article
+  );
+  saveJson(dailyFilePath, patched);
+}
+
 module.exports = {
   DATA_DIR,
   PROCESSED_DIR,
@@ -64,4 +74,5 @@ module.exports = {
   articleId,
   appendToDailyFile,
   appendToLatestBatch,
+  patchDailyFile,
 };

@@ -7,7 +7,9 @@
   "scripts": {
     "collect": "node scripts/collect.js",
     "collect:ofac": "node scripts/collect-ofac-email.js",
-    "notify:discord": "node scripts/notify-discord.js"
+    "translate": "node scripts/translate.js",
+    "notify:discord": "node scripts/notify-discord.js",
+    "digest": "node scripts/daily-digest.js"
   },
   "dependencies": {
     "imapflow": "^1.7.8",

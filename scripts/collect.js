@@ -43,6 +43,7 @@ async function collectFromSource(source) {
       category: source.category,
       lang: isKorean(text) ? 'ko' : 'en',
       title: item.title || '',
+      snippet: (item.contentSnippet || item.content || '').replace(/\s+/g, ' ').trim().slice(0, 300),
       link: item.link || '',
       publishedAt: item.isoDate || item.pubDate || null,
       collectedAt: new Date().toISOString(),

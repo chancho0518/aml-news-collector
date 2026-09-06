@@ -13,7 +13,9 @@ aml-news-collector/
 │   ├── store.js                    # 저장/중복제거 공통 로직
 │   ├── collect.js                  # RSS 수집 → 필터링 → 중복제거 → 저장
 │   ├── collect-ofac-email.js       # OFAC GovDelivery 이메일(IMAP) 수집 → 저장
-│   └── notify-discord.js           # 이번 실행에서 새로 수집된 기사를 Discord 웹훅으로 전송
+│   ├── translate.js                # Gemini API로 영문 신규 기사 직역
+│   ├── notify-discord.js           # 이번 실행에서 새로 수집된 기사를 Discord 웹훅으로 전송
+│   └── daily-digest.js             # (하루 1회) 그날 전체 기사 기반 트렌드 요약 → Discord
 ├── data/
 │   ├── processed/{YYYY-MM-DD}.json # 날짜별 수집 결과 누적
 │   └── index/seen.json             # 최근 90일 중복 방지 인덱스
@@ -73,6 +75,48 @@ OFAC은 2025년 1월 RSS를 폐지해서, GovDelivery 이메일 구독으로만 
 
 ```bash
 GMAIL_ADDRESS="계정 주소" GMAIL_APP_PASSWORD="앱 비밀번호" npm run collect:ofac
+```
+
+## Gemini API 설정 (Phase 2 공통)
+
+번역(`translate.js`)과 일일 트렌드 요약(`daily-digest.js`) 둘 다 Gemini API를 사용합니다.
+
+1. https://aistudio.google.com/apikey 에서 API 키 발급 (신용카드 등록 불필요, 무료 티어)
+2. GitHub 저장소 **Settings → Secrets and variables → Actions → New repository secret**
+   - Name: `GEMINI_API_KEY`, Value: 발급받은 키
+3. 필요 시 모델 변경: 워크플로우 env에 `GEMINI_MODEL` 추가 (기본값 `gemini-2.5-flash`)
+
+`GEMINI_API_KEY`가 없으면 두 단계 모두 에러 없이 조용히 건너뜁니다.
+
+## 번역 (기사 단위)
+
+이번 실행에서 새로 수집된 기사(`tmp/latest-batch.json`) 중 **영문 기사만** Gemini API로 보내
+제목+미리보기 텍스트를 한국어로 **직역**합니다 (요약/의역 없이 원문 의미 그대로). 이미 한국어인
+기사는 번역을 생략합니다. 결과는 `translation: { titleKo, snippetKo }` 필드로
+`tmp/latest-batch.json`과 `data/processed/{날짜}.json`에 반영되고, Discord embed 본문에도 표시됩니다.
+
+### 로컬 테스트
+
+```bash
+GEMINI_API_KEY="발급받은 키" npm run translate
+```
+(`tmp/latest-batch.json`이 있어야 동작합니다 — 먼저 `npm run collect` 등을 실행해 생성)
+
+## 일일 트렌드 요약 (하루 전체 기사 기준)
+
+기사 단위 번역과 별개로, **그날 수집된 전체 기사**(`data/processed/{오늘날짜}.json`)를 모아
+Gemini에게 하루 동향(자주 등장하는 기관/사건/키워드 등)을 3~6개 불릿포인트로 요약받아
+Discord에 **별도 메시지**(`📊 오늘의 AML 뉴스 동향`)로 전송합니다.
+
+- 4시간 주기 cron 중 **KST 21:00(UTC 12:00) 실행에서만** 동작하도록 스크립트 내부에서 시간을 확인합니다
+  (그날의 마지막 수집이 끝난 뒤 전체 데이터를 기준으로 요약하기 위함).
+- 그 외 시간대 실행에서는 조용히 건너뜁니다.
+- `GEMINI_API_KEY`, `DISCORD_WEBHOOK_URL` 둘 다 필요합니다 (Discord 설정은 위 "Discord 알림" 절 참고).
+
+### 로컬/수동 테스트 (시간 무시하고 강제 실행)
+
+```bash
+DIGEST_FORCE=1 GEMINI_API_KEY="발급받은 키" DISCORD_WEBHOOK_URL="웹훅 URL" npm run digest
 ```
 
 ## 배포 체크리스트 (Phase 1 마무리)
