@@ -1,0 +1,13 @@
+{
+  "name": "aml-news-collector",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AML(자금세탁방지) 관련 뉴스 RSS 자동 수집기",
+  "type": "commonjs",
+  "scripts": {
+    "collect": "node scripts/collect.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
