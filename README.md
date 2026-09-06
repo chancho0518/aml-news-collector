@@ -84,7 +84,9 @@ GMAIL_ADDRESS="계정 주소" GMAIL_APP_PASSWORD="앱 비밀번호" npm run coll
 1. https://aistudio.google.com/apikey 에서 API 키 발급 (신용카드 등록 불필요, 무료 티어)
 2. GitHub 저장소 **Settings → Secrets and variables → Actions → New repository secret**
    - Name: `GEMINI_API_KEY`, Value: 발급받은 키
-3. 필요 시 모델 변경: 워크플로우 env에 `GEMINI_MODEL` 추가 (기본값 `gemini-2.5-flash`)
+3. 필요 시 모델 변경: 워크플로우 env에 `GEMINI_MODEL` 추가 (기본값 `gemini-3.6-flash`)
+   - Gemini는 모델이 자주 교체/폐기되니, 에러 로그에 "no longer available" 같은 메시지가 보이면
+     https://ai.google.dev/gemini-api/docs/models 에서 현재 무료 티어 Flash 모델명을 확인해 `GEMINI_MODEL`로 지정
 
 `GEMINI_API_KEY`가 없으면 두 단계 모두 에러 없이 조용히 건너뜁니다.
 

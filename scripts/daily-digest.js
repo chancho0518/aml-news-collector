@@ -2,7 +2,7 @@ const path = require('path');
 const { PROCESSED_DIR, todayString, loadJson } = require('./store');
 
 const API_KEY = process.env.GEMINI_API_KEY;
-const MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
+const MODEL = process.env.GEMINI_MODEL || 'gemini-3.6-flash';
 const ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`;
 const WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL;
 const DIGEST_HOUR_UTC = 12; // KST 21:00 (밤 9시)에 해당하는 실행에서만 동작

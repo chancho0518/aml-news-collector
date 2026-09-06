@@ -1,7 +1,7 @@
 const { LATEST_BATCH_PATH, loadJson, saveJson, patchDailyFile } = require('./store');
 
 const API_KEY = process.env.GEMINI_API_KEY;
-const MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
+const MODEL = process.env.GEMINI_MODEL || 'gemini-3.6-flash';
 const CHUNK_SIZE = 40; // 프롬프트 하나에 담을 최대 기사 수
 const ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`;
 
