@@ -6,9 +6,12 @@
   "type": "commonjs",
   "scripts": {
     "collect": "node scripts/collect.js",
+    "collect:ofac": "node scripts/collect-ofac-email.js",
     "notify:discord": "node scripts/notify-discord.js"
   },
   "dependencies": {
+    "imapflow": "^1.7.8",
+    "mailparser": "^3.9.22",
     "rss-parser": "^3.13.0"
   }
 }

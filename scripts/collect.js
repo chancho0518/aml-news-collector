@@ -1,16 +1,17 @@
-const fs = require('fs');
-const path = require('path');
-const crypto = require('crypto');
 const Parser = require('rss-parser');
 
 const { sources } = require('./sources');
 const { isKeywordMatch } = require('./keywords');
+const {
+  INDEX_PATH,
+  LATEST_BATCH_PATH,
+  loadJson,
+  saveJson,
+  pruneIndex,
+  articleId,
+  appendToDailyFile,
+} = require('./store');
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
-const PROCESSED_DIR = path.join(DATA_DIR, 'processed');
-const INDEX_PATH = path.join(DATA_DIR, 'index', 'seen.json');
-const LATEST_BATCH_PATH = path.join(__dirname, '..', 'tmp', 'latest-batch.json');
-const DEDUP_WINDOW_DAYS = 90;
 const HANGUL_REGEX = /[가-힣]/;
 
 const parser = new Parser({
@@ -20,39 +21,6 @@ const parser = new Parser({
 
 function isKorean(text) {
   return HANGUL_REGEX.test(text || '');
-}
-
-function articleId(item) {
-  const key = item.guid || item.link || item.title;
-  return crypto.createHash('sha1').update(key).digest('hex');
-}
-
-function todayString() {
-  return new Date().toISOString().slice(0, 10); // YYYY-MM-DD
-}
-
-function loadJson(filePath, fallback) {
-  try {
-    return JSON.parse(fs.readFileSync(filePath, 'utf8'));
-  } catch (err) {
-    return fallback;
-  }
-}
-
-function saveJson(filePath, data) {
-  fs.mkdirSync(path.dirname(filePath), { recursive: true });
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2) + '\n', 'utf8');
-}
-
-function pruneIndex(index) {
-  const cutoff = Date.now() - DEDUP_WINDOW_DAYS * 24 * 60 * 60 * 1000;
-  const pruned = {};
-  for (const [id, seenAt] of Object.entries(index)) {
-    if (new Date(seenAt).getTime() >= cutoff) {
-      pruned[id] = seenAt;
-    }
-  }
-  return pruned;
 }
 
 async function collectFromSource(source) {
@@ -70,7 +38,7 @@ async function collectFromSource(source) {
     if (!isKeywordMatch(text)) continue;
 
     collected.push({
-      id: articleId(item),
+      id: articleId(item.guid || item.link || item.title),
       source: source.name,
       category: source.category,
       lang: isKorean(text) ? 'ko' : 'en',
@@ -95,14 +63,9 @@ async function main() {
     index[article.id] = article.collectedAt;
   }
 
-  const dateKey = todayString();
-  const dailyFilePath = path.join(PROCESSED_DIR, `${dateKey}.json`);
-  const existing = loadJson(dailyFilePath, []);
-  const merged = [...existing, ...newArticles];
-
-  saveJson(dailyFilePath, merged);
+  const dailyFilePath = appendToDailyFile(newArticles);
   saveJson(INDEX_PATH, index);
-  saveJson(LATEST_BATCH_PATH, newArticles);
+  saveJson(LATEST_BATCH_PATH, newArticles); // 이번 실행 배치의 첫 기록이므로 덮어쓰기
 
   console.log(`수집 완료: 후보 ${candidates.length}건 중 신규 ${newArticles.length}건 저장 (${dailyFilePath})`);
 }
