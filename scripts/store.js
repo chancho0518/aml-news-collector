@@ -6,6 +6,7 @@ const DATA_DIR = path.join(__dirname, '..', 'data');
 const PROCESSED_DIR = path.join(DATA_DIR, 'processed');
 const INDEX_PATH = path.join(DATA_DIR, 'index', 'seen.json');
 const LATEST_BATCH_PATH = path.join(__dirname, '..', 'tmp', 'latest-batch.json');
+const MANIFEST_PATH = path.join(PROCESSED_DIR, 'manifest.json');
 const DEDUP_WINDOW_DAYS = 90;
 
 function todayString() {
@@ -50,10 +51,22 @@ function isDuplicateText(a, b) {
   return normalizeForCompare(a) === normalizeForCompare(b);
 }
 
+// 웹사이트가 "어떤 날짜 파일이 존재하는지" 알 수 있도록 목록을 갱신 (최신순 정렬)
+function updateManifest() {
+  const files = fs
+    .readdirSync(PROCESSED_DIR)
+    .filter((name) => /^\d{4}-\d{2}-\d{2}\.json$/.test(name))
+    .map((name) => name.replace('.json', ''))
+    .sort()
+    .reverse();
+  saveJson(MANIFEST_PATH, files);
+}
+
 function appendToDailyFile(newArticles) {
   const dailyFilePath = path.join(PROCESSED_DIR, `${todayString()}.json`);
   const existing = loadJson(dailyFilePath, []);
   saveJson(dailyFilePath, [...existing, ...newArticles]);
+  updateManifest();
   return dailyFilePath;
 }
 
@@ -77,6 +90,7 @@ module.exports = {
   PROCESSED_DIR,
   INDEX_PATH,
   LATEST_BATCH_PATH,
+  MANIFEST_PATH,
   todayString,
   loadJson,
   saveJson,

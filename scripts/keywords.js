@@ -52,4 +52,10 @@ function isKeywordMatch(text) {
   return keywords.some((kw) => normalized.includes(kw.toLowerCase()));
 }
 
-module.exports = { keywordsKo, keywordsEn, keywords, isKeywordMatch };
+// 매칭된 키워드 원문(표기 그대로)을 배열로 반환. 웹사이트의 키워드 태그 필터용.
+function findMatchedKeywords(text) {
+  const normalized = normalize(text);
+  return keywords.filter((kw) => normalized.includes(kw.toLowerCase()));
+}
+
+module.exports = { keywordsKo, keywordsEn, keywords, isKeywordMatch, findMatchedKeywords };

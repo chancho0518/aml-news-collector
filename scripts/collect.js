@@ -1,7 +1,7 @@
 const Parser = require('rss-parser');
 
 const { sources } = require('./sources');
-const { isKeywordMatch } = require('./keywords');
+const { isKeywordMatch, findMatchedKeywords } = require('./keywords');
 const {
   INDEX_PATH,
   LATEST_BATCH_PATH,
@@ -49,6 +49,7 @@ async function collectFromSource(source) {
       lang: isKorean(text) ? 'ko' : 'en',
       title,
       snippet,
+      keywords: findMatchedKeywords(text),
       link: item.link || '',
       publishedAt: item.isoDate || item.pubDate || null,
       collectedAt: new Date().toISOString(),
