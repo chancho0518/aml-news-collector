@@ -1,5 +1,5 @@
 const path = require('path');
-const { PROCESSED_DIR, todayString, loadJson } = require('./store');
+const { PROCESSED_DIR, todayString, loadJson, withRetry } = require('./store');
 
 const API_KEY = process.env.GEMINI_API_KEY;
 const MODEL = process.env.GEMINI_MODEL || 'gemini-3.6-flash';
@@ -102,10 +102,14 @@ async function main() {
     return;
   }
 
-  const summaryText = await requestDigest(articles);
-  await sendDigestToDiscord(dateKey, summaryText, articles.length);
-
-  console.log(`일일 동향 요약 전송 완료 (${dateKey}, 총 ${articles.length}건 기반)`);
+  try {
+    const summaryText = await withRetry(() => requestDigest(articles));
+    await withRetry(() => sendDigestToDiscord(dateKey, summaryText, articles.length));
+    console.log(`일일 동향 요약 전송 완료 (${dateKey}, 총 ${articles.length}건 기반)`);
+  } catch (err) {
+    // 오늘 동향 요약은 재시도까지 실패해도 다음 커밋 단계는 계속 진행되어야 한다.
+    console.warn(`일일 동향 요약 실패, 이번 실행은 건너뜁니다: ${err.message}`);
+  }
 }
 
 main().catch((err) => {

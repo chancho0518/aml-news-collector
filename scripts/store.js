@@ -51,6 +51,27 @@ function isDuplicateText(a, b) {
   return normalizeForCompare(a) === normalizeForCompare(b);
 }
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+// Gemini 503(과부하) 같은 일시적 오류를 몇 번 재시도한다. 계속 실패하면 마지막 에러를 그대로 던진다.
+async function withRetry(fn, { retries = 3, delayMs = 2000 } = {}) {
+  let lastError;
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    try {
+      return await fn();
+    } catch (err) {
+      lastError = err;
+      if (attempt < retries) {
+        console.warn(`재시도 ${attempt + 1}/${retries} (${err.message})`);
+        await sleep(delayMs);
+      }
+    }
+  }
+  throw lastError;
+}
+
 // 웹사이트가 "어떤 날짜 파일이 존재하는지" 알 수 있도록 목록을 갱신 (최신순 정렬)
 function updateManifest() {
   const files = fs
@@ -97,6 +118,7 @@ module.exports = {
   pruneIndex,
   articleId,
   isDuplicateText,
+  withRetry,
   appendToDailyFile,
   appendToLatestBatch,
   patchDailyFile,

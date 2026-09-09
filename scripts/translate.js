@@ -1,4 +1,4 @@
-const { LATEST_BATCH_PATH, loadJson, saveJson, patchDailyFile } = require('./store');
+const { LATEST_BATCH_PATH, loadJson, saveJson, patchDailyFile, withRetry } = require('./store');
 
 const API_KEY = process.env.GEMINI_API_KEY;
 const MODEL = process.env.GEMINI_MODEL || 'gemini-3.6-flash';
@@ -89,10 +89,15 @@ async function main() {
 
   const translationById = {};
   for (const batch of chunk(targets, CHUNK_SIZE)) {
-    const results = await translateChunk(batch);
-    for (const { index, titleKo, snippetKo } of results) {
-      const article = batch[index];
-      if (article) translationById[article.id] = { titleKo, snippetKo: snippetKo || '' };
+    try {
+      const results = await withRetry(() => translateChunk(batch));
+      for (const { index, titleKo, snippetKo } of results) {
+        const article = batch[index];
+        if (article) translationById[article.id] = { titleKo, snippetKo: snippetKo || '' };
+      }
+    } catch (err) {
+      // Gemini가 계속 실패해도(예: 503 과부하) 이 배치만 원문 그대로 남기고 계속 진행한다.
+      console.warn(`번역 실패, 이 배치는 원문 그대로 둡니다: ${err.message}`);
     }
   }
 
