@@ -349,5 +349,537 @@
       "titleKo": "미국 하원, 고(故) 그레이엄 상원의원이 지지했던 러시아 제재안 표결 예정 - WAOW",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "7303718d5a98ffdca8da537a8c0e86ba0f054ca9",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "코인원도 FIU 상대 행정소송…제재 거래소 3사 전부 소송전 - 한국경제",
+    "snippet": "",
+    "keywords": [
+      "FIU",
+      "제재"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lNnlEMnF2WXpkenpRR19qR3IxTFF0OFpGNjhRcWJ3eVdtdDRUdkZ3TFVOQ0lMVURvZC1oQWduREJlejNGMzF3SDdua0V1SWZkbTlwd09yWWl3QQ?oc=5",
+    "publishedAt": "2026-04-28T07:00:00.000Z",
+    "collectedAt": "2026-09-12T14:50:54.519Z"
+  },
+  {
+    "id": "10a6d94d63277ffd170e71963b7df73223f775e1",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "FIU, 특금법 위반 ‘코인원’에 영업일부정지 3월·대표 문책경고 - 조세일보",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51VVdKVU9XaHBUYWliMGNjTldLOFZoZ2xNWWhmd2paNUJCOHBVNEdUZ0F2amN2QXhjTnVpcTc4bEhLOER1UnJqbzk3QmhwODJDcUFiZ3lETFJPRkx2Wmxz?oc=5",
+    "publishedAt": "2026-04-14T07:00:00.000Z",
+    "collectedAt": "2026-09-12T14:50:54.519Z"
+  },
+  {
+    "id": "f1a06287313b0456685bfa8d628f734e4002fd0d",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "FIU, 해외거래소 입출금 규제 예고…'바이낸스와 거래 묶이나' 우려 - 디지털애셋",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zNFMyX1dsbG9YTjYtbmR2eUNIbUVDZkhpMEtRbmdaRk1jYWM1cFU1ME1NajAxUV8wOXZNNUZISXdDTmNuY1dvRE9YWGxzcjctaktaVFBDb2lZMjVzbDlJZ0ZuNDlhZHhWNWhpMnYwWnZnUQ?oc=5",
+    "publishedAt": "2026-04-10T07:00:00.000Z",
+    "collectedAt": "2026-09-12T14:50:54.519Z"
+  },
+  {
+    "id": "518a7794a541b2fb72220770e59eff7d1fb0a4e4",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Third Sector Awards: Best Small Charity Film – Misunderstood, AML Group for Tourettes Action - Third Sector",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVDVJMkYtZ2dNV01BVlMxYzNsUHA4ZWxldGJvMHR4aDBXb0ZOZDRJRTZLbFFKSjBUTFhBV3RXYXVaam5ONTlfYVVBUF9RRkRneE13U0hvdU53bHNHR2dRR1pyX2xaUDJyWG81amprekdhT0JtRzVJWWpTaklJMU1feXVIdE1FYm45cXFwZGRMVnd1ZFdfLXU5WlV5ZVduSmRuSUFwcEJhbjE1TXdibkttOGJfbDRiVTFjY253VjU4bEJQd2dIQXNWLVI4LWh3azlRVFpQV1F1OA?oc=5",
+    "publishedAt": "2026-09-11T17:56:17.000Z",
+    "collectedAt": "2026-09-12T14:50:54.454Z",
+    "translation": {
+      "titleKo": "서드 섹터 어워즈: 최고의 소규모 자선단체 영상 – 미스언더스투드, 뚜렛 증후군 액션을 위한 AML 그룹 - 서드 섹터",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "895e4907356aee2fe6e630d442e584c6b3ae0613",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Federal court vacates FinCEN real estate reporting rule obligations - McDermott Will & Schulte",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa2Zzb19NWV9QQXBVTE9INTJNNGVCaFdxT013aGVEcWZQV2M3YUNEY2xJRkl3V1VnV25OZkEzdnpwc2dvTzNmNFFWeENQVjRaWUNUZmNyWFB0dElmakdsY2dySE9zbk5tRS1MeFZzVG81Vk9zQjZJT1lraEJ2QnNxTUk4U0NIMjYyVkJ0czdkVzhTSzJVQ01LVkQ3a05ac2M1c3Q2VDJYRHQyUQ?oc=5",
+    "publishedAt": "2026-04-09T02:47:56.000Z",
+    "collectedAt": "2026-09-12T14:50:54.415Z",
+    "translation": {
+      "titleKo": "연방법원, FinCEN 부동산 보고 규칙 의무 파기 - 맥더못 윌 앤 슐테",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "82400088bfb66384b9b4f78620f9130fa69aba77",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit - The Hill",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZm0wNzBqOWdKV3ZtVGRoRkkya1c2ZVkxSjNkM3BScHY0NmE0R0t1RjVSR1lzRXI3dDhadHowNzBpNll4YVJ2SS15MlZzczFlNG83R2xEb1VmWWR0dlNESFh0TVA0V1R6ZmVTWUhOYnQ2RXA3X0pBeERoMEdla29NcHgwa1JUaklSd2JJZTFEWnZrYVgtUWVTdTVzME9tZ1hGR0puTjJnekhScHdTYlNybWI0T1NWSjVpSEw2eGFFY0llSHQ2bS1lZGNjWURnSnFISGRyYnJ5SnhDQdIB3wFBVV95cUxNVFN4Y0NGLU5zM0hZV2ZKNC11UnZpR0VrNldlR3RMY19xNEhMRUNBc1lUNzNaQS1PT2hLZ2phZGNoOXVpYUZ4UU9DOGNvWGQ1YXEyem96bHVLdDdDTW5VU0lUVWF4MHdrZFVvbWZfNUFBcW1BMjVxVmdFQk5BNWpCYzM5bDZQcDh0UHhGX3gwVzhyZlo1d2FFdEVaQjljYW9mM0VZSnM0UDRJbmduZmtmSFduTHlKT3Z3QkxTNGhYV1VPTVllTnVTYlBiMmMyN3JSR29RcHpVZzZQa0VqUHdB?oc=5",
+    "publishedAt": "2026-09-12T12:32:00.000Z",
+    "collectedAt": "2026-09-12T14:50:54.498Z",
+    "translation": {
+      "titleKo": "브릭스 정상들, 인도 정상회의서 중동 정세 우려 표명 및 일방적 제재 규탄 - 더 힐",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9ef38e7098ca0885cf5160216d767ad8257d8cb3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK sanctions on West Bank settlers are the right step | Letters - The Guardian",
+    "snippet": "UK sanctions on West Bank settlers are the right step | Letters The Guardian UK Sanctions Against Israeli Settlers Divide British Rabbis The New York Times On Israeli sanctions, Trump strikes an unusually restrained tone Politico",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2pzdjIzV1JZd28wekFHbGRWTTJjREFMZ1Q3UjY3bTNpbTgtbU5neGdIQ1AwSndKR0tscnpReVpacGg1QTAxSXMzUlVHZlpkS1JweXRmNWY2SHZ4OUd4NnE4aTVycWR3YmQxRDBmOE5sVkhyeFgxWjRNRWV0M2VWTkhIaWdxeTVyU3RQakhqZ0haMXRBUDViY0lzQl8zR1lN?oc=5",
+    "publishedAt": "2026-09-12T01:31:00.000Z",
+    "collectedAt": "2026-09-12T14:50:54.498Z",
+    "translation": {
+      "titleKo": "서안 지구 정착민에 대한 영국 제재는 올바른 조치 | 독자 편지 - 더 가디언",
+      "snippetKo": "서안 지구 정착민에 대한 영국 제재는 올바른 조치 | 독자 편지 더 가디언 이스라엘 정착민에 대한 영국의 제재가 영국 랍비들을 분열시키다 뉴욕 타임스 이스라엘 제재에 대해 트럼프는 이례적으로 자제하는 어조를 취하다 폴리티코"
+    }
+  },
+  {
+    "id": "e1f2ddf4ff727368bfb8734b90afa29199db4fa0",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury Grounds Iranian Airlines with Sanctions - The Presidential Prayer Team",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2JjOHZUdGJVTFZubERLYXl3WER5U0l2NW4teDhFdWk4WUpCWTBjVHdveTU2QmtSM1dpT1owdlpfd2g3dXl6Ym16cV9TWFJIaWJGVFBMNzNjX2JLNTVLeW0xT2VwbUlyMHlsWUdHUE03NFlvQUVEWV9jLVRmQWxrT1lyb3NNWmtDOGJlMUtiWkRqTWRjR3k2MXBpQ2Noc2I2?oc=5",
+    "publishedAt": "2026-09-12T09:00:00.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "재무부, 제재로 이란 항공사 운항 정지 - 더 프레지덴셜 프레이어 팀",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b459e09ccb0aadd8db7e96c1de9198adaffd0217",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Christian Charities, Bishops Team Up with British Government to Push Israel Sanctions - Middle East Forum",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTdOUVVZaDZMWnA2Z3NqcTc4c3FpcDNYQWdmQ0J2aFBmRTRqQ1JqNU5IcDR1YzNuMUR2RG1fWWFuSVpRNmduZFJIclh0M2cwY28tN1dUa2I3bkNTdERaa1pubGk3cnBwRGNXTUVIaUNCaHpyb2RtaHRqRFhDLV8xZVBYSW4tc2hybkY4Y2hPSlRLMUJPQWVobFo5WXdETkVGS3NPNVo4SUtvMGFsRE4yN2RVajFQcU1NVDBhTTdB?oc=5",
+    "publishedAt": "2026-09-12T11:31:44.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "기독교 자선단체와 주교들, 이스라엘 제재 추진 위해 영국 정부와 협력 - 미들 이스트 포럼",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "35e4e4844bf02e63ff4aad4c5d134be139f3c4fe",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Britain’s sanctions on Israeli settlements reveal hypocrisy of its ‘occupation’ policy - opinion - The Jerusalem Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96ZVJqZ2xPenQ5U2QzRklFNVJzTVVfdnBvaFhyX2FpSERpV2dLeWFmSmhHSXNncmc2ZWlXUkVUeENkRy1kWFJVcnJoZFZhY0dQZGM4dWI2SQ?oc=5",
+    "publishedAt": "2026-09-12T13:58:12.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "이스라엘 정착촌에 대한 영국의 제재는 '점령' 정책의 위선을 드러낸다 - 오피니언 - 예루살렘 포스트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "333d75657493bc465e8690ca0d63ade5ab3a2db2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Why Sanctions on Iraq Will Be Necessary to Force Iraqi Militia Disarmament - Middle East Forum",
+    "snippet": "",
+    "keywords": [
+      "sanctions",
+      "SAR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZl83TjM2dllnVWJJaVFzQ3FSZUExdlBOLVlBN1ItRTNPamZuTWV2YlJMSnRKRktWYzJySF84ZlZveTFER1Ayd3hwTER2Sm10VDlzNnhCaWVldm81eEh5VHBURVlrYmxLdEltYThmR0tTalQ5dHhZTmw0V1lYb1ZDekQyYkU5Z3EwbUd4NV85aGlWWG81U0xaWU41VDdOUHJjZzBuT3otMTFIZnFQbGU5Vw?oc=5",
+    "publishedAt": "2026-09-12T10:01:38.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "이라크 민병대의 무장 해제를 강제하기 위해 이라크에 대한 제재가 필요한 이유 - 미들 이스트 포럼",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f4cb5e57b55c710fe86abec7c8587afa93f1de08",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit - KTVN",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaEhybERqUUItY0RHMDBxMEZNZG1DN2lVcFlRMUxfRTBLZjVObktVbllEdEt2clYtUjlpQjJkRVB5LWxYT21BUEZLVzYzQXNFOHBpOHE1ZWtuLUpKZDFSaWlwTTlvaVRLc2M5X084eVZqRzk5ZXEzVUFsMUJHa1FjdC1qZmw2dnM2VC1mbzdGVml3Y0NnalFTUER5MXMxMXdNYmxXMGpjTS1LRmd0MVpkalFfOTdBVVY2MjZNMnh1YjkxMU9ERmowUUpJR1ZGRENXMzZZSzJBMzJ5Y2N4S29kc003cVZOdzdkQ0tLaldCOHNkYXZvS3BFd1ROS2x5cXRvRDJV?oc=5",
+    "publishedAt": "2026-09-12T12:32:27.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "브릭스 정상들, 인도 정상회의서 중동 정세 우려 표명 및 일방적 제재 규탄 - KTVN",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c581d071232653ea3c1f5db714acf8cc419a8fd8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Are the UK sanctions on Israel real progress, or more illusion? - mondoweiss.net",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMzNWV3QyU2pIeXA4N081dmF2MjBGMzhLdXZrekFvRjdyaWQtUkxyLU03TjVSLUNWZlhoMkEyWUJxWlhHeDJZZGZHZG9TMEN0QWc4cmdTRkVhYUJudVNqdHFRbnhFa2VhVjZkTHdvRTFKQUtMR2ZqRW04RzNuZGVUZm9UM0FieTU0LUU4aTYwSUFGWlF1Z3lzRg?oc=5",
+    "publishedAt": "2026-09-12T13:30:00.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "이스라엘에 대한 영국의 제재는 진정한 진전인가, 아니면 또 다른 환상인가? - mondoweiss.net",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6675463dc78c63c4f269f646316e892211f2ce37",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BRICS voices concern over Middle East, condemns unilateral sanctions at India summit - Ottumwa Courier",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZVFtckFYNm0zbEdhMDBPQVRudWN4b09PZ1BVLUFnVGxuNjNnR1lmaG1mTmJrMk1lQUlzWFNzNVdmRkNoVVVrd3ZOVF81cHhkZUF4TTN2U0Q1Tk5UcnBhNzRWY2Fpd2s5c2lrMHY4MkpJMG5pdWp1TmVVUDdBNmVYZldJNE9nemlSRUROSFNzc25mQnE1VVY2aHc5cG5NWUdUdHFYc1MxR2VwZEh4X2k4NndNUHFMYWp0dnE3M0luUVdsRUxwT1RRTHZMQnhzR2F5TEtOSHlGM0FYTTdMQzhWVXROSDlDLU5DYVc1SFZLSDcxaGFYN2ZTWmh5QnEyaFVZR2ZNdXRjbUJzR2FVTmpTVA?oc=5",
+    "publishedAt": "2026-09-12T12:23:04.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "브릭스, 인도 정상회의서 중동 정세 우려 표명 및 일방적 제재 규탄 - 오툼와 코리어",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0369fbe8d5c0885914b6dfb69b4055bf6b22ed66",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iranian president urges BRICS to establish permanent secretariat, resist unilateral sanctions - Anadolu Ajansı",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQampkNG5fbF9kZnhOU1hKTlEyTHh5ZTRqVGt1ZkQ2eWh1Zmx6ZGlLYnVuUXJTOXhRMU5NOFAzRkhvWDJsUGdhaGpQVjVlc09kWThJdEFrcWZ6N1M4WTQ1SkNQdVRhYU56TFo2NUwtdnpIbmlzVTlrcUtQN21lUkJiX1pNbkpWVWZZVG5UN2hnV2xZbHJQZmhpNUNkRUMxaWhwQkV5bC1YMGszY3ZaWWZhSzdxSWFaSGl0eTJtbllBVUJjaUQ5TWNrblRnYw?oc=5",
+    "publishedAt": "2026-09-12T10:56:37.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "이란 대통령, 브릭스에 상설 사무국 설립 및 일방적 제재에 대한 대응 촉구 - 아나돌루 통신",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3f15ca7323740179804c4adb2835deb70d74ad6f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit - mankatofreepress.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOZXpabG4wWklSYVFPaUFlakR1UWtTdy1Nb3RYR09HQ2pHX2YxLXA3aVJYSDZWc0xEZ0E2amUyamZnejZGWGpJRlNvX1czcU1QUHFzMFd3eXVTci1DSUtVQWRiYk44TzdCaWxqbEJBMlFLQlFkdEZYenBtaHZmS3hDTzVoVzcxWlUzbDN0SHBoUkZGNXBmc1UyRW95OW9Ld3RoLUV3cVVYQS1yV0tSUGNDY0dObmtOdTJ0WEhpN2NpTGJxQWExaWwyalJGbjVOT2NScnhmaEMyaTV5RzlkbnJxbXRpR0xodlMydGVfeDl4MllJY2FIX0ZxLWYzTjBFMWlHaWszVldncFRINE1zWE9iT2JSc1c?oc=5",
+    "publishedAt": "2026-09-12T12:24:41.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "브릭스 정상들, 인도 정상회의서 중동 정세 우려 표명 및 일방적 제재 규탄 - mankatofreepress.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "61603fecc7e7aa796d744c0c2b981af79fc2a8c4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BRICS Rejects Unilateral Sanctions, Demands Israeli Withdrawal from Lebanon - Palestine Chronicle",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGRrOHJGTHdJNWtMak8tckRwOEhWLWoxNHMteG5weWkwb25GbFdxMmlHX3F5dzhBMVhobmk2Z2pIMHNCM2J2bGRkNGNldG4xR3BELU45dGJrR0hhZGZCX29wVTFZY0J5Y3pEb1NINGtxa28wdGpxX1piQnEzeHc5NVFldWdJeFdMcEJqMmtFNXM4a1VpSEFUVTI4ZVBPNU5pSWdmUHJBWDNWNm4zVV8w?oc=5",
+    "publishedAt": "2026-09-12T14:22:46.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "브릭스, 일방적 제재 거부 및 이스라엘의 레바논 철수 요구 - 팔레스타인 크로니클",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8618bc67286564625790e96da16510c3ab66a302",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit - The Sun Chronicle",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQQ2I1NFRFTnhPZEp2ZFZ6R0FpLTVTdFJCdkx5VjVvSGNxNllqQ242RFBPVWhPZVpmckVfZ24yNGV5WkpHMFc2R1VmMXUxcWh3T2RGM3JjbW9ySXBkRmxBbHpvY09STk5KeEFGVFFjREQ4SUxMWWk0clZOLTlLeHNuZ2xYMUs4NGd0QlBxUVRVekNzRlJfS1ZrV0ZpdEdCNXFFYktlQ1FHQ2hNanUxZ0hHRU1ncG96ODNZMEU0aEI2ZWZXOThUYjlzQkxhaEd0Z3BiOWEtZnNxT3pqM1E5YWVTUmJsanpHbGtxdnlrY3ZlcTZTUUhtTGlIOEpPb2VrN0xQaGVJLV9hakVoelAwMFpTZG1hY2lLZmNp?oc=5",
+    "publishedAt": "2026-09-12T12:32:27.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "브릭스 정상들, 인도 정상회의서 중동 정세 우려 표명 및 일방적 제재 규탄 - 더 선 크로니클",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "88f866b1663f29534a5bd03b5bfce86e988c150c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU sanctions rollover stalls over Russian oligarch Usmanov as Paris backs Bratislava's demand to delist him - Euromaidan Press",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVDVablVyVjg2M1FYOFVUd0RXU2lqa0FHR284T1VOcXRtMnhvZ0VvdGdZT3FCOGpZdGZEanJ6T3lMSy0tZ0hSZklyUXRVYjJyU2NMbEJzeGRXLUFlNkRMeXRhZ2VoWGNlNktZUWpmN08xNkx3ZXRhalVmemxlQ1Z2V1owMjRJX0VrRUhDclhyVlJ4N0R2ZFBQWDJKdVFkVTdDUTFWd0lyM2xlVU9DS1ZwdEdyQVVua1dURE1nNHYxMFVnWG1UMkh0MkNZRllvY2VpT2ZVOHZWbERyVFZBaHl3?oc=5",
+    "publishedAt": "2026-09-12T10:07:07.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "파리가 우스마노프를 제재 대상에서 제외하라는 브라티슬라바의 요구를 지지함에 따라 러시아 올리가르히 우스마노프를 둘러싼 EU 제재 연장이 교착 상태에 빠지다 - 유로마이단 프레스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "58d7ff78f1fdf8ef4537a44143530e13fdda4ba2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "House tees up vote on Russia sanctions bill, but prospects for passage are uncertain - OurQuadCities",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNEczc3I0VzlCbjk1VzkwanQtWlNTTTkzR0NmTDdKbk45S0hzc3ZxNV9CVS1VWHNzcEtwdGZuX3RRSzRFd2syV00wNGJLMFRHY2RxY2Y5THlJRmZEUHBRY0k1Y0JmTURoOVF6Y0V1dGE4ZDdzUklHQXVqZy1yV25MSW5hM1lEak5zVWpZSTBXM2xrU29rU0YwMFVHOHZpc2gxWDR2NVU3d0R3QXJ3ZWdRVnpsazRkYVVZMVZNSGRIbTJ5ajc4OEN5Y1FyX3ZoeUNxVVZnMGszM1YwRjDSAeABQVVfeXFMUG93cTl5SDk3TWV5VFR2dEZ4ZG5VQ2JjOG5HWEd6eV9wQVg5ZUpuRk9WTUdJYzE5TzhtOGFTbE1JVFhNdmtfNURqNzdjZ2Z0a0dZMG1JREVFWGo2RWd6RVlYSEFsM1hza2ZPMmZLMlk2cTFBS3hDeTdqUWNXSVA2cFBVX3NYMmF5WEtNRXJUZ3pkczFXQURLa3F4MXp0WEdvS0JHVzcxakhYZjVqb0szNHFnM0RESzk3b1hzTVlJRkRMTkhjdUs2QldYVHV5Q0lhODdKNDctdzBpSFZoSWYyUTc?oc=5",
+    "publishedAt": "2026-09-11T20:20:52.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "하원, 러시아 제재 법안 표결 준비 완료했으나 통과 전망은 불투명 - OurQuadCities",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4f8af493bf49692f7be18913465d1a93d78d1ff2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "British firms that implement Israel sanctions to be named and shamed in US - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVXlVbHowem0zWHc3N1U0dWxITlBrcEtaUGV5TTRtYVRQdE1KcUxaeENHOUV2a2tBSExzRnhuMG94RThOdTlLNmprck4xUTlkQTFQTEhTdzJ4Vklsd05tTjItcGR5TENJUWNtdThjTjRiY1l6NExfTW1PUF9ZdUdQZjZpVWV5RGkwS1Vabl9yV20yTE5ZWGNQTmc1TEh4aHNHU3c?oc=5",
+    "publishedAt": "2026-09-12T08:14:14.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "이스라엘 제재를 시행하는 영국 기업들, 미국에서 명단 공개 및 공개 비난 대상 될 예정 - 야후",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9f1d5b2babe97092eeb200dfd2e58aca9514a06c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sibiga called for tougher sanctions against Russia's military-industrial complex following the attack on the Odesa region - UA.NEWS",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLXNWTkVuSHEzTGwzSDNUS3NHTUxZbHUwU1VpOWZVODNMOTc1alRkdU9xYkUwQ052TW11Y2xKQlFRVUhTUlVLd2h3a2dhNmgxY0tPM1B4Wk9xUXhsVVpVa3Y5TnltUlBYb3R4ZVhBeHJNNnhKVS1oREhWaGl4N0ZPVHlrdUNhbnRqWFhhNHEyNUxOSFRPek5GMUFjYU1UdVF4NFBHdXRfN2xlTWM?oc=5",
+    "publishedAt": "2026-09-12T14:00:16.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "시비하, 오데사 지역 공격 이후 러시아 군수산업체에 대한 제재 강화 촉구 - UA.NEWS",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a2539b79df5c243560f8f3f4d38241995befa134",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US slaps new sanctions on networks aiding Iran’s proxies in Middle East - The Times of Israel",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQck93NExtVHpKS1dZTXliSFZuNnRPT3lkb01fOWxxcFZtYVVaZmVxTGRFd3RZYUZfbWpuajdyel9XY3U1eERIQzVuUU9qRXJidmY5N2ZicWVmMlU3YjBhb1VIUjJhOWFJMzlDSzdQS1VFSGxfTnB3cTN1cDFvbzlERmtxSVQ5VGF1TWZYRDBwUTZRQURPbUtEcDZnWExFU0FsYklz0gGoAUFVX3lxTFBVdFIta1lqTl9CbjJNeFBGRm1haDlEczQ4RGY1MW9hLXlVdTV1Tmo0MWxFTkw3RWZULTZ0dDVyV25Ncm94VnNzM3prUG5INHQ2c0szY0M5ZmdsNHh2UnRqTm1xQUdYZXBORnhCSkMtQUNNODNXWmhOU09hLURnbDh6RXVQX3lITUJLcFNaVXI5YlowWmEzanpralNGb0hkMURGcHFNYlRrTA?oc=5",
+    "publishedAt": "2026-09-11T01:57:00.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "미국, 중동 내 이란 대리 세력을 지원하는 네트워크에 새로운 제재 부과 - 더 타임스 오브 이스라엘",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "afd582209f31016cc052e47f2e7cc7aee774a29a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BRICS voices concern over Middle East, condemns unilateral sanctions at India summit - Herald Bulletin",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPcTNuSExZQW5fa0lCaWtCSDVSVDZyNllNWmtpRDF4QWVEUk4wMUV6ZnNvXzd2Y25rWmt2VFBHRnk1eW5DYTdFQ2VKd3Jfd0wxYUpJQTJHTURGNHc4Uy1FSnktYkJPc0NqOHdmZ2xpTjdzUFUyZkFSVnozWExSMWN0OUZHVHFYSlV6NmtycGhmUEdodm1rVnE0Yk1IWDg3N2EtY1lLTkpXVEtwa3EzdWcxdmR4OUdUQ2dFellGX3hfY3FLVmlRZ2xTRUJIR0p4TWpaQTJtaml4bGluZTE4cTVhcVc4cVBmRHV0TlZpQTBrMlFOUDRRdkV1NFRlM2Q0N0RxU3Rnc2FZRnd6NDMxeHdz?oc=5",
+    "publishedAt": "2026-09-12T12:23:04.000Z",
+    "collectedAt": "2026-09-12T14:50:54.499Z",
+    "translation": {
+      "titleKo": "브릭스, 인도 정상회의서 중동 정세 우려 표명 및 일방적 제재 규탄 - 헤럴드 불레틴",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ca1798b214f231a2bcf904df905a8bf43b3ae52b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UN Security Council approves technical rollover of Sudan sanctions - 巴士的報",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjNVM05iNlVYQlJHeTVEbjdVazRIRGRIRmdtcEQ5am5VNjZ1dmItYXI5NDM4TWQtcElScTQzbGdhUlZlaERjNDBod1JrTjQ2UTFwaGxfdng0dzJvNnVsNXNNZzJ3LW5ETHRqczFUem94ajhka0g0N0pjODZHRmtYN0YyOHk5QWdfMXFHR3Noc2JMbEJkalRvb0J2dTJ1SG9PbWpmeW5iTDJCVlJjaERMXzVEd1Btb2ZwWkE?oc=5",
+    "publishedAt": "2026-09-12T12:27:05.000Z",
+    "collectedAt": "2026-09-12T14:50:54.500Z",
+    "translation": {
+      "titleKo": "유엔 안보리, 수단 제재의 기술적 연장 승인 - 바스디 포",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fb8f7f9f2f8d341c3827797f77190598376a6b02",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Will Lindsey Graham Sanctions Bill Disturb Putin’s Russia? - The Diplomatic Insight",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmhhTkJaLXJrX0plYUFsWXVhdVpockhqRkpneFk4R2hCWDBCTllzejEzUHdyT2h2WVVzN1EyTHIwUDY4WkZ1dkd1b1JsSTlKYTM0WVAxT3o2RU5KMExjS19QLXFMQzZpeE8tcnl3czhjSWxkYVNJUUxVcVlSb3p3YmhhcDN6YjYxOEpN?oc=5",
+    "publishedAt": "2026-09-12T10:13:29.000Z",
+    "collectedAt": "2026-09-12T14:50:54.500Z",
+    "translation": {
+      "titleKo": "린지 그레이엄의 제재 법안이 푸틴의 러시아를 흔들 것인가? - 더 디플로매틱 인사이트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d4fc504b74168185cc0f0067ba46dbbc31f21a23",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Conrad Black: The moral bankruptcy of Carney's Israel sanctions - National Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaDB0dzJiRFlyQVlpb3AyWmZDWHNGYVRiSm1ocDVtOElQYnpNWF9iQlAwY0hiS3Nxajh3YmMxMFpoLVB6OU5SbExXS0pMdG5RZ24zd1RuODdIQmZIS3gyN3otVy1SZV9CT2lMMlY0ZFFkSW5xaWlnMnNpM3JRdFJiVTFXZVBUZ0JleElDSjFWNWFOT3Z0Q0xzT3FB?oc=5",
+    "publishedAt": "2026-09-12T10:12:53.000Z",
+    "collectedAt": "2026-09-12T14:50:54.500Z",
+    "translation": {
+      "titleKo": "콘래드 블랙: 카니의 이스라엘 제재가 보여주는 도덕적 파탄 - 내셔널 포스트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "44e26452909b2296c57fdf7a154ae2ad7cff0864",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US House to Vote on Russia Sanctions Bill Next Week - mb.ntd.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNai1BMTBtTVFOMTM3ZlMxbzVlSUQ2MlJtOXd3c2tCdXFPSFo2ZHFpZzRPSVd5d1VaLWxJOEp6OXVxU2trQ0FhRC1PTWRpZ2RGX2NtYjlZN0FKWnJSSVNjQWx0TmFVWTQxaUl2dWRicm9jQS1WSHEyQ1Zpb2doMmIwMVRIdVpkWnQwVU00?oc=5",
+    "publishedAt": "2026-09-12T14:19:58.000Z",
+    "collectedAt": "2026-09-12T14:50:54.500Z",
+    "translation": {
+      "titleKo": "미 하원, 다음 주 러시아 제재 법안 표결 예정 - mb.ntd.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5f3901274efb3668c743a43f4beee85a5672c50f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BRICS calls for end to Cuba sanctions - Breakingthenews.net",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOGxqU3hhRmE1eEN5dDhwUFUwMXFWRlVoN3p6UjlsSmxOWnk1dHVDc011eWoxRmk2WkozcDd2LUFiZnNPVmdCSzhidXlXTVJWRnBLYWJjMU1KajhpcVh1ZFdiYlI4eDJDc0U0aGppM1ZYRF9MSDNBWUJmYjZMbC0zQW1LZ0piV25RQ0E?oc=5",
+    "publishedAt": "2026-09-12T12:32:00.000Z",
+    "collectedAt": "2026-09-12T14:50:54.500Z",
+    "translation": {
+      "titleKo": "브릭스, 쿠바 제재 중단 촉구 - Breakingthenews.net",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e9436eae29ce9d68ee3cb64d5d9b06c67319fe8e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Rabbi condemns Labour’s Israel sanctions - The Telegraph",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYzRGTnFacUlLdGxKMS0tdG9GSGE4el9tQm9mRWx6THp2SU9ZUGpLbDZRenlBdjhRUHgwV3ZWR203a1FDUldhVXJJYkhMblFXR2h1ZWxxcTI0X3lsSjlTWkdILVhsOGNCZTZrUnA0eUhNeVNPUEVadnVzTGgza1pqZkZycmpKS2tXaVY4?oc=5",
+    "publishedAt": "2026-09-12T12:33:00.000Z",
+    "collectedAt": "2026-09-12T14:50:54.500Z",
+    "translation": {
+      "titleKo": "랍비, 노동당의 이스라엘 제재 규탄 - 더 테레그래프",
+      "snippetKo": ""
+    }
   }
 ]
