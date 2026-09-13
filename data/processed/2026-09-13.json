@@ -140,5 +140,254 @@
       "titleKo": "U.A.E., 미국의 대이란 제재의 일환으로 이집트 은행 검토 - 더 뉴욕 타임스",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "ac782445b51ddfc561c31b969774d22690639360",
+    "source": "파이낸셜뉴스 증권",
+    "category": "domestic",
+    "lang": "ko",
+    "title": "금융위 \"역외 스테이블코인으로 상품권 구매, 자금세탁 위험\"",
+    "snippet": "[파이낸셜뉴스] 금융당국이 역외에서 발행된 스테이블코인으로 국내 상품권을 구매할 수 있도록 한 신종 서비스를 예의주시하고 있다. 이런 서비스가 자금세탁 등에 악용될 우려가 있다고 보고 사실관계를 파악 중이다. 13일 더불어민주당 박상혁 의원이 제출받은 자료에 따르면 금융위원회 산하 금융정보분석원(FIU)은 금융감독원과 함께 이 같은 서비스들을 다각도로 파악하고 있다. 블록체인 기업인 아이큐(IQ)는 쇼핑몰을 개설하고 올리브영, 다이소 등 국내 소매점에서 사용할 수 있는 모바일 상품권을 판매하면서 결제는 자사가 발행한 가상자산(코인)",
+    "keywords": [
+      "자금세탁",
+      "금융정보분석원",
+      "FIU"
+    ],
+    "link": "https://www.fnnews.com/news/202609131334387299",
+    "publishedAt": "2026-09-13T05:27:38.000Z",
+    "collectedAt": "2026-09-13T08:42:25.478Z"
+  },
+  {
+    "id": "64364b1da649aaca69d42ee5c6feec7bb4eba085",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융위 \"역외 스테이블코인으로 상품권 구매, 자금세탁 위험\" - v.daum.net",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HLWFHb2ZLLVpyVl91SnVPeW9XckZveUFBZEpySDJfaU5MUkNPZkc5bi03WDdUUjN5bFhtNEQtMi1ONlpsRldYdnExNkdtajQ?oc=5",
+    "publishedAt": "2026-09-13T05:29:00.000Z",
+    "collectedAt": "2026-09-13T08:42:26.180Z"
+  },
+  {
+    "id": "b7a43dcbc586c941973fe465c606bfb0f96b713a",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융위, “KRWQ 상품권 서비스는 자금세탁 소지” - 서울경제",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93Y1BOeHMteFNMbGJ0Q1BUNGRPLXlYRWIwSi00QVZiM1p0bnJZcVlrc1JTdEh2RUVkMHQ4OFVFMVh1VDJrNW9ja3FWSW5xM0JWV1HSAVNBVV95cUxPdzhQSHZFN1Y5ZDE2SmVWNGZ6V3BLallEWDNNOG5DTWxHbWlnZVJ1VktmR1lkc01TNS0wbWdwbldOVU5XSGdGbm1ESUt5MmFOUlZubw?oc=5",
+    "publishedAt": "2026-09-13T06:58:50.000Z",
+    "collectedAt": "2026-09-13T08:42:26.180Z"
+  },
+  {
+    "id": "7f7bf41511f410b1b6d20839c12213f4a95f5c44",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "FIU, 금융권 자금세탁방지 강화…비은행권 전담조직 확대·AI 활용 - v.daum.net",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1relhOSVc5a1BWR1dmOFhLcGc4WUxLdGc4dzJZQkdlOGRkZnBCYjJ2OVhnZ05mSXVRZlRoU3pieElqbFhzbmc?oc=5",
+    "publishedAt": "2026-08-27T07:00:00.000Z",
+    "collectedAt": "2026-09-13T08:42:26.180Z"
+  },
+  {
+    "id": "64364b1da649aaca69d42ee5c6feec7bb4eba085",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융위 \"역외 스테이블코인으로 상품권 구매, 자금세탁 위험\" - v.daum.net",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HLWFHb2ZLLVpyVl91SnVPeW9XckZveUFBZEpySDJfaU5MUkNPZkc5bi03WDdUUjN5bFhtNEQtMi1ONlpsRldYdnExNkdtajQ?oc=5",
+    "publishedAt": "2026-09-13T05:29:00.000Z",
+    "collectedAt": "2026-09-13T08:42:26.209Z"
+  },
+  {
+    "id": "b7a43dcbc586c941973fe465c606bfb0f96b713a",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융위, “KRWQ 상품권 서비스는 자금세탁 소지” - 서울경제",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93Y1BOeHMteFNMbGJ0Q1BUNGRPLXlYRWIwSi00QVZiM1p0bnJZcVlrc1JTdEh2RUVkMHQ4OFVFMVh1VDJrNW9ja3FWSW5xM0JWV1HSAVNBVV95cUxPdzhQSHZFN1Y5ZDE2SmVWNGZ6V3BLallEWDNNOG5DTWxHbWlnZVJ1VktmR1lkc01TNS0wbWdwbldOVU5XSGdGbm1ESUt5MmFOUlZubw?oc=5",
+    "publishedAt": "2026-09-13T06:58:50.000Z",
+    "collectedAt": "2026-09-13T08:42:26.209Z"
+  },
+  {
+    "id": "b58fb8bb173da01ad4ec0d33073c818fabe3d6d4",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Engaging the immune system in AML: A new frontier in the pursuit of durable outcomes - Ipsen",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNGRiNThvUVBUT19wRHpkenpOQVF5cjBEalNJaUI2U3FncTNyVVdXeVpWa0lMWnkycC1pbVpJclNrdHVYQWozSWhkT2hkNUljc0lJNkYyVzh3LUdFOGRfOEtoSk5HSS1UTGVJVjN1WE01Z0VPaUgzd3dfMVdoc3doamo5NGpJa2xXMmhiTE5pc2lRSy1xa2dtS2lYb0VndDdpWmdwS2FlbzZNdXVWZ0NBZmNvaUF6cUYzRkFPVGlXbw?oc=5",
+    "publishedAt": "2026-06-12T07:00:00.000Z",
+    "collectedAt": "2026-09-13T08:42:26.203Z",
+    "translation": {
+      "titleKo": "AML에서 면역 체계 활용: 지속적인 결과 추구의 새로운 지평 - Ipsen",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "73c977c7acdeb1b63fc248831edbc9b6c4af72a2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit - New Castle News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQWUNUTlhzT21GNENvZVppNUZvSUN2RURPNHRoakVWVmoxMXQ1ekpIMVJLQ1BVVXRmdFBXT0NXNmh3LWZUMWdBY2tVRy1UdXc0aE5HMjRfclBFRks3UVpxUjNiNUU0di0tdnRMcWFUYXBZampoTTRONi1SRnNQRGdRTHpXQ0xPZ2tnUXJXcGxlN1VuRHlSZmplRklUVFozc0p0X29XNDBtZ1l1M2Z0R1FCeWJGQU1XN2ZqZHAyUGJQMm1Ec09Iay1uTjJpa1FjLUlVb25aYlJPalJ5MXp5NE84UUpXSEw3SHNWUHk1TWpoUEllTjgxMlhJdGR4VDl6VDkzNEJyODQxYml4WU9rWGFz?oc=5",
+    "publishedAt": "2026-09-13T00:46:42.000Z",
+    "collectedAt": "2026-09-13T08:42:26.156Z",
+    "translation": {
+      "titleKo": "BRICS 정상들, 중동 상황에 우려 표명 및 인도 정상회의에서 일방적 제재 규탄 - 뉴캐슬 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e5045db4259da310a9f4c41fbe86fdca365cc73d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pezeshkian warns against unilateral sanctions at BRICS summit - Mehr News Agency",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVlNpUGE0Z3FueGVzakZJcjJwWFpDMF8wLVNfTmpFa1RhVWExdWZfUF81ZmJMUnIzUEpmSV9vVEtWSDFWekQ4RWpjaTFUNTlUbzB5aTRTOGFfeUNmN0w3RWZOZ29SQUZYNjFleThyS3Q5NHF6b2JhM1NhQ0FWcklSQnRJUE5tNFFyc2tUbGwteTlmZW9jZ3NLbjAyNjJZZw?oc=5",
+    "publishedAt": "2026-09-13T07:38:00.000Z",
+    "collectedAt": "2026-09-13T08:42:26.156Z",
+    "translation": {
+      "titleKo": "페제시키안, BRICS 정상회의에서 일방적 제재에 대해 경고 - 메흐르 통신",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "edfb75b99e03ad5424701f38b80e31d126d807b2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "France Backs Slovakia’s Bid to Remove Alisher Usmanov From EU Sanctions - Межа. Новини України.",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Wd0FFYXVXZERDYV9fUmdxbk1BUDB0TEdWRW04MzhjbDI3empvV2k5MnNUc0FnLUVVUXBNeE56OVltVHp1d215QXRDR2ppWnNjd1NtU3V6enJLa1ZubEpPd1pzbWR4dllvUUNxQUtWSlhSdw?oc=5",
+    "publishedAt": "2026-09-12T18:24:34.000Z",
+    "collectedAt": "2026-09-13T08:42:26.156Z",
+    "translation": {
+      "titleKo": "프랑스, 알리셰르 우스마노프를 EU 제재에서 제외하려는 슬로바키아의 시도 지지 - 메자. 우크라이나 뉴스.",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b20da92ff18c17647aeb84ca17e40273070723ae",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BRICS calls for de-escalation in Middle East, opposes unilateral sanctions - Pajhwok Afghan News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQlNxYU43di0ybFJwUnV0MzltQjVOSTloeEdzYnBkaHBCbDdLamp1aWQ1Z3Faa280emZfcEQ1c0pyTE5DeFZjUzZhZ1RzTVdsd1B1b2xjTmFzM0dEc1BESFlrc1RxdmpZb3c3cDMtdDRpRk4zYTM3WU5jcm1FN2c1UDlLYlRtajQ2WHlYRUNXLVpGanI5U0J1NWFteFJrZVhLcTh2djFmeGk?oc=5",
+    "publishedAt": "2026-09-13T04:51:56.000Z",
+    "collectedAt": "2026-09-13T08:42:26.156Z",
+    "translation": {
+      "titleKo": "BRICS, 중동의 긴장 완화 촉구 및 일방적 제재 반대 - 파주워크 아프간 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7d28557d1c8370e4c160a3ead091bc7d1a6c1eb5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit - The Korea Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUTVnNWlxT0RHXzVnTS03c3RCb3JzRVFEeDBqb05RWEdua0U1aHpGbHB5UXNxSjZkRFVCa3NDTlJDaTc1M3hMWUNFeHpvOGp4elczX3NxeHBnZXA5aHJ2MVZRLVZrdVJfa0o0eXlzRWNUMmNZNkI3dGVNanRDNzlQcXZQaV9VM3VVSThaaC1HMWZPUXNIMVlIWl9XSHh2THNVNEdCZ2duUU5ybEMxMjJaLWtGeThZM2ZISXBxWjEwYUl4ZVY4UzJxVm44d0JBd9IB0wFBVV95cUxPSDlkZkEwd3o4T21FWHM4S3FsTm02ZERVVVFUa19Md0IydmN4SkxvR255aFZCYTl4YzhRb0ZscUxaTUpzOTEzbjMtdzdmNjcxd3o2Wl9PNHRxVGZsZXdsNXFQS29sVmdFVUtldU45b0hVVGtNTTBSajB0emp6bTRoelFCOGkySXdUaUt1cGRhTHdKbWd2RW4yN3Y5YXdUdUhROUV5bk9acXpzSmw3WHpXX0xTQS1FZTZNWktuZTdReTFzc1daZmV1T3YzbW1DZFpfNmFr?oc=5",
+    "publishedAt": "2026-09-13T06:35:03.000Z",
+    "collectedAt": "2026-09-13T08:42:26.157Z",
+    "translation": {
+      "titleKo": "BRICS 정상들, 중동 상황에 우려 표명 및 인도 정상회의에서 일방적 제재 규탄 - 코리아타임스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7c588d11911df6e9a8152155f4cb8514f635458f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Oil prices fall as U.S. rolls out global sanctions focused on Iran - CNBC",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmM1OWVNT01lQlNPWmo3Zk1RM1UtdE5HcXNBTHEtRFNNZS14b0prb2xkc1A3ZHNKY3pvR3dxcE5COWlFakFUSWM1SW5ldjhEYjNEY1Q5eUF6SEtXV1FYNGs4UzE5ajRBTGJpaG1scm9mOVZENzdVTUxVQ0RCTWNLaHcyZjFIQk3SAYwBQVVfeXFMTU9JYUFXTl91WGZhNXhua1hCZTF4ME5nc2hHRGVBVDJXYTVBMXlOLURJTG8teFdKRnhSTC1NdkVIM0FYU2xObWpPa2RMTEg5eS1vTHR4dmZuVkF5bUtLWmlDUHRXenQ5dVJ4QXZFODZKM3oyUlpraTJneVpGLUlyMFRYUEZKQTJTYVlTNEY?oc=5",
+    "publishedAt": "2026-08-25T07:00:00.000Z",
+    "collectedAt": "2026-09-13T08:42:26.157Z",
+    "translation": {
+      "titleKo": "미국이 이란에 초점을 맞춘 글로벌 제재를 발표함에 따라 유가 하락 - CNBC",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "85b2e655a503cdddb369891869cca098d88bc12c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "When trade sanctions increase the target’s trade - CEPR",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOa3kwV21XNko3TlV6eWhNS2ZsMmJ0NkQwMkJ5M2VXcjVZWHdoazdFNjdQN29YXy1tZ2xvdHJOU3NCNTlYazNiQmlmdmJCcC03WndrVUdVWFluZW85SUZLelJ3RFlHWW0tZXRuNU8ySGJhWmsxTVdDcG5GY2NkTUU?oc=5",
+    "publishedAt": "2026-08-25T07:00:00.000Z",
+    "collectedAt": "2026-09-13T08:42:26.157Z",
+    "translation": {
+      "titleKo": "무역 제재가 대상국의 무역을 증가시킬 때 - CEPR",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "99c2b650cbd909da00642ea916d0dd88668124ef",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US threatens toughest sanctions yet against Iran: What we know - Al Jazeera",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORXpKN3hfZGJqR05JX3RKRUtiLXFNX0ZWVFpPRWwtR2tsLXdZYTdyVjJHNU9YWmxvcS1jbFl2S29DNy04STdMdGlrUVlGeE53MGhuNndObjQ2RnZvcXlOeVNldjBOX3ZBRW1saG5ienVIRXREM09fcDlHb3J3eTNaaVVzb0pubm94cnZkaWl3S2FGUGE4T1JYRnIwUTBNeGo5eVV3d9IBqgFBVV95cUxNc1RHUlpWRGVXdHcwNXVPQkZQaFoxc3RkVFVIM1ZDc08xZm1oMXhhSEVXNEhVZDRfczVpWTVSLXFraDBENWdZbk9rUEY5Y0VPdWdXdUVUWmJ6S2haLW9iX2d3R3FIVTg5OW5nV19reXRZc1I0NkVmUk1hM2J2ZV91a0F0VTVZRC0zUnBaczQ0MFRUOW82cHozcC1RcThDVjdsd3Q5NVdQdDBuUQ?oc=5",
+    "publishedAt": "2026-08-24T07:00:00.000Z",
+    "collectedAt": "2026-09-13T08:42:26.157Z",
+    "translation": {
+      "titleKo": "미국, 이란에 대해 역대 가장 강력한 제재 위협: 우리가 알고 있는 내용 - 알자지라",
+      "snippetKo": ""
+    }
   }
 ]
