@@ -1361,5 +1361,961 @@
       "titleKo": "EU, 만료 하루 전 대러시아 제재 연장에 합의하지 못함 - Українські Національні Новини (УНН)",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "9ea466bf47cc265f38794ab8147c6645d481a17c",
+    "source": "ICIJ",
+    "category": "investigative",
+    "lang": "en",
+    "title": "Chinese banking giant serves firms linked to oligarchs and autocrats to push Beijing’s agenda",
+    "snippet": "Confidential records reveal how the Industrial and Commercial Bank of China’s London units courted high-risk clients to secure resources and alliances for Xi Jinping’s regime.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.icij.org/investigations/china-capital/china-banking-icbc-oligarchs-sanctions-london/",
+    "publishedAt": "2026-09-14T21:41:45.000Z",
+    "collectedAt": "2026-09-14T22:55:40.884Z",
+    "translation": {
+      "titleKo": "중국 거대 은행, 베이징의 아젠다를 추진하기 위해 과두제 거두 및 독재자와 연계된 기업들에 서비스 제공",
+      "snippetKo": "기밀 기록에 따르면 중국공상은행의 런던 지사들이 시진핑 정권을 위한 자원과 동맹을 확보하기 위해 고위험 고객 구애에 어떻게 나섰는지 드러났다."
+    }
+  },
+  {
+    "id": "ef0f8cd1a48219f2946b76f99fdaec7112965a94",
+    "source": "ICIJ",
+    "category": "investigative",
+    "lang": "en",
+    "title": "Frequently asked questions about the China Capital investigation",
+    "snippet": "How does the Industrial and Commercial Bank of China operate? What did ICIJ uncover in millions of confidential bank records? These questions and more, answered.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.icij.org/investigations/china-capital/faqs-icbc-china-capital-bank/",
+    "publishedAt": "2026-09-14T21:40:36.000Z",
+    "collectedAt": "2026-09-14T22:55:40.884Z",
+    "translation": {
+      "titleKo": "차이나 캐피털 조사에 대해 자주 묻는 질문",
+      "snippetKo": "중국공상은행은 어떻게 운영되는가? ICIJ는 수백만 건의 기밀 은행 기록에서 무엇을 밝혀냈는가? 이 질문들과 그 이상의 것들에 답한다."
+    }
+  },
+  {
+    "id": "f8e6eaebf34cca38d42a379d7ecab461ca8e5dee",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "'20억원대 주식리딩방 자금세탁책' 30대 외국인 실형 - 연합뉴스",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JTkxpY2tLSXNhWVQzcHlkRWI5NTRkS1VzRnFRaVo1OGROVG5ycm9ORElHV1R0b3d4cEpoSWdWZm1mTUtQaGpEM1o4M284WGZRVm5BUlZmRFg2aGvSAWBBVV95cUxOalpHUlN2dnFUY1JWU2JIaWI2QWhtMzk5SmRNQmljb3BKM2NzN04wTFUweGhRS1JKNHk1TnAwQjBncUQ3ZzBxaTlUb3dVYVFsQWEyZHpjeHN4ZWROZ1dacXc?oc=5",
+    "publishedAt": "2026-09-14T05:05:40.000Z",
+    "collectedAt": "2026-09-14T22:55:41.412Z"
+  },
+  {
+    "id": "d732434f7ec6456a919ef4bef609aaf69c8a454b",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "3 Trials Advancing Treatment Options for AML and MDS - Cure Today",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3hiSnlpVmJlYmZJZ2JMeU1LUk5fUUZQb1ZSS0R2cVVVcDc2Y2hzaHdnNGhwUzlCeFJvMkM5TWlEczhUd1pQUjVocmVfZEpJMGluM2FLS3lYMEwyaVZET0RYeGZta21SeFAyWUdXX1VOcFp5TmxucmUyOG0zU3ZIa3pUZlNneUNFaXZV?oc=5",
+    "publishedAt": "2026-09-14T19:52:24.000Z",
+    "collectedAt": "2026-09-14T22:55:41.403Z",
+    "translation": {
+      "titleKo": "AML 및 MDS 치료 옵션을 진전시키는 3가지 임상시험 - 큐어 투데이",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "634557dc8142f5b1ed3e4df97dbc5db652b7a5a0",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UW Works with Wyoming DEQ-AML, UR Energy on Soil Reclamation Project Using Coal Char - University of Wyoming",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcGdtU2p3R1ZKNlgwaGg2TFlyVnlhbDJoSDlqdmVaVm81NU8yZEZQbm5JN3BFXy1aSTFEeS1NLW5MMzZ0QVdqdV9YenpOal8zN0kzamYtZ0wtNW5LMk14bnBxazFLdjdBVV83Skp0c2dCcjdzMkxsSFV4bnY2RXRIdjdwWE5HUGZIZ0dLa2dZT2Rka2RHQnZkTTBBTkZGekFzVVp6RFhYSGZNUmFqY0FwVHViZWpNYXJVZjRuUm8wTQ?oc=5",
+    "publishedAt": "2026-09-14T17:47:07.000Z",
+    "collectedAt": "2026-09-14T22:55:41.403Z",
+    "translation": {
+      "titleKo": "와이오밍 대학교, 석탄 차를 이용한 토양 복원 프로젝트에서 와이오밍 DEQ-AML 및 UR 에너지와 협력 - 와이오밍 대학교",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "81c457560682f9da5f5f501cff94ffdad78a0290",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "dLocal Partners with Oscilar to Further Optimize AML and Compliance for the Next Era of Cross-Border Payments - Business Wire",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTndBNlRJUUJzRTlPanFWRll4NHBJUl9XcmlIeUVBbkxnSW5nOGFNQ2FFZXVjbWtaOV8wUlZHUG5GSUstbWxhSWhVbXNwOHl0TGZhVXJmM0RmUGEyaTh3UDJ0N3cxa2R2cWpfaGhvZDNVdkF1VktWRFNzdy1GMXFGcW1wbldFejZNTnRhNk1Lb3VyWnBfOVgzN3lBejV5aFVFaUsteno2SVdVVUFWNEN2Z0JZclFtNXNnYnQtTHNHYVN5eXFFTmx1bXFCSjVWekI2TG95emxJZzRhdHAyaTQyS0VSN0hnQmM0OVNndHNpR0VMRFBZeFRfTjRn?oc=5",
+    "publishedAt": "2026-09-14T20:37:00.000Z",
+    "collectedAt": "2026-09-14T22:55:41.403Z",
+    "translation": {
+      "titleKo": "dLocal, 차세대 국경 간 결제를 위한 자금세탁방지(AML) 및 컴플라이언스를 더욱 최적화하기 위해 Oscilar와 파트너십 체결 - 비즈니스 와이어",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e5d0f1a8b236a180d978e24332cf3abb04a6ad29",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Preparing for July 2027: Geographic risk assessment under the EU AML framework - taxjustice.net",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVVFlNkVfUDJfaDc1REtkYXRVNFVLYVhlaXIyRlNwc0hCUW5QczlCQ3hDTGZFcnFOOG9XNjUzWDhoOUZCd2s2dndqMmV2R0dteGtIblJxTDhDajl3aGVNMENkeVpWVnNBMjJhX19vTV9najdpVWQ0LXNjMGJnUldQb1VoMHlvYzJVYnl5S1RfaGZ2dlo3NVUtaU94eTEyMTNxWGIxVWQtQzhjRldv?oc=5",
+    "publishedAt": "2026-09-14T14:21:44.000Z",
+    "collectedAt": "2026-09-14T22:55:41.403Z",
+    "translation": {
+      "titleKo": "2027년 7월 대비: EU 자금세탁방지(AML) 프레임워크에 따른 지리적 위험 평가 - taxjustice.net",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fabb516e3166b7edc7e514fa1390395e35add46e",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AI And AML: Governance Plays Critical Role In Innovation - Law360",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlRlc0o3Z1NSd3BUVnlXMVZsT2t6dnMwcXZIQXZlbnZpMmpCYVRWNGlQdm9VbmZYaTZXQkE4bG02TjlvQ3g1U0NXN0hGeTNMR1BHOUs5eXpCNTNhSmVGQjhRS0RtWFU3dlp6T3J1WFRsNWRBaXIzLUlfZ3Q1bjI4ZTVHY0wzQUY0Rk0wRVNJVjJsUWd1V0gyVFVzSdIBVkFVX3lxTE1VWkMyeFhmQ2FCeWpzdW1zRTMwSVlMWHJVQ3JlMVV2THFVMHRRQ050QnAyVzJ4SXJydEFaTEg1M1E1bkpVamZaREVJVDBsRm5Ba1NOQkNB?oc=5",
+    "publishedAt": "2026-09-14T19:55:00.000Z",
+    "collectedAt": "2026-09-14T22:55:41.403Z",
+    "translation": {
+      "titleKo": "AI와 자금세탁방지(AML): 지배구조가 혁신에서 중요한 역할을 하다 - Law360",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "81c4f32c15984ff3e262b81f3c7bc670a4039855",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "dLocal selects Oscilar for AML and compliance operations - StreetInsider",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR2pEdHhxdHk4bWZWeTBPN1ZnVXFLVUFtMnhSQVhST1Q2QWRPSVhNWVpHWUNWSXM5MTFnbkRGMzRCSG12TXJNM2lOQ3daeDAyeWNxWnM0NlpMRy1uVnk2S3lyRkNDNEZPQXV1cmJuNHFwWGwzRF9Md0pOUV9XV3lBcl9TYkdkVDdsUzZzSVd4QmNOM0djaThhREpCRzVlbG9lN1JyTWd0eXhCNmV6SFM4MDFLckxaUQ?oc=5",
+    "publishedAt": "2026-09-14T20:39:51.000Z",
+    "collectedAt": "2026-09-14T22:55:41.404Z",
+    "translation": {
+      "titleKo": "dLocal, 자금세탁방지(AML) 및 컴플라이언스 운영을 위해 Oscilar 선정 - 스트리트인사이더",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "12c07f0abaf13f5bb894b34a8fe24e191cbe9528",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bionano Announces Three New Peer-Reviewed Studies Demonstrate Clinical Value of Bionano's Optical Genome Mapping Across Myelodysplastic Syndromes and Acute Myeloid Leukemia - marketscreener.com",
+    "snippet": "",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM2hUSk04djl1TlJuUnBKQ0M1SnUzMkhNSU95XzZqaFplYWVkNlJkSXVWSjFXcHZlY0xoelBGdUotamwtMUtQV203UFJzOHJ1bEQ5a1oweE94dVBZTEJFcm43SVVLT1BFRmE2Z0FKRVFVVHB1MUNxaWc2eFhaV3BIZ1lxcWw0NU95c0cwMGNJb1Z5SDZqdWRTZE9pRjFVcjVjX2I0QWVBQ2xZd1hId1F2NWZ4SHFwaWxlV3dkNkRyYmU5RDM4cGZ6a205WXNrWGpLQnZnMVhnbjM2WDlOaE9mTkRDZENmRkhM?oc=5",
+    "publishedAt": "2026-09-14T13:01:34.000Z",
+    "collectedAt": "2026-09-14T22:55:41.405Z",
+    "translation": {
+      "titleKo": "바이오나노, 골수이형성증후군 및 급성 골수성 백혈병 전반에서 바이오나노 광학 유전체 매핑의 임상적 가치를 입증하는 3개의 새로운 동료 평가 연구 발표 - 마켓스크리너닷컴",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b1e72db9bc8d78cec2014b2ea14d499bc872113a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury hits Russia's VTB Bank with new sanctions over Iran ties - CNBC",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDlwYWhXMWJOc3FHSnAtRjdpR3NyQjBzcExta0hWamRLMzNDb0xNM21tQkZEdkx3R3lwcy1lVUNUSk13ZVFPOHo4RFFhUHY1RzZOQW9JZzdrVUFxUzdaNXJaa1gzR2xhNmh5am9yVFNqS3U5amg5RDlWTVotblV1SzJROUdUM1RweXhZRNIBkgFBVV95cUxNOUJKdlMwNjZyeWpER3g1REh4SkRwb3FnMlFfX2VOc0dvczh3cFNNM2xxbVo1WllIam1GblE0WE42ZDlWMzRBZExwVXdzbGIwSUtzdVQ3Szh0em5odjJsd0lBclZXcGtQNWZSWncwTmowc25Yamg1TS04SExnand1cm93UlhDVnpmamVTWDJZdTQwZw?oc=5",
+    "publishedAt": "2026-09-14T21:53:20.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "미 재무부, 이란과의 연계 이유로 러시아 VTB 은행에 새 제재 가해 - CNBC",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f2c84b04bca775508cf24620438dd1a7702f6119",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Sanctions Russian Bank in Latest Target for Campaign Against Iran - WSJ",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2VlWFpWc09aZzZyc3M3YWJOSUZXai00aHRDTDZZajFjUWh3QTFQQTVHa0p1RS1EUzlyYVpZMndKMnB5UE5xVmp3UGNVQ29iYlhncm5nQ0Y2b0s4STctdG9nVXM2VjRCXzIzODdfRVRldDRITHBrVGh6MjlCQUZDeDBjLWxmTTdqcHU1amV2MTdZN0d6RFRmS0N1Q0VOVWRwR1UzOGdSdXNqSWZyUkZRZFZxT3FhUDlz?oc=5",
+    "publishedAt": "2026-09-14T21:44:00.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "미국, 이란을 겨냥한 캠페인의 최신 대상으로 러시아 은행 제재 - WSJ",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9b4c79dce5394c27fd9349bc1308149763562842",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran’s proxy money machine: How the Houthis built a multibillion-dollar network despite US sanctions - Fox News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHB0eFoyWFFzR21nOGVxaWdBbDhCZW95dXVweDhXelc3UFMxdVVaUi16UnZzYllLODU1cXJhWTUtbFpyVFgzbW51dnFUbjN0OEdpWkVUbGs0SVBqQmJBS2pWMFM2TVUwODZrenR3ZjBwLXBZSGd4ZmczV0h6ajJWdFJUalc5cEZURmpNeGtTQnVobXY0Zlp1Qk93b1c1X3dWNDcyYjNKLXBIQzBNLUpSU1JWVDRLeHJNNFHSAb8BQVVfeXFMT1BHU1BwNlA2LWxoTEl0dzIyd3BxdHBWWE9UNkJQeDI5WWFxOHE2alcza19GejFNVVJPOWR0SXhfUTVBTXdOeDhCY09SLXZGbEtBMVd1eDZXWll1cFJuZG9KSS1qcHRwdkZoZmhRRjFFTjJlTVNSM2FtckhwdGsyQnRCUmplQ3VnT2lqcTQyaFZyelBwNUhWTEFNaU1ycWw0WW1VQ3dmT1o1R3FzU2czcHQ0cVIxQnYwcF94TDZDbkk?oc=5",
+    "publishedAt": "2026-09-14T17:52:18.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "이란의 대리자 자금줄: 후티 반군이 미국의 제재에도 불구하고 수십억 달러 규모의 네트워크를 구축한 방법 - 폭스 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f647b595ceb019e6c711f69f23551e4bde055d1d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Argentina's Milei plans bill to toughen sanctions against firms operating in Falklands - Reuters",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcTZ6LUt1d3Zub1hIX2FlTDJrd1ZYeGZlck1HY3NLZERpNHM3OW1vMThsRkdJU3RkMkNweWRURFYxbGhjdDlZUTJHdnY5SmxTdjFtd2dKdlpPOEFhTDJSZjVmVnBEMEZVWC03M2JKaTlMVVR6cHJGYXAwU016TkdTUWpsdnlBTDV5Q0g5NmNqdVhSMzJVQXZYUVNmYVNJMVdIdm51QVJfTE5NWmE2VFpvMlNPN29lY0lpQTNRSG96eUJWRE1LRWJuZFZmcw?oc=5",
+    "publishedAt": "2026-09-14T18:29:34.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "아르헨티나 밀레이 대통령, 포클랜드에서 활동하는 기업에 대한 제재 강화를 위한 법안 계획 - 로이터",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "268d83da5bfae6184617d08ce2e59f76d32b55ca",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Congress returns with packed legislative agenda from budget resolution to Russia sanctions - The Hill",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNlotQ0hTVDRNcmlFaGxWVE5xMnRZVnpJSzdZa3hDX1FWWFRlUWZpWkNOeno1d3g4SXN0OVhOcUpoUE0zZW1hQzJrdG56UXBnWlR6NTcxR3FBNHExZlV3TnhJX2tUZDNGMDhQWWhKVU1FdHNNQTBQck5kTnBHWXRyRjJrNlYzdTV5MkktZDZINU1MQ3B6Nldxb0ZNMTlwV0NHdnBJVm1FUDVlM3QwdDlDbXV3d2lQcjR6SUktY2pycTV3N212?oc=5",
+    "publishedAt": "2026-09-14T17:32:00.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "미 의회, 예산 결의안부터 러시아 제재까지 빽빽한 입법 아젠다를 안고 복귀 - 더 힐",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "221af8edccd500f8a71b458beee4a79c9ec0942d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Why Congress Should Pass the Lindsey Graham Sanctions Act - The National Interest",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVdoeFNDQ3ctMWZGRnNHb2dNQ0d6SkFka1NJSU9VOG5pVThZR21FZVZaWEZ5cEV6OE5qTUlocEFSdGZkdXQybnY1NDZaNS1hMzFzMWJJUk94MEk3b2h1YVVKLThlR3lMQUpnMmlJRkpVcHBCdFo1d2JkQVFXUE1lSHp3N0JwRDgyREVXal9zRkxlRlRZOUkwZVJn?oc=5",
+    "publishedAt": "2026-09-14T21:00:00.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "의회가 린지 그레이엄 제재 법안을 통과시켜야 하는 이유 - 더 내셔널 인터레스트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b204b0e829dadeb08cff0561d1bb064da17564c2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US imposes fresh sanctions on Russia's VTB Bank over alleged Iran ties - Reuters",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUV9iZ1hvNXptVGtUeEZ2X3Q1bkxtdm93Zm1neUNFdjlKM3Y2eElENzhEbHNpMFRRUXlGaWtUakU1al9wM3gtanR4R05saV9fWXVmNXlOWFUtQkpvRnJBbDdybE5CdVJtUmFRVDdLazdXRGljQUVVa0xpcUEzWHNpUEd5ZEhjOUlQMVMzY2hnamY1endIa0RZbFRlM3pKOUUx?oc=5",
+    "publishedAt": "2026-09-14T21:12:07.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "미국, 이란과의 연계 혐의로 러시아 VTB 은행에 새로운 제재 부과 - 로이터",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9cbcf613d11ef0cadca48472b4ac92bec6abf0b2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions Russia’s VTB Bank over Iran ties as financial crackdown widens - Iran International",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UMEVvSTR0WVAteGwtRXZLVlhiWkxXQURVVjR6aEp0N0lTZHBDLWpnTVlXNFNObGJ4WFpKLVYtTXByVnVxeDVReEQ3aEVwbHJyRXc?oc=5",
+    "publishedAt": "2026-09-14T19:03:00.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "금융 단속이 확대됨에 따라 미국, 이란 연계를 이유로 러시아 VTB 은행 제재 - 이란 인터내셔널",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "510478c90031542a9ccada41e9d2e6f4599897ce",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran - The New York Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSHJKa3lZSl9wejJpckVtMVQzcldlQ1BuQ01HN3AxdHVyck5vTTZtQ1dHbXRoUWJoYWpCV200dE1EOTZMYU1UYUVDLTJMcGt4R1lVYXNCczBlbkxZYUxEZzRRVnRySG5oZ3A2bUhZTlpoNFZ3cDB5VkQ5Sk1HeFZETlpSeDJ4RUZwQlE?oc=5",
+    "publishedAt": "2026-09-14T20:35:28.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "미국, 이란과의 연계 이유로 러시아 VTB 은행에 제재 부과 - 뉴욕 타임스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "15876b804f0ef20cdd35a9746b175d755894117c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia-Iran Sanctions Bill Could Reach Trump’s Desk Within Days, Says Congressman - Radio Free Europe/Radio Liberty",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GVFVBY3JiLThMcDZsbUd0d2R2d1duNno5b1cwUngxdXplRE9QLWg2a21mWHVGcFhGRzdXdl94eW9JcnJZNUsybEpqQTNiT2xUM01jREtadnNiZm02N3owcUpBazdGaERvbkZxQWU1V0YzWXNBOEc2NE81emVIY2vSAYIBQVVfeXFMTXlpNDFsOXhSelEzNTg5anZSalYwemk2OTRyVlk2M3BlNFhsSDBldFNKc0NWeHJCcnpnNUktQ3pTdHE3R1Uxb2JkVFUySG44WWlabGhoYW0xZWtnUFpMNmpjRnVZNHRxc1lMQzVqdG1XZ1BNb0wtbDhKRy1mR21McWtUQQ?oc=5",
+    "publishedAt": "2026-09-14T19:29:46.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "러시아-이란 제재 법안이 며칠 내로 트럼프의 서명대에 도달할 수 있다고 하원의원 밝혀 - 라디오 프리 유럽/라디오 리버티",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "029d96db100cd3f0396f10c6f880dfd4a107b0e8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions on Israeli Settlements: Understanding the Recent Announcements and Their Implications - Middle East Institute",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcnRCYzNDY3pjMHNCWXFMbVRIa1gtdDVOWVlicFd2U2YwSzBGSXVSclBzZ3I1eWhjbEJLMFR5bXA2YXJMLWNwZXl3QjRsaDRSUUdUUmw0SlVnSUdBUlRwY29JdENpallvc3gwMFZkUU5hZTBFczJ3Ry1QMGdCbW1LS1RHVG1JWWFkLW1iT1oyRDMtdHJ5MGpGcEtxZVhXUENGUks1U1ZqaEV1TnlHTG96ZTdibmdZV2xpUEE?oc=5",
+    "publishedAt": "2026-09-14T19:53:56.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "이스라엘 정착촌에 대한 제재: 최근 발표 내용과 그 영향 이해하기 - 중동 연구소",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "77bbf20dde113d564a399aecb8d3ad806dc2dfd1",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US hits major Russian bank VTB with Iran-linked sanctions - Al-Monitor",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTEE1eEFta2VwRzdaU1lGQ21UUk9UVWoxMl9aMjZULTV6VXEzdnpQMW5HV21VMjJtaUQtYTZPUndFZnRXTGxxSFBmWDVzSXJCQmZrakszYl9VM2VmTl9xME5Ic29kdElWTHBwNE9EUjR5ODhVLWxPRWtOcFpkM05sZFN4Si1IbEc1R2dfcjhJYnFTZXc2UEswSkI3VjlRUQ?oc=5",
+    "publishedAt": "2026-09-14T22:13:07.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "미국, 러시아 주요 은행 VTB에 이란 연계 제재 가해 - 알모니터",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "51aabc1b26a3042d53830cbee0c22b2d67fd8628",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Government Announces New Iran Sanctions Measures - JD Supra",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMHBLLW9QNG5ZSDl2cTRkTWpCdm1PTU1FaloyMG5yOTFiWjNLZGE0QTFDbkx5OWZxeVM0WC1idl9FN1N4bWZyM3R5NWxhMjRxN0lTUW9NdEVXMHFSVFI5R1l3azhlVm5JSzRhaS0weTJMQ3c1Z1lZeDktYl8tQnhGUw?oc=5",
+    "publishedAt": "2026-09-14T19:49:50.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "미국 정부, 새로운 이란 제재 조치 발표 - JD 수프라",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4907adb8233a513e469e1a4302ea217ac6a55dda",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Sanctions Russian Bank in Crackdown on Iranian Finance - Law.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ09Pc3YzSTREZm9SanlkTzVPVlVxZEE0Y1NpTkI4STViYzhtU1Nnb09WM0ZnV1NvV09Yd0RhUlY1VXdObldzbUdfdWdvdkxoanlmZmMxRUFxUkNUSkhKekFGaW10QTFxbFp1ZHVvYXVibkZvTDd5VzlWRl80N1pBN1pnY2lOX0cxLW8yZ2o2Zy02TXNRNkhHVl9WYkw5N1drWGt0Qm9YU2pPYlhx?oc=5",
+    "publishedAt": "2026-09-14T20:55:29.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "미국, 이란 금융 단속의 일환으로 러시아 은행 제재 - Law.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e546023543d35c4139535787b13e09a1e4356dd9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Defense: Jeffries not taking sides on Russia sanctions bill - Punchbowl News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPdWk5eU9PNUJENEI4S29pT1ZrcVRuMjgzSFkydDdCOTktV0tVN3JPeXVtMHJuUjN1T2dRLS1qa3FxS1MzNHZjTEVBOFVnbFhReFM2TDJiTm5TRWp1TUROMTFEbUFSY0dQY211LVY2MmY5a0VkZDlsQlpn?oc=5",
+    "publishedAt": "2026-09-14T20:42:43.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "국방: 제프리스, 러시아 제재 법안에 대해 편을 들지 않고 있음 - 펀치볼 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3501b6b0cb2688e556eead00447fd4077a1be1c0",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Argentina’s Milei plans bill to toughen sanctions against firms operating in Falklands - WTVB",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRTBKVHV5OFY3TS1wNER4TTVOa3Rnbk1UOFBCbU9mTzhmQ2xjRjdjaFlfUnlwNXdzSFRPaGRrd2lXYWlwaWl1MmpIaV8yZmN4SUlUNHlKNVh4VHhGOExjVW13WHRQLTlHRHRVVk9DdEVRdjFjZnJTZXhLM3dKcXRtX3IxRUFuRXFGU2k2ckVQcE1qYmNnS1V5SFYyOEQ3MURwc2MwalVaZ2ZrdWRpUGZqSXlmeEF5Ums?oc=5",
+    "publishedAt": "2026-09-14T18:45:52.000Z",
+    "collectedAt": "2026-09-14T22:55:41.467Z",
+    "translation": {
+      "titleKo": "아르헨티나 밀레이 대통령, 포클랜드에서 활동하는 기업에 대한 제재 강화를 위한 법안 계획 - WTVB",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5de8e24a579149f07ab2ff5468f7acf750fb618e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US targets Russia’s VTB Bank with Iran-related sanctions - Investing.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUl9xNzVFdV93cThnRWlpVUZ4ZW8zLW11Tm9Bd2JmVUlRS1ctbkt3SFhmY2x2aWlGVHdXOHRVNGZleUxpSVNoNzNQVmtKdGJadUx2dHRhSHZYbFZxTFdJT2xoNldvTkcwbmpzZmxDWUpJRUJ3cmp3VFE5SF9jVDNCOFc5RVJvN0pJOGs1UWRPSFlQUDUyaTdYN1JBdFZOcTVaQUdodkl5TklvVWRJdlZHS1ljYkhHQWM?oc=5",
+    "publishedAt": "2026-09-14T18:52:15.000Z",
+    "collectedAt": "2026-09-14T22:55:41.468Z",
+    "translation": {
+      "titleKo": "미국, 이란 관련 제재로 러시아 VTB 은행 겨냥 - 인베스팅닷컴",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0e373959b959e8bbae69f84a6056bbe3a8e42789",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump adds extra sanctions to Russian bank for ties to Iran - The Hill",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaVVxNDk0R3ZjZW5mOURvOFZfbWZtZ3RuQzJ0V2VZa3NDbHRsdHFpQVhsM0pmOXpZWUlVZEY4dFhYeTJNNnp3ODJReExNT1ZmdXd5N1g2ejRMOHNzYWRxRjc3YUtJcUV3cmhSWkx4VExsUUxxS2ZZQUxRSDRLWjlubVNkNNIBiAFBVV95cUxOX2o1bjEzNm13UTd0dFdaVUh5Y1VKSXRMZUdncEVLSzJrZWRDV0FVS3pyX1hLcWtEdFZxTlk1WTE1Z216SFJEbmxJOHQtWm5KY2FJejNpWFFPcnE2dTdqTThmR3lSdUFqX2pGc3NOaVFITEZnMEExVUlWQ085UE9na29jR2wtblY1?oc=5",
+    "publishedAt": "2026-09-14T20:31:00.000Z",
+    "collectedAt": "2026-09-14T22:55:41.468Z",
+    "translation": {
+      "titleKo": "트럼프, 이란과의 연계 이유로 러시아 은행에 추가 제재 더해 - 더 힐",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5c6f02dcae28c08b25b5de03070f304421d257bc",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Imposes Iran-Related Sanctions on Russia’s VTB Bank Over Sanctions Evasion: how 12 outlets framed it - NewsCord",
+    "snippet": "",
+    "keywords": [
+      "sanctions",
+      "sanctions evasion"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT3dvaG4zYlNXZmlfYzItVXVMb0YzMl93ZVBraF9QenVnc0VMV2cwWUp3RFp2aXNrWHVSLVJURnFqTWhJanFGQ2VOVW9Ra0hDeFJrdTJXVUVYVXVLenluTnpwTC15aVpkaWlyTm01VHo0VGNiYlVyYW53MjN2ZmtOYjR1VC0wWkZ0TFktNmhfUFctV3dJbHN4ZVRsMEZXVVNtS3JNLWJwV0ZxQ2ZvTGstcUloaWVqbjBBcmpzTnRxOGd6ZVdJd1hjSnVHbzVKQU9ILUlqTm0zbEp3a2EzRmJ2WXFOVW8?oc=5",
+    "publishedAt": "2026-09-14T20:30:47.000Z",
+    "collectedAt": "2026-09-14T22:55:41.468Z",
+    "translation": {
+      "titleKo": "미국, 제재 회피를 이유로 러시아 VTB 은행에 이란 관련 제재 부과: 12개 언론사가 이를 보도한 방식 - 뉴스코드",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "78e3b93f05e30076b6fef4b9bc34f06c6cb301b6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions prominent Russian bank is says does business with Iranian regime - JNS.org",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVFkX2daMjdhWldvMThrT1JXSnI5M0VvbC13ZFRNOGtQTUV1X3V4a1g4ZWlJbDVLT3lsamJxcXA2aUdwM2haTE5aRDBoakN2WHZSc2ZEMjdWc09QUzRZNmhRcjBsRWt5UW9oRnFnQkFTUWUyOV9TV0pRU2JlZHpzak9DMVgwcmQyTHFtcVRlUjBqeEhkNTY2WGNKVWt1bnA4UXNyN1p4c19rQW13VG1KQw?oc=5",
+    "publishedAt": "2026-09-14T20:39:34.000Z",
+    "collectedAt": "2026-09-14T22:55:41.468Z",
+    "translation": {
+      "titleKo": "미국, 이란 정권과 거래하고 있다고 밝힌 유명 러시아 은행 제재 - JNS.org",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5b8605a604ef122eb445792602b8414df01c0f37",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Ukraine FM Sybiha Demands EU Maintain Sanctions on Kremlin Billionaires - united24media.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkU0d0dlSGtSZUxNV01KMVdpLWdrc0FMRzlWUk1OdVFfeGMyTks0UE1nenJKSWc5ek9tQURqbXhKYV9sT1c5bTRjVFNPLUtWX2g4RlYwOEExWF9QVHR0a0tYczdiRW16SXF0V2tuOUZnVDBKSXJteEVSWWJyUy0taldESEVQdTFkOWphSUtTVTAtZ1lRV2paNl91SnBkU2dTRExMS1JDVC15LXVVYThEYTN0NUstemhhS2c?oc=5",
+    "publishedAt": "2026-09-14T19:57:48.000Z",
+    "collectedAt": "2026-09-14T22:55:41.468Z",
+    "translation": {
+      "titleKo": "시비하 우크라이나 외무장관, EU에 크렘린궁 억만장자들에 대한 제재 유지 요구 - united24media.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "eb82188b4d959cb40cf0e4ae9526b7aac3c7fe01",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US introduces new Iran-related sanctions, now on Russia's VTB - Daily Sabah",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVFVfeVhONDI3LWwxR1dHT3lrMDRCamtPYkZIbExXX0gySlZtZjZLQnIzVDBFcU5fMU8tS3dnT1J0UTBSN3g5LW4yb3NfTVFxY2ItQWFHeDQxN0dpU3hCeHdtTWdaVUlEcGF6WVN2XzMyTS10ZWJYTFhEVHVPcklkSVZXRkdiaG1TSi1KaGxvZlhSXzhESWZIbjdtYklQanRlZEhaUk5B?oc=5",
+    "publishedAt": "2026-09-14T20:54:46.000Z",
+    "collectedAt": "2026-09-14T22:55:41.468Z",
+    "translation": {
+      "titleKo": "미국, 이제 러시아 VTB를 대상으로 새로운 이란 관련 제재 도입 - 데일리 사바",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "982a3cc65098460ac390bea4392b1bc5c83d1a2a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US imposes Iran-related sanctions on Russia’s VTB - The Times of Israel",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTFZjVjZxd1RmM0dYZlZZQmc2c3R1LTI4MkNoNkZLaFRsN0NpcEZXSV9rMFpQbDFzNVZyY2ZEanVfczJEUDhNWEtsbk02bXFGNjdUREYyQWlmcUpaQ2E1a3R1WmptZ3RyY1NzZEMtQnItS0RsaTI0MGppVkt5eWtmNGgzUTRUZnpDTW5qQmtqUnNQY1hEY094R3BR?oc=5",
+    "publishedAt": "2026-09-14T19:36:11.000Z",
+    "collectedAt": "2026-09-14T22:55:41.468Z",
+    "translation": {
+      "titleKo": "미국, 러시아 VTB에 이란 관련 제재 부과 - 타임스 오브 이스라엘",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "408acf1b8ffaa7a32865550c26c3044be9624b6d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US, Iran hint at talks even as sanctions tighten and Hormuz tensions stay high - Iran International",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54R3dxTWNoNUw5REpLS0JOY0xwcTF3RnlKQ3dNNWlNTGFEZ2xhYVNOUGRKT05DYUx1OFFRU1RkdGNFTFRlVUN2eHZWM3gxUkJGdFE?oc=5",
+    "publishedAt": "2026-09-14T22:04:24.000Z",
+    "collectedAt": "2026-09-14T22:55:41.468Z",
+    "translation": {
+      "titleKo": "제재가 강화되고 호르무즈 긴장이 높은 상태를 유지하는 가운데도 미국과 이란, 회담 가능성 암시 - 이란 인터내셔널",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "de5196124ee80dd2a8c78081205ca2da1ae88eaf",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. sanctions Russia’s VTB Bank over Iran sanctions evasion - BNO News",
+    "snippet": "",
+    "keywords": [
+      "sanctions",
+      "sanctions evasion"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLUVNYmZ1UWZWNHh4YVdRT1Fxa0xtamhxQmYtVUdOSFQtemRWMklsckl6ZmNQMGwtN2xJcmNVUE4zZXpheFNEcWRDdnBLdGV3QzRLZWxZdDYxRDFCb3k1SmVIc0JEZjkxSDFfNkExcFd1Um9sYTA0dGFQcFhMX1RPdm8zeDktemhmOGg4Vk1vOFVuaXlTMDRpOEoxMk51dw?oc=5",
+    "publishedAt": "2026-09-14T20:53:41.000Z",
+    "collectedAt": "2026-09-14T22:55:41.468Z",
+    "translation": {
+      "titleKo": "미국, 이란 제재 회피를 이유로 러시아 VTB 은행 제재 - BNO 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ba76c3a04c60722590155a9d92089fbcf9b4818d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Shafaq News..US targets Russia’s VTB with Iran-related sanctions - شفق نيوز",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbk8tai1NV2pOUW0ySVZfXzlHN3BpTnM1ZjdXNERfa05CdzRPZWZJaEt5TEhtdUJKdVlMWE1RRGFjUnpISVplaDkzX1ptN2pQR0dwYlc2V09DdERfUW12Z2NLX1RjQTRDcXNvbjhTSjQ3VFNyZi1GQlZHc3F2UE1jcGJUZjhkdw?oc=5",
+    "publishedAt": "2026-09-14T20:14:03.000Z",
+    "collectedAt": "2026-09-14T22:55:41.468Z",
+    "translation": {
+      "titleKo": "샤팍 뉴스..미국, 이란 관련 제재로 러시아 VTB 겨냥 - 샤팍 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c0962763e420dd0b38af37763530a4dcec81d553",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The U.S. imposed sanctions on a second Russian bank over its ties to Iran - UA.NEWS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWWVSSERFOVVJT2dNc0JnV3NuSDlNZzltdmpiQThlcEtkbFlHZnZnZVlNVnJaLUtCaENQMENGY0Jxcm5CQzMtek9fRFdqNUFueHo0enlDX3dPYWdLY1ZuZk9pZDZjQ3BhbFo5TmF3S1JwaEhGcVZRZjMxMXU1ci1CZ0xOVy1ydnpVbE9Bck9LbmYwRHhGZjlObEV0MFRiZw?oc=5",
+    "publishedAt": "2026-09-14T20:29:19.000Z",
+    "collectedAt": "2026-09-14T22:55:41.468Z",
+    "translation": {
+      "titleKo": "미국, 이란과의 연계 이유로 두 번째 러시아 은행에 제재 부과 - UA.NEWS",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "dec55b5899fb1c422545740a3080ca3966103e34",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US imposes Iran-related sanctions on Russia's VTB - Middle East Eye",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZHdKWkdJU3NiUFMyYnFieXo1cmk4OFVJN2t5bXNpTHBJZUlLdmhjSHFvNVozYVBPQTJGMjJDWmJ1N2ZwUElMcmNrVlU1MUVfTGZ2aExISGU2UTRqNzA4ZFhkYkx1dUdQZ0drVTFXZElYdzVFeDFNZXpvVC1HSnVETjY5OTNRbEt6bkhseHZFby11dE1kekdhNGZJOUVUX25Tc3FNQ1dna214ZktCZF84VDJ3MWd1NkFWYy04dm9zZmRFZUhkck1OeGZlaU5yS3NyeDUwazJ3YXhld1dROFREQ1dHX1U?oc=5",
+    "publishedAt": "2026-09-14T19:00:00.000Z",
+    "collectedAt": "2026-09-14T22:55:41.468Z",
+    "translation": {
+      "titleKo": "미국, 러시아 VTB에 이란 관련 제재 부과 - 미들 이스트 아이",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d8830709b5201a8421c2fd2eb2acfffb4a0bc4cf",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Clippers Won't Take NBA To Court Over Salary Cap Sanctions - Law360",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZER2SURHalBLNTlvajlKd3RybDgxLUNPdkx2aURIQlRtTF9fZ2lDeWdCQktHRkVJSmJieVd0WEpRbWVIOHNndzRXLTV4VEpBWllyeExUd2xJT1NxdS1mdEMwOUtLYWRaaW9UMHJScUpUT1FPMFpEQmRuZjNvMGNySXlRTXZTRmhEczRhX0ZwT1NLWkNfb1JiSmNsRVJPVnBPLWRvSkhvclk1b2hrSTYxMHVObEtISFZzMTNFQXdLZzFSRWVaeFFLddIBckFVX3lxTFBMcEpzMDl0TndyMWNGSTlRckNDWUZvdEd1NE1SemZsMXRkQ0FOcF9tQjVZXzhUbW9QVmlZM0dIaFN6UlFCMlRkOTFwV0c5TEYzVDFRRGx4QmkyMm5VdG5JNzJZU1JxUmU0c1FXV2hqdnFSZw?oc=5",
+    "publishedAt": "2026-09-14T15:23:00.000Z",
+    "collectedAt": "2026-09-14T22:55:41.468Z",
+    "translation": {
+      "titleKo": "클리퍼스, 샐러리 캡 제재와 관련해 NBA를 법정으로 데려가지 않을 것 - Law360",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "634ecc7e8c0f6d2417ee7a877a5251fb1a806aab",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Administration Sanctions Russia’s VTB Bank Over Alleged Iran Links - Межа. Новини України.",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lNDJPd0ItM3BIRHduTk1XNXM4SmFyRXZzMkRRbFNKMjFFUTV3ZmhDTXNINGFRcEtkREF0bDBLSElKOTNYdzFTRG83bnZHMi0yNWhvOVVlcDFJYnhsWkFCY2RnaE5LTnktSWFkV0hqZG9CeExhdGc?oc=5",
+    "publishedAt": "2026-09-14T20:44:15.000Z",
+    "collectedAt": "2026-09-14T22:55:41.469Z",
+    "translation": {
+      "titleKo": "트럼프 행정부, 이란 연계 혐의로 러시아 VTB 은행 제재 - 메자. 우크라이나 뉴스.",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fb04f0d39d926906ccf8bf4e79a141b6ef4642e4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US imposes sanctions on VTB over ties with Iran - UA.NEWS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU0RmQnFJQ1EzT1prYWU2NzV0YWNrSjktMDk4TzAtbG8yLXVTaDlsQ20wUmx1REJ4WGxtdmctSGx3SlNDaElWdlYyUTA3X21LYlc4UW12eDU0Y0VPWGUwM3duQmVONTZwWWlGOVJZRW5QUW5VWDc1UjBJazl3RldQRnRPYW00UnhPY21fdjNB?oc=5",
+    "publishedAt": "2026-09-14T20:47:26.000Z",
+    "collectedAt": "2026-09-14T22:55:41.469Z",
+    "translation": {
+      "titleKo": "미국, 이란과의 연계 이유로 VTB에 제재 부과 - UA.NEWS",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3783361dff8c0b5a0974968ffe6caa480a69973f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The EU extends its Russia sanctions list for just one week, keeping Russian businessman Alisher Usmanov designated until ambassadors meet again - Meduza",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS2pMX3NFdG9jVHBkUUR6SEFhOEZOMjVQUWxXNEFhRXE3cEVkVjlleTdTQ05KQk5DZ2VGRE5MQnJORURFdExUWEc0aHhvNTFRalltbHdidEJ5Q09wdnl6SnNNWi1uVHU5dGdSd3l0WWFsanl3bDg2MHVCTDJDNUw0cXN3U1VzcDJwTm84blM4dnhiTU4zOTRnTGpWMkVXWm4xMW1tOVVqOGFYMFJLdFR0YXhMRHVrMl9yOEh6OXA1dldSb2ozaThTZm5zT05JUzdCXzlib182T1FMb1pDOXVZWE5Mc21uMHlXNmdZQUh4M0l5SmlPVFlta0d6U2ZXa295MWhMZTBjNTFEWlnSAZACQVVfeXFMUExab0ZzeW5fdzJWUTlBb0xvMHFGbkN1Y1ZDM25VVXlZWTZJS1Y5YXJLbllpN0dFdjJvemxvYzZvLVpYUWJzTXFJUjI3OHV3R0YtczRLN3hfZHU5X1lXMEZXS3ZfLVRubzhkUTQ3N25ZREFZRkltNF9KZmMtVV9kODV4ZUt0STVsdW13QTNYWDRPNUdWc2ZCSTFoMHBLc2kwa0NZaUkxVjBlOEFzOUs4alQyYXl6WlRzNVdYWnlrZGM1b3F3UjFNN3lOeWQ4RTBYTXdIbDJTSzZzUm9RRzhKMlBJeHRiRmYwVkljYUljRVJSZTNJenBnT0JxS3E5VWIxUXlIR0psWkhmXzc3OFFfbHM?oc=5",
+    "publishedAt": "2026-09-14T20:40:00.000Z",
+    "collectedAt": "2026-09-14T22:55:41.469Z",
+    "translation": {
+      "titleKo": "EU, 대러시아 제재 목록 단 일주일 연장, 대사들이 다시 만날 때까지 러시아 사업가 알리셰르 우스마노프의 지정 유지 - Meduza",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2e0679564a552dbf482090fea4f68ab35e5c7801",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US slaps new penalties on Russia's VTB Bank over Iran sanctions evasion - kyivindependent.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions",
+      "sanctions evasion"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUVwUlB3V2RNV2lsSDhrNzNjRFNBeG9hZWV4eWtvdmxfb0pyOUFsdzg1V0VaNE5UWWxEY2hTZ0J5WUFaOE5XeERvUFVxc3hqdVduMU8waXUzblVwdlBISGFqRmtGeFJWdVd5UE5saWIwR0ZZVVNzdzU1bF9YRGdZWHlhMnNzaS02SVVmQjJCbU1ieXNTSE1BbFExQmZ0TnRN?oc=5",
+    "publishedAt": "2026-09-14T22:24:40.000Z",
+    "collectedAt": "2026-09-14T22:55:41.469Z",
+    "translation": {
+      "titleKo": "미국, 이란 제재 회피 건으로 러시아 VTB 은행에 새로운 제재 부과 - kyivindependent.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ae71aa33ab057e73da9cb2c76ca1dae8de1fd3f0",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran’s Deputy Foreign Minister for economic diplomacy says the basis of new US sanctions has changed, making it easier to sanction individuals and companies in certain sectors, IRNA reports - Newsquawk",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPZWRqVmpsRXRRbzNjYXh6Uy14ZG9LZWVpblpWNHZwcy1iYUFLalVEbjVuUGt2OVhIbDJtNE96dzZTTmR3am1qTE5GcENyYzhfdGdjQkxfV0Y1UnFldVFaZ1FaMTZwMGhqZlZ0V19zSHZSUFRFVFBiYXZQb0ljSU9UWGtabE9keEtENldWNlJ6UmQzcEMtc3ZRQWNJNGMzOXlfVUQ4UWxScFZ0MFZ0b1ZHb0hyWEJoREN6bUlncTBXeC15OXBzalVOODEwWEhCTTRDdk5ycUtCRU54RGxmRWdaOHJDd0lyUkhkNGRsY2d4R3c0TnBaQTRmb1MtamItcmIyUlJJcTRHWU5vZk5LS2ZWTHo1ZE9rUnljXzU2SFpuWDdlUW0tdkdxajBESXluZ1hBdnh0UGh6MElNbXpGMHljOW1HcTU?oc=5",
+    "publishedAt": "2026-09-14T12:46:44.000Z",
+    "collectedAt": "2026-09-14T22:55:41.469Z",
+    "translation": {
+      "titleKo": "이란 경제외교 담당 외무차관, 새로운 미국 제재의 근거가 변경되어 특정 분야의 개인 및 기업에 대한 제재가 더욱 쉬워졌다고 언급, IRNA 보도 - Newsquawk",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "288c91fc4a7a9f996ddbb4faf1e410b4621328e9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "United States: U.S. Sanctions VTB Bank for Aiding Iran’s Sanctions Evasion - The St Kitts Nevis Observer",
+    "snippet": "",
+    "keywords": [
+      "sanctions",
+      "sanctions evasion"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGxLSUVGclVaTTh3ZUIyODRndGd1WGxqcGl1eUhWVGFybGFlLW1XRlFtZmhWYVV3a1FrUGhHNHdoY01MYXV3bkw4LTFTdWVfVVF0UjZfTU9qeGlJMjhzWHJTQnBKT1d3eV9pSU15WjNFRk0xaFBBM01MbTAyblNXdlI2SkJtOVQ5WUlkLThrdnlJM2RHSl9rS0VnZTczbVBrdDlkMjlDelZJcDRsa2RZRlFR?oc=5",
+    "publishedAt": "2026-09-14T21:59:23.000Z",
+    "collectedAt": "2026-09-14T22:55:41.469Z",
+    "translation": {
+      "titleKo": "미국: 미국, 이란의 제재 회피 조력 혐의로 VTB 은행 제재 - The St Kitts Nevis Observer",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a0a9468ee26a466964ea3514287fe310b2a8a6fc",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sibiga called on the EU to maintain sanctions against Russian oligarchs - UA.NEWS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWJPd2RVbl9ZZUxlU1RTTlVLc2cyX1NxUXgxOEYzQVpucVdJZEZjOWI3dE02Z1VNRDhuR0NSSTRMUHNwTWZyWVFDWDc3Y09KbHZSbFVJQ0Q1MjM1Z1M1cE5mMG14VUU0ZUZ4THFlYkhGU2ZsLWVXdHdpV3JiN2lUVklZd0ZReUpjSW0zWlJDOEpqMDZB?oc=5",
+    "publishedAt": "2026-09-14T18:18:34.000Z",
+    "collectedAt": "2026-09-14T22:55:41.469Z",
+    "translation": {
+      "titleKo": "시비하, EU에 러시아 올리가르히에 대한 제재 유지를 촉구 - UA.NEWS",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b2fc593bb8281221df4bbdfa8394e8c4e98625eb",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Milei prepares bill to toughen sanctions on companies operating in the Falklands - MercoPress",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnFpS0d1VTBxOGRoRnJXRXJwUVNRZzFGbndPYXN2cnROSHV1LWt2Q3NqejV6bENIUVdXeDBxWjE5aUdDOVFBWWItSW5SYXY0bmdkZXRFN19JNnR4V253Y1FwZXlsN3JLMFJtOWVSMWl4YVh1bDJfbzM2UWZweWVEblhVdkJGdDYtZUNvWEVWVkFhSXZ6SkdkWEtCaUpDMHZ2aVlKTjdqS1dIQlhtWVhNUC11OFRUUXJl?oc=5",
+    "publishedAt": "2026-09-14T22:04:29.000Z",
+    "collectedAt": "2026-09-14T22:55:41.469Z",
+    "translation": {
+      "titleKo": "밀레이, 포클랜드 제도에서 활동하는 기업에 대한 제재 강화를 위한 법안 준비 - MercoPress",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e00923347a581591dbc75050348083c1aedf66ed",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "French-Slovak veto deepens EU deadlock on Russia sanctions renewal - Yahoo News Canada",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0ycTVneWFmVkdyU2hteWpOaWlEMnFZNGNuSURqMVRsR1pZTzlfNHNOeXVmTUQwZDBNN0YtaTBEMDdqbEZyOTJNSXhTckR0bm0xTmJJb094RGRmbkM5VEpNY2dFdnV3WWVKRDZHXzVQX2p3cWtkcS1iOGhB?oc=5",
+    "publishedAt": "2026-09-14T16:21:25.000Z",
+    "collectedAt": "2026-09-14T22:55:41.469Z",
+    "translation": {
+      "titleKo": "프랑스-슬로바키아의 거부권 행사로 대러시아 제재 갱신에 대한 EU의 교착 상태 심화 - Yahoo News Canada",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "eff496621e403f43ce96f3b6c36eba91ef137723",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelenskyy called on Europe not to give gifts to the Russian Federation and to extend sanctions against oligarchs Usmanov and Fridman - Українські Національні Новини (УНН)",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUGNIWnNjMlNILVhoN0lVaXpXXzVobDFLMVZvcFJEa0VGN3JWa0VOS3RXMmNtT0tJN1I0c21TT0VxSGpuZVFPZ21Gd2NOS0pKUFNQZVJ1WWExUldjLW1yMVZodE5CeUtQMng0WlRncDUwRmtrRndTOEFEMFhLWFZmWEJrZnFWVWNUODBnVmlSbjdob3pxQlRVM0FFS2JHQ3RBVWx1OXVpaFdYbUx1czBBZzlCUl9pRWFULWl6SnZkX2NsTkcweDNCSVNoZkF2QVo4SkljcVh0WUh6YmFWOUlEX1JIa1hJdjjSAeYBQVVfeXFMTTB3MEJaSTBoQlhpdkoydFBwQl9ZeDY0LUx1Qm1adWtWV185bHJ2SzRBMmZmQ0Y2OU5sNC14emphc0dJZ3FpQndOU2YyNVMydnhRc1I5T0xkOXhlQUlFeHMwNjMtRkw1VTdfcWhacDBvVmpXSzAzcGlIT0dialBrLVNSRFFIMUJSMHA1N3pkYjFmNkwzZVljdmlNdkNPaFl2TGtlSldSM0E3dGp0d3RLNS1aeFVfQkM5OFh6RlEzMFU5VjY0NjVWWW44M3g4VHdTcGtPRFRPa1E5ZFdMUDlxbDJBRVQ0bHc?oc=5",
+    "publishedAt": "2026-09-14T20:12:04.000Z",
+    "collectedAt": "2026-09-14T22:55:41.469Z",
+    "translation": {
+      "titleKo": "젤렌스키, 유럽에 러시아 연방에 선물을 주지 말고 올리가르히 우스마노프와 프리드만에 대한 제재를 연장할 것을 촉구 - Українські Національні Новини (УНН)",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "75aac1a2d7c78439e30185d8c900e4e5749ac8fa",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran’s proxy money machine: How the Houthis built a multibillion-dollar network despite US sanctions - WFIN",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ29FcDlIUTZHQ19uZDhuYXhlaHZXLXQtVDhVUjZ4akZ0a0pPSGRTSFB4OEczeHVqdUFaMHV2dkd0bkREWHg0LWpvTjBqQ0Rud2lhWTlDcTVtb2dmRS12Yk5GMVdsdlNraFN3SWdBZjRMNmh4UFplXzRXTHJQWkVoYjlkY3hzb3FISVkxc1h5QlNCQnNhdnZSRWtuLVgzVzItR2NZcjBpWmFaNk1CdW9paHRjekZ5X3VPRzBYWTlTNEMzOW5wNllGVUFCZw?oc=5",
+    "publishedAt": "2026-09-14T21:59:01.000Z",
+    "collectedAt": "2026-09-14T22:55:41.469Z",
+    "translation": {
+      "titleKo": "이란의 대리자 자금줄: 후티 반군이 미국의 제재에도 불구하고 수십억 달러 규모의 네트워크를 구축한 방법 - WFIN",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "06edd7d16994f0668ce06bb7dc1f378c49607c74",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "How Xi Jinping positioned BRICS against Western sanctions, power politics - Tehran Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYkxEMmw0YXhfTFNDWkc2UXR2V0RHVW1oTVktM00tN0Jxa19pN21yRXRmZURabDl0bzVPazJzM1VaVjc5QjdCb3dvX2xhNlBhYkRPdXhuZUFlUERFeGJrZVY1TUZDZFNHU01rbHhUcXZfSXRhY2VxOVNmc0E0bGtfS285Y2FoZHhEQTdfaVJwUFR0QWdOWlVOazM0dDhNNG5Vc0QyWWZB?oc=5",
+    "publishedAt": "2026-09-14T20:56:13.000Z",
+    "collectedAt": "2026-09-14T22:55:41.470Z",
+    "translation": {
+      "titleKo": "시진핑이 서방의 제재와 강권 정치에 맞서 브릭스(BRICS)를 어떻게 입지시켰는가 - Tehran Times",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d909e1b3dd87501b138c3f8bafb9f07e88b00815",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US imposes Iran-related sanctions on Russia's VTB Bank - Breakingthenews.net",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0VDM2JNMTlMUjR6WDdWMTJFZmFyeUlRenJlbUJzYm1Eb0ZSenBuTTZBVDhEVnRoc2hvYzEtNWEyUjRyTzd3Z1ZSbVg0Q3l4X1VzRVhNMzMwT3ROeTczTHkzNzlGMVN3dmtyMTdSMy1VRnNrQ3dGbU1qZExSRzR2OUhoOGFzdU5PanBpa0VCelhvWmh0ZzJMTFloX3RXMXdM?oc=5",
+    "publishedAt": "2026-09-14T19:03:00.000Z",
+    "collectedAt": "2026-09-14T22:55:41.470Z",
+    "translation": {
+      "titleKo": "미국, 러시아 VTB 은행에 이란 관련 제재 부과 - Breakingthenews.net",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3faccf9967fc933c24d1c7f69f8bd30f2fb9626a",
+    "source": "OFAC (Email)",
+    "category": "investigative",
+    "lang": "en",
+    "title": "OFAC SDN and SSI List Update: Iran-related Designation; Issuance of Amended Venezuela-related General License and Frequently Asked Question",
+    "snippet": "[ http://www.treasury.gov/resource-center/sanctions/Pages/default.aspx ] * Search OFAC's Sanctions Lists [ https://sanctionssearch.ofac.treas.gov/ ] * Sanctions List Service [ https://ofac.treasury.gov/sanctions-list-service ] * OFAC Recent Actions [ https://ofac.treasury.gov/recent-actions ] * OFAC",
+    "keywords": [
+      "OFAC"
+    ],
+    "link": "https://links-2.govdelivery.com/CL0/http:%2F%2Fwww.treasury.gov%2Fresource-center%2Fsanctions%2FPages%2Fdefault.aspx/1/010101a0a14e78e6-4d3da3a9-b489-4ce3-87fe-07767288d66b-000000/bgLBYttQcd7AViRdul_Fo08qzVGTq1Llv8MrlExqiTE=452",
+    "publishedAt": "2026-09-14T19:04:29.000Z",
+    "collectedAt": "2026-09-14T22:55:45.346Z",
+    "translation": {
+      "titleKo": "OFAC SDN 및 SSI 목록 업데이트: 이란 관련 지정; 개정된 베네수엘라 관련 일반 라이선스 및 자주 묻는 질문 발급",
+      "snippetKo": "[ http://www.treasury.gov/resource-center/sanctions/Pages/default.aspx ] * OFAC 제재 목록 검색 [ https://sanctionssearch.ofac.treas.gov/ ] * 제재 목록 서비스 [ https://ofac.treasury.gov/sanctions-list-service ] * OFAC 최근 조치 [ https://ofac.treasury.gov/recent-actions ] * OFAC"
+    }
   }
 ]
