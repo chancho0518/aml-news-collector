@@ -2229,5 +2229,797 @@
     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQnVOSEMwTVh0R2ozOXh6VkxITkV4SnJNYXktV3JrY2o0WHdvcEwyZnR0SWxFSXdFdkJfS0wxN2VwOEJXZlRFRjdEVGo0SGMzVS1odjE4WGtQS1V4anNKMGhocGw5aC1lZUFBeWRQOG8ySS1sQ21aaUQ0bVMyUjRVMjNXZVdqbkdpRzhDS2Y0U3hOZVJnQ1pVM3BSLWxUUWRMUEV4d285YlpMQXl1T0VMX25WRFZrU2M2ak9iaGtIUVo4YVdvVFFEbnZkUWIyTEtWXzBMN0tzQXJKcThBbHJOUldPN2J1V3JtWmFycm1qOS1EUC1Nc2lXY2ZwbkNHOTBPdEQyTUNmMmRFZw?oc=5",
     "publishedAt": "2026-09-15T10:17:34.000Z",
     "collectedAt": "2026-09-15T16:04:15.413Z"
+  },
+  {
+    "id": "9e51ff2792aea3842f5574ff212a7c238f94b6a9",
+    "source": "ICIJ",
+    "category": "investigative",
+    "lang": "en",
+    "title": "UK Parliament debates infrastructure security after China Capital revelations",
+    "snippet": "ICIJ and its media partners found that Chinese bank ICBC served as a financing hub for infrastructure in the U.K. and Australia, prompting questions about Beijing’s influence over public projects.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.icij.org/investigations/china-capital/uk-parliament-debates-infrastructure-security-after-china-capital-revelations/",
+    "publishedAt": "2026-09-15T22:22:01.000Z",
+    "collectedAt": "2026-09-15T22:38:49.204Z",
+    "translation": {
+      "titleKo": "영국 의회, China Capital 폭로 이후 기반 시설 안보 논의",
+      "snippetKo": "ICIJ와 그 언론 파트너들은 중국 은행 ICBC가 영국과 호주의 기반 시설을 위한 자금 조달 거점 역할을 했다는 사실을 발견했으며, 이는 공공 프로젝트에 대한 베이징의 영향력에 대한 의문을 불러일으켰습니다."
+    }
+  },
+  {
+    "id": "1f9a7f2eddbe77c82c3355e7bcabaf2d92db69fc",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "미 법무부 \"中 기업 2곳, 바이낸스 통해 이란 석유 자금 세탁\" - v.daum.net",
+    "snippet": "",
+    "keywords": [
+      "자금 세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6NzlNZUxhVjlMNXh4OVZLYl9aTkVlRjkwQXppMzNRQ044TEdBS080N1dMTThqbGt6a1pOdENCNDV2bHBmRVEwRFJacGc1LTQ?oc=5",
+    "publishedAt": "2026-09-15T19:12:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.528Z"
+  },
+  {
+    "id": "a5fab4b9b04094dc05c467584dd654a4ec313d2a",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "'中 피싱' 자금세탁 조직, 무더기 검거…총책 등 4명 구속 송치 - 노컷뉴스",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oa0Z0dDVQUnR3OWJzdVRUd1FzSXozQ0FScGdPWGtuSUVCOGp2X2FCQXNHQ3hsM1BxQjJvX3h1bWY2RHR0TEpFSFhHb1dMcTE3LVE?oc=5",
+    "publishedAt": "2026-09-15T04:45:08.000Z",
+    "collectedAt": "2026-09-15T22:38:49.529Z"
+  },
+  {
+    "id": "b17cf30eedc4860e0d1aa266dbefc1f3617a505b",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "\"북한 '자금세탁 목적' 코인 몰수\"…'현상금 700만 달러' 심현섭 정체 - v.daum.net",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBzOURrZWpoVi1IeWMwcHI3SUR1WUlaRy1mZmEwUUswcS1LSS14VUhLOVEyMlhPRjNEcU5IOGxvaHFaMERUOUE?oc=5",
+    "publishedAt": "2026-09-08T08:00:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.529Z"
+  },
+  {
+    "id": "0ce70fae973ff973277aace2ae666af57b068854",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "자금세탁방지 위반 9만건…코인원, 과태료 52억·일부 영업정지 3개월 - 머니투데이 - 머니투데이",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrX0U1LUpJZVdka2NBMmt3UjFER0twYlRGRENNcHZXSkNTYldwSlIzRGlnTWxBLWc4dFBoR0NXRVhhdE1mUnNkQkhvbTVNT05aUEJwdm1FQmlvVnR4Y1pvY1hDSFF2Yzlw0gFuQVVfeXFMTi1uaW00N0JwdXNiVnh5TEU5eFJLVzdrcTJWcDhLMzlYcWdES2ZzTUNRM0lDdUNCb3NBT0pZa2dULXNzM2ZYSFpqdjRPcW1QTnQxX19mTlpOamc3dV9MdE9xYWtTUHQ4NnROOVhodnc?oc=5",
+    "publishedAt": "2026-04-13T07:00:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.604Z"
+  },
+  {
+    "id": "ba8e22e4492b8a423e35754c3d290e1d06ce97be",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "FIU, 코인원에 영업일부정지 3개월·52억원 과태료 결정 - 뉴스핌",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BbDZ0SjVvWWxVUEtTdUs2RXQtTGFjOE5ORTkwT0U4OExvN3dWVV9nZTFTaHJVcmhiU3JORWNIMExrX3VxM3NmWTVJOGZMamF0LWlFTnRHQVhySmFF?oc=5",
+    "publishedAt": "2026-04-13T07:00:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.604Z"
+  },
+  {
+    "id": "94f60d8b15273e793dc354b971be945643042bff",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "줄패소에도 멈추지 않았다…코인 거래소에 또 영업정지 내린 FIU - v.daum.net",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kM2xqMWR2SmgwZVVsdjdFdWZGZzUza21XX2ZETU13dFZXMFd0VHhQOURKY3ViUF8zZ2hNQ3V5UmpTZGZKVWgwSWtRN3RmVzQ?oc=5",
+    "publishedAt": "2026-04-15T07:00:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.604Z"
+  },
+  {
+    "id": "5841a9722bdc37df166518ea071e5d500838d8ea",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "업비트·빗썸 이어 코인원도 FIU 처분에 법적 대응 - 뉴시스",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96aXJEOHEzUVZIWFBWZDlsWHFoRVVHdThDaUZBMGktbVpmeGtOYllMcndxLW1hT0RnS0t5dFF0VVc1ZWtIdHVIUW5IUlVrRFpMU1hobC10WmRIM0pLX0c5cdIBeEFVX3lxTE9KYm5aRk5CQlJlbWF0VWhISzU5eFVEUEROTlhzY01yLU5ydldhNnVTdms0V1M4bUxIeV95alFfX3lXdmtEUVBEa2NGNkFGbXJPVVV6SW1Eel9mZF85dVZiRzBmMV94RFdiLTJXWXRsMFhQWWwyVmczeg?oc=5",
+    "publishedAt": "2026-04-28T07:00:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.604Z"
+  },
+  {
+    "id": "1abedc91ba39a4bc92eedc0ea497de0135ab8186",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "코인원, '7개 항목 낙제'에 3대 방어망 항변…제재심·VASP 갱신 '시험대' - 뉴스저널리즘",
+    "snippet": "",
+    "keywords": [
+      "제재"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51d1M1aHA4ZjhlX0pRZWtTRUFNYmozNV8zakRwTXc0MllQdU8ycEZTNEt5OUV5MnFUcjNKUmFsQVl2Z3hfUzJEblhjRDZwUHNxTXRQZjVqME9RcXVLM3JoU2dZME5TMVJ0bmQw?oc=5",
+    "publishedAt": "2026-04-13T07:00:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.604Z"
+  },
+  {
+    "id": "4a5ef93f3dfa9d655efffd775aef8879723dacf5",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "법원 \"두나무 고의·중과실 인정 어려워\"…FIU 영업정지 처분 취소 - 서울경제TV",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HSTNNUmtyOGt6Vm9EVUN4MVJicG1NRUhTUTl2WXJQTEtOckN4YjZCbmpuaHRWdWRBOXVBaTJRT1dqY1RIY050Z1dqNkFpbWlvRklkMTVUX3c3ZWJmdTl4dHNCZ2M?oc=5",
+    "publishedAt": "2026-04-09T07:00:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.604Z"
+  },
+  {
+    "id": "a63a6e9fba2277e6b4db7d48615821d82ad8f2ec",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "코인원도 제재 수순…'영업 일부정지 3개월'에 무게 - 뉴시스",
+    "snippet": "",
+    "keywords": [
+      "제재"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rSHUyVVlxMVYyUHNLdXVXSktTelpBUTExT01DQ1VkMmRqeTRNa2RzZ1RaS1VTeS1SSlBZUncxcTFJY2FfR2w3WWRucURSR3EwRGo3RmZVT2FUOW1ycjJuZ9IBeEFVX3lxTFBZUjBDQ0tkbl9Eb3lWYjRmdTIxQzdONVNnaHhMTlJYem5Sci02ek42dDBrYjBtUmRyRktCYWl6N19sclRBbXA5eW9zTXdKd1c2SG5iRHdtLXBmal9wMk5zQ0J1bE0tMTIxMTR4MFZRcVVfNHMta0JOQg?oc=5",
+    "publishedAt": "2026-04-08T07:00:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.604Z"
+  },
+  {
+    "id": "a1fc65a26c3dd9e7807c7af82177f0dcde43f7f9",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "How Does Azacitidine/Venetoclax Impact Hospital Burden in AML? - CancerNetwork",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONEVGc2xPNExqbUZzYkVQTzFmNG1WZUg2THN5OEJrYW0xQVIycVZxZXVGN2N0TGRMVEh1SUxCR2lqWXVaMkFrOWo1dkFkSjNWYmtvWFhZX1ZvaW9LUlkxMnVXZmVadXR4T3ZZM2hvTVlGd3UxYnpvLVhZTGxkMnQ2RWZuWms2ZlNUb3JuQmtWa2NWWlZoUENiZEJpa0pVZw?oc=5",
+    "publishedAt": "2026-09-15T18:08:56.000Z",
+    "collectedAt": "2026-09-15T22:38:49.414Z",
+    "translation": {
+      "titleKo": "아자시티딘/베네토클락스는 AML에서 병원 부담에 어떤 영향을 미치는가? - CancerNetwork",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "032b2cc2ab0307baaf7549d0e1eb81a781d47bdb",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bessent Teases Higher AML Reporting Thresholds For Banks - Law360",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT1QxTHphMFhNQ3RkcC00QkhzUHBETWQ1S05DTFhPb1NMNkcwSjRRblBwNXZGX3RrQ1U5Slc1SVJaZENlTTBWdmdwaVczQTV2QnVYSE9fbkhjbVE2QjZmSUNoblRfd2JpUmNGcGRNdTFuV1BtSEoyd2xmVllldkpwTHlfcmN3QnRpOGtpZjgzaE1xbkQybkx3MTRKVURnOGYtUzZ1VG10NHhneGlpcnfSAVZBVV95cUxQbXRmdVVhSGtEZjdNY2lLQ1dPaHIxZjdTcHBxdzNXRnJJZEI5aDh1T3htQnVuMzVZcHQ0Ui1ybDF6bk54OW02S2hqcXRPVjVxR1RfSmRVUQ?oc=5",
+    "publishedAt": "2026-09-15T22:21:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.414Z",
+    "translation": {
+      "titleKo": "베센트, 은행에 대한 더 높은 AML 보고 기준값 시사 - Law360",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c6747e002145e6b11752cf2fd07798041389f4de",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bessent signals easing of AML reporting rules as Treasury intensifies Iran crackdown - Global Investigations Review",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYV9pSWhjZ2J5ZDFYS1ZaeTQ5Zjc4Q0plZmpUSnJYXzcteWgwTVR0Z1RHUGxwMVo1cDhHYzhpR0lOR3RSNzA5LXZlRU1IWkRoNUl1U1pqNDRnS2xlQmtKTDAxQlV0akxFOU94R2NHWlBFV3dPWllBdEpKVEQ2ckRRck5LaTdHNEJ0ZGx0Rm5TT3cySEowYlRjQUpYamxMWlhRRDJobWItTnVQMjFsd2VwLU1QbzhRelpVQmxJNi1LT2VpZ0JCSjNZ?oc=5",
+    "publishedAt": "2026-09-15T21:16:11.000Z",
+    "collectedAt": "2026-09-15T22:38:49.414Z",
+    "translation": {
+      "titleKo": "재무부가 이란 단속을 강화함에 따라 베센트, AML 보고 규제 완화 신호 - Global Investigations Review",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b969972fc693b119fd58b5b95989309b3ba1dcee",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BFIU asks stock market intermediaries to form separate AML units - New Age BD",
+    "snippet": "",
+    "keywords": [
+      "FIU",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGc0NGtsZk9lV1hLQlU0V1pzdkFoVkpfb3ROd2FzUGFTczc5eGNoZzhVa1VmM1RWdEVSVmRXOGdsZ2o5THZhdWNyNlVqSFJfZ3MwZ2MyT2tEQ2NmcTZJUWZ0SlVMY24tVWZFYS0wWk1jblBUN2RlSW1mdUFMbXFvOGRUazNtRW8xellmMWJIbzdOTktrZUktN0RNaG1CcnF0eVNwWXNLbTV2eG5B?oc=5",
+    "publishedAt": "2026-09-15T17:50:32.000Z",
+    "collectedAt": "2026-09-15T22:38:49.415Z",
+    "translation": {
+      "titleKo": "BFIU, 증권시장 중개기관에 별도의 AML 전담 부서 구성 요청 - New Age BD",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bcd3315a8c51797038a68713534a4bb9bde70039",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "NEWS: Euroclear launches Kybix, new platform for continuous KYB - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjZmaE9Pam1NRmNLSE1nZllGN0FRaDRFc1RWRjkzVDlyOUg4cGdfWmF6WjFvSXRpWlRWY09RTHZWSEtQak5xSDhfaXpqVjRpeFdSWFAwdFFDZGttYmY1NjhzUFFTTzFEMUN5bHBUa1BuVnExeDVBMmh3UmFJWmtwN1h4Tkc1eWRxcHRaYjA4U1dFN2lXUXZSSlNOd1I1dTkyalh3VQ?oc=5",
+    "publishedAt": "2026-09-15T18:03:53.000Z",
+    "collectedAt": "2026-09-15T22:38:49.415Z",
+    "translation": {
+      "titleKo": "뉴스: 유로클리어, 지속적인 KYB를 위한 새 플랫폼 Kybix 출시 - AML Intelligence",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6428d895f8fa83d2744428ee2c00553d809a15aa",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "NEWS: Compromised Italian agency domain used in fake Revolut data request - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVEljM2JPbHBXVGZFeGl0MEpaREx0TE1TUFo1VlpYT013bGlIV0ZTM05sMmtWczVKUW5KZmtiNlJtQmdFdXp2WHBsMFRkQm5XNmN3ci1jMTBBNkdwX2pZNkNNRkh6cWw2TmNadUxyRXhpTG1xcUdnZndaT0syWVFkOFR4aktpS1pQOWRtbmVkcEZjWktkendRYkRrei10RHB5QjRuRkdNWldZeFVSck9id3hIRQ?oc=5",
+    "publishedAt": "2026-09-15T16:43:41.000Z",
+    "collectedAt": "2026-09-15T22:38:49.415Z",
+    "translation": {
+      "titleKo": "뉴스: 해킹된 이탈리아 기관 도메인이 가짜 레볼루트 데이터 요청에 사용됨 - AML Intelligence",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e77f7276845098276da28cbb9d961d976c02bfa2",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AI in AML compliance: Navigating human intervention under the AML regulation - Hogan Lovells Cadwalader",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRnFPdHNPYkFLUTdVWVZVUWFMRmQ1VWJOVHlnNjFqUktNMk5nVUlNVzRZY01pYTREUXE2OXp2U2k4UmJHM01PTTl0c2JnT1NEZFpMVExOQnA0MlE5UVVrSnhWRHlkNkIzZFVmRmZBR3AzcDk5VFNsQk9rR3RBQk5QeUpWYlZlNHc0bEhaaHJvcjNlWkF1VTFBMXdCekR6NzFIeXZxTEEyZFYtTUw1aEU2MA?oc=5",
+    "publishedAt": "2026-08-31T07:00:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.415Z",
+    "translation": {
+      "titleKo": "AML 컴플라이언스에서의 AI: AML 규정 하에서의 인간 개입 다루기 - Hogan Lovells Cadwalader",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "daab71220ce68bc5d2e879424d8dd23351e09056",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AMLR and Agentic AI - How to turn the EU'snew AML rulebook into working controls before July 2027 - Fincrime Central",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EX1ZBbDQ0WExwRlEtUjFqLVItVktTUV9Hb2phRW5wREhYS01KOFZFOFEzV3hHRjA4UFNBa3RUaGNLdmZQZlJkZXl4R3hTczNKR0pUcDl2YlpDM0N6WElYcVVWOEZZUllUZzhfblZGVTNWdEE1Zkc0ZWQ5Mi0?oc=5",
+    "publishedAt": "2026-09-13T21:38:51.000Z",
+    "collectedAt": "2026-09-15T22:38:49.415Z",
+    "translation": {
+      "titleKo": "AMLR 및 에이전틱 AI - 2027년 7월 이전에 EU의 새로운 AML 규칙집을 작동 가능한 통제 장치로 전환하는 방법 - Fincrime Central",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7cb61968f92d1a98c447938575ca9e9cbf6f2afd",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "SARB Hits Three Firms With R35.6 Million in AML Penalties - Fincrime Central",
+    "snippet": "",
+    "keywords": [
+      "AML",
+      "SAR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92YldEc3pWb2hsZTBIanZNSUMzVDNQTmF0NEppLXVtOThyNFk5NVBCNXBCMGNsX3ZDRzJ0akxaQ0J0WWwwS0VPVkZuM2tMZU12NmdjOUJQdERXX1BqM09BT3ZoN2NaVlZJTGlBT29PLU1ycEFPMFJyc05HTQ?oc=5",
+    "publishedAt": "2026-09-15T08:16:32.000Z",
+    "collectedAt": "2026-09-15T22:38:49.415Z",
+    "translation": {
+      "titleKo": "남아프리카공화국 중앙은행(SARB), 3개 회사에 3,560만 랜드 규모의 AML 과징금 부과 - Fincrime Central",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "41200759b7189cf72a4994d4f22e1281716a7e4c",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Denmark Extends Gambling AML Rules to Proliferation Financing and Sanctions - iGamingToday.com",
+    "snippet": "",
+    "keywords": [
+      "AML",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVzJjbUZFcTRHZGJSV1JjaTR4a3RsZXJyVUVCTk5vRWtPN3U3S25COWNfOEN5aWVGbUk2VllJeEdNX1R5ZlJOSGg3MW5vY0V1Z2c5eGZlQ3F2NWxkSzNaTzh4NktuNlVvTFlIT3MzcDdLb2ktTms2dFY2VDZOdjRmTjlHYW5LYkZQaVp6bXpwend3ejd6QURjUWtWUndwZzVKQjlmek5FdVU?oc=5",
+    "publishedAt": "2026-09-15T07:45:30.000Z",
+    "collectedAt": "2026-09-15T22:38:49.416Z",
+    "translation": {
+      "titleKo": "덴마크, 도박 관련 AML 규정을 확산 금융 및 제재 분야로 확대 - iGamingToday.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "033a7e1c3b89356796f2686d8c6c650f3ef8269e",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Thalia Therapeutics plc Provides Key Updates on miRisten AML Trial, PCSK9/Lp(a) Cardiovascular Program, and Nuvec® Platform Ahead of September 30 Interim Results - Kalkine Media",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOSzh1ZXVoX0RaWVV6bzlxQTlfRDNCTmdQNEN3YzRUalpZbVZRM1A1bVc0bE15NEdZM2t0RDJieUM0S2dRSnNIUXNzNUdZRjRDQUlVSFFkdWxRXzJMSWNXMV85NWZPeDZRWTlGSzdPTnh0dG90V3JJaVFGTjc5M3Z3UlJyQkVsdUNvRHNzR2xzMjlpTEJUZ1FpLVlHN2FwQ092N2tTZElHSmMtR3F4bXZMN3BHX1lsa3hjdVJJcnZYSkZtUDdDVFBtdF82X3FzSUhHZFdsTk9HUjluOVlMaVV1bUx1enNyclVhd09mWHdaTGRqQzdzV1dST3l3VFFDaWR0bFVzRWJRQ3pEbWk4R3ZEMTlSbi0ydlpaQVJFZ0M5ZTVmTUVmZFkxOERB?oc=5",
+    "publishedAt": "2026-09-15T14:32:50.000Z",
+    "collectedAt": "2026-09-15T22:38:49.416Z",
+    "translation": {
+      "titleKo": "탈리아 테라퓨틱스(Thalia Therapeutics plc), 9월 30일 중간 결과 발표를 앞두고 miRisten AML 임상시험, PCSK9/Lp(a) 심혈관 프로그램 및 Nuvec® 플랫폼에 대한 주요 업데이트 제공 - Kalkine Media",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d597719071a4e021ac286fb0a4a6e811b0b99c77",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Clarifies Use of Digital Credentials Under CIP - Consumer Finance Monitor",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbTA1b1RfR09HdzlWeGVnRWg5LUJWdXpIOHdMZUVvQWZ5clFKa21hXzVQMXdCZklRSF9Eb21USGM0MmliZndQLUZxcHRydnR0U21rbDNfZUk3VFpaRk1IV0dUaHBibG5GeWNaX3BJNkl0TmZldVpkS1Q1N2J5YUkwbFRndDhwLWpWZGx0T2dTbHJxSG1HeVc2akMtbUlZTHFkR05iY2FCVQ?oc=5",
+    "publishedAt": "2026-09-15T16:04:49.000Z",
+    "collectedAt": "2026-09-15T22:38:49.520Z",
+    "translation": {
+      "titleKo": "FinCEN, CIP에 따른 디지털 신원 증명 사용 명확화 - Consumer Finance Monitor",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5fc710e01a020274f2693445254a6b7ea3222693",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN, Other Regulators Clarify Use of Mobile Driver’s Licenses Under CIP Rule - JD Supra",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0RMaUFxbnM2UzgzSFItRWhETDhOc3MwTGdGbTYxVVRjbFMtbFpXb1lSRGU4d0JXVTdRdGRQWXFrTzg4T0FkVzVQR2hZS2lqOHhhLTVJNkdEbkN3bl85Nm1tcXQ4Yi1oVGcxX1hDZGNxS2xEVW4wdHNZX2VLVWUyLWtwQV9haGVK?oc=5",
+    "publishedAt": "2026-09-15T21:38:28.000Z",
+    "collectedAt": "2026-09-15T22:38:49.520Z",
+    "translation": {
+      "titleKo": "FinCEN 및 기타 규제 기관, CIP 규정에 따른 모바일 운전면허증 사용 명확화 - JD Supra",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a2b2664e73867fdb4a8eaa4774e4459a9d71bd9e",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Hill supports final FinCEN rule that advances AI in fight against financial crimes - Ripon Advance",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzlJWFhpdXN2R3VvTHpfVGRUbFJzVVhDcF92RGo1SFpvNWRESkFyelhFYjhLS1l6b0ZpejVPSWlrUENTVFNFVEdYbTdic0dLWTBQWml6eUY1TmZRR2pYeG1WRkUtSHYtX21qYW11NnpxM2Jfa2JnOUNTSXlseDZ4Q0tlaTcxYll3N0FLSTlKQy1yMFYyR2NoazVncWM4UV9RMGFSRmlleUJ0VU94emh6R3pUVlBCMXRT?oc=5",
+    "publishedAt": "2026-06-22T20:24:44.000Z",
+    "collectedAt": "2026-09-15T22:38:49.522Z",
+    "translation": {
+      "titleKo": "힐 의원, 금융 범죄와의 싸움에서 AI를 진전시키는 FinCEN 최종 규칙 지지 - Ripon Advance",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e00c94179bb41b4b2ed06298c6cbdc14d34cd222",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Two Democrats cross aisle to help tee up final vote on Russia sanctions bill - The Hill",
+    "snippet": "Two Democrats cross aisle to help tee up final vote on Russia sanctions bill The Hill Russia sanctions bill clears procedural House hurdle Politico Congress Might Be About to Hand Trump Sweeping Tariff Powers The Atlantic",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYkMwaENYcTFqWnVmbXVXc2lBYzljTFFhOTAwVHlkelZNc2RxS2gxNTdlYVJXNW13SlBuOVpLd2xaMVBFZmY2MTY2eWNGdzN4ZDdFQ192VjBDSU9vN2ZKRU9kVVE3SjhSVndGcnZhbEV3NkdaWjJUTVRwei1RUzB3eldTNGgwcUozSXZVNTZXT1PSAZYBQVVfeXFMTlVVRDlHeDVDNElOWTJ2SzJfZDhJN0lzTUZCXzdtM0dzYjY2Y3VWQmcycFRTSjdyX2xtVzZlUlRsRDBsVm5Oakk3dkxtcnFsTXZEYnp6Ums5UGlwLVBOWHhjeUl5U0VHMWw5N1JWd040OFdsWl9oM0xqUHMzNnpLa3RpRmRSYmtnQ0VIM2pOQk9uRnYwYzZn?oc=5",
+    "publishedAt": "2026-09-15T21:29:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.544Z",
+    "translation": {
+      "titleKo": "민주당 의원 2명, 러시아 제재 법안의 최종 투표 준비를 돕기 위해 당파를 넘어 동참 - The Hill",
+      "snippetKo": "민주당 의원 2명, 러시아 제재 법안의 최종 투표 준비를 돕기 위해 당파를 넘어 동참 더 힐 러시아 제재 법안, 하원 절차적 문턱 넘어 폴리티코 의회가 트럼프에게 광범위한 관세 권한을 넘겨주기 직전일 수 있어 디 애틀랜틱"
+    }
+  },
+  {
+    "id": "0bfbdc254f0fc1423e2d31f98eabdba0bc03ac92",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Aimed at settlements, UK sanctions could put entire Israeli economy at risk - The Times of Israel",
+    "snippet": "Aimed at settlements, UK sanctions could put entire Israeli economy at risk The Times of Israel New York won’t crack down on Canada, UK for Israel sanctions Gothamist Palestine weekly: Settlement sanctions spark diplomatic crisis aljazeera.com",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdVVGVU9RX3F6cjZFWTRqVXM4YVpPTzhrZFFOTFc3M1E5SE0zSTV2S3ZOVXBzMUstMHJpbTRIb3VYclRodS1ycmpuaDFJX04xZ3FXZ3dwSVZHdzU2MFhpRHVfM3Juek92cnlCU0dFaHV4YXpWVHhFYU1xRE5HOE5tWWJtY3hLLW9GVkFxVllhLUNqblZKZFFkQjZod0E0OFg5QklrTkJpbzDSAa4BQVVfeXFMUEJlSjBCaXdXTUtHX190NzUwYWQtX2UtUDl2cEtvbmJGaU9kbWN1ZkJxb2VVdVpHc0tLcEwtV1JudE44UkRIVV91aEhiZTAtTjBrZmZJZVZkQzB6ZU5hYk9CSzZ0aFpKS2JnalRoOEVmVU5lQTlOdW0tS0l3YVlld1dsMm1UYnQxc1ZVaDBkX0xTakY0QXh5cEhYb3dJcXhObDB0YTRLM1FPaHRhcmFR?oc=5",
+    "publishedAt": "2026-09-15T15:11:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.544Z",
+    "translation": {
+      "titleKo": "정착촌을 겨냥한 영국의 제재, 이스라엘 경제 전체를 위험에 빠뜨릴 수 있어 - The Times of Israel",
+      "snippetKo": "정착촌을 겨냥한 영국의 제재, 이스라엘 경제 전체를 위험에 빠뜨릴 수 있어 더 타임스 오브 이스라엘 뉴욕은 이스라엘 제재와 관련해 캐나다와 영국을 단속하지 않을 것 고다미스트 팔레스타인 위클리: 정착촌 제재가 외교적 위기를 촉발하다 알자지라닷컴"
+    }
+  },
+  {
+    "id": "acb7ecce164552baf066024217cdbe54dc8071d8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Belarus' authoritarian leader Lukashenko meets U.S. envoy to push for lifting remaining sanctions - PBS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeUtSSC1fdXRfNlNKbU9pYzV1bkJZQjdQYkk2MmNMVDN2NUZVNDBPc0hhbWt3dFdma3BGU3h3YXN4X19MdFhGU0k5c3VKa3hmaGVHRGhJWUo3MDdqV0dGdWR0SGw5TmkyQnAwWHlEU2VlTzF0TDVWWmFtR0F4UjZUQVF1RE9TSUJWb1QtOGs5bGNsQW5XRVg5THktb01GUmE0SDZZazhoeUVyRFd2T0JLQVctS2RWOFpaSlJ5MGNzdVlxdGNWenkxcjh30gHPAUFVX3lxTE5Ub0Z2bXV0VEN6RVF0OW5SN2RpN2s1U1NzNXNubml0WUxKcUd6SUZiRHJnTGNXZF9QY1VkWXJlSUZFSWF6c2p2M1JrbTROcDlZek02OUEtWjlCNHlLaGI1elRoUjJwUUdnVjZqZ1UyV3BGc1BqcVVxM3ozZi1zRWRhNDNkUjBUeEdOOUpaRUtmUlZZY2ZveE1DalFaRzFmalBYdWZDVWZabTd0aWF5MzlYYlBTc0NCem9xaV81dVJ1TXVubG9yRml0V2gzdV9RNA?oc=5",
+    "publishedAt": "2026-09-15T20:26:59.000Z",
+    "collectedAt": "2026-09-15T22:38:49.544Z",
+    "translation": {
+      "titleKo": "벨라루스의 권위주의 지도자 루카셴코, 남은 제재 해제를 요구하기 위해 미국 특사 만남 - PBS",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "50f079bee4fbe01d7b1746a18e869d4fead3d1c2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "House Democrats face divisions on Russian sanctions bill - Axios",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbmJRaU9hVW84Ml82SXFIOE45akR5OXNySVFRVE94dkpYQTZvT09aV1k5RDR0emNncm5uaEM1VkNreFZpQmdWU014MWJqLWZPdXhtSzUxZzlqRi1nYks5V0pWOHJGenk2R3k0VDdCY25aeFQxcEowQjhxTkRwZFJzMW9WRndLZw?oc=5",
+    "publishedAt": "2026-09-15T19:00:06.000Z",
+    "collectedAt": "2026-09-15T22:38:49.544Z",
+    "translation": {
+      "titleKo": "하원 민주당원들, 러시아 제재 법안을 두고 분열에 직면 - Axios",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f43252adab5e5463304cb538ed4ef1d5e03a347e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury slaps Russia’s VTB with more sanctions - Banking Dive",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmxSaU1MVi1Jc01Wa1JlUXpHUDZJZjhjc2NvejBSN29odmdoYUl5Y3JmOHlOMzZqVFZzRDNPM01Ccm9CcGR1WGtiMXF0b2JDOGhQZEZqRlhOdjBOZTBNOE9oQkVIMHVpNmxYU19uallkU3BleXA2bU9VX2RzR2VxSGZYMmh6RE0?oc=5",
+    "publishedAt": "2026-09-15T16:31:12.000Z",
+    "collectedAt": "2026-09-15T22:38:49.544Z",
+    "translation": {
+      "titleKo": "재무부, 러시아 VTB에 추가 제재 부과 - Banking Dive",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "805741b58377f6f43f2fb25407eec3c17586c8e0",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Treasury hits Russian bank with sanctions over Iran ties - Foundation for Defense of Democracies",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXYxZEJhQktrSHR4Vi11OGNqREVEWEpub2liZkx1dzkwTkktUGs0bG8yM2h4QjVadlhKS1lvbnVvMTJvM1dTcVFjRGZ3M1RUZzd4c29iUU1rZGM4RW9uODBYUGNnOHcyU0Rnam1uZWI1UGdWSS1MdlU1Vl90NjhPMlBfWXpkY3JVVWtsdGVtdTR2TG4zQTNJWlNYeTdXdUF2RDRNUXJuSQ?oc=5",
+    "publishedAt": "2026-09-15T20:40:18.000Z",
+    "collectedAt": "2026-09-15T22:38:49.545Z",
+    "translation": {
+      "titleKo": "미국 재무부, 이란과의 연계로 러시아 은행에 제재 부과 - Foundation for Defense of Democracies",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "408e938ade5711e0c51a38b6f9140d760af8f593",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Canadian Marine Law Perspectives on the 2026 Strait of Hormuz Crisis: Sanctions, Insurance and Shipp - Clyde & Co",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQm1obV95d3JmeVRwOFRDNXFLdFdTZ05yU0lFUk5MZmUzcmlOemhnTW1aZE9GV25jMzc1UUxIVkZxb2U1ZkMwUW5mYW5DVlpKZG9rb0hEYjJ4SjFYSmpTU0U5MC1kTmJtUnlrVVZJRDBCWFJzZFd2Sm01Q1V5UTBLLVRfMkJTVDZhNnV3?oc=5",
+    "publishedAt": "2026-09-15T19:43:27.000Z",
+    "collectedAt": "2026-09-15T22:38:49.545Z",
+    "translation": {
+      "titleKo": "2026년 호르무즈 해협 위기에 대한 캐나다 해사법의 관점: 제재, 보험 및 해운 - Clyde & Co",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8189544aecc82a6d8b2a9eaae5ba54cf59d29dbf",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU considers new sanctions amid rising illegal settler violence in West Bank: Foreign policy chief - Anadolu Ajansı",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORHhPU1JnbEJITkVZMWg0YTRyeUM3VkhWdFlPMEVkOFVqdkRPVEVaQTMwaWNWWFZ0bV82QktURTYydG5ueElZRWdIM25SSXJVdHhteWlUYVEyZVg2a0FyR0lfNGNDbFVmOG1yOTlsamF6SDhLQnNwNV9TWW4zeEhJdmlfMGczZ2pmbzJZbEdWRndkS1hvaHFTNGtZMjZoUmhJTjZUWUYwdlljT2Y4dFlkT2ZtNkt5cGRYdWJMcHEyQTNRR0NUdjNGMWgtWFlRdGNSMGc?oc=5",
+    "publishedAt": "2026-09-15T19:29:45.000Z",
+    "collectedAt": "2026-09-15T22:38:49.545Z",
+    "translation": {
+      "titleKo": "서안 지구에서 불법 정착민 폭력이 증가함에 따라 EU, 새로운 제재 검토 중: 외교정책 수장 - Anadolu Ajansı",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d11f9f7c741615663588118a49eaa9be2686f838",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "France stalls EU Russia sanctions renewal over oligarch de-listing - France 24",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUdLREVUanZyN28wM0xxdGlyM2VYSTRWYmxxa0tZWDlZSkFVSDE0b3hlZm5adk9pNnZMcmt2QkFVa3Fid1hWTWlLRTBDT3V5Q0lTUUlEWWRPb0t5T2lMdkdZZ2VsU1dQVWZRTjhNMVp6bnVCXzJNSU11NzYtQ2EzNm9sTkdpQ1hiRmY5R2lmNHV1X2FKVnRvUXF3?oc=5",
+    "publishedAt": "2026-09-15T21:44:03.000Z",
+    "collectedAt": "2026-09-15T22:38:49.545Z",
+    "translation": {
+      "titleKo": "프랑스, 신흥 재벌(올리가르히)의 제재 대상 제외 문제로 EU의 대러시아 제재 갱신 지연시켜 - France 24",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "40e004e3a695f960d424045f9ddd6d8b59cda521",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Brazil sanctions data center tax incentive law, leaves opening for natural gas - BNamericas",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEZ3S1hYWXFrM29kNU5Walc0V045blVLRDluV2VaZ0FndXo5WHdta3pidXJKN2kxcTZTbVhDQWpRazVUd1FucS1CQTBKOFNjYS1sNmdzakdYVU5pZ3lUbDVDa0REWFlzTTUzMFhLUEZvaFN0Ym1HbjRMaGwyM0VZNy00b1dETXRaY3BOT0czMlM1SDRJLU42eW5POHVCMUdXOV90amNtb2c0VXRmMTJQSGNR?oc=5",
+    "publishedAt": "2026-09-15T21:12:23.000Z",
+    "collectedAt": "2026-09-15T22:38:49.545Z",
+    "translation": {
+      "titleKo": "브라질, 데이터 센터 세제 혜택 법안 승인, 천연가스 진입 가능성 남겨둬 - BNamericas",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "27b3d738ffc792922bc66ee01caec896520319fc",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Israeli settlement sanctions 'fall far short' of UK obligations, warn legal experts - Anadolu Ajansı",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc0VONkJacl95dENKeVBsa3N4ZzFsbzlwLWRJaWg1N19kdldySnpvVnhqRWNiVmowaWM3S3hOR0hsOTFXOFEtTjc3NFM2ZGN1eVd6VHB0M1UzSjYxSEhZSFZvSkJnd2ZpVW96YWVDZFc0Ry13QW84S0JRUGlLY2FwS0NxdlFqa1dnY0pfclBCUVpvYUlpdDVOTms0Tmd5STFoNXpqN2RaSUNWc0taVE93UG53TEtfSjhDY1BuWm04YUFTQlE?oc=5",
+    "publishedAt": "2026-09-15T19:14:44.000Z",
+    "collectedAt": "2026-09-15T22:38:49.545Z",
+    "translation": {
+      "titleKo": "이스라엘 정착촌 제재는 영국의 의무에 '훨씬 미치지 못한다'고 법률 전문가들 경고 - Anadolu Ajansı",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "db3827232067f2c263d47c25ff3a53f52441d60b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU demands answers as France pushes for billionaire’s Russia sanctions release - politico.eu",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQm0tS2ZGYkNqelQtM0RPZXQzS25QUnJPaVVwVll0Q0J1SklsMFRxSk5XejlnaXJJRjBON01EX3RrRVRTcEpJdHl6VDNaUmhFMXpUeDB3ZmhXZlFlV295V1RaZXdneFBQY1gwMHloV2lIeGFoZm1KWFVKV1luM0RTdQ?oc=5",
+    "publishedAt": "2026-09-15T18:45:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.545Z",
+    "translation": {
+      "titleKo": "프랑스가 억만장자의 대러시아 제재 해제를 추진함에 따라 EU는 답변 요구 - politico.eu",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "02426ca63cf74451f61bf94e2e5141249975fb87",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Diet group urges gov't to request U.S. lift sanctions on ICC chief - Japan Today",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3FYdGt3WmhTbWJfeXBWUDhxb2NFTVlUdFRGOTV5ejBhSk12QWltbnhZY2N6NFNiOGZlYS1oaVdOUmN1V0UxQkpMcE5zQk9OMV93OFdGY2hEeFlRdWpKRVV0UVdtWnNxSDZWdDZvUm42UVRWUVd2dlV2WkU1Y3NWc3U2TU04dUNYa2x4c183UUFGVlhWWTJMQUVCM2NGbHBNYTZ0TnllWGNlQWRqTURFOWRvZ25RLWVsMU9KZl9n?oc=5",
+    "publishedAt": "2026-09-15T21:00:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.545Z",
+    "translation": {
+      "titleKo": "의원 연맹, 정부에 미국의 ICC 소장 제재 해제 요청 촉구 - Japan Today",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6f5faaf310577fbf29b32c4a87a57c51bfcb5ee2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Over 130 lawyers warn UK sanctions on Israeli settlements don't go far enough - Middle East Eye",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnJUTkpmb2JVczJoem5JVmtCY3ZCVVdLNnF5aHk2ZmZrREFSamhrd29ETU9YdVVRVG9PNXREMktod0Y3b0RLQjNjei1MaFQwX0taZ0EzZmo5NmFJb3BKUjUyWVBrZkQ1Y3NkY2drM1pKcHUwbHR3bE16dmU3N3pYby1UdXFnOF9fdThacGJLd2FuY19FaUxNSDQtbzdMMWhneVFJdm93a291M1NJT1hj?oc=5",
+    "publishedAt": "2026-09-15T10:54:03.000Z",
+    "collectedAt": "2026-09-15T22:38:49.545Z",
+    "translation": {
+      "titleKo": "130명이 넘는 변호사들, 이스라엘 정착촌에 대한 영국의 제재가 충분하지 않다고 경고 - Middle East Eye",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "65c73de91a7f1dc300dfc5bb52715ee1efd42310",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "19 Russian defense companies remain outside international sanctions, helping sustain Russia’s war machine - Euromaidan Press",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWjdjbDFTdTJHUWhVQUN6WnhpOGwtRDlUYm5PZGpCYTBQRUM5N3hod3BYUGc1eU5oSHVtQm1zVE96ZkJERnQ0dEZheEtVYkhESHUzSHFzZU1ZYVVVS3JCVXVlMG1YWUsxM2VzY3JZeThURGcweFVnTkEwbDZKNlhuWDJGbTFvaTVGVDF4cWxFS2RidmhiMXpLelN3VkRiVnlmUmV6SmZFcVZ6T0xxM2ZmcnoyRE5Qd2Y1b1dKR2Q4NjNGcFhLVzVjX3FESlF3ZzdrNHM4X2FWWFBDTlk?oc=5",
+    "publishedAt": "2026-09-15T16:18:48.000Z",
+    "collectedAt": "2026-09-15T22:38:49.545Z",
+    "translation": {
+      "titleKo": "19개 러시아 방산 기업이 국제 제재 대상에서 제외된 상태로 남아 있어 러시아의 전쟁 기계 유지를 돕고 있음 - Euromaidan Press",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9237a5667651cf57a541310248e91c42b0b4a3a8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "As Russia’s War on Ukraine Churns, Lindsey Graham Sanctions Bill Gains Momentum - The Washington Stand",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnQyWXpRSTNnOUZCeldyTnlkZkJHb21sWHlBSzc3VzI2TmZFLW8zbDFXNEpGVmNPdXY1Sk44T0c5d2NxSWw1V2VtMnVLblFXc0dlRGFjLXV0Wms4ZGVabm1SUk1JSi1wUDlfUkxRa1YzQmc2MlBWb3NoWjJ6V0pCbklRaXowSVF1cXNQTHlqTkxDS0Fxb2toV3Y5R0xNM3k3dUdMa1czd0JHTFRwQTduOFFHMA?oc=5",
+    "publishedAt": "2026-09-15T20:13:44.000Z",
+    "collectedAt": "2026-09-15T22:38:49.545Z",
+    "translation": {
+      "titleKo": "러시아의 우크라이나 전쟁이 지속됨에 따라 린지 그래엄의 제재 법안이 탄력을 받고 있음 - The Washington Stand",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "36e17efbdd067dc637d6410f80399acf06669384",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Over 130 lawyers warn UK sanctions on Israeli settlements don't go far enough - Middle East Eye",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGdZcHRPaFVtNHBLemd4emItdTQ3djE1eVBmbkxYSFNYQWpkOUU4ZUhIWGFYbGduTzRhQVpLd0xZNC1Qd3lwLWF5TG1mMDA5eDdjcDROSWRuUERQcnJkaDJTcWxRUVlXNVZCRXNBNnViUGUzRnFYcjBPbVU2UFRMOUJlWHBFWWpaU2M1ZDVmemJITXdUVHRncFgyS1F5aDZBYjdBVlRzVEItaDJTa255czhmQW9BczdYR1ZkZ2pGSjBnQUU?oc=5",
+    "publishedAt": "2026-09-15T17:08:00.000Z",
+    "collectedAt": "2026-09-15T22:38:49.545Z",
+    "translation": {
+      "titleKo": "130명이 넘는 변호사들, 이스라엘 정착촌에 대한 영국의 제재가 충분하지 않다고 경고 - Middle East Eye",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "faefcd26717283d49ec93e0f4b7bcde0772f7b5b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK expands sanctions agenda with planned settlement trade ban and tougher Iran measures - pinsentmasons.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdmEzWXhtdW1HVzl1VkxoUk1ReFRDVTU5dl9CQnU0Vy1OZXQxVG0wNzJLeFdmQmQ1ck13WUhoblJVbjhndFFROFZ6c083bzAwOHRDeUpFZWI2TVFjYkRsSEhjcGJGV0hmdGhKN0NlU0E2UEVjSjRERXliM2pVTmZXOHVHT0FlRWtYNG5nM1AxRmg4RFpFWFE?oc=5",
+    "publishedAt": "2026-09-15T16:05:45.000Z",
+    "collectedAt": "2026-09-15T22:38:49.546Z",
+    "translation": {
+      "titleKo": "영국, 정착촌 무역 금지 계획 및 더 강력한 이란 조치로 제재 의제 확대 - pinsentmasons.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b4ac2960050c20e868a1e2763d9dee0de6212a6e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Finnish Customs Investigates Alleged Six Million Euro Sanctions Scheme | Ukraine news - #Mezha - Межа. Новини України.",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1Y1VPd2M4cmZBVTBVelJDcVFEeGdYU1VCZjUxby1nNDlfM1IweUdEWFUzTGtFcTc0SXZpYk9EYjVMcVFjQlYyYWtiOHNmUEpPMDR0TWREdGVWbWUzengtdHNmVTdzd0t5Y2dRX3NxZm80UFE?oc=5",
+    "publishedAt": "2026-09-15T19:40:14.000Z",
+    "collectedAt": "2026-09-15T22:38:49.546Z",
+    "translation": {
+      "titleKo": "핀란드 세관, 600만 유로 규모의 제재 회피 혐의 조사 | 우크라이나 뉴스 - #Mezha - Межа. Новини України.",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e288acca2204c63aa1cc7e3e91f832bf2f5b5cef",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Belarus' authoritarian leader meets US envoy to push for lifting sanctions - chronicleonline.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbFdyNFF2WUgweHB3V0ZvdTBoQURuMGVHOF9zZ1RodzZzS25IMklGXzYzQXFJeFgzQVVVS1M2TnNFaUdaMGZ6QXFNOGFSeElxaGRxZ0RyeGtLZ1JORV9rM2RZcVZWQXU0NzdsbjZkYmlyRlhmTjlta1U3cndEbERvSERDOWNzVWYybGxmRlVSV2hjQjZUa3pRU3NtWHJSYkV4VjNpS3BMc2RwSjJIb2VHemY2aWMxb0hCS2pBMk0tdE5CZ2F0XzQyXzRncHVvaDlkWGdDMU9pa2tGN0hDWVZKOE1VOWFqVGtrSlA3X21JWnAtX2NVTjQ5UXdR?oc=5",
+    "publishedAt": "2026-09-15T13:28:34.000Z",
+    "collectedAt": "2026-09-15T22:38:49.546Z",
+    "translation": {
+      "titleKo": "벨라루스의 권위주의 지도자, 제재 해제를 촉구하기 위해 미국 특사 만남 - chronicleonline.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "22e98a69d143bc2ff4dfa41b272e0ac0cb7800cb",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Belarus' authoritarian leader meets US envoy to push for lifting sanctions - Oskaloosa Herald",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTnB0QWZ5SldIX05WYlRwSTktMWt1NTNWU1B6VE1JTVkzblI0Q2d6SUYxVWpmUWxqYjBUb2FvbW1GXzVrNmNzNjJjOE5fbEhyLW1zT01UNTFxX3ROWVg3WEVBQ2d0Q2tyU0o3YXZxTUFiUlNiUGdESDFnczY4TVlqZjYzUjlBN0FwNl9BclNmQjNBTUFuaW9DUUFFWGl4cS10TWkwS2Juc3U4ME1OSHBVZjZNbEFFWUJ2bk5fSGJIU0xKRE9FTjJRUVJiRzdPLWdRZTlmZFpqVkREY0tIakFWM3Q3RU1lOThfOU1BQmx3bi1MOXdxZjR6RWNWSWc?oc=5",
+    "publishedAt": "2026-09-15T13:18:05.000Z",
+    "collectedAt": "2026-09-15T22:38:49.546Z",
+    "translation": {
+      "titleKo": "벨라루스의 권위주의 지도자, 제재 해제를 촉구하기 위해 미국 특사 만남 - Oskaloosa Herald",
+      "snippetKo": ""
+    }
   }
 ]
