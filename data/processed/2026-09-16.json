@@ -3117,5 +3117,635 @@
       "titleKo": "중국, 이란 제재와 관련해 미국에 보복할 수 있다고 경고 - Financial Times",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "0e617f7212d0b93204be2bff48f642ce6b2f2348",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "자금세탁으로부터 안전한 선진 국가로 도약합니다 - 대한민국 정책브리핑",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xTlhJYmZGRDhqemRBbXhTSG1UMHc1T0ZvZDJFSFZub0pYWlp3MEhSNlppSXNQU3d1cjZVY2JZT1RTbEdqbGR6bUZmSkV6YWRHcEpyZmNvc3M0ZkpkaWJrb2xJdS04MHczZTRSTg?oc=5",
+    "publishedAt": "2026-02-10T08:00:00.000Z",
+    "collectedAt": "2026-09-16T22:34:44.890Z"
+  },
+  {
+    "id": "a9821773046d808ba8980a0f191d422580ba622b",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Canadian Broker Pays $750K Over AML Program Failures - Wealth Management",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTmJwMWFoSU53Y2JjUWZYdy1ET091cWd3NEE3ZFo4eGtuM1k5M001ZWlIblB2emJxUVFhaXZvblpQZmpEN01CMEF4NUFnYjFTR2RpOGRhS0g1TWN0X0RDSnFxel9faWR4Y1BfRGpyNWJfWGZ6bm0xckVmTTlSTTZLM2NqT1RtWFV0TVdnSkZfWlpEY0pIQjM3ZDZRVXBxT28?oc=5",
+    "publishedAt": "2026-09-16T20:26:36.000Z",
+    "collectedAt": "2026-09-16T22:34:44.761Z",
+    "translation": {
+      "titleKo": "캐나다 중개회사, 자금세탁방지(AML) 프로그램 실패로 75만 달러 납부 - 웰스 매니지먼트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a020935d70262b19ce764957fc0acfc052267a0f",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK Government Plans New AML Crackdown - Wealth Briefing",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbWlWMWpNeWFBaUdHcEp6T0duQnNyZGFlaGQ1d3JkekR4QVgxWlJzRmpsa0ZDNzNVZFZsZkUtRE9NUmxVUU9SYlZHSmZyU0FxYmRqOTUyenZ3blJYZ3BlSVlURGJnWHBEQU1ZeEk2Sldkd2YzbmlvbHRJbHF4UkRxWGtvV01IbUc1dHhBcW5XNA?oc=5",
+    "publishedAt": "2026-09-16T19:33:15.000Z",
+    "collectedAt": "2026-09-16T22:34:44.761Z",
+    "translation": {
+      "titleKo": "영국 정부, 새로운 자금세탁방지(AML) 단속 계획 - 웰스 브리핑",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fc47ce48bff3ee90a36dac192938a40598023c75",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BREAKING: Treasury warns banks over Iran networks exploiting US correspondent accounts - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzkxUFExVEFmX1RaVjl6bmpMOWMxR1JBZk84TUJsdHVCa3Iyel9qVUZSNXNWYktDOTczZWpaLTRlVnUyY29hRjdtUmRIbnJ6dm4xYnFTc1BCTllrWWVtaVBKWWZwd1ZnQk1ZQkw2ZTZWYXlCbVUwMW8zcmFxMzhtMENSc005T2liS2JLWDZpQnBMTWpFdlZsd1lQcDR2cGlwTDk3QWs0TFpFXzdfODhHZ2w4RkJuWmJlTHJRV0xnbUl1TnN6?oc=5",
+    "publishedAt": "2026-09-16T20:21:39.000Z",
+    "collectedAt": "2026-09-16T22:34:44.761Z",
+    "translation": {
+      "titleKo": "[속보] 재무부, 미국 환계좌를 악용하는 이란 네트워크에 대해 은행들에 경고 - AML 인텔리전스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e8c8a2b7bea7b66adbe358d430699c4db1218e81",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "ANALYSIS: Revolut breach puts renewed scrutiny on fake law enforcement data requests - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXNsaW11ZXROWVc5UVhGSEl0MldCS3hocHA5SEtXMlVRZUpaOVhrd2NmUV9WazhGLTlZUVloSUdvQXB6bGRLNzRTNTBLM1JLeXVodzZ2T3gwdnRWS3p0a2ZHMFlhc1AtdVVTdkp2eXZ0dC1MU0tGSUUyV1BOb2YwbjB4eTJDUFlnTlp3VUNVR2FCRUgxVm0yMGZjdUJiY09nXzNGVDNtUHlqal9Rc2tsbzZBalJoQ1l3cFE0dURLTnVXUQ?oc=5",
+    "publishedAt": "2026-09-15T07:16:49.000Z",
+    "collectedAt": "2026-09-16T22:34:44.763Z",
+    "translation": {
+      "titleKo": "[분석] 레볼루트 침해 사건으로 가짜 사법경찰 데이터 요청에 대한 조사 다시 부각 - AML 인텔리전스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "172b5381dd68b157be4de56c76d56ace40e42d67",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Capital One shut down 385 Trump accounts over money-laundering flags after its own $390M FinCEN penalty - Yahoo Finance",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMm44clNKZUQxa1NOUWQ2a1AyUzA5Q3ZkeEwxSFNkWG1CM2Z4c2FLUnd6WVkwWENQQ2VJOThFQVpodWtfMTRBcGN2anJlZE9TdWt5aW1xWUN4LWk5cUdxZ2h3MjB1RS1TVFlCMWZvOFlYamZuVzdZNVhhcS1GOEFaTXNtNjdhUTJvZVNrcUQ2RVdNVi1Z?oc=5",
+    "publishedAt": "2026-08-19T07:00:00.000Z",
+    "collectedAt": "2026-09-16T22:34:44.841Z",
+    "translation": {
+      "titleKo": "캐피털 원, 3억 9천만 달러 규모의 FinCEN 벌금을 부과받은 후 자금세탁 징후로 385개의 트럼프 계좌를 폐쇄 - 야후 파이낸스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d4c93784ec1a5481540413be7720f05352b40ad4",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "TRM Labs Comment on FinCEN and OFAC’s Proposed Rule Implementing the GENIUS Act - TRM Labs",
+    "snippet": "",
+    "keywords": [
+      "FinCEN",
+      "OFAC"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSmh4UXR0WWpxZU96TE42d3cyTE4wVVVpRHVlQnJYaUJ5ZHY5Rk16X3ZTYmE5dDhXWmZXNHgxTzlXSlVTQXcyTkN2UmpTTjFKMTRkYnZtTUVDTXQxR09VckhvenNjeTFBbU1IdmNNbllvQTRrY1p5SXdRSGN0X2FfU25ZNVZJWVVBQUljc3ZpMGgtOUpWdHhJc0dXVGcxOHhtaXF6YUU4U1hPX0RSWWJTUFFBbWNUN1pE?oc=5",
+    "publishedAt": "2026-06-09T07:00:00.000Z",
+    "collectedAt": "2026-09-16T22:34:44.841Z",
+    "translation": {
+      "titleKo": "GENIUS 법을 시행하는 FinCEN 및 OFAC의 제안된 규칙에 대한 TRM 랩스의 의견 - TRM 랩스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "535cc7f94f4c80d59a64c18fae8b658bf69e9a85",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN's proposed CIP rule for permitted payment stablecoin issuers: Familiar doctrine, new frontier - Ashurst Perkins Coie",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZGEtQjF5V1ZiTVhtVUZTSklJTm5aUVBLbTZFcmY2ZnJIdmpwa0lQMkI5cXJTbzZtcXBfcXl1cURxLTFiLWI4NWFsc28tMGVyR0RJRUxYVG9fSHQwVm5RUjRrQVlsdEpTb1hOblZwb2RzNVVLeWhrWVRvN2RPNFZ1Z1UzTFNUTndqNzVIMFZNTXlDbTM3blhPTWdFb2lsQ0dFMVRHT0lDdkx4Wkl1dTFhVW5BbTg?oc=5",
+    "publishedAt": "2026-07-07T07:00:00.000Z",
+    "collectedAt": "2026-09-16T22:34:44.841Z",
+    "translation": {
+      "titleKo": "허가된 결제 스테이블코인 발행자를 위한 FinCEN의 제안된 고객확인제도(CIP) 규칙: 익숙한 원칙, 새로운 영역 - 애셔스트 퍼킨스 코이",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ad59480724a9a2f9863b15aaa2101a7cbb43738c",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN's Gacki To Join Citi As Global Head Of Sanctions - Law360",
+    "snippet": "",
+    "keywords": [
+      "FinCEN",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnR6b2drTDhYaFZYRzZnWnFiWlpXYnBwNE82X25MWkRsbmUtT043X200X185YlZWeXhWLUpGb0ltOUZhWkRQZWh5RFF3TUhsdkljMXY3MVo5dHcwS2dKVmRHUWtiTWpCa2V2a1lqYURvX1dJeGpVRUNhVGNfQVBRaHdyb0Zsc3pRSmVjNTJfdkVneUdQYTFOQzNiWdIBVkFVX3lxTE5UeGduV2lVSWpYV2Y5aFRmc3BTSWp4UEd5YTB5QUhvSkplejBQUy0zQm1nM1ZkWEdpTENWSmhVb1RfcThjSHhIeVBtTFlndnA5NGxEX0hn?oc=5",
+    "publishedAt": "2026-07-31T07:00:00.000Z",
+    "collectedAt": "2026-09-16T22:34:44.841Z",
+    "translation": {
+      "titleKo": "FinCEN의 가키, 글로벌 제재 총괄로 씨티에 합류 예정 - Law360",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3190c064156e5faccd6bf0fe9b4c66d63ba1d71e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump administration hits South Africa with new sanctions over alleged discrimination against whites - Chicago Tribune",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ1Rqa3RBR01jT0FxeUNMaE1jcnVJX0dHNkcyVEFQeFF4ZW1UTzFadDcxU2RFSG93eUZNNmU2NGZpM1V3dG9KVmpQTmd0RExkbzRjVENHZjBWNlpWWXFHeXFXcHBFbWtEM2tSYldSbldIT0Y0UDVJcUNpcXd2NUdQa2M5VWU4SUE0bDJxX0tyNEhPMnVoYlNWc3lNLU1pNEhVX0dxcWUxR0I2QXp2dFE?oc=5",
+    "publishedAt": "2026-09-16T15:19:58.000Z",
+    "collectedAt": "2026-09-16T22:34:44.914Z",
+    "translation": {
+      "titleKo": "트럼프 행정부, 백인에 대한 차별 의혹을 이유로 남아프리카 공화국에 새로운 제재 가해 - 시카고 트리뷴",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "91291ed9230a0c9df9adc3af324c6ea07fbcef07",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Belarus frees 25 prisoners in exchange for the US lifting some sanctions, envoy says - ABC News - Breaking News, Latest News and Videos",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORWxSRjZKbVJvMlZCcjlUWUdSSHNMNzg0XzlIeWdJcHJ5WU52c1pBTWZIYmRJVlB0X2p2LUlBSndQM3kzS0pKVFIzU3dIS1dZYXVQMWFxdFA1Y3hmV3hmdFJkZ2tOOWs5N19Xc2twdXhKMUFuQ3FoUlp0NkhQckEzaTdRNXVuS21JelBzd0ttek9kM1Y0Um44NjZrcFI2VjlGWlcza2JaWkM5QkhfdkVn?oc=5",
+    "publishedAt": "2026-09-16T12:50:38.000Z",
+    "collectedAt": "2026-09-16T22:34:44.914Z",
+    "translation": {
+      "titleKo": "벨라루스, 미국이 일부 제재를 해제하는 대가로 죄수 25명 석방, 특사 밝혀 - ABC 뉴스 - 속보, 최신 뉴스 및 영상",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f5bc573bc4643bf83e7bdc3c3c4d51bb309a4e8a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Video: Belarus Releases 25 Political Prisoners as U.S. Eases Sanctions - The New York Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOazhsc1pvNkhiVVBaaXBOZG9rbzhzOFhNeXBTb1RZMnNRV0QxT0pjM29KSUt1bkxnNGZEMHU1S2hickVVZVJEWFVBb0FPNllIOEYxaDNPeEd3WmVuOTR3TW5EbF9MeFJIU2hEaXZoLWlwX2VfOEg1a3M1MUo2NU1xaUk5R0pWX0lBYllGNWd1NlMxb0ZfYURFcW4zbjUtRlNnV0E?oc=5",
+    "publishedAt": "2026-09-16T19:23:23.000Z",
+    "collectedAt": "2026-09-16T22:34:44.914Z",
+    "translation": {
+      "titleKo": "비디오: 미국이 제재를 완화함에 따라 벨라루스, 정치범 25명 석방 - 더 뉴욕 타임스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5cf3f1dbfdec1102d2a8dd9f25d717680c903485",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "WATCH LIVE: House considers bills on Russia sanctions, AI data center costs - PBS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0lDTHNQYnZaU0dRNU1MU1d1RVdLTE9FbVlBYkl6czNMMzdLTUpvelA5a2QzSTZtREdvQWZIV3BIVk9majVuSmRWTWh1c25WWVhkcGl5eG1Bcm0zdUZIQnBwYU04dEJxeDktMzlVQjU2VFBsVy02WjEya3dwTFhETUlHNXUtYmZWN1Z2dXRKRlZUbHV4Q1JvOW9xa0swYVRvSlVVRU5RT0M0M1ppZy1fadIBtgFBVV95cUxOQktsdVVFOUxaem8zalA5WXVtVGZ2bk5uU29Rd3hQVnlTcll2X2RENk1qV0p2dFljXzFLQ01oSEpERmJUSUNTNW1PNUt0NXIyV1ZjdG5famFkNXFzSlUwVGcyRHlWaHJ4Y1YtUy1CTE5hSmRMbjd5ZE1RUGJRZzlHeHZ6R0p4RWVJZnB0VGczVFFHWlNfNHlfYlpPSTlHSEZ2WjN1cm1fT1liWl9JaG5BVE02elpwdw?oc=5",
+    "publishedAt": "2026-09-16T17:14:15.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "생중계: 하원, 러시아 제재 및 AI 데이터 센터 비용에 관한 법안 검토 - PBS",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3caf81bb256d249b6ff11f1e112b3521675aad3c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Some Republicans privately fear Russia sanctions bill will give Trump too much power on tariffs - CNN",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KOWMwVkRZNzF1TUdWeFAyejV2azZhbFlFbkpvQXFfZkdDNklueTFiYzdlaDZLQmNMX0tPbWdidzNZeHFfaC1PRHVCN0dpamExUFBxbjFweGtkVHo4aDBXV0xTWmE0MkJCQlpRZnhwb2w1a183QnNJbg?oc=5",
+    "publishedAt": "2026-09-16T20:32:25.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "일부 공화당원들, 러시아 제재 법안이 트럼프에게 관세에 대한 너무 많은 권한을 줄 것을 사적으로 우려 - CNN",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0bda721fdb4007b58035015a26018b33a484fde2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "House nears vote on Russia sanctions bill named after late Sen. Lindsey Graham - AP News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnh0S0FWVVRkVmxPNVBfeTlCSnlsSHBOM0VzZWRjYU5mSVNORWd1UnpBSmhFT2V6aktBMHc3V0lOVGpiUHlBUFFDV1RYRE1pYWFsNHgtd0xlZFcybFA3ODF3LVVFSzEyaUN6WmJtclE5ZEJUSUF6U0F1cUpWbWJndENiaTRuSEtaWU4yTEs0dmJ1b1I1a2UzMXpNRm5nWjUtZV95c09Lbw?oc=5",
+    "publishedAt": "2026-09-16T17:01:00.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "하원, 고(故) 린지 그레이엄 상원의원의 이름을 딴 러시아 제재 법안 표결에 임박 - AP 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "899ae5e1c316eb94efdf64c57e1d05e72d532dc0",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump administration sanctions South Africa over anti-white bias claims - spectrumlocalnews.com",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUndrdXBaV18tTXRFUWd6VDExcVYybzdrQjMzVDA0bWJIZFF3NUZaeURPdG90Q2MybGZOM2Z0czBDbEpmdHlUVWpURnY3VURnOHRxS2x2YVdLdjVycWw3SnM2TDZ6ZHBIb3FqN3FBazN0SzZtS3hyYVphMEhuX3d2ckx6VXRzc01uMGI2YWZzNWpyazQyMU55SDJIQ3FsUXR5b0RQbFpJWGVZQ1dZZzhFaTdBSGNlM1ltbHFUOVV4U3BQZ3dUZlZHNy1qZzBMS2R6U3NNSXZSMEs?oc=5",
+    "publishedAt": "2026-09-16T15:13:00.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "트럼프 행정부, 반(反)백인 편향 주장에 대해 남아프리카 공화국 제재 - spectrumlocalnews.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6d45c7b46082c4e45d3621ded546d84c80b8b7e3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk - wkyufm.org",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQazh1d0gxSV9QWTJWTUhBeHJGZ0puME9tejhBdmFwMVI5cU02R29odWg5R29JcnIyeFFVb2RuaU9Ob09sNndwQjF2U2pxeVVlcTZTTXZqMTJVellubkduY19mdUhTUHB1cnhPWmhyQWFkVUlIMi1HYnk3OG9vS1VzVGhMQ09uNVJYdGJPdy1rNzJNRlFBVktIcER4R1JfWFU2TXVLT2twNzlXWmNyQ0ZEY3Z4SzVNQ2JhaHByUVFn?oc=5",
+    "publishedAt": "2026-09-16T22:30:00.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "하원, 러시아 제재안 통과시켜 린지 그레이엄의 이름을 딴 법안을 트럼프 대통령 책상으로 보내 - wkyufm.org",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "106ac448e9e030347fdf73b2039c27ac21736508",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "130 Legal Experts Urge Burnham to Expand UK’s Sanctions on Israeli Settlements - truthout.org",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaE5ocDNrZFJmXzJTVkZ3dUFxNld0a1lwSzZTU3N4T3YyUTJaRDgyQWFNN0JDUjNYaDBPaml6VzV1WlFiaXg3RklZemVkanByaGM0MVM4alVZakZlV3o0QkhHWjMxSzZqaUJpTUJqRUN2SlE5QmFxNk9EUGo1eFFlWlpMWnFSNDFhNTlDaENraVNmcHlhQnNKcy11UkM0ckRqVTZxU2VaT19GQUQy?oc=5",
+    "publishedAt": "2026-09-16T19:06:50.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "130명의 법률 전문가들, 번햄에게 이스라엘 정착촌에 대한 영국의 제재를 확대할 것 촉구 - truthout.org",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c41775a4b724481e7ff92a4e6da20a90f5a02696",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Maplesville head coach responds after AHSAA issues sanctions against Red Devils - WBRC",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYktxN2xfX0thTWR5TW9pdkxTZDEyV3RkOG8tUlJTb3UzRVAwdlAyMG9WVS1zVmFacEpMa3RWanpmV01vQ096WTVRN2Q5dUk2emJsZnh3U0FoMmFscGMtWEYwSHJQbFNHNXZhZ29GOUN2UGxQOXFxV2VpN0tvN091eHFSRV92Q21DYWc4SFM5ZXR5RW5pTFhnV2QzVXR5OUlkNWJSWDdqZEU1MWRWYkNHSlRB?oc=5",
+    "publishedAt": "2026-09-16T17:16:00.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "AHSAA가 레드 데블스에 대해 제재를 가한 후 메이플스빌 감독 반응 - WBRC",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8fa20d4758f5041a4efebb7755e383f35908ad89",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "From Halkbank to Golden Global: Iran sanctions and Turkey’s banking ties - Iran International",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfdC1pYTI4SGtZa0plQXQwX3Nqd0VjUjJxb0ZWb1QxeDQ3eVk0amNMMHpPMFZjQVNCZDhjOVdRZnpDRlBuYTgtdXdqaDlyd2VKV3c?oc=5",
+    "publishedAt": "2026-09-16T19:09:38.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "할크방크에서 골든 글로벌까지: 이란 제재와 튀르키예의 은행 관계 - 이란 인터내셔널",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3ad07d24a2c7a34af57b618cdb0fb3417428d3d8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Congress Clears Russia Sanctions Bill, Sending It to Trump - The New York Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHAycFF6cm5qMEF2RDZSeGxNUUNTSXVlQ0NqNFRzS2d5RlZRZlZoeTVDZlVoOUJIRXcyZWNjZWV6Z2RVVGxXREZhMDRZR3hWUC1pQzAxdlJsYlZRbENsc1YxMHBjT0JRaWlna3JKY1RtRjBTdGNmOTRhbndRdXZQeDg3OFBzbFktQVRj?oc=5",
+    "publishedAt": "2026-09-16T22:30:48.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "의회, 러시아 제재 법안 통과시켜 트럼프에게 전달 - 더 뉴욕 타임스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0115fcb1fbf193e6c4a9707f7b4c189df0c22ffd",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Belarus Frees 25 Political Prisoners As US Says It Will Ease Sanctions - Radio Free Europe/Radio Liberty",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN1FLcl8yV2EzQlF4MGNRODVjUENhcWVsVEtfTUE3eDI0Ymx6TGQ2eVVOOTZUcS11Z3Bmbkl3MDE1VWVOclhybUdnSzZydGdZLWV6RmVIN2lDWmlfNkNULVl4TDhpekZzbXVvbUxRZWVaeXJYZkNLOUZ3dUxMdDRhUUZGWlUyeVlQbXBNbTlpd0ZwU03SAZYBQVVfeXFMTkF5ZVRTMEtQTVl4aHVJcTN5TjR6anRVaEVaakNjdHhmZjIwMzRUVkZEWEZQZWxoX09HWm5aakV0NTUzQUlibVhBZnZwMkR3dHpUa3dMMlZTTlp3TUxDNjdZX0JmWnA5cVMtRE9RbXRiaVVHeFpDQXBKWWxQRkR5Yk5zVC1QTWw1dFBsMkZZMHdMY3hSc0dn?oc=5",
+    "publishedAt": "2026-09-16T20:53:02.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "미국이 제재를 완화할 것이라고 밝힘에 따라 벨라루스, 정치범 25명 석방 - 자유유럽방송/자유라디오",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9414662f9b5dace433ef6f1140958409f1f93874",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Jared Golden breaks with party again, this time over Russian sanctions bill - Bangor Daily News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUdwUlhEcjR4X052dUpQSVlRSHIzamtOQ2V1ck1jcEhVQ1JBT2MyeHROVzMwNHk4ZWNlSzVaWVctcU5tYlVXR1Y2ZkV4Z3FDbGlKRDlDSi0yVHpXWjA5VnVzQ241dFNLUnBaVEVSbXloVHpWZ3NrWGJrejVBY0RHc1phVW1BNXVWYWlBSzk0S3FEU2NCOHdLcGFlV19NYXlY?oc=5",
+    "publishedAt": "2026-09-16T22:10:20.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "재러드 골든, 이번에는 러시아 제재 법안을 두고 당과 다시 갈라서 - 뱅거 데일리 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4962f0c6fa810eb8ba4d9ab950979a379029459f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "MLB Pitcher Seeks Sanctions Over Alleged Brady Violations - Law360",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWFB3aXJKdHpHdnJSLTk2N09tOUJmejYtMjJlUmw3cnB0RXpDVFJUaFNocGdSXzJ5X2VNNUFrQVJaTC1RRm52NTFxY2hjOEhLOUZDb0FvZ3p6OThpR0QzMzV3aDRGdHFoTy1ycWdjOGRxNW1Oc2UyOTVxRUdMVVIyd3ZwUm84SnpCMTg4UF9TRFVKNWNzMnMxNi1xMDgzNTFNOXRxb0dxOWVBYWMwVlFn0gFeQVVfeXFMUDhxLW1DU3pFVjRPT192aFY3RnoybXNkNEVVTDVsNW52SWgyOXUybjVzVHhkMlZ5LU9IcVdSVkxsekl6bU96MkNKdy1RY0pkMGVad3lKbHJKVU80d3FtQQ?oc=5",
+    "publishedAt": "2026-09-16T20:58:00.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "MLB 투수, 브래디 규칙 위반 주장에 대해 제재 요청 - Law360",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bb7b71922a434386ea0d9e745230753480b86249",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Opinion: Sanctions Against Israel Mark a Turning Point in International Political Antisemitism - Washington Jewish Week",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnlCQ3hvSWtVNVpLSldMRmtYSXNmUXFFV3pla2k0UmljX193T0hoemx6ODVNdmlLWmNOc3B6T0xxM3BmeGNWMG1FSkdyS1c2cllkbWtmS3h4OGsxQWR4NDdhdi1na1hPZV9Qak5jYWlHZWNkLV9hWUpCY2l0VkxzUTluWHN2NUJyR3ZHalVVNmNnZWlyWGNhcTF1V3E0QXhyMVhXd0t2QW84LVlwZWtZdFFOSlNsNHlXOG1LS1BIQzk?oc=5",
+    "publishedAt": "2026-09-16T12:47:22.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "의견: 이스라엘에 대한 제재는 국제 정치적 반유대주의의 전환점을 나타낸다 - 워싱턴 주이시 위크",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5262e6388ef51d0652e4adb3c25c5ba61cf0dffa",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Turkey tried to have key US witness in an Iran sanctions-busting case killed in a New York jail - Nordic Monitor",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZHUwZjRhTTF6LU9td2NfaFVLQ29iaG9hQ29Pck9tem9lVnBwNi02SmVCMlZlazhrWnRKUHVOcHBIRHVDWjgzMUdCU0I5XzFiRWRNWVRoNnNzZENCSE45aEQ3SS1weHB4aGpTSHRqTXdMcDQyZ3phQU1qWjlFbWhyaWFReDFka29GOE9UQy00Sk5oNnpSOG1CNmtnZGdmYXE5SnE5bjRMNUJ6MVFVMEZiV0RydWdpbWVqeThtdnYycGlqRE1PeHc?oc=5",
+    "publishedAt": "2026-09-16T22:01:08.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "튀르키예, 뉴욕 감옥에서 이란 제재 위반 사건의 미국 핵심 증인을 살해하려 시도 - 노르딕 모니터",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a6c0b4c9e26919233f8d2b4c5c5a32d2e27c463c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Rep. McCaul, Sen. Blumenthal and Others on Russia Sanctions Bill - C-SPAN",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1FOR2RtQTZETWJuRGRmVDJ3RjIwSXQzVmh3cmtOWklFbWJ4TEdVZDZlQlUyRGNrY2FsdEVmeW9VSm51SmtGYkI2SGFLMEdMZFY0TnJuQWpWM3VBSldwS2dFcHBiSjBlLUxUZXJqTnhVajlZWmZNRHVkNFNqR0ZxLTNlZ2I0dnBDa2tkemVNUVJrQWZ4RDFmVEQyb25LTjJBTFNGSGRIMUNodldMOWZzTjBqZw?oc=5",
+    "publishedAt": "2026-09-16T04:00:00.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "매콜 하원의원, 블루멘설 상원의원 및 기타 인사들의 러시아 제재 법안에 대한 발언 - C-SPAN",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4b60e81463ae888327c4571c1c68858a2f57b3b8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions Xinbi over massive Asian cyber-scam economy - Yahoo Finance UK",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOREFCZm1lM3RnMy1UblhWMUJjSlhFWHJIaEpYVFdVMjJfRmdJOGRySFJ2LXBQOVFtdGFDeDhxYnhFNHd4NldjSDQyVk9lY1M5SVR5ZEZVeXRhZU85eGdUY2JBdm9WeVNpa054cTFLT0FORkhkempmcFNGS2VxbXhCaXN2QTU3enM?oc=5",
+    "publishedAt": "2026-09-16T09:05:54.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "미국, 대규모 아시아 사이버 사기 경제를 이유로 신비(Xinbi) 제재 - 야후 파이낸스 UK",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9c7302c63db2803880c32557aaad69f85bfd95a8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "100% tariff on India? Russia sanctions bill clears key hurdle, final House vote next - timesofindia.indiatimes.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQaEdkZjFaYU9PYXRrRUxKa2pNU2szZjA4WXdNdTZyODBXN2JpeU5QOHhZOTZQYnE2aUEtODFoVkloUFZOUDFMYWh1b1g5RG1oeUJRdVdsUDhTTFFGY0hmR0lVU1J4SVJscnFiOUFVV3dTZUV6QVdpNzgxVEJtcUNZN2RuUlJGUldHNUhjR1cycVNTWjdYT0ZIdmUxZm1kbGtneWEzYWJWZmVPMFAyb0liS2lpc0JLV0d2RS1zMm1CS3VCaWowVlR1alFuM0JpMTVoSjJTUzFockV3dVZqZG1lMngzanEzOTNUOVRPQ1Jpak5IUzJyT3dZWFY0UDRvZzRNVlNEYnJ30gGLAkFVX3lxTE9qN0lsTWVKTEllczNBdkpGR2VhemZ5akZNdTRlYUo4YW1MQnlfMEtURkI3Q2JRbWQzeXZVU3dVOE1xbVlUYjM0bjlwS3Y3S2VWNG1Uczk3b2lQckpkUVM3elFfQThCY0RGV3Z6cGVPTjBKT2FmWVNBRzVtVElqTndDbVRhSnJ0NXNMUnBZaFJLZ1h1UDM1b1N2bl96LWxlNlZiNk9xaW9VdXBxeHBmR1ktdGQ3S1FmWTdHazF2NWtvbVhnM1B5dHZBN2l5OS15M2FuZE51RGtFay1kNC1iZkYyaGtTWkc4MVFBdkt4Y290RU4zaG92SXRha2VlZGl3Q0NlaE80VTB1d1A2QQ?oc=5",
+    "publishedAt": "2026-09-16T16:16:00.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "인도에 100% 관세? 러시아 제재 법안 주요 걸림돌 통과, 다음은 하원 최종 표결 - timesofindia.indiatimes.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7a84be6236b0f9370dc2c3630609f08723469784",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "House nears vote on Russia sanctions bill named after late Sen. Lindsey Graham - seattletimes.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQzVQeVVhb0FIZFFYdVR2ZEx2czhhRWd0UlhoMW5TbFlCMVpYTUZXclc5MTloMWE3Z0I3Tm43amZ1RnRrZDFERFZvSGktNkNjSVo4M0dfd3FEeFdOeHdjdHNabUNpc0lvVGJWUDRaR09TaXJMenVrMEYxeDJlaXZ3OHFlU0kyWkNPYnFXX2ZJWkFYVGR2YUNNRVQ3RVZaTW85cElSRktibmJuZ25GY2lDWG5PTXQtLWtjX2U1c2dGaW9NNEZSVlE?oc=5",
+    "publishedAt": "2026-09-16T17:03:15.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "하원, 고(故) 린지 그레이엄 상원의원의 이름을 딴 러시아 제재 법안 표결에 임박 - seattletimes.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "55ac0091df2a53febea62030185ace46fd3b667e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "House nears vote on Russia sanctions bill named after late Sen. Lindsey Graham - CoastTV",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVDRXbDZnLXZVckVMcUk0UnkyVG1DcFlBYTJGT3o0dUkwdDJHbS1meDBQbDM4a0lKWE53OVNJME92OHA4LWl0c1ZuRlRrUjVfVEl2X1RmNFFMUkk5WVh2NmVINXo1WHJhb1hHLUtjWGhRREc0dG9BamxyenB6X1k3TURaU0xJQ0VoY2NFYVVYLXJuYUd1M1F4aURDd2lsLWMxRU1oS3R0alZNeWxyRURJc3R6WjFqN3JwOVE0eXA0NndaQ0Jwb0RBQVFzUVROYnlUcDdEcGtseEJUWkZndy1rX1RvMVZUX0ZMQnhfSGVpaFcxXzNS?oc=5",
+    "publishedAt": "2026-09-16T17:01:58.000Z",
+    "collectedAt": "2026-09-16T22:34:44.915Z",
+    "translation": {
+      "titleKo": "하원, 고(故) 린지 그레이엄 상원의원의 이름을 딴 러시아 제재 법안 표결에 임박 - CoastTV",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2eca1814b5ff1a8ab075054475124e3f53f40856",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "130 lawyers say UK Israel settlement sanctions 'fall far short' - The New Arab",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNejVLN3l0MG15am9VZlo4YWt1T0ZpdXZJa0lQcWRJTUQtTXpzbTQwRTRxdmpWdXdTYy1yYkVaRmpERVNiLWRyOUJBUXo1Zjl5TmRzck9wZkd3QlJ1ZkRFemNwUExlZ2w3VktiVEk3VUNsSWRIVUtPQzJBMEswVWZTX2V6alZYck1jVmdTUHBkanRPVEIy0gGaAUFVX3lxTFBNLTJjamFnQ3RFYUFPdUpGX3dGNWZjV0gtUEZUelp4a1FmaWhnblpza2VIWm5ZcGlCSFRzNWNzb1NPdGNMU0N4X0ptNUg5UEItRllEQmRpUzNLRFJwdzQ2Y2tUcDJqUjRVUC1PZ0FvQk5uN0JiMlQxUVRQQjFvbW83WUl2T3FxOHhZSi1xM1o0cTR5eGlzNUlSYmc?oc=5",
+    "publishedAt": "2026-09-16T19:29:17.000Z",
+    "collectedAt": "2026-09-16T22:34:44.916Z",
+    "translation": {
+      "titleKo": "130명의 변호사들, 영국의 이스라엘 정착촌 제재가 '턱없이 부족하다'고 말해 - 더 뉴 아랍",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3184ae59705cbdfd8c89ec4245dcba5472a800ca",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US House discusses Russia Sanctions Bill, recorded vote pending - ANI News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUTVid2pyajNZcVZYdlc5eHhsVXF1V1Qxeko0SGQ5cTEwV29LYnlPTm9HUUZGNjdYM0Y0WEZfY0VCeWNmNmM4Ukp4bTk3ZTlxd09pcUtYNFZ6T2lNbUV2LTBFb0hOWlZxdlVRRk94QktWWGRNVDYyZVlaY3hBd3V2ZThmcWxNcGQwbTdISUZ6SmhlT011M2J1R2ZBZWE5SE11eEJFTFVzc0E2OHNMenBYQmJDNA?oc=5",
+    "publishedAt": "2026-09-16T22:04:00.000Z",
+    "collectedAt": "2026-09-16T22:34:44.916Z",
+    "translation": {
+      "titleKo": "미국 하원, 러시아 제재 법안 논의, 기록 표결 대기 중 - ANI 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7b36b9d28990233c0c9014a336f6a6192aecac4f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "‘Respect our sovereignty’ — SA responds to latest US sanctions - dailymaverick.co.za",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFA4SjFEbTZfblNpa3RRajMtajRLenhWdzV0UFozLVktclRmZFBMM29WaWpRV3RlMEFUb0NSdnhDclNzU2dlbENQLTh6RDBXcHJfZ3NnU1A3QXJCVmxYUHlPZ0dYTWY0SVlnUnVHbHZhUXdVMm0xRnlnd3pjdGktLXpvbFR3Vi01bW5QakNoaGgwdjhZVXVwVWZwVEM3QlZIUTczS2pyREtxU3puVUVv?oc=5",
+    "publishedAt": "2026-09-16T20:18:30.000Z",
+    "collectedAt": "2026-09-16T22:34:44.916Z",
+    "translation": {
+      "titleKo": "'우리의 주권을 존중하라' — 남아프리카 공화국, 미국의 최신 제재에 대응 - dailymaverick.co.za",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6aa510c8c4d814da0bf06ce0c0e64389168be9ac",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US House faces test on sweeping Russia sanctions bill - KMVU FOX 26 Medford",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTHNSbXR1Yi1kaEc0NS03X0FUdUJiWnZnaEFrT1dGUGNTQkJYd1lGLV8tajNEd0Y2OUZ6YUNESVZBbGQ1NjdLck5ZZXBuWTlPNWZ4Zi1adEE5SGdLMXBiMUxCMzh2NFVBZzdWSnZhMmZkT3BmRG4xVkVzOWVpU2Z2M1dSdHhDeVp3MHVQX1ZRTk9kdGlfVEIxbmdScF91Vi1fdU9RX2VvVnFMRjR2TW9LZHpBOHhzVkNkOTlRd1lrUEd2NjZaWVZ5NW9VamxiR1dsYjBWRlpaMVJZQ3MteWxn?oc=5",
+    "publishedAt": "2026-09-16T14:16:36.000Z",
+    "collectedAt": "2026-09-16T22:34:44.916Z",
+    "translation": {
+      "titleKo": "미국 하원, 광범위한 러시아 제재 법안에 대한 시험대에 직면 - KMVU FOX 26 메드포드",
+      "snippetKo": ""
+    }
   }
 ]
