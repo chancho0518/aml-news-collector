@@ -2090,5 +2090,969 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzhkTDFXU3poM1FabHZkbzNULWhJRDdtSVNuLUIxemdUZ1Y5dldzRTl4S0YzTmJLWE83N0ZsX08ya2V0ci16Zkt0c2NpNVBhbEZqcnNEeUtfQjNJRlVjb3hVVE5tN2ZGcWZzZThGRnlSVmoybnlBSzR5OTFIUTFmT2xrVGhVNDFxNFZyT3B3UkJWUEFDWU53WkFhSUhVem90akRDQw?oc=5",
     "publishedAt": "2026-09-17T01:15:00.000Z",
     "collectedAt": "2026-09-17T09:06:26.716Z"
+  },
+  {
+    "id": "9060c6a5bb3560237bb669c1b18a44e3f073cad9",
+    "source": "OCCRP Money Laundering",
+    "category": "investigative",
+    "lang": "en",
+    "title": "Belgian Court Rules Treasury Lacked Authority to Reject Release of Russian Assets",
+    "snippet": "Belgium’s top administrative court has ruled that the country’s treasury department has no right to decide if frozen Russian assets should remain blocked or be released.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.occrp.org/en/news/belgian-court-rules-treasury-lacked-authority-to-reject-release-of-russian-assets",
+    "publishedAt": "2026-09-17T13:59:00.000Z",
+    "collectedAt": "2026-09-17T16:04:01.830Z"
+  },
+  {
+    "id": "b5b51dd2ce1963fd5d8e3d1623906cedeb25b406",
+    "source": "OCCRP Money Laundering",
+    "category": "investigative",
+    "lang": "en",
+    "title": "US Charges Russian Network in Alleged European Sabotage, US Murder Plot",
+    "snippet": "Five individuals face U.S. federal charges for allegedly orchestrating a global terrorism and murder-for-hire campaign that included a coordinated attack in the Czech Republic.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.occrp.org/en/news/us-charges-russian-network-in-alleged-european-sabotage-us-murder-plot",
+    "publishedAt": "2026-09-17T12:25:00.000Z",
+    "collectedAt": "2026-09-17T16:04:01.830Z"
+  },
+  {
+    "id": "de25c2187a7e0379b4b1957f22141e8f68820b1c",
+    "source": "OCCRP Money Laundering",
+    "category": "investigative",
+    "lang": "en",
+    "title": "Independent Journalism Is Critical For European Resilience",
+    "snippet": "EU leader Ursula von der Leyen warned during her State of the Union address this week that foreign propaganda and information warfare are key threats facing Europe. Fending them off requires stronger safeguards for investigative journalists.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.occrp.org/en/feature/independent-journalism-is-critical-for-european-resilience",
+    "publishedAt": "2026-09-17T08:29:00.000Z",
+    "collectedAt": "2026-09-17T16:04:01.830Z"
+  },
+  {
+    "id": "9060c6a5bb3560237bb669c1b18a44e3f073cad9",
+    "source": "OCCRP Sanctions",
+    "category": "investigative",
+    "lang": "en",
+    "title": "Belgian Court Rules Treasury Lacked Authority to Reject Release of Russian Assets",
+    "snippet": "Belgium’s top administrative court has ruled that the country’s treasury department has no right to decide if frozen Russian assets should remain blocked or be released.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.occrp.org/en/news/belgian-court-rules-treasury-lacked-authority-to-reject-release-of-russian-assets",
+    "publishedAt": "2026-09-17T13:59:00.000Z",
+    "collectedAt": "2026-09-17T16:04:01.817Z"
+  },
+  {
+    "id": "b5b51dd2ce1963fd5d8e3d1623906cedeb25b406",
+    "source": "OCCRP Sanctions",
+    "category": "investigative",
+    "lang": "en",
+    "title": "US Charges Russian Network in Alleged European Sabotage, US Murder Plot",
+    "snippet": "Five individuals face U.S. federal charges for allegedly orchestrating a global terrorism and murder-for-hire campaign that included a coordinated attack in the Czech Republic.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.occrp.org/en/news/us-charges-russian-network-in-alleged-european-sabotage-us-murder-plot",
+    "publishedAt": "2026-09-17T12:25:00.000Z",
+    "collectedAt": "2026-09-17T16:04:01.817Z"
+  },
+  {
+    "id": "de25c2187a7e0379b4b1957f22141e8f68820b1c",
+    "source": "OCCRP Sanctions",
+    "category": "investigative",
+    "lang": "en",
+    "title": "Independent Journalism Is Critical For European Resilience",
+    "snippet": "EU leader Ursula von der Leyen warned during her State of the Union address this week that foreign propaganda and information warfare are key threats facing Europe. Fending them off requires stronger safeguards for investigative journalists.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.occrp.org/en/feature/independent-journalism-is-critical-for-european-resilience",
+    "publishedAt": "2026-09-17T08:29:00.000Z",
+    "collectedAt": "2026-09-17T16:04:01.817Z"
+  },
+  {
+    "id": "a95f46bfcb7ac6248b2c789df9612ea09ed025b1",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "자금세탁방지 제도 선진화…\"국제기준 못 따라가면 활동 제약\" - v.daum.net",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFByLVp0RmxOY3ZNZGxZR3V5REVScGNyMlY1MkRCaVR3WWRCNTM0dzFmZVpNNUFkaGFhSTNmMnRBczF3c29ldVYzR2M2QQ?oc=5",
+    "publishedAt": "2026-09-16T08:01:53.000Z",
+    "collectedAt": "2026-09-17T16:04:02.099Z"
+  },
+  {
+    "id": "10eaed9290401063a2a76ed7aeec89334ef6e937",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "귀금속 및 보석 거래에서의 자금세탁 방지 및 퇴치에 관한 규정을 보급한다. - Vietnam.vn",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1l6M0hBTUd2LTBTVllPS3BKWWJFYmNtU0NzdUFYNDBaTE1hMzYxODRWVHp2TXdPSFFLWk5hUmluS2drdzduQlRBUjdPb0EwUjZZZUtGWV90bHNSclo5aG9QVU1XT0padllybTUxRFVEU3JYV21LSHdIZlpFTmdwcVdoSUdLMW5YOXh0eWFLZzVBZTNCUkxpZXVDS29jMTdiQkNRT25R?oc=5",
+    "publishedAt": "2026-09-17T10:31:31.000Z",
+    "collectedAt": "2026-09-17T16:04:02.099Z"
+  },
+  {
+    "id": "e8b86f475e528fb5ce8a8fada28eeb7056a6ec2a",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "법인 실소유자ㆍ가상자산 추적 강화⋯정부, 자금세탁방지 전략 재수립 - v.daum.net",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03X1JmRWlRS2RORWZQc1NITXl5RDhjNnl1cGtSUnJtcXFnY2JHYTUxNDNYZGJMZHpFZTA3SFlXMy1JelRiVGlFVFRJWQ?oc=5",
+    "publishedAt": "2026-09-16T07:25:07.000Z",
+    "collectedAt": "2026-09-17T16:04:02.099Z"
+  },
+  {
+    "id": "3730b1c3a1a516088705d62e67ca1bd198646f98",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "박닌성은 자금세탁 방지 활동 조사를 위해 1~3개 조사팀을 필요로 합니다. - Vietnam.vn",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZVJMQmJFOTFGdjUzVDR6U0dhWFRjRlMzT1djeHMxenU5UjFQOFpaVXBIYXZuaWZGVDZhNEx5X0RzZkdHcnU3UHdEY3JScS1uSXFiNnNIaUpFVW9paVY3bFVDd25uQnU1c3V3LTJhVUQwRFRMTkp4NGtOX0w0cVdJUjRZOUwwZUwyVjd5bG5jV0ZTZmFTRy1yb1NOOA?oc=5",
+    "publishedAt": "2026-09-15T07:00:00.000Z",
+    "collectedAt": "2026-09-17T16:04:02.100Z"
+  },
+  {
+    "id": "c091f4c8903d32793df1b74af2202480334ee6df",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AML RightSource Recognized with CobraSight Award for Digital Asset Compliance Expertise - PR Newswire",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSUVVa1ljWGN1QkJMajhJV0xLLTFHd0x6TzB5aXlnQkpXYnR3NFo5Qm5lbzNiRzc4a19xWEZmRGltb09oSk1ONnVXaUlyQzV5OURTMmVPU0w0dUtDdWlEVFpVclNlNjlrUmcyeUw5V2hPcjh5RVJ1cmE2THc5UHk4eVhjVXhIZi02VWRrU243ejJYOWFDVnpyMXFzbEUtSVBud1psY3plOTNzQlBZc1c1UnliWHZqaVlYSUtwSmx1blFCMVAwYV9aMTZJRDhCYUJLbkVsT2ZKNk03d0U?oc=5",
+    "publishedAt": "2026-09-17T14:58:00.000Z",
+    "collectedAt": "2026-09-17T16:04:02.093Z"
+  },
+  {
+    "id": "6156dadef1184e3748f4ba551f27bbf70c35046c",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK regulator probes Euro Exchange Securities over AML failures - Investing.com",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVS13Q0FweHhRTUdsS0w3LWh2bnV2UDJybkdnUmZpWVdxeVlzSFJXRnZ5MHlySkFDdlkzbGVHR1BQMFk3Y1dueGlNY2F5UW9nUWgyd2dRX2FuVmlOZ09wODZ4WTNXcjk5UnNDX2doa091U1pVUHZoOXRTcHotWEhNalFRbVhsNUhLb3VtZF9oU0RobXRldFM2d0xYc0poaE9zckcxUDVydTU3c0xtSHpkYjE2U2xnUkpyZGZlWnI2S2c1dw?oc=5",
+    "publishedAt": "2026-09-17T09:07:13.000Z",
+    "collectedAt": "2026-09-17T16:04:02.093Z"
+  },
+  {
+    "id": "6634bcced2fb591dc50c8a069df4d0f65c471dee",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Law Firms Can Be 'Partners' In AML Crackdown, FCA Says - Law360",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlJzazNJOUNycmpDUjhDSnZQYkY5TjJvQkdYSDJnV05tb1pWQ0RLRER6YVJGM0dFaUJ1cmhaRURaeExOeGVVMWpYZ1lMZjNRUTkwd3BZaXRYdUNtLUJUOWV0bjBZaXRBOE0tSjlZM0lxLVBOajR6UFJmUnNySkpXbDJjWGE2LWxzcU5VM3lyVHc4aG5GUEHSAVZBVV95cUxOZGdrVHZOdDl0N1JtSkRxU0Jocm03UXVrLWwzRVRCVWFCSXdsZFQ0b24tanUzd0ladFVyR0toZHpqR0FOX3JISGtPeW9BdjhYb28xX09DQQ?oc=5",
+    "publishedAt": "2026-09-17T14:09:00.000Z",
+    "collectedAt": "2026-09-17T16:04:02.093Z"
+  },
+  {
+    "id": "72dcc8499de598ab3fbb67e6fcc4cd225863f10b",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "dLocal partners with Oscilar to extend AML compliance - The Paypers",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTm5jdVk2UHpMUGN1bmZBSHlySjVtcDctRTlXOFdWTDdnNlpUVktKMFFTTUJhMVpVdUg1ek9XT3VGMVI1Y2dpTHVXUklrdmV5RWdGTVBLSGJaMVJBS09sUDJ0YXpOUUsydHZDdmcyY1dXVmNWbnhFcG9pRDZhYklWb25OQ2tjUlBwZGI2Z1BQSXRVSUtwM05CYjJQbm9aMkpzVlE?oc=5",
+    "publishedAt": "2026-09-17T09:59:33.000Z",
+    "collectedAt": "2026-09-17T16:04:02.093Z"
+  },
+  {
+    "id": "8a208f00beb84dee7a87cdead633a3fa794c67ac",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FCA Probes UK Currency Exchange Over AML Fears - Law360",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcXN0b3ZRNm43VUNrTGttMzluMFkwRUhheFhYSDBzLXJBTmI1SENTNkJIbEY3THRoY214NkRPSUE5RWZCRG5CcE9DMXY2VVhJSi1BeEpVSkxRbldvV21EaXVyM2hBV2h4TFhhRlVENHhyMmVhd2Z1d0Yya2ZROUNaYmtWcEM3TGhibEpjSGxSZ9IBVkFVX3lxTE1rZDBTdGJBdXBVSFFFTGxhcmhYRlA5Znlzb0FsMUROdjRyYzI4cjlhWEs4aFdlU0RmbDNsQk1kX3gxYzh1OVdrX01SQkJWWFlqN0FvNHpn?oc=5",
+    "publishedAt": "2026-09-17T10:57:00.000Z",
+    "collectedAt": "2026-09-17T16:04:02.093Z"
+  },
+  {
+    "id": "6b9c667d3c2ab4c9c5c9d0370c3425351b9bdc26",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "NEWS: MEPs calls for more funding to tackle drug trafficking - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaTlvZkVBMnJIYmRHOHZsN0tuVDlwVi0yeHdTaUFNNWJtYzNtV01XYzBsamFlUWdaUmpweWl4UnVsVG1OLXlRR3Q4U09JMUhtN2lOREJGaW1KclIxLXR4OHFuYzJSeVJDNndaSk5QbjV1N190ZXZCSjMxVUJGVTlaaGd4T0dCOGRKdV9iMVBQWDU2WElGWlVYbGpOTGc0NmxmZXc?oc=5",
+    "publishedAt": "2026-09-17T12:04:28.000Z",
+    "collectedAt": "2026-09-17T16:04:02.093Z"
+  },
+  {
+    "id": "c74ffadc2bec76bd3454e8bb4de964bb876c89ca",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "NEWS: Hackers threaten Revolut data leak over $3m ransom - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY3ZXaFJGUHVJZmxsU1JxQWRzcks0emhCdDRpbmlqdFR3Mm42dFdCQlhYZWh1cUFGTmxESU9CZDE4Wk9HYmplYWFxeVFpempaM3ltTlpod3FyTTFzUmlTRFZHbUwzVFoxQXZQYlNVT3hSanRsT0YyNGRMb3ZEVWcxeW5BeEpabjF5Yl9kSkJtaGpQd2pURmFpTHNjdw?oc=5",
+    "publishedAt": "2026-09-17T09:23:55.000Z",
+    "collectedAt": "2026-09-17T16:04:02.093Z"
+  },
+  {
+    "id": "1a479b75626c410d74e37a49a03cf5946b11e7c1",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK regulator probes Euro Exchange Securities over AML failures By Investing.com - Investing.com Nigeria",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnFVR0U2bl9jQ2xrb0dIU2hYYS1sdW51S0c5eGxTejVfMk1YY1V5REV3RVlHaEFaQnhfeVhDWWRVNmdfaGVNZWlXQXliVmpzVjJEOUZiaG9xRWxQOEFzNkZBeHB6d0toRjh2Q0ZsaG1NRmYzNThsMWJaZjVaQ3UwSjhKM0I1c25YR2U1V3dOS3BySEFxODVYZm5WUUd5NkwyYkg1bnUwSzMxX1djNmhnNmpvMlNQQ1QxZ3NmUXN6aWc?oc=5",
+    "publishedAt": "2026-09-17T09:22:46.000Z",
+    "collectedAt": "2026-09-17T16:04:02.093Z"
+  },
+  {
+    "id": "04a129eea5440854e5dd025a5dc386357061f321",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "NEWS: UK’s FCA probing Euro ‌Exchange Securities over suspected anti-money laundering failings - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbmVxWTVxVFBXejhWcTZWeWRVMXRiS2hhdi1LUWNEZ202N2hKVTNQelFxRWdSdVpNZUlIYkJRbWl3c1pyUnhDZGNnRllGc0o2U3pObXpzRTRHNEd1Ry1lS3FVWlVFZnkxcl8zUFJHZnlRNTJyNV9ZZkJvZVpTZ05fZWNMVnFZWVRaTERIazZqVHpVd0tWM2hOR05ET0pQeXQ0RDdlUF9Lc3Q1bGV5R0RGZGJVdTlQUk5KazdkTDByVkxNVTVIQnBYOG9BWlo?oc=5",
+    "publishedAt": "2026-09-17T09:33:57.000Z",
+    "collectedAt": "2026-09-17T16:04:02.093Z"
+  },
+  {
+    "id": "050913555ab911ff293610f1ee6c7b4ba93d8058",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK regulator probes Euro Exchange Securities over AML failures By Investing.com - Investing.com South Africa",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMTl0Um1icEhKSXdRdlo0c2RLNV9GWGx6YXhOanltOU9UdXNMbkk1cEJ4MmNXWU1KM2lNeDJJX2g5TnNMX1J4UXptZUxHd0pmZVFqVXZZNV9ySjk1eUN6WU1nSTJRb05seFd5RUxjWGstTjIzSVhNNHB3UWRXRU9tUVZWQmR3V1VmN0MwX2J2dG1SYWlkUUJWcEtGLTFITXRScmtVNWFMSDhjRFptSnc4QjJ0NGk4UFVvdkJ0RHZ1V04?oc=5",
+    "publishedAt": "2026-09-17T09:20:11.000Z",
+    "collectedAt": "2026-09-17T16:04:02.093Z"
+  },
+  {
+    "id": "c2dec633fc5364b3a3073e605597a3e88a482eba",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "What are all the sanctions Iran is under? - Al Jazeera",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDNSdWU2Z3NCQWhfNU03dG5CcTc1bmxlZnZmaUdCbmRPRTRER19GTGQwWHIxUnppa0lVZkRhY2RqWDkwcnc5d1puMzc5Z2JYTzJNYUFfREp1VUdTd1VoN0Z4M3oyankwYzR4Y1hXV01BZ3ExdVY4VXNqS3J1ZDd2VHhic1A0dTNX0gGOAUFVX3lxTE80ZjJiVEE5MzRaWldZYmFjNU5iNkNmbFc5M1J2bUhySUQ3ME1MNDF1UGhqUS05aUMzNW9DZE5FdTlpNDdGLUNjdGZLbEIxUzdaQWFGSHA1SEFjeTdqTzJkZHliRUZxMEpwRkdISmFJZ3VOeEdqYmFRN2YyaEhoZ04tSW1vVVByamJ6VGhyR2c?oc=5",
+    "publishedAt": "2026-09-17T15:05:21.000Z",
+    "collectedAt": "2026-09-17T16:04:02.143Z"
+  },
+  {
+    "id": "e090c93e13e37f799bc17a23739c43a23fe5c0ee",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "'Sanctions from Hell' — Can West finally choke off Kremlin's war machine? - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMk43eXVHVll1aEpLYmZoeE5neHNXeUhneWRzSm0yY1dhTTdGVklJTHBiVlVjeEx5RlhMa0NiVXhEbWgta21pMHByamo0QjhXT0dhbm5ubExjQ2xvX3ZoOTlUUVhMc1VyNTNVeWpxamJVRDRGUXNEMS1kc2VMLWFRN2d3ZUo5V1hIWlVna2FhSll4REdXblQtWg?oc=5",
+    "publishedAt": "2026-09-17T14:51:51.000Z",
+    "collectedAt": "2026-09-17T16:04:02.143Z"
+  },
+  {
+    "id": "1ceb7ebdbc6dad8e7c47e12be580311925763ba0",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Sanctions on Cuba Strands Thousands Of Shipping Containers - The New York Times",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZG52Qmpud3hybVBHQXY1V1ZmWWtjMF8zZlQyWC1YeTRXWkw3RC1LQ3JsMzQ3OFlFQlhQRnd2MUtMMVZVTDRUdkhqUTFXck1SdmlpbDgtZW14TmFlVTlYa0I5MjA1bGFPcEE4LXBFM1hyemFyWm01S0gtOGJXdmltUk1vZjIwVHRMZVkxN3lSZmVpZ1J4LS1LemtUQQ?oc=5",
+    "publishedAt": "2026-09-17T09:03:51.000Z",
+    "collectedAt": "2026-09-17T16:04:02.143Z"
+  },
+  {
+    "id": "afd4da20f21d324b12d795e76985b7a4114468cc",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia says new US sanctions, if signed by Trump, would make Ukraine peace deal harder - Reuters",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnEwS05QNW1td1gyV3d6YXRuNXBnallXMjB1SlI1LXdaQ29qMUNpUVBvd1N1U2NQR0dmMXZucnFTb1lsWDNuRmE1cnczejdnU1F6UTdQNUlGdEV5d3ljd3JqZFpCZXk2VV9OTlFyNHZWbmxTZXRzU1Bpb3ZCVE4zVjFCLU53SnJkQXRtRk1LbUtRX0xRcmtXUzZEWUlVa0dha3RjUlFjOWhmZnNGMHB1SjZmWVQ4QjNhdUFnZUY3Uk5QRVow?oc=5",
+    "publishedAt": "2026-09-17T10:09:43.000Z",
+    "collectedAt": "2026-09-17T16:04:02.143Z"
+  },
+  {
+    "id": "4a4ffa2d494e17ca9a4eea5ee54e4d271686305f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK charities, protest groups condemn Israeli ban threat after sanctions - Al Jazeera",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWC1VRno4NG5LSkw1d21sSHh6S2hjM1BRRnUxSlh6N0lsTXZZZEdnS2hGcUs3WDFueEQ4ZTRCOGNqYzlDWGw1LVB0M215eXEydEJFLUpONGt4d0tocXdRU2xmYXFUV0I2QVZKRzJ0OVZsWFdtM2Rkd28xYVU1SzZxUnZQY21LOVBYUm9namx5MkpLMmJhdVJHRGFJYVJqdHFJT3hKNllEbzNVR0pzXzFZNtIBtgFBVV95cUxPbkhXYXdFYjQweHY4LUdpd1JLenZKTWk2VTRjQXc1Nnc1WGkxZGd0NWM0T1dZTWpMc3Zqd3ZZMF9RWmVENXFQUVNNYUNCZ1RHSURVb2VReV9xMzNxc3JoYk0zdXE4V0F1a0VGMDRxMUxicWphNnFpbmNvcGtzRXdRZ21tbk43NlhMT3M3Zy1sNWVKLXJESGYzMUNrdHNFbzBTX2xTd2VHLUM4UVlSbXFvdE0wQ0xSZw?oc=5",
+    "publishedAt": "2026-09-17T10:22:48.000Z",
+    "collectedAt": "2026-09-17T16:04:02.143Z"
+  },
+  {
+    "id": "8c50d6d852c769327de3726167c816c095af9455",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia sanctions bill heads to Trump; Alabama Republicans and Figures lend support - Alabama Daily News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHg5NGFtaVNUc2VsZ0hiRVRvWmV3TXRCVWJzaU5kTEhuSkVrZnJVcnh6aTRzZmpFdkc4MW1IcEg0R21oaEt3NGtycnJaNWo1MTdBTl96MnA4Q2tpbEVYQ0xHSkJmUE10XzU2cjlTLTVjd19TcU82MjdBeDBlQ2VMV0l2YlhPMFd0MFY5X1lvNHhvdXZSdkJUNUJNc2ZRMk44Q0w5WFN6RXBrdw?oc=5",
+    "publishedAt": "2026-09-17T12:18:15.000Z",
+    "collectedAt": "2026-09-17T16:04:02.143Z"
+  },
+  {
+    "id": "e68aa80f309508347fba256e43b5339d8ffc9d12",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Argentina's Milei submits bill to strengthen sanctions on Falklands activities - Reuters",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZGxIcFBTbjQwYTVrR0xvYUFSZHBseU5QaGEyN1c2X3VlMkY4Q3ZwWEtQcDQtZENNZHczOHFNQW93bk5HN0N1QnJ3SUp6TXQ1YWRxTDFISWk3R29RcklHeE1FdFd2cFNuTy0wM0JMVGhRS0xtRjJ2VGJMb3JyTmNfZHJsVXo1Q0htSmhONWtnenhuWHBGRVlMdnVwcUFYa3YyeThmckFRWlp6azBWdE1uSHNHN0VxdjZPdkkw?oc=5",
+    "publishedAt": "2026-09-17T13:02:07.000Z",
+    "collectedAt": "2026-09-17T16:04:02.143Z"
+  },
+  {
+    "id": "ac5df3245d860b28f08d732de012696807bfda85",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pappas Statement on Need for Russian Sanctions - Congressman Chris Pappas | (.gov)",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMW5LZHJtLXBKR2syR3hpX3lRd2ZyN0lrYmtXcmh4STF4R016ZWlFNGF1dnBEMWpYV0R5NjZKSGdEX1dRNjFtVUNsN1FmMlEtUHBxZTFoQ01PWkRWOG1EQ09kbnJSTU9JOGFEV0tVUjFpLVR4ck9OcVBBdUlzUHZfRjFua2tNYTlZdWdIQW9aQjhhVG5TNEVR?oc=5",
+    "publishedAt": "2026-09-17T00:01:27.000Z",
+    "collectedAt": "2026-09-17T16:04:02.143Z"
+  },
+  {
+    "id": "6cfc8316e48e0c65dab7256e7643a6f23ae726ee",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "New Russia sanctions amid war risk even higher gas prices - Responsible Statecraft",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KUi00MFlTUHAyb2pSWTRyeUx4YUY4Y29rd25raElIV19CTC1iekFzLXZtNHVCTTlzaWVZSGtGUEI4NG9YVWpSTXRNak02dHJjdUh0NEhkOUFsbk11QTJYT0IyZjczckk?oc=5",
+    "publishedAt": "2026-09-17T13:49:55.000Z",
+    "collectedAt": "2026-09-17T16:04:02.143Z"
+  },
+  {
+    "id": "b9de1fd74c8390eb5a96496375e7728ec623a8ae",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Connecticut House Delegation Statement on Russia Sanctions Bill - larson.house.gov",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUm1PeW50SkZfanNueXJ0OUZPeTU1X0NBaklXc0NMQVFfaDhxZE5yZ3BDV1JqelIwdmNkSzY5aEdSN29Bak9zVEJtcFJuVkg3cmYxV1JsOVdCblRkMTdvTG9iSnZBNFJWWDVpSVZVbW5UTG4wTHpONXJZR21CZ19FZmUwRnFXaHdzaWRmSnJkdjlNZ0RFd2VIVkJNaWttNFE4LTZuTGhjTEJSUzRUX2RFaDZraw?oc=5",
+    "publishedAt": "2026-09-16T23:28:48.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z"
+  },
+  {
+    "id": "060c8cc7ffae34ce26b98085e58a5ffb8d3bff75",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AI bosses say they can self-regulate and House passes Russia sanctions bill: Morning Rundown - NBC News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSUFuWWM4Z0tXdC1DbjVKNERfUWc3UUZWZXpIbE4wU1p5aU5MdE04cFlKSEx0ckZpdHVIZVBabjNyZVZGemV4c0VkU20xODVfMlo3T3F1bE5RQ0tDOVFvbEVfeDQtWWFLOTUyanhISDVRLV84RUhLcjRfMzlfTENzazRNemxQMHBXMVY1VVA0b2VOU3RraEE2NmVMblNUNUtmQVU2eHdTdU1qTWlTN1l0R1JB?oc=5",
+    "publishedAt": "2026-09-17T11:15:19.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z"
+  },
+  {
+    "id": "8f914761ccca7a3fadce280e4cdb198964bdcd42",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "House Passes Russia Sanctions Bill With Tariffs Up to 500%, Sends It to Trump - Law Commentary",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHpDUWo5dHFMN3FiQTFlV05qMXppckY5cF91MEEzVXNSWW1kVE01b1ZOOGlTNUNwR0lsdDhsUnQ2QW8wakVHSlNKY3RrbHlMYmZjcE9sSlk3eDBxNFM4Q2tPVHQ0RVBvQVY2UEJsbl82eVpjeWF2UW5SdXhrSWpDcFZRby02LUt4NGttUXV1UVJoNzRlV0NQTU92OURIT2ZN?oc=5",
+    "publishedAt": "2026-09-17T12:49:40.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z"
+  },
+  {
+    "id": "a5e110cf3e84fd481fce089a4ed28b6902a41778",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Congress Reauthorizes Iran Sanctions Act - IranWire",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdXhTUVVaaTZ4VHMyQ29pNzVLYkFxeEIwSjdiZmpzQWpmelo1aXdhUGlMUndqZGxLeTVDaHBqR1p5UG5WUm52bF9ibnBMMWttcFczaXEtNHdzYzloTVFjSmlXN3pIcmRJeldPb0hIYm5sYUNEZmRBY0ktd2l5OXN5SmJmTUdsWmM?oc=5",
+    "publishedAt": "2026-09-17T12:04:41.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z"
+  },
+  {
+    "id": "a40127e574779c5e3e1a8e35df122b927d6d2689",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US House passes Russia sanctions bill championed by late Senator Graham - Hawaii Tribune-Herald",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM0RFSE9zcFN2RW5TODNhTkJ6SllIT3VybVhFRnU4YU5mX2MzVEhEN252WC0zdFB4YXBISW5reEJ5c1c0Vi05dmg3VXVvYnJpQ1d5OWF3bmJhdm1Ma2NNTi1ZZ0k0YUhfM25JWVRiWE90eHdNQV9xbzJGWUNWQ2xMVDdJRmRFbmpYVkZpYmVxVGdGcDR2VGVtaWdBZjhqd2JuRlU2a3Z5U0VaeXBpVGlTTUdvQnVNVXhxLVBvdS14UGZJQUlSOFo2VmVvOF9aSS1JODcxcg?oc=5",
+    "publishedAt": "2026-09-17T10:05:00.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z"
+  },
+  {
+    "id": "726c8d5a7e1283fcbc17cd00f1548f8c043bc716",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "India Pushes Back as US Readies New Russian Oil Sanctions - Rigzone",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXFnWEpvV2Z2aHV0eEx5Tk5LYm1ncE5wSzVqM1gtcnkxNDFWQ28tVEN0NVZXV0ZsOGlTUFc3cXdZd1Fxay1uWXcyanRRU3J4N0NEWmtIUVlLY2FHZDc0a2VIcUVwbFdSYVVtZ2NlQ3RHV3Z4OFdiMnVzYXFocjZJMURuY29GWDY1MkNITHlUcWVIRzJjbGpRMDhKOE5JaUZtT2VGYWRfZEpwT1B0VTBOVm5aWERhUmV5ZTNn?oc=5",
+    "publishedAt": "2026-09-17T09:14:00.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z"
+  },
+  {
+    "id": "6dcfdae2097dd9a36c8ff56f15fbd30eb77a6528",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Palestinian expert to ‘Post’: US Abbas sanctions show Palestinian Authority not producing results - The Jerusalem Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KM1VRcE04c0YyZkpFbjMxLVQySDFVdEVBOXZhNzByblpXWTZMX0dsTndId0lPTG1EcWZTM01EZU84VUNsQ1lxc28wRGZfcFFRT0pMaTdVLTNiVnhy?oc=5",
+    "publishedAt": "2026-09-17T15:03:42.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z"
+  },
+  {
+    "id": "263fbdfe959a09904644c6973e811f2a06c155d4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Turner: House Passage of Russia Sanctions ﻿Increases Pressure on Putin - turner.house.gov",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbEFJb21TTnMwREpzRUE3T1JiYmxMTUEzTEltOVFoTmswVkpJanVxcW9VVnlLakVJMUl2NUt4aGxPb3E1SEw3Y1V5OTVSa1U3T2ZOZ1d4QW42c3lRbUVjVkwwaFJDY2kyelNIdzVwY1BieXdLejAxRmlVRldJbEhsUjhsc2x3MlV5eFRodS1IbnJMMzRBdEtYWndtRnRyUTROaEo0M1ZrVldRRlFpdHY2WjdnZGNiUnY3cWkxRG9n?oc=5",
+    "publishedAt": "2026-09-16T14:17:04.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z"
+  },
+  {
+    "id": "3728e5067936eb6a2f320927bb62d8f08a7fd5cf",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "House Passes Russia Sanctions Bill Honoring Lindsey Graham - TODAY.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYzh2Sy1PdWxvQm4tckFoa1RoZ0FCSHdidGtHRF9xUjk0UHhlQ3FkODJscWEtM3kwb21HZDZ6LTVIR1VWdmRNdi1MWVNNaVJlQ3V2RFg5UGoyRTZCR3lUQzF5WFpyeGkwX2JvVnVEUXZqNF9wTWhBRFZWU3BJOXh2ZDc1VmlremV1dEhSOXlJVjl1U3FfVHZwWkFNaW1TZU5r?oc=5",
+    "publishedAt": "2026-09-17T12:12:57.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z"
+  },
+  {
+    "id": "c4c41ed0cc8bd663b09b12de52cfa1c2d38d0905",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "A Russia Sanctions Bill Would Give Trump Vast New Tariff Powers - Reason Magazine",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOWdNSnZnVExTaUxRN1FKMnZuenlOd0JRTWJNWENUTXdyYU93ekxRM3NmSjVpQ29SNzVKN1oySEstb1d6QVJWX0xOWS1zdG5MR2pGOVZzaVBUZ3RxalpTSDRSWnlwaFFVdWZZclF1a0JTRFktV1hKbUpkRVRfR3otSVo3eER3aV9tbE1lNTE2Wm40YUE0QldJT2F3?oc=5",
+    "publishedAt": "2026-09-17T15:35:27.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z"
+  },
+  {
+    "id": "bb9aa1614c531b5fd93a4aa211a8b3f661994841",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Congress passes Russia sanctions bill - france24.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ucUh0aTFuOWtRWE9BOGdXNUdIM3VxN1lncnAzTzJFMm1OZ29FejY4aWhURjZicTdWckEwaGN3VFhQSTZKN2U5NGNlbGtodmRyRkx2UkRBZHNTV2RNM2Vrd0JycDV1YXRpcXQ1N3VUMjBJaW9fcFVv?oc=5",
+    "publishedAt": "2026-09-17T09:54:26.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z"
+  },
+  {
+    "id": "cb355d66e5d94250ea37c2f5087db8947d393ccb",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "China pushes back against US sanctions bill targeting Russia’s top energy buyers - South China Morning Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV0xaZ3d0ajUyQUY0OFNpTFZmV1IxVjJSZ0ZxMFItS2Q1SnhuTGNPOTFQS2s0Qmx4eGZETk9YaU5xaTBnejBTUHFMbDlBekU5S29HQ2pJQ0xtTkZ4ZEdFb1RTblUzclJjRGFURTFLdGJFNnVpTHNMOW9mUkdrZ3FZdTBudGlpWW95NGZCeGtJbC1NQlhKTThZTU90TW9uZlU2SmFHZm53V21qQnVMbWU1cm5LT29DSkNldF90WkNBYW5HWldFTE81bDVTbzhhZUVLb1FRM1FkVm9RaUtEZ3RuTtIB4AFBVV95cUxQcHZGbDJZdWNhYjdvaVVNMTc5MTNRdG1hUlJzRFBSaFlPZDVkVGNjUTd3ZUtZbkRfOGRwbExsc2s0SnREZGZqV1gxbzEwRkZrbm8teHlpVTBnbnFWYUxiNDU2ekxKTGdjOFJsU0E3SFpwUlZsYkVoanA0UUpqZ1RWUmRSWFMzNURUNjBqT0ZFZFZxMkp2VFAwal9KN19MLXhUdWJMOUVBb2hWMldxMXVXNmpLZWlZODNIMzY5c0FmVzFtN09tMy1sV212N2hfcWhVUnRvbU5uT0lyZktOMU4xWA?oc=5",
+    "publishedAt": "2026-09-16T22:50:16.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z"
+  },
+  {
+    "id": "c3127448db29c9cbf031f92bd91f5b54124b43be",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions bill named for Lindsey Graham heads to president's desk - Greenville Online",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWkxvR0dVSllXN2ZPemk5UEZyNzlYci13cVZLLXlDWnRLYXlDRTJCejM3R0xMczMwX1VORHotWUphZU5NYk1sVGlPeU9sUUJpN3JmTG1uN094OGFSMVhHUi1Hc3RldDE3Yk94V0ZUX3Z1R20xbDNaVU5lSE5qX1A1ZDdoSE1PNkxScFZySWtILThxXzVRSG1hUV9iOEcwUXdxS3JoTVRsbGp1Si11U1l3cGY0STRJMmJEOTdLNGxXU1ZkQ1BxMXRHN0VqQ0k5dlJpc1ZZZjAyZy1pZEYyNlVz?oc=5",
+    "publishedAt": "2026-09-17T13:38:00.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z"
+  },
+  {
+    "id": "25da4430e9b504e22bd955ca7b16fb413ef11879",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "House passes Russia sanctions bill, sending it to Trump - newscentermaine.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaW12ZzdMZHlfcjNINkE0SDNiZ3lyN2JWT3FfZ0pFT3ZBU01EcFdMN0tCc0tJLXp3OENoYklWckN6X0xWUC1HZnp5NUt6ZmhXVVJQOFVRNlhfNWwtaGh1X3Z5RGwtSFRXVktoVXlmbHF3dk4xUllBNGtkRXZTdzdyRzY5VnhSYlFySTU1eG5ITWc3TW9zNk5STFgtalhLRm9STU5jY1Y4dHJSeUp6cFpWaE5mMGJnV1YwVzRQZFJVU0hONkFHWUItTGdPdzB1MHp2bE5Sd3F4Vks3X0UtcFNENkhxUU4?oc=5",
+    "publishedAt": "2026-09-17T13:42:00.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z"
+  },
+  {
+    "id": "f39b51e32e1e16fa1fddc9d2d48132e6cd00227a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Milei submits bill to strengthen sanctions against Falklands activities - 1470 & 100.3 WMBD",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUUFBU1ZrQ25TbzZHMnNDT3YwZ2gxWVhMNktqaTNiZjgwZXZIdlJ6ck83UEhUU0tKZlhnZ0Y2dFNKMUNrLTkxV3c2bE40ZUd5U2RrZjhtRW5yWWJFamlnZ0lDRnY2MWZWSktnTVl1bUkwNllWYXVZb0hiQVA1cFdYN05rSlA0MHZXQ01TT0xkZWphZk9SQ004MzJ1Wl82NHpIc0hRQWpuZUM?oc=5",
+    "publishedAt": "2026-09-17T12:37:43.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z"
+  },
+  {
+    "id": "3d5af725de1fa7fb995da432af265ad0a2594793",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US House passes Iran sanctions as Trump signals war may be nearing end - Iran International",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bGlUOHZyMF9nY1VDOHZqbHh5WTlIRnZiM1FEY3FOQzAxVmQwSTN1X2JrTUlQdzFLMnB0VEh3MGMxSFRPNy1hYjdySXNNcUNJaUE?oc=5",
+    "publishedAt": "2026-09-17T12:11:45.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z",
+    "translation": {
+      "titleKo": "트럼프가 전쟁이 끝나갈 수 있음을 시사함에 따라 미국 하원이 이란 제재안을 통과시키다 - Iran International",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2e014ff09907c11aeb57a49023189ffe3de642a5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Raiffeisen Bank Helping Russia Circumvent Sanctions, Report Claims - The Moscow Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONzIwS0pYcWxzd2t5SGpsQmNaRlJjTmE3SWVCYndXS19rZjRIcmR2U2FCMUVFenlPdk9oZDJvMUNsc3VRRjc0OUpnTTBIM0ZPX3k5bHdCWl8wVEZLclpsdUtTVnl6cFhGME1va0cwRk1mVGEtRVoyMXRIZC1BNlRIUWlZMXR3WGRjV0ZBLUZrNk1xanlkLXplSVZoSVktb25wTlBzRXJqMHB3cnUzN2NqQ1VEX2k?oc=5",
+    "publishedAt": "2026-09-17T13:11:31.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z",
+    "translation": {
+      "titleKo": "라이파이젠 은행이 러시아의 제재 회피를 돕고 있다고 보고서가 주장하다 - The Moscow Times",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "041158c6c2069829ea1ebc42fa6ba62a7c3ad6d8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia, Iran sanctions bill sent to Trump's desk - Channel 3000",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZXR6bENSTnRRQUh3ekY0azRyS2g2aDEzOUZIMnNjMjBLc0hBRGRPLVotX0JqdVkta0MwTjlDb0dLbklxZDdGZDhFS2psMjhUZUJSVDkzb1FnUmFSRVZBSDQxVEU1MnJRTm9XWnFPYURuT1owWkRqVVRiVXNqT0pVbXlQYzBKSlREWHJEcFpiNUN0NFpienBSTE4wa2FYSzFlTngzVmcxX3NSbDBQNFVEdEtubC1kbTBHWG81QkZRb0twSVpja0R3?oc=5",
+    "publishedAt": "2026-09-17T12:14:00.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z",
+    "translation": {
+      "titleKo": "러시아, 이란 제재 법안이 트럼프의 책상으로 보내지다 - Channel 3000",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "354101205c1e3097e035fc0efb678d75cc59a575",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Congress Sends Sweeping Russia-Iran Sanctions Bill to Trump - oilprice.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1RZRkdSdkJ2eTZQWEplelJCWWh6YmVmMi15d2w5SnhYMkdYcWtRZU51dUhmQ2ZsNzJHTUxMRkE4SDJXVXpFYkdFZzhOdFViWXNfS2RCQkFYb1FNRHdzdE53LXJwSzZRWmplc3VBTW8tLTh1V0hDWGpta3oxekQ4NUV3OVk2amxzOVNtc0FIRVl3NzhuNVFXOEk3VktobTA0OEV6c2NyVkRwRjQ?oc=5",
+    "publishedAt": "2026-09-17T14:00:00.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z",
+    "translation": {
+      "titleKo": "의회가 광범위한 러시아-이란 제재 법안을 트럼프에게 보내다 - oilprice.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "58175d29b15ec437134f425d3944969defc5e047",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EXPLAINED: ‘Nuclear’ US Sanctions Bill vs. Russia – Five Things to Know - Kyiv Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vRjlmX20yQWs5bFBnQmUzQXNsdC1CMDNocWFDNldUdzNyMENWakFsTmcwU2NLQS1EeDYzbHlMaHlhSlBrbHhiekdFOA?oc=5",
+    "publishedAt": "2026-09-17T12:55:05.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z",
+    "translation": {
+      "titleKo": "해설: 대(對)러시아 '핵급' 미국 제재 법안 – 알아야 할 다섯 가지 - Kyiv Post",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a11aacbfc3c6ac34362127a97861290a2ce7b665",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "KUVR - House passes Russia and Iran sanctions bill championed by Sen. Lindsey Graham - Rural Radio Network",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM19Wc2RVMXpSUzFtdXotQjF6UlBuNDAwSlVvVm1UZUlnZDlrSmJJejJDc21OaXZSV0EtZGxCLVh0S3QyZ1VZc0p3aDNvTmtZb1R4d0wzWWduSWdYSDlIZzFwVDl2Z0lSczBqVDhSb05iZi1VcGdNbktaQmFGM25DUkRzVEFCM2JpNnpweXlaWjB5OWtTcjBBamtUNUZ3YTNIa01hNTI3RTY0SnVaVU5RaFBJeGlhRGxXYlJ2NWFnU040N2FGbFdZ?oc=5",
+    "publishedAt": "2026-09-17T10:56:38.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z",
+    "translation": {
+      "titleKo": "KUVR - 하원이 린지 그레이엄 상원의원이 주도한 러시아 및 이란 제재 법안을 통과시키다 - Rural Radio Network",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bdc455a8cc54eaf7c151a783a5d8a8c9f18e338a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Kremlin says new US sanctions would complicate Ukraine peace efforts - Anadolu Ajansı",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajI5bHJnX08zX0MxZzdNbXRzb2ctYjdFOXlWZlVOd25UX2dRRk9DMTRFSVl4bkhTOTlNUmNZTFMtdUdiS3p6VFV4d1JkWWFPbFJjQ0NBV28ySU9ZMFBlYzFJUEcySjFaNWZuUFpjc2VwSnVvWTl3SXJLcmFOcDA1V3RjODdKMTRrRkdDRVJxcWFXMExKQ25BaHg1Si1XUnQ2MzlRZHBGT2tyLVU?oc=5",
+    "publishedAt": "2026-09-17T13:04:27.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z",
+    "translation": {
+      "titleKo": "크렘린궁은 미국의 새로운 제재가 우크라이나 평화 노력을 복잡하게 만들 것이라고 말하다 - Anadolu Ajansı",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6fe1a20b0e8ac338a59d444d3a702bde15a415a5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Leading Iranian airline cuts flights as US sanctions hit - Financial Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmNHVnd0UW9XbkwxMDF3SXpsWG5WZndVN2R2OURGTHBiazdWTXZlaDVEUTlFdG9IQ1JXVzlwQ19YR1JpbkdWY3Noakc4b3prTkg1VV91T1NoTTZtX01JcXRsMjRuMW9pZDlRb2I3WTc3bXlZR2RWTnRSM3VXa1dBSzBfNkw?oc=5",
+    "publishedAt": "2026-09-17T12:46:05.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z",
+    "translation": {
+      "titleKo": "미국의 제재가 타격을 주면서 이란의 주요 항공사가 운항을 감축하다 - Financial Times",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8c9642b12016e650590996b4c6c65a8f989ce93e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia sanctions bill backed by Sen. Lindsey Graham passes US House - The Jerusalem Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42X3pYbGFwM01tdmtqSDN6LS1xYVZ0UC1rYjNVcWQzbWxVUFN1QkIyVy1VRUFmel9nSThVd3p0ejl4Z29UeXlxTktNZENOaUtReHY5X1UxN0lKMUttd1hmejdqWmQ?oc=5",
+    "publishedAt": "2026-09-17T15:17:14.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z",
+    "translation": {
+      "titleKo": "린지 그레이엄 상원의원이 지지한 러시아 제재 법안이 미국 하원을 통과하다 - The Jerusalem Post",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9dde95caa4401d42564a855cb0ace191ef75344a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Milei submits bill to strengthen sanctions against Falklands activities - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEtIWkYzTTFTVUFiQkRGMkVqNjBrR3ZfT29iT0hnVEtkTWxPVGJneFJSTm1GUkQ0NFJZWEJfa3RHdDZ5WnF0RmRzNzVVcFJkQ2RwaDdtNDhMMUI0eHZyMUk2bHQzMkdDbHIxU0hZWjdQYkJPY2NDRXNkVDVHWFZlRml6MGpZZnR1RDNzMmlYZw?oc=5",
+    "publishedAt": "2026-09-17T11:31:59.000Z",
+    "collectedAt": "2026-09-17T16:04:02.144Z",
+    "translation": {
+      "titleKo": "밀레이가 포클랜드 활동에 대한 제재를 강화하는 법안을 제출하다 - Yahoo",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "68925532049a3ca485861221690af338595c900b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia sanctions advance, as the US deepens economic pressure - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHkyR2lkUVMwbDZpQmwyV051YXB3c29qbXg1R2czZUJPRzh2VzUtdUo3T3lXSmFVOTR3eWF4SG9DR3d2bFFmRVJMVWdWU21LRlZHN3lHUXAzYVVhaVdwWlRJSzlKWGRkd0dqcUJQdkZ6ZFhwTENITHVFeVd4RFN6UVEwN1FpQjFPb0Z6eTVGM0VST05FcnZ6WUZ6RQ?oc=5",
+    "publishedAt": "2026-09-17T12:44:25.000Z",
+    "collectedAt": "2026-09-17T16:04:02.145Z",
+    "translation": {
+      "titleKo": "미국이 경제적 압박을 심화함에 따라 러시아 제재가 진전되다 - Yahoo",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0f7d9c2ccd3b847db5d9ddfb7c5dd294eb4cc8e2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "\"A gesture of goodwill and nothing more\": Why US sanctions relief won't save Lukashenka's economy - Belsat",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQTkxS3QtcHF5NnRoSnFsMDY2OU9yYjNJVldxeHc2TVhxbDhWb0c0ekZTTHA1dmZPQU1EQ28zWDdkMlpyb1d2eFl5cVpCTkY5d1Nyek14b2x5R3lWcjF6UTJYbzhUWXpnQm00Y1U1dHAzSlJqR2kwTHBKSXc4YlIyaFEtUFJucEtFeHNrXzlfOW96OHEzMDNJOUh6WGpyaVBOeF9aaVZ4WGl5QlY3cmQ1RWdsMVJMTm5EVGk1TzB2Yw?oc=5",
+    "publishedAt": "2026-09-17T11:48:00.000Z",
+    "collectedAt": "2026-09-17T16:04:02.145Z",
+    "translation": {
+      "titleKo": "\"선의의 표시일 뿐 그 이상은 아니다\": 미국의 제재 완화가 루카셴카의 경제를 구하지 못하는 이유 - Belsat",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "df16122da3ffb6305e1268538435829b8b07bcba",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "House passes Russia sanctions bill championed by Graham, sending it to Trump - TVP World",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWkI4SmRaUV9CMFRLZWMzYWQ0enYyRTJybXBZcTJoOXBWU2NJdlJkOElDSTVjVjVhQXpsTWRyYnBrZmdPNFgxQUNiNmoxdFFZR0FBbWY2cnByM0luT2xfRUVwc0lsUmtNVzJmSHRFbi1QWFVNdW9vN0RIU21kMXFIREpnSW1kTWQyYjhsSVVidXVXTzVWY1pGWDFYMVN2VDJlMnFDcGdmdGo?oc=5",
+    "publishedAt": "2026-09-17T04:53:00.000Z",
+    "collectedAt": "2026-09-17T16:04:02.145Z",
+    "translation": {
+      "titleKo": "하원이 그레이엄이 주도한 러시아 제재 법안을 통과시켜 트럼프에게 보내다 - TVP World",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bd4649f2206311e38687ff2207224f24067d5e9c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US House passes Russia sanctions bill granting Trump tariff authority - news.cgtn.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONk1MWmxMUkRBNTNvZ0V5RVhKRTVaOWRVVGpLQlJxYXRpY2p2SjJqWHdQemRuOXRJYkR5bEZzaGtJaUx2bUd4bXVPTldnQkVsUE9ZWTJ1SXJFblUybk9TVVl5a19qUjlTbEw4elRrbnJseGl5RUxvT3hMN3ZFaGZxV0x2dGdyUVU2OHFxYkZ6ZUpWcHV5V0dkdXhmQ1NDQ2NnelJCYld6M0hDOXcwTnJfd1FQbFRsUzJXdmQ0cHFqTEtsRFh4?oc=5",
+    "publishedAt": "2026-09-17T15:11:29.000Z",
+    "collectedAt": "2026-09-17T16:04:02.145Z",
+    "translation": {
+      "titleKo": "미국 하원이 트럼프에게 관세 권한을 부여하는 러시아 제재 법안을 통과시키다 - news.cgtn.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "268cc15715e02a657de50c803c5327476390daaf",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Sanctions Leave Iranian Students Lost in the Middle - Newsweek",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2lCOXNwd1pHYnE3NFMxckQ0WktIXzB2RjNWNExNZkhQTWp6bi11Vy1SamRieU5iSnhSSXc0ZTQ2VUc4YmxJMzRWS2pjN2hveldNRVJ4MUlTZS00LXBqMzZnRjN6djZ0VWpkTXZFMDBtTTFhX01oWnYzQVZEN2VaRHlrdlhmdWxPLWhybTEwb0Fwa29lbXc?oc=5",
+    "publishedAt": "2026-09-17T14:59:00.000Z",
+    "collectedAt": "2026-09-17T16:04:02.145Z",
+    "translation": {
+      "titleKo": "트럼프의 제재로 이란 학생들이 중간에서 혼란에 빠지다 - Newsweek",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "566e48f354bb4d314b767376dba1de39e9eaab88",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "House passes sweeping Russia sanctions bill, sending measure to President Trump - kens5.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSEZBSXI0dXJNZXZ5WHh6bnFMYU9mOGVxc0loWGtWZUU2MUhlWGlrUEZfMlVQcmExS0pDalBJQ3BfdU9QRHg2WTd3MVZRamQ3VzFVU25OSFl0VnZUcUhTN0plOHFYM0dqblFxRnBFcnBUNlYtUGkwTnp6TlVhYTBRaUkwRFJLS1JxZ1BTc1o0a3lKRnExR1VXZHdJVG5sUW9tVDNQYmkzdWdxN3dDQzN5R0VmNW1XbWxDa01VVV85eEI1by10YUEwWUhvVjlIZHJfQmdiR1RpM2tJTmRkdVFHS0hvSUNMOVBSSnBGcW5MNzI1em1nb04tMA?oc=5",
+    "publishedAt": "2026-09-17T11:49:00.000Z",
+    "collectedAt": "2026-09-17T16:04:02.145Z",
+    "translation": {
+      "titleKo": "하원이 광범위한 러시아 제재 법안을 통과시켜 법안을 트럼프 대통령에게 보내다 - kens5.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "21d2ed5ee2b3cb4c014fe4c5ddd04b449c2dc27a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Press Release: Chris Pappas Says He Voted Against Russia Sanctions Bill - Quiver Quantitative",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3M2YWRwbGFpOVBCTEl3QnN3Q0ZlcjhiVEYzVkZ3U2lvRE8tQ1FUSFRLd1pjUkpwUVRjVGtnLVQzckY0ZmoxT0tZUDVKVmd1dWVYb09xNE1UeExNNWpsa3ZjaWVza2xUQXVlNUV4SWo4ekR1ZXRpT3o3MG55M294TnViMjR2aXRaM1NpbU5jSGpJZ2xoV3VDbWk5dmZXTVF4ejR6ZU9JSW9Edw?oc=5",
+    "publishedAt": "2026-09-17T14:23:00.000Z",
+    "collectedAt": "2026-09-17T16:04:02.145Z",
+    "translation": {
+      "titleKo": "보도자료: 크리스 파파스가 러시아 제재 법안에 반대표를 던졌다고 말하다 - Quiver Quantitative",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a97ddf1673a6bcc79bfa581706c8ff66fb7f8e62",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Jerusalem Evangelical group to fight European sanctions on Israel - JNS.org",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTXZ6QlhyNS05QU9xT2NHQnE1SGcwODlXYk9Ja3pMdVpuTjJMWHJXeFhkUUZmajV4SV95TktvYVRzckI2MWRreElXa1JqclF5bFpkUTFycktxLTlzbDQ4VFVHbEw3LWVKazF5dk1wdTZRdk1qWkNseldLVDIzRHhFSWw1d2E5Y1UtdWpES1Z5aUwydEIyRjRRcU11UVcxbGoyWDFWSw?oc=5",
+    "publishedAt": "2026-09-17T11:46:24.000Z",
+    "collectedAt": "2026-09-17T16:04:02.145Z",
+    "translation": {
+      "titleKo": "예루살렘 복음주의 단체가 이스라엘에 대한 유럽의 제재에 맞서 싸우기로 하다 - JNS.org",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "06c3813785df848e418378b847fece3549c299c1",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US: lawmakers pass Russia sanctions enforcement bill - Plataforma Media",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUk0xdzJsb183bE8wMHFxaUZLSUV1dGlmT0FxQUdfMkZoamt2cFZpN0p3N3RNbTZsNzVkSWVNR21hVnNCWXNQajdoZU1FWUtKdks0XzBBaXRWZVdyaFZmYXdWb2xBT2NKekMyQXlVeTViUjhkVHd0SVJ1Wlo1NGh3SWx0N3FXM0dFS09yQ0NES0RJT1dxdTZhSnU3QVQzM0k?oc=5",
+    "publishedAt": "2026-09-17T14:02:23.000Z",
+    "collectedAt": "2026-09-17T16:04:02.145Z",
+    "translation": {
+      "titleKo": "미국: 의원들이 러시아 제재 집행 법안을 통과시키다 - Plataforma Media",
+      "snippetKo": ""
+    }
   }
 ]
