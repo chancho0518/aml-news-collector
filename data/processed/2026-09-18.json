@@ -1662,5 +1662,312 @@
     "link": "https://links-2.govdelivery.com/CL0/http:%2F%2Fwww.treasury.gov%2Fresource-center%2Fsanctions%2FPages%2Fdefault.aspx/1/010101a0b4f1965d-72d3fa80-b693-4bb6-b892-3458f6b45fc6-000000/OZYshuS2xJk8dRPJd1om3o1TEVxA1YSQJci9zEBpCRk=452",
     "publishedAt": "2026-09-18T14:35:26.000Z",
     "collectedAt": "2026-09-18T15:39:51.113Z"
+  },
+  {
+    "id": "3422ba45f6e17a8fa60c7bb9ed16b2be84e4a084",
+    "source": "ICIJ",
+    "category": "investigative",
+    "lang": "en",
+    "title": "US prosecutors accuse Huawei of ‘far-reaching criminal scheme’ spanning decades",
+    "snippet": "The Chinese tech giant is on trial in New York for allegedly violating U.S. sanctions on Iran and stealing trade secrets as it built its global telecommunications empire.",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://www.icij.org/investigations/china-capital/us-prosecutors-accuse-huawei-of-far-reaching-criminal-scheme-spanning-decades/",
+    "publishedAt": "2026-09-18T17:28:45.000Z",
+    "collectedAt": "2026-09-18T18:48:30.158Z",
+    "translation": {
+      "titleKo": "미국 검찰, 수십 년에 걸친 '광범위한 범죄 공모' 혐의로 화웨이 고발",
+      "snippetKo": "이 중국 기술 대기업은 글로벌 통신 제국을 건설하면서 미국의 대이란 제재를 위반하고 영업 비밀을 도용했다는 혐의로 뉴욕에서 재판을 받고 있다."
+    }
+  },
+  {
+    "id": "671c0cc8626df1f8a89878f87352a1086415787f",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "암호화폐 자금세탁 혐의 7명 UAE·스웨덴서 체포 - 토큰포스트",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IXzFMUHRqWEkzVXJ0Q3BrZUt2LVU5UXNHRUtGZmVYWHYyT0Y4dEt5WVpuRWJoR1NRM1gtemgtTkYtOVR1eXI3YW1qenNPZmdpRGhFNlEwSFk?oc=5",
+    "publishedAt": "2026-09-18T10:27:23.000Z",
+    "collectedAt": "2026-09-18T18:48:30.866Z"
+  },
+  {
+    "id": "3eb8a6f39960ef99974d71b2ae2a39332a0c6d09",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Azacitidine/Venetoclax Improves Event-Free Survival in Fit Patients With AML - The ASCO Post",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1B2ZUl2QXl1T1VJMWRDQ1RoRGNKWUJsMDEwYlprZ2xickJUNnVpVFZ1QlE1NGIxbTRuR0hxNnlBZkgxZXo5RDdCTm1Ta1Z0M0Y3eVZtV25JVGlZWVhiN2JkcFBzcUc4VVZhNmNXclVBT2dPU2k4VlM4emZXYkptdjZReXF2VlFPc1VwNkxURm9xc0trUXFfMXJxVWFmMngtS1F2UHRvd0ttZFRLZXNVdmdxX3B4OE1r?oc=5",
+    "publishedAt": "2026-09-18T17:03:12.000Z",
+    "collectedAt": "2026-09-18T18:48:30.907Z",
+    "translation": {
+      "titleKo": "아자시티딘/베네토클락스, 건강 상태가 양호한 급성골수성백혈병(AML) 환자의 무사건 생존율 향상 - The ASCO Post",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "dfce49559c16b82a0688ebc5c14794c5295385da",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AML RightSource Secures 2026 Crypto & Digital Assets Growth Partner Award for Compliance Excellence - FF News",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUY0VG1GZGJNTTlidkZqZDlLV0VBU2xUbXV0cU1vdl9DcndjTWFsbFRiYWVFNTd4MWMtOTMzZE5xTGNkWjBjNjdqTmRBUms0MU1obnY2ci1taGJUVEhHQVdEbFdPZndJQk1aX3IxazF5bmtTQ3lON0ZxNVVnRWlGWjdkVUJSWFNOTzlMNjNBRGhqUGtueVlISnVCMjNsVzhEUC1RaGpTbTlkMVM5bW9pZEJrZw?oc=5",
+    "publishedAt": "2026-09-18T16:01:27.000Z",
+    "collectedAt": "2026-09-18T18:48:30.907Z",
+    "translation": {
+      "titleKo": "AML RightSource, 규정 준수 우수성으로 2026년 암호화폐 및 디지털 자산 성장 파트너상 수상 - FF News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "91a62109b2fb40cec08bec90e2ad9b7d6c9f6b26",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK's AML Strategy Hits Right Notes, But Is \"Partial Fix\" – smartKYC - Wealth Briefing",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML",
+      "KYC"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSTI0MlBwVGUxSm9zY3NiVTV0dENCdWdRbnZvUE1DdGVBc0R1ZW1qQ2h5M25OdF9ka2Nhdmp2YlBhM1F3WHZtLTF3R2tVWER0Q1pGNk5uM0dVV0tMTll4dWlHUzQwRmZpY1JQZ21WZUQxUXpSVGZueUdJR3FBaEduRHVycGRWVW81Q2ZQbUU3MmZkRVYzMVVScGdtN005XzFBQ204TWYtZXhWcmMxc19tWENwcHlMS2g1VlNtVDhhOA?oc=5",
+    "publishedAt": "2026-09-18T07:18:20.000Z",
+    "collectedAt": "2026-09-18T18:48:30.907Z",
+    "translation": {
+      "titleKo": "영국의 자금세탁방지(AML) 전략, 방향은 적절하지만 \"부분적인 해결책\" – smartKYC - Wealth Briefing",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8d412b9dea1fb2478d3e30fc320ec7e18041134a",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK regulator probing payments firm over suspected anti-money laundering failings - Reuters",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcVMxOEZqWVVGc081NW1pUVBmeU5UUkJSdGpFMHdtYkE4dG1vZlF1NWF1bUJGeVNwQnRxTHk3Y0xFSGFhVnYtWW1ib3d6N1lqYzZ5czRUQTZtVTRMdkQ3ZHpETkJKR1FvWHlFb05iamNYbmZUdEszZkNDclBSNC0zMkhiT21YRURqN0ZwaTd4cmg0VmllVnB6V29TLVJSVF9DbXhYblh5T0VvbW9EcFNpM1FucFZkRGs5M29RaVdLdlItNWdRemZOOS1LZGt6UQ?oc=5",
+    "publishedAt": "2026-09-17T18:33:02.000Z",
+    "collectedAt": "2026-09-18T18:48:30.907Z",
+    "translation": {
+      "titleKo": "영국 규제 당국, 자금세탁방지 결함 의심으로 결제 업체 조사 - 로이터",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "699812c41ab1683806de6e2d8107c41199aae18d",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "New AML strategy signals closer scrutiny for property sector - Propertymark",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUS0yMDdFbE9TTUhlYzBEUHlDckxrU0xUNG1hYnJuSjl0aDRSLUswZVl4LVJxLXVTMnBIc1VhUTRmWHJISzJUSmZBOTJlSDRpajBpVF9hVGo2RUZHYzZSV2pQWDE2Yk8ta0Q4bmRMZTJ0M01RTU9vNEN5Z3dmNDNBUEpadnhxTkF6ZjNibWxQaW9sNU5lTnBIME1obU5Jb0RlaENxbnJKMEI?oc=5",
+    "publishedAt": "2026-09-18T12:27:08.000Z",
+    "collectedAt": "2026-09-18T18:48:30.909Z",
+    "translation": {
+      "titleKo": "새로운 자금세탁방지(AML) 전략, 부동산 부문에 대한 더욱 면밀한 조사 시사 - Propertymark",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ff90ce5d0af07f3e0ebf40f20501265245942c05",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Former OFAC official warns Chinese tech firms risk US sanctions over services to Iran - Fox News",
+    "snippet": "",
+    "keywords": [
+      "OFAC",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80TUw0LXlNUHRSenhDN3hRMDhwamxfOE5fV1E3NWtVZjNkMU14SUw0WUxVNFprSTNEMGducllCLVEwRWhYck9vcTU5dU1KMXRBcGxpUExB?oc=5",
+    "publishedAt": "2026-09-18T15:34:50.000Z",
+    "collectedAt": "2026-09-18T18:48:30.939Z",
+    "translation": {
+      "titleKo": "전 OFAC 관리, 중국 기술 기업들이 이란에 제공하는 서비스로 인해 미국의 제재 위험에 처할 수 있다고 경고 - 폭스 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8b3d51e4e2f88f5c54b8088d457f4b7ae35658e3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions bill targets Russian energy but gives Trump broad discretion - Oil & Gas Journal",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOERXc3N2X2RObWN3eHRfbE16WmJaZ1REaG9zM2RidnBGZFRLWkNrakNYUFNCRUFFNnpxekxWUmRmdktXNnU0c3RlMXJ1VVgxMGpNNk5CWXo0U19zU2FxaDBRRDJWYjhlemZfUGVSWDNZajZhbUFmdzU3aGppTDFCaEZETnE2SnE1V3RYOGhYTjNxQnZZSlQzWUxSQjFfNG1KcjE3dHItUElES21pS0g1bGpHejh4eEhEX3JTYXljbWRtZE9DTlI3cmpadHpXOVlB?oc=5",
+    "publishedAt": "2026-09-18T17:23:59.000Z",
+    "collectedAt": "2026-09-18T18:48:30.940Z",
+    "translation": {
+      "titleKo": "미국 제재 법안, 러시아 에너지를 겨냥하지만 트럼프에게 광범위한 재량권 부여 - Oil & Gas Journal",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "68b18d49bba313f286a92b8c1163efcb143f41a2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "A sweeping U.S. sanctions bill offers Ukraine new leverage on Russia, but enforcement looms - Los Angeles Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNUpQWnQya2N6NHZhMzA5aFRPRXB4TVgtUVZSN2YwNDdhd3NaRy1ETlV4VWl3UXEzVUVTejdxM1ZGMlZiS3gzYWp3eFBiSHBDZTAxLWtGa0dBNG1vUXhYQ1JCRzZSSTZEUlloWC1rRm9kSmVXOXVudEtNT29zOUxreGF3cmVla3gxbFRsN0pIazFnZm8xakNhVVo1UVM1X3k0U01JNEhrUkh2SUY5TXllSDV2T1ZaLUNraDJmX3JWckxvVHNIeVI1YXktZndLbTdXa3RKeUtWZTQ?oc=5",
+    "publishedAt": "2026-09-18T15:16:46.000Z",
+    "collectedAt": "2026-09-18T18:48:30.940Z",
+    "translation": {
+      "titleKo": "광범위한 미국 제재 법안이 우크라이나에 러시아에 대한 새로운 지렛대를 제공하지만, 집행이 다가오고 있다 - 로스앤젤레스 타임스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f2b8b1c9c72c0590d32a997211d904db810a9ed8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships - Decrypt",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUUd2bUJIMlpoSzRHU3oxWHV2bGxaRHQ5UDlGcHhkZGFQeWlzbkYtaU1zUmp5OEY3U2ZpMnJ4V2tpRk94QzQ1bWF0UldpanhUZmJSdVVWTkN3WUFMd0FwaEZwaXhDbWhfNzhLcmtERUdDdGFkQkpVUnhWTVluLWpUQUdKUTdUcThNamptWmhhd2p2bzBoal9pRjFJNGE5MENHR0cyUXB30gGuAUFVX3lxTE9CWkxiUXp2Y0Q0SkVsVTVNQnE5MTZoa240a0RQN2hqZ0hyS1V4VnVYUXVFNUdNZTlUVUxDUVJ5RnZ4Q2ROV3FwNXVlQl9TdU5LWVNJRTFucC13d1RWZWJPR2tTdUx1aFI4TWZWUmZWMnZ6M0FTQkhBTGZKZDBKU0hhdWs3TUhWZWNNSnlEUjNFZEJnX1RUdF9TRWVxQ3hJMjZEdi1lMlREbnVNOEQ3QQ?oc=5",
+    "publishedAt": "2026-09-18T09:01:55.000Z",
+    "collectedAt": "2026-09-18T18:48:30.940Z",
+    "translation": {
+      "titleKo": "미 재무부, 호르무즈 해협 운항 선박에 대한 이란의 비트코인 통행료 징수 배후에 있는 암호화폐 거래소 제재 - Decrypt",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9321b4736d51f8e3dcc2e1fe929a8e6623baa1f6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Tau Kappa Epsilon sanctions leave chapter suspended through 2028 - The Baylor Lariat",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMHlVSjQzaDdtMDhUcEt1T3FCQlpBbmVLNkxPV1pIQWNmMkJBcXYycWJrSEluMjhzRkY4MnhBQ2xSQ2FSS1ItWkFZRlVLZWk3MW1hRmpYU3R0emd5ajdrbFl1dnFweEdjdDYxdi1hOVM0U3plNTN6cS1PSHlQbzZnZW9UUkNUZ0lwRll4QmNyV0FCa0FfV1hlRy1xU0pBX1VIWWVZ0gGrAUFVX3lxTE9SOTBObkl0R1NWa00yZTJzNjJrVk5SSEV5ZmxsWEJmMHBXZ2RLSHZKMkhHcmF2dkxoMW1vTHhhS1FCamQ5dXBWQlRSVElqNVhST0JZV3Y2dlFLSGpTbThTdmJqVk1tc19Nc0JYV2dpQmJsOEZrWGJKSU5Qd290YzZQVnlxbjd4ZDNyT1VDQzdvOGJiUWVDY2F6N3psMlJ5VWdYaGktYXlKOG54SQ?oc=5",
+    "publishedAt": "2026-09-18T05:44:25.000Z",
+    "collectedAt": "2026-09-18T18:48:30.940Z",
+    "translation": {
+      "titleKo": "타우 카파 엡실론 제재로 지부 활동이 2028년까지 정지됨 - The Baylor Lariat",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "91cf6ac44c39b22594c057d75614537c90ba0a20",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US lifts sanctions on Eritrea with Red Sea in focus - Middle East Eye",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbGEzbDVjN01BYmhTTjhnMUI1alZ5RjNGTEFTcWs4QTNnTndKNU9OR0EwMjRSM0VPVmRVR21SYXdWZW8zNWNiZTE1VldWNlViR1FPWDhmdGtnQjI4MzQwUFZDSXQ2cWw4LXpJeWlBdTNmUURzUnZLdWlsMXgzYmlBTA?oc=5",
+    "publishedAt": "2026-09-18T18:13:26.000Z",
+    "collectedAt": "2026-09-18T18:48:30.940Z",
+    "translation": {
+      "titleKo": "미국, 홍해에 초점을 맞추며 에리트레아에 대한 제재 해제 - Middle East Eye",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "721fce6613256179917eea0b5ccf9132a6bb79c2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia's $118 Billion Arctic Oil Bet Pushes Ahead Despite Sanctions - Crude Oil Prices Today | OilPrice.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkNlcmx2SVJuaFZnZ3ZVVnVoSDlLakRGYnl0WHVidzJobUIySGdydGRMcjFkU3FLQ2xvUFRab0pfUHFXOFVnYy1kWms1VTdwTlRmQTA4SjBlVnJSU0ZybmhrX2ZmMzlmWGxnRVByUGh4bHpvNTFSVFVDajdsR2NUdFN6SXQ0RVMyYmgzemhTNzdQUV9SSEFLeU16MDFKOHF4dHhjeWRCVl9malloZ1c1MGNSONIBuAFBVV95cUxNNFBkRHd2SWw0aGptb0JtTVB1RzRTVVJTaGo5cUYxY2lTQ3BQOVA2bmhNc3NhVEVJY2ZTX3pWOW56cGpzd0JCdGNVMDJCMnBWUWVCSG1tRlExSWJvTVJIcUI1cTg5U2dtZFp3UTdRSEJFcDNEQ1l6bU43ZnY1Q1FtYmNpLU1HNEZ6andiWUtIUGRYRjdnUk5PS0kwMDJhTnFyM0drdFppNklkems0QXpWaVFRSklMVnd0?oc=5",
+    "publishedAt": "2026-09-18T16:00:00.000Z",
+    "collectedAt": "2026-09-18T18:48:30.941Z",
+    "translation": {
+      "titleKo": "러시아의 1,180억 달러 규모 북극 석유 베팅, 제재에도 불구하고 추진 강행 - Crude Oil Prices Today | OilPrice.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "18366ef03278f9095a16cf2b32f0c463234718cf",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US says Iran sanctions working, as Turkey, Oman suspend Mahan Air flights - JNS.org",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTDBHUnVMX0g4cWdnT3duYnM4c1pEc1JoWllnN3BteWJHVUFwMmxKbFBXXzdVR2lfR2xsVWVXdWkwSS1TZ3Z3QzNLLU4wNmNqdjh0cU5ndDBSU3h1M243OGwxSG8tdE16Sk1ZRm80UW5MUHZ3bXUyWlQ0akdvQnB0UGFQc0FETWU3WHNvV0NvX2JNNW9hQWZENDV5dlRyRUpEblhlNElSelg?oc=5",
+    "publishedAt": "2026-09-18T15:52:36.000Z",
+    "collectedAt": "2026-09-18T18:48:30.941Z",
+    "translation": {
+      "titleKo": "미국, 튀르키예와 오만이 마한 항공 운항을 중단함에 따라 이란 제재가 효과를 거두고 있다고 발표 - JNS.org",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3f48e07b29966e669a8ec3e04a480f17cea48c7d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Joe Gibbs Racing motions to issue sanctions against Spire, Chris Gabehart - Motorsport.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDB0TG1oclo1N0QyZVhmMXo3dno2d3RIeExOZDJqZGhnQnM2aXlUMGZZMURkMlBFT1lvQ2RfZlRlaW9fb2M0d2RLTHp1UXd4NGNyekkwYXlLY1NCVmdiS3d0RGcwNUpBdWFvdUZZby1FNXZOdGZlMnM0a1EzZXlURGVZSXZleE9NV0ZVZzd4bVBzWmt1ckpNVlNGNkc3bmVYeERzVnZqVG9VZ0hfdDJQUVdvb1pkbkpZZTd5RTJLRW1XWlk?oc=5",
+    "publishedAt": "2026-09-18T17:41:50.000Z",
+    "collectedAt": "2026-09-18T18:48:30.941Z",
+    "translation": {
+      "titleKo": "조깁스 레이싱, 스파이어 및 크리스 게이브하트에 대한 제재 요청 발의 - Motorsport.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1d57c0c1d3409fb854d1ebb1ed8d82ed7a183d5a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "No agreement among 27 EU states on extending Russia sanctions: Report - aa.com.tr",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeHhTd2JzU2IwLW1JWEFfMFZncDcxUmZEQ3FmQ3YxeF9LMjJuTWxOQV9XdkNFenRXUkpwWnJ1U2Q4QXZtOWJ3V29TUHdXZmlrdDR6bjFPR09DWWJIbUUxS3JEVU1meGZ2WHRGS0M3eUt5ZEs3cnVDOVhMN2IybGo4ZjZfSGlrY1d1RHdIekltWlZrOFFZOVRoU3pacm9FNmV2SGJSWkNRYw?oc=5",
+    "publishedAt": "2026-09-18T14:51:24.000Z",
+    "collectedAt": "2026-09-18T18:48:30.941Z",
+    "translation": {
+      "titleKo": "러시아 제재 연장에 대해 EU 27개국 간 합의 불발: 보도 - aa.com.tr",
+      "snippetKo": ""
+    }
   }
 ]
