@@ -700,5 +700,415 @@
       "titleKo": "미국, IRGC로의 비트코인 송금 혐의로 이란 암호화폐 거래소 빗뱅크 제재 - The Block",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "2fcb2a532f2037291d3a0519c3a3a70677e44c25",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "한·타지키스탄, 자금세탁방지 공조 강화…금융정보 교환 MOU - 아시아경제",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlk4MksyYXRZRm1OZUZHdWxNYUxDYll0cjVIeUZ3MDhxLVdkU0VnOTVrZGZ5dXpmeHVTNXFVVVkwMGFLMTYwNVhZejZIY2NlcUprT3pZUUhTRnh1X3JNMzRWLTBWYWRXRWtQc3RtWFJfdGVRX1NYc0N6LWFCMTJWa0dB?oc=5",
+    "publishedAt": "2026-09-17T21:16:19.000Z",
+    "collectedAt": "2026-09-18T08:40:44.418Z"
+  },
+  {
+    "id": "6e2ae5d7eade6b5ef663f7891384d5e768788047",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FCA probes Euro Exchange over AML failings - briefs.co",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQamI3S3d1VVc2eUQtaDZfcWphanFzcGZJWnl5b1RNRnNsWWsyUzVRSk53VS1TTzhHRHNKVG9ReW9HRVhjcTN3VDQzdkhvTUk5em9RRXFpNHd4VUt1X2tsT2QtZFpMS2xPUGQzdDM3WWF6VEpUb1NDaXQ5QUN0Tkx2aU9od043UkhYWFpSN1I2bk1hQQ?oc=5",
+    "publishedAt": "2026-09-18T03:31:44.000Z",
+    "collectedAt": "2026-09-18T08:40:44.400Z",
+    "translation": {
+      "titleKo": "FCA, AML 결함에 대해 Euro Exchange 조사 - briefs.co",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ac04fcd0e8c9f2c3cb2df020bc2e8ae546c5a597",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FCA to take AML supervision of 60,000 legal and accounting firms - Money Marketing",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUS04Mk9HeWJQYkhJTjFkMWNMNFFURG1GTWwtdW9GYzdwUU1nM0lFSExVVVJxbnJiLS1IdFZDekZHcm5PLWJvRS1XUzdFZHloMERhM0xVZGJFdHBQSVlOLXVHeDZySzNRcmd3bGw5Y0dLelFKRlZLQWd2YlExa0VnZnpCRFFIdHl1Sjc5MHVTR0RvbEpkdGpMQnRNSFNUenVSbENiZA?oc=5",
+    "publishedAt": "2026-09-18T07:19:46.000Z",
+    "collectedAt": "2026-09-18T08:40:44.400Z",
+    "translation": {
+      "titleKo": "FCA, 60,000개 법률 및 회계 법인의 AML 감독 맡는다 - Money Marketing",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "39bbc25841120cb47df3d3f5346483e0218adee7",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AML charm offensive - The Law Society Gazette",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sX2ltTVExem1xd3lWZExlcGpPU29rNmJZNDk0MXlacWJpZmV4V1FwaWp2NnNxcmZRdU1JTXQya2dSaEJKdzR4ZDA3d250eDdndW5vR1BLUWhTRGZtQW1QNFBNSlhzUi1jTEw3elZBckMycW9rTGVGbA?oc=5",
+    "publishedAt": "2026-09-18T07:44:05.000Z",
+    "collectedAt": "2026-09-18T08:40:44.400Z",
+    "translation": {
+      "titleKo": "AML 매력 공세 - The Law Society Gazette",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a32497060e962d5c04f4b88f669357888d76d987",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The Morning Briefing: FCA to take AML supervision of 60,000 legal and accounting firms; Understanding pension outcomes through different working lives - Money Marketing",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQOWZydWRUVmhFdGZldllyN1M1UG1vQnV6blJHcmxEUGFtc3ZMNjZueUV5WmFJeFcyUzJlZzU4ZWJjcW44Ry1wZE1jZ0dDcWwzWHBPZkpEekdHYzZPcWFvQzhObGc2SjR1eUFPRmhNOXYzX1NUXzl3djdmckpVNWVYR0pZTDVta05WXzg5RWlFUFVPb01wSUY4djBLSkhKUFdBVUxMYkQtLVJtTnJDQThCdV93Qlg1SDlkQW9XTWo4QllVTHpPOFA4d3l0QkZjRnRMdXhsU1NVVEZiSmFTNlJxNTljSXF0RXZWX1NJQzJFa2dPcTRNYS1PTk5VMTBjRHJfR2REU19pd0xtMVBOSTg3OU9WM2M?oc=5",
+    "publishedAt": "2026-09-18T07:39:57.000Z",
+    "collectedAt": "2026-09-18T08:40:44.400Z",
+    "translation": {
+      "titleKo": "모닝 브리핑: FCA, 60,000개 법률 및 회계 법인의 AML 감독 맡는다; 서로 다른 근로 수명을 통한 연금 결과 이해하기 - Money Marketing",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f661c545590120ee9d47afb638477b40546ab2e1",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran’s Isolation Grows After U.S. Imposes Sweeping Sanctions on Airlines - The New York Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd21jUktGbU5udUZNVXpKdXIxRUtvM0JnZ0M2VDIwZ1ZSMWQ3WE1TZS1yTUFQU0FtYS02UjVCRzEydVVJdlhfVjd3aHNfc2FTQTd3RWctSUxTeDVMSmNQUHlrSHMtWE92cEhfaDBzZmFIR1NWUTZHR0xabW5VcjFkVXRZT2NUbTd2T1lRb2FvcHlkRmdkUnhNWnB4R2x4Qk1BYTUtRw?oc=5",
+    "publishedAt": "2026-09-18T07:51:00.000Z",
+    "collectedAt": "2026-09-18T08:40:44.437Z",
+    "translation": {
+      "titleKo": "미국이 항공사에 전면적인 제재를 가한 후 이란의 고립이 심화되다 - The New York Times",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a3a81c6080b995eb3adb160e1dad8bf604d9dfa9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "‘Outrageous lies’: How Israeli voters are shrugging off Western sanctions - Al Jazeera",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanVYTEtQTDBkMUtmVUFVaThTY3ZzTDVjaWc5N1oxTlhoeGN0anZxcFNpY1k2RjNQeGtxSHF5T0Q5cnlpQ1pYcHJacENIMlpOMHBkRy01TkQ1aXhGTm5zWkNPeDVPdk11cWpfUHptT2o0U1IwWnR0NmExTUQ0UUF4TmRWQ0Etakh6WDVjaHZFTU1LQk15REVIMU03a2plX3ZYV0E0VG9CRFdxTXN5UkxsYdIBtgFBVV95cUxNZ0FyT3J6T2xRd2lhMzBMTGttb19RQ3dhQUxFbW5oZEJ6MjlGSmhzcmF3VzJBMmRTYkJlMlQ4ajhZRHo0ZkdlT1VMRGc1MVNHdVNfNVZEaDl5YWowSHdMeU1ZNTJMLXNRSUM0eDF3OHhhaS1vNHZQMXRSS0RfbFh6Z09JVXJaYkhuX19PVHF2QXlSNldNbGluNU14cnFOLV9rbnIxMFBNV0xDdWlTMEpRbTJPeGhIQQ?oc=5",
+    "publishedAt": "2026-09-18T06:57:34.000Z",
+    "collectedAt": "2026-09-18T08:40:44.437Z",
+    "translation": {
+      "titleKo": "'터무니없는 거짓말': 이스라엘 유권자들이 서방의 제재를 무시하는 방법 - Al Jazeera",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "721ae8d4e7c662421a1e447f739ef63c33a9f614",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU mulls compromise options on Usmanov sanctions to end French stand-off - Financial Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWml4Y08wb1ZLRmxsUlNwYUpheEd0ZEZfU2xLWFVuemI2QTBDamFmSkFHUkJrUXdmSlZrZnVVUjB2azBOaXVNNXFGbG1ydmVGVmRhSnphVWo1ajZ0OW9NMVhrdFBvdXFzZ3RoOFRJTURHcUI4d2tTS0E3aUZCSURnUEFfeTg?oc=5",
+    "publishedAt": "2026-09-18T05:00:09.000Z",
+    "collectedAt": "2026-09-18T08:40:44.437Z",
+    "translation": {
+      "titleKo": "EU, 프랑스와의 대치를 끝내기 위해 우스마노프 제재에 대한 타협안 검토 - Financial Times",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bbb56a0291611a8081123db9dc7ace85875fad19",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia, China end mandate for independent monitoring of UN sanctions on Iran - Reuters",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHBsNEJfd0VCaF9BYlJXbDRTbFVTc1hGVE01TmdQaF9oRDdlaGw0YzU3TDRucEI4UjRpR2owemo3NUdFLTBkOVFCWm42Z0d3M0p1eHNvU3JBRkNyUG95VWoyWXRoY21lR0lvYjNXUjVEdUFON2x0dHdlbDF5OTlTOXpnV1kwNzlGQmRjODZGZzVsNXVjMHZvbXNad0dEWFdWTXVfdEVSNVh2dGx4elF1Nm5oaw?oc=5",
+    "publishedAt": "2026-09-17T17:17:44.000Z",
+    "collectedAt": "2026-09-18T08:40:44.437Z",
+    "translation": {
+      "titleKo": "러시아, 중국, 이란에 대한 유엔 제재의 독립적 모니터링 위임 사항 종료 - Reuters",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d8bb39cbc1bcadb8f8121a5c58515a7bf68aa009",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia, China block US push to maintain UN oversight of Iran sanctions - euronews.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1lIQkNQbno5QkhpYU9ETnhzTTlIeXJ6YVIzbmV0YW1kSDJXNmU1SFBaLXVMZk9KaE90WVJCV195Zlc3eTJXTTc2LTJwRDFpalRWWW04emRVSnlFNnJZRGQwUFFIWFNyYUY1RmdfdENEWWdyRmdCcEpySk9EOTZHOVB3b19PQUtaUnRQSmhrN2czdHZsUDhrdVhWRll5S05IMEU2TkVwTnZTY3pJZXJJSC1n?oc=5",
+    "publishedAt": "2026-09-18T04:27:18.000Z",
+    "collectedAt": "2026-09-18T08:40:44.437Z",
+    "translation": {
+      "titleKo": "러시아와 중국, 이란 제재에 대한 유엔의 감독을 유지하려는 미국의 추진을 저지 - euronews.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fdc7d12fd77aadc0dbb46ccfc7dd10715b42b21f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. sanctions Cuba's nickel reserves, military research entities - upi.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVHJKcXlRNG9adHkxbFRKNHlOWmhCMkgyVTBVR1czYThDYngwbWx4OWMySDhIbTFNMDN0azlxVnBpRlFzWFNVM0pfamV5d2hWaXFDOWdqTWlvb1hrSFF6Vy04SWo4OThfbWVqaEZXXzdlRFZtSllXMWNUNG94ZFVKYy15NzVFZ9IBiwFBVV95cUxNR3Q2MFNVTGNHTC0ycnlIZ0pjRm5tRG5ldy02ZVc5V3BSM09CaUlKOGNKcllMOUdJVUx5M1VNVkJZei04X2NfVzNGZERkZl9JeU42SFlCVHlvbXZ6aDZlZGxlQkRLTWQ1cnFkblh6TnRBSXZoUUdwY3FJb0JaS0VxcTRSMUJPM0lua19N?oc=5",
+    "publishedAt": "2026-09-18T06:36:33.000Z",
+    "collectedAt": "2026-09-18T08:40:44.438Z",
+    "translation": {
+      "titleKo": "미국, 쿠바의 니켈 매장량 및 군사 연구 기관을 제재 - upi.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ca406f4dc23906bdf07e2d918e25edb881816929",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "United Nations: Russia And China Block The Extension Of Sanctions Monitoring Against Iran - i24NEWS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamtFLTBkcHg1a3lkcHpIOHRWazVlM2owdzRPd1cwUXoxWVhWbGRtSVk2RThlc0N4cUdreVJ3N01OOTZXQlgya0RISHVtS3Rzc0dFZzBqMG40N1AzQWZjY1FLOG42MWlWbHAxaUJmR2F2c25CU1kzeDg1aEJ4aUlCdTYxUDJXdnVCNzRqUXpRREw5LXVvVUcwSFVaLUxFV3NSZXdmM19aY21kZ2pJTklBRVk0alNEcXlUcUVpYUo4VGpJc0JJazlJdU9jNXpjVVgwLU5ycg?oc=5",
+    "publishedAt": "2026-09-18T06:47:00.000Z",
+    "collectedAt": "2026-09-18T08:40:44.438Z",
+    "translation": {
+      "titleKo": "유엔: 러시아와 중국, 이란에 대한 제재 모니터링 연장 저지 - i24NEWS",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "641728ee80a5e28013ff4a65faffca5fc2f9d187",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "A sweeping US sanctions bill offers Ukraine new leverage on Russia, but enforcement looms - AP News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjY0a0VnbUEwVzU0RTA0MmlSR1JBZVBSNmRKS2VoN2N1cDdoU0xVV2JoSDViWGstWUxSMGhNVVF4d3JqdURCMHJFdE1EQWNVVElyUzJMMFBIa2liR0NMaWk3dDVDOG1LT0QyNFlPSEwxZkgwUXhyOEVuTVA1QnN3LXNMTlNieFVvVHRMaTdFeVowckc5Z1luZW5MbUtuSVU?oc=5",
+    "publishedAt": "2026-09-18T00:33:00.000Z",
+    "collectedAt": "2026-09-18T08:40:44.438Z",
+    "translation": {
+      "titleKo": "광범위한 미국 제재 법안이 우크라이나에 러시아에 대한 새로운 지렛대를 제공하지만, 집행이 다가오고 있다 - AP News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f971677c44e0d431a6e0249b0789b91325a02516",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Sanctions Bitcoin Exchange for Handling Iran's Hormuz Transit Fees - maritime-executive.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSnBzblhRYUdnXzMzcTRDbG1vZDhHSzhoc0RWN1BiVUxoaWo5S3pGaDE0OVpDbGpreDV6ZWxGbm1lM0UxM1J3YnZJck80YnZlU2t5b0N6UUsyZkplMmY3UEJ2U3Rabnk4OHhtMUFPMnRhMWlYRjFnc1hNTUNvcnFHSDFITUV5ZFJlMThISGZjUWZfdGxYNlFLY0dPR00tNWJMNF92YU53WkF2NFZa?oc=5",
+    "publishedAt": "2026-09-18T02:01:27.000Z",
+    "collectedAt": "2026-09-18T08:40:44.438Z",
+    "translation": {
+      "titleKo": "미국, 이란의 호르무즈 통과 수수료 처리를 이유로 비트코인 거래소 제재 - maritime-executive.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b68b2dbbbd606843516a91507b062c7a6c92f75c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Washington Targets Cuban Nickel Reserves and Military in Latest Sanctions Round - kotaradio.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdGhsMVJfQXFQbEkzV09Mb0R0M1JyTU9QbzRSN2JoRkdQc0wxV054ZjYtbHlTeGxDN3dnUE5KOWFpX2tsdmw0VmNYSDEtQVlvSTlUVzgtZDdXV0w1cEdSdXN2VHBfMXJMc2l5MUVPNmNFQlRxV3c2aklkY2x5WEt1UjNPNjNZZWxuTTdTMzd0c2haTDVBLWNWeDhYUFpSc2FqdEEzVXI3OGZoUG5lUkJ1QTI2U08xaklC?oc=5",
+    "publishedAt": "2026-09-18T07:59:53.000Z",
+    "collectedAt": "2026-09-18T08:40:44.438Z",
+    "translation": {
+      "titleKo": "워싱턴, 최신 제재 라운드에서 쿠바 니켈 매장량과 군대를 겨냥 - kotaradio.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f7c0182a2cc5a8d79e0bea945cae10e4e6ae0c95",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US House passes Russia sanctions bill granting Trump tariff authority - chinadailyasia.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lSkY3QlRnbnEtNTZ5OXRmeFd3bjU0Z3l6ZmxsaEY0Z1ZyVEx5YkxKbVpERnN0QlBDUEpkdldVckkxTDUzakVOSGh2MC1XaVpId09Xb3pmalQ?oc=5",
+    "publishedAt": "2026-09-18T07:50:36.000Z",
+    "collectedAt": "2026-09-18T08:40:44.438Z",
+    "translation": {
+      "titleKo": "미 하원, 트럼프에게 관세 권한을 부여하는 대러시아 제재 법안 통과 - chinadailyasia.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4ddf3c1e3ce944305fd55c8516489522faa296c8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Congress passes sweeping Russia sanctions bill, sends it to Trump - subscription.ukrweekly.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeTNPYzA0aFluUjFwZVRXWjZDLUNEZElOdUJ0Q0k4WnRlcjQ2V3VmTnVHU2JqNWJBS3JjZE0wamRDN2hBVzljREVtS01zaFVZYkdmWEs4OXdhRFlrWU1qMkY4aWllYXFUWndaZ0tYUU9mVkQ3eVVnUVd2Y1ItVWctaV9EbmtpQ2FmMVZwaktOanBqZHlnVnBFSEN0eW9MdEtSVFVndUVTTQ?oc=5",
+    "publishedAt": "2026-09-18T07:31:56.000Z",
+    "collectedAt": "2026-09-18T08:40:44.438Z",
+    "translation": {
+      "titleKo": "미 의회, 광범위한 대러시아 제재 법안 통과시켜 트럼프에게 전달 - subscription.ukrweekly.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c74c29a8929dad34dd5e20c210c7f834a2caf076",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions Cuban nickel reserves, military enterprises - Mining Weekly",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMC1iZHk3eHBKd00zMFllMHRsTTFaZUdWc0hIMThRRUI0UTZyd01WcmtLSUU0Tzl1RUlIYWd6NnRwUWdMc2ZoeFlPczc3akxXS3dUa1h5RVM1Nzd5TjlWVDU3MVNwQkE0XzI0YkNPcHkyUm82WmNzMEotNlVTaEwwQUVZeEVIWTBvRm5QS1R2SV80LUdPSHFBeEhKWGVpQkpEMXMyNDd3?oc=5",
+    "publishedAt": "2026-09-18T06:54:00.000Z",
+    "collectedAt": "2026-09-18T08:40:44.439Z",
+    "translation": {
+      "titleKo": "미국, 쿠바 니켈 매장량 및 군사 기업 제재 - Mining Weekly",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "500d408d3260a74dd16c5e9734b9591ccaca552c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US lifts sanctions on Belarus with the release of 25 prisoners - The Arkansas Democrat-Gazette",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzBHM2taUl9mY1F0OURYRGpOMjAzelJUMlVIVlVRTVliRTRvUWxSME5aWDVFS2xjaGQ4ZEk2eHpzZ19YWnBfYTNGUjZMY2VZbzRuYi01TlJPcjVBcHo1SFJreERzQU9MSS00Um5GYzJyWkdOODBKTEZtai1HYVJNemZUcG1aem9sSkQybmxPd2lsVVRXQXZvM2hxZ19fUVU?oc=5",
+    "publishedAt": "2026-09-17T08:59:00.000Z",
+    "collectedAt": "2026-09-18T08:40:44.439Z",
+    "translation": {
+      "titleKo": "미국, 수감자 25명 석방으로 벨라루스에 대한 제재 해제 - The Arkansas Democrat-Gazette",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d76f722f6079c38be314f7e9bc8d3196cb0187e1",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "A sweeping US sanctions bill offers Ukraine new leverage on Russia, but enforcement looms - CBS 19 News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNWFkaUpjVms5TmwxMEZTUDVza3R2Z2VoZUxuemR4NVhPZDRpbFVLUGRCVHZEeEV6ODVlMUQzd0hvVlRNdVRFNXpNUVdMeGpJb1BZcmZCV1lTVDhJQUVZdFVIeUc5YXJUTXZaVXkzenVRLXhWZmdNeDdPV3RsTmdWRkY1UDZDU0l3VTdkNHZWT05QYTYxU0pPT3EzSHZjaHlGSHJEQXBzeUowSzh3Qm5IQ2J3UGdYcjBtMG1qU1BoX2dXOEhtSkh5SjdwZG9Pbk5MREpYb3VaUGcwRHlMX3lYbXZsZ3NWWnRQNWZnTU9UY0docnJCQUpnWU9sSURxdw?oc=5",
+    "publishedAt": "2026-09-17T18:46:00.000Z",
+    "collectedAt": "2026-09-18T08:40:44.439Z",
+    "translation": {
+      "titleKo": "광범위한 미국 제재 법안이 우크라이나에 러시아에 대한 새로운 지렛대를 제공하지만, 집행이 다가오고 있다 - CBS 19 News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4968ec703c6c53adf6764b865e7c06225baceb39",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU seeks compromise over France's resistance to Russia sanctions extension - pravda.com.ua",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91WS1RZmg2ZkVpV3FwUXJETmRYb0V1d0NwbDBFb1FfUXU4RUxhY2JOY21GREFYcURkQ3F6VFFXWTQ3Um1zbmlKOUxncFhyTlRTMlkyX3RjeE1XcWRKRjN5ZG92SHPSAXBBVV95cUxQRFlzWkxPQ3RmU2EwNmtQYXRmYWs3cTVfclR5NHFEdWNnaHMwSEgtZks0NXAxRktJd0dySnBUNDFZQ2RsVkUtOV9LYnExMXNnUFVFZXdUSS1TLXRKN2trd1lQVVNfZmJlRllkc0haQlRZ?oc=5",
+    "publishedAt": "2026-09-18T07:23:00.000Z",
+    "collectedAt": "2026-09-18T08:40:44.439Z",
+    "translation": {
+      "titleKo": "EU, 대러시아 제재 연장에 대한 프랑스의 저항에 대해 타협안 모색 - pravda.com.ua",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3518d3850c242b977e96f6d02a2533d55c2fbd02",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia and China veto US proposal for UN experts to keep monitoring sanctions on Iran - Bozeman Daily Chronicle",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNTllTalhZOE5DWXNNYVJxSXlyYldKRV9kVXV1OHhaZTNsbGxKaktaU1dQWUdpMkRTaVV2eHV4MkoyeUI4clE2VXdZR3U1NmRXZnpEUkxXaWEwMkR4aUZ6S2xsUEZCaUwyR3kzOXBUN0lJcVY3dHpkVDBJY2JCVFlKREF6TnlaOXdJSUU2X2x3QWRGY2JONmVySzNxX3plS3BHZmZEMGtOMnpMYmtaRW51RTVKSGtLMzVQbk1ZaUZEejBzZElzNlpQMW1yd0VwNzNMMmhKeWJkUTFoSTB1ekIzRkI1UWxUT3RadktQdFEzMXpqVnRXbjUyUS12c1V2QlV4aWVVSWJONzJ2NTJ4Vi1veklLM3hvV20tSlQ3SQ?oc=5",
+    "publishedAt": "2026-09-17T19:56:52.000Z",
+    "collectedAt": "2026-09-18T08:40:44.439Z",
+    "translation": {
+      "titleKo": "러시아와 중국, 유엔 전문가들이 이란에 대한 제재를 계속 모니터링하도록 하는 미국의 제안에 거부권 행사 - Bozeman Daily Chronicle",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c31458b72bef9381c3f0c778e9712ac64a1988c8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. sanctions Iranian cryptocurrency exchange processing Hormuz fees - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORTNCNE9WQkxINnFMQXJxRVViMDVqN19VWk9xS0xtLW1QTnJrMmEyZTZ0aDNidDRKQ1FCUmtqUDVSTmViSGxCcU9IR00tdkcwZ2ZvcXRHVkFfblYzd3lRSkdlV09TbmhuTXp0aWtYZERueTJiWkl4TDV4X0t0QTJQaDl3YnBEaTREVjFPNE15TkNZR2htZUVZYTl0UVVsc21MODBTSXVR?oc=5",
+    "publishedAt": "2026-09-18T03:47:00.000Z",
+    "collectedAt": "2026-09-18T08:40:44.439Z",
+    "translation": {
+      "titleKo": "미국, 호르무즈 수수료를 처리하는 이란 암호화폐 거래소 제재 - Yahoo",
+      "snippetKo": ""
+    }
   }
 ]
