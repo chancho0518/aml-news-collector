@@ -762,5 +762,611 @@
       "titleKo": "트럼프, 고(故) 린지 그레이엄 상원의원의 러시아 대상 ‘지옥에서 온 제재’ 법안에 서명 - 메두자",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "1a08fe5ef53ee677aa1a3cd9fe509fb22728f180",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "20억대 '주식 리딩 사기' 자금 세탁한 30대 징역 4년 - 파이낸셜뉴스",
+    "snippet": "",
+    "keywords": [
+      "자금 세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sdkFtU3RteXBUcFpfcHdlbC1sNVdwVmk3WjJib1dXRElkMU81OTVRc3Vhekd0aF8wSDBBNWttOFBLaVZlckRTWFljS2tIN1g4Y2lKVUl6MThIQQ?oc=5",
+    "publishedAt": "2026-09-14T07:15:47.000Z",
+    "collectedAt": "2026-09-19T08:27:31.560Z"
+  },
+  {
+    "id": "29a535215ad091917495473c8d4113a09b032807",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융정보분석원, '2026 에그몽 총회'서 韓 수사 역량 알렸다 - 뉴스1",
+    "snippet": "",
+    "keywords": [
+      "금융정보분석원"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SNmZWaHF0dERRczJoM2tfamVYX25SZFBKblJfTlV0MFhhQWhEUkJrbzgwVi1oaEk2d0pXOU11VHNhWEdENWI3V0ZPNzdhQzdQdEJRODFwWS02UHdNWXpHMXRB0gFnQVVfeXFMUDB3UTF4RGRVajVwMjM0XzRpZHZ2UXc1d2tScmdxUVRfc3puY1lrTFBGMkhJaWJCcVVhNFNEZTJYSFVEaUNxYlMzU3VtMXNaRVEySksyalFkal9qRUJJN0hOd3B6VFNBdw?oc=5",
+    "publishedAt": "2026-07-13T07:00:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.474Z"
+  },
+  {
+    "id": "6819e61a81ba1e017efbe306d002c6b0f815fcd5",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BMS ends Orum’s AML program, extinguishing USD 80m in remaining milestone obligations - AllSci",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR1hBSWRENnZMa19LeVNtS0VWMkJoRi0zR19pMFlCLTFDaEY3MTJHMEdUVDk1bGJ3dmNKVEdyOThqNjJFNm42ZXUwZUNPRjVTOEJEemd0aEM0OWlrcGRHenY3b3BHM3Fvb1RuRUxieEtaUnU4RlVVV3JxOTF1bE1EZlA0ZE1PRFNQbEVHUVZveWtRTGdE?oc=5",
+    "publishedAt": "2026-09-18T15:29:28.000Z",
+    "collectedAt": "2026-09-19T08:27:31.440Z",
+    "translation": {
+      "titleKo": "BMS, 오름의 AML 프로그램 종료하며 8,000만 달러의 잔여 마일스톤 의무 소멸 - AllSci",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cf4c2cb13e6261dd70c67a374fcb6ec8d5d8bee2",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Positive Topline Results Demonstrated for LYT-200 in MDS, AML - Targeted Oncology",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTlZBeVdYRWdmVVRmcVB1ZUZQOXZvam42RFJyMmQwNUZBX0MxYjNsRE9kMWMxN1pROWRMZXpWNE5jQmloR3d6WU9ocGJwQ1BjVGhXeWc1c1BidEFnVC1IcEVxOTJiY0JQRGJ3V043Zi05N3R4c09pQjdvaGZxVGNnLS04dE9fR1hHQUx5RFZnLW4zU0d3VUwtUw?oc=5",
+    "publishedAt": "2026-04-23T07:00:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.443Z",
+    "translation": {
+      "titleKo": "MDS 및 AML에서 LYT-200에 대한 긍정적인 탑라인 결과 입증 - Targeted Oncology",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "277346a752f72d21da3d0af398ea7643ecd77547",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US lifts sanctions targeting Eritrea's ruling party and the military - 10TV",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS1l6Y2Q2Wjl2aG1LektnVkhUemJRblc0QmxZNmJfS2xhanJDN0NaeEpTZVVMYUFaZlR5VDJoQnd2WUpLeUh2SXBhLTJsRFQ4WFBsVGNwSzItajJkSkVTMEh3b015a0oydWhsRnJoVmVSSnNjYXdHY0VlSDFMc1M0X2lLMmxpMGZSdnFJV0Z3Rjg2dmZXaE5EcmEwRjdvSVl5VkxIVXVudW9IaHhkbkZDS21lVDFxVFZGWHZkYlUyejdNc3R4YjlRSWVoYTU2dTZJZmc5MzBpV0hyUFhyLXNQMFEzcXd4NmkzNHRudUFTc1I1elFDLVBpUw?oc=5",
+    "publishedAt": "2026-09-19T07:40:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.546Z",
+    "translation": {
+      "titleKo": "미국, 에리트레아 여당 및 군부를 겨냥한 제재 해제 - 10TV",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e5b5c8c504b8c86f0530c0d033ff983810e20b04",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US lifts sanctions targeting Eritrea’s ruling party and the military - Toronto Star",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSlZwUHRvRWloZU5VQ2l5NEZWU3lkSmRac1YxS01KWl92d2J0YjRkRjA4NGFFemlCNVV3eDZMdHFDcFVFWXdubUpPTlZ3QVVaRjFQR05KWV8wdmtCNjF3Y2lIR0NiVTRHcFMzQlJfNWJSZXM0dkdwUVQ5c3RUejh6eDFycUlrQjNyVEpWTVZqNWFoaXJCd0syWkVjLU1iY0lrMXM5UzVoLWZ6eVNyWjEtVzd4Z1c1QlRoODdvd0ZXTmo1TjFxYU5BRm94LXc3MUxiYmhRNWhIbmJYSGx1eGsxVUN5ejM3SzFwSjVkbGFtWExFeDBmSkVYSlRKRQ?oc=5",
+    "publishedAt": "2026-09-19T07:41:10.000Z",
+    "collectedAt": "2026-09-19T08:27:31.547Z",
+    "translation": {
+      "titleKo": "미국, 에리트레아 여당 및 군부를 겨냥한 제재 해제 - Toronto Star",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fbb017b6014f866b83a8a64203231343f2eeecdb",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump signs sweeping Russia sanctions over Ukraine war - Al Jazeera",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZW53Y3d4N25GZjVKRlJ4RkxiRkZ6Y1NKTVJoUGp3bHFzZTk3OGJvdG1qMm9ubDhqQmo0YVYtQnc4aWNRejUwd2VFX1NVRFRMM1h0QXhLX2VwRTlYM2psTFBWeC1BekxaVUFfQm54bXhpOGtUdTU3MkJKUVV5cHpTcFBpRlQyVXFMVFpFcEVoVnN1S1hxQ0VLaTY0a9IBoAFBVV95cUxQOTFZdG83ZU5IOUxvQ2RqMnhzRnZfY2pZOTIyTHF2YUVSR2pCeGJTV25IWTVCU2w3WEg1LWl3SkdvVXVhZGJONEFZTk5VNlh3VFRnaGphSTlmRGtTaDkyNjM4YVlaOW8wOWZmaWxRNHpQVS1KT1ZyaGVUaUNnTzdQX25HODFUN1ZhcmVuNVZRVnFwNmlrbG1OSmRnTzF6MWFI?oc=5",
+    "publishedAt": "2026-09-19T00:49:53.000Z",
+    "collectedAt": "2026-09-19T08:27:31.547Z",
+    "translation": {
+      "titleKo": "트럼프, 우크라이나 전쟁과 관련하여 전면적인 대러시아 제재안에 서명 - Al Jazeera",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "464d84e10af06c3fb2646d3088746e8e62dafc49",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Signs Russia-Iran Sanctions Bill, Putting New Pressure Tools At His Disposal - rferl.org",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hZUd3TVBEWFJra0RKbGdzWE9xNlFyZVFrMTRseDNSMmhRY3pSMDEtWWQzWWY0VTlqQ3NVUnlQSXktRE9heUktVXgxVzc3QdIBUEFVX3lxTE1nNGlOb3JoQVVpNkowWjU0XzQ1NExCZkg0UFF5NmdLM09nbGhsLW1sUkJUcFpGYXl2Q00xR0haWDBnbnlHNkJqWFdnUWpTTDd0?oc=5",
+    "publishedAt": "2026-09-19T05:53:39.000Z",
+    "collectedAt": "2026-09-19T08:27:31.547Z",
+    "translation": {
+      "titleKo": "트럼프, 러시아-이란 제재 법안에 서명하며 새로운 압박 수단을 손에 쥐다 - rferl.org",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f2ffd5ba227d2b48d8a3a15b9aa72ae15ad6a19a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war - FOX Carolina News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNjN3WTVMMmEtMTQ0RGFURVFpcjBSX1I0TTRuR0xnVkRmQ3V1bjY4bzNOaUs5RWFtVFlOUXRObWlfU0taRWZGSks1WHhvTlhqTE8yaTJlQ1ZLVkRWMzBNSWtPbUE5Yk5DYUhXR01Jb09yRThibTZIYmt2VVZpTXR0MTlmNTlGbnYzMkRaZW9scklLa1h3blZkOUVPcUpWYTBMLTVSZmE3MVpmMkF2RFdzUUM3TGlvczZKRnQyODlzbGFzQVJ2SXdVZVJsRDRuOUpV?oc=5",
+    "publishedAt": "2026-09-19T03:51:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.547Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 우크라이나 전쟁에서 모스크바의 자금을 조이기 위한 전면적인 대러시아 제재 법안에 서명 - FOX Carolina News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4ae96962946fc9bd5b5abbdd36bc5a7af67876ae",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US lifts sanctions targeting Eritrea's ruling party and the military - washingtonpost.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON1NIWDF6bDdKbXZSZ2F3R0tMMWlXellWekNoSUFneER2YVYxOFlxdWdDb1pONnZWMkp0SnFzamcyU2VkOVduUmx6ZjJyTUx0M3M3QVpHYWlqNW5UNGRhWktldVE1UUhTejNCSS16MTJCbjgtTUJBWm8wNVJPbS0tcmVVak1UMk8zSWlNcDFiNlZKWURwclg5OWlLNUlneWFHNlpVQnRjUkl4d2NnOVVVOHdPTGZGb1QtRmlFcDBDZ3k2c0ppUFJGQzVwbXIzdUh0dE4xX29leGw?oc=5",
+    "publishedAt": "2026-09-19T08:21:59.000Z",
+    "collectedAt": "2026-09-19T08:27:31.547Z",
+    "translation": {
+      "titleKo": "미국, 에리트레아 여당 및 군부를 겨냥한 제재 해제 - washingtonpost.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4647564417c15905a0982da89a8292674bd28d3c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump signs Lindsey Graham’s Russia sanctions bill into law - New York Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOejZyenhmalNLbklhS1BLeklPMExFX1NjdktkZDVIVDZ3aHJYcF9ObDhTa1dlUUdlSmlwVVlzZ0lhWFROb25PUkJENTIwdC01U25vQjBzdXFITnJlRGUxRUxzYWpUelR3ek9aWEt1WnpzWXN6M1dpTlBLcWtBTEVjSWFESVdBWTZqU3pZZTVwbnZ6YVdzVkJYUmUyMTM0Zw?oc=5",
+    "publishedAt": "2026-09-19T03:48:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.547Z",
+    "translation": {
+      "titleKo": "트럼프, 린지 그레이엄의 대러시아 제재 법안에 서명하여 법률로 제정 - New York Post",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a87a962f0c26fb240e5dc245bf8383eb71a72c81",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump signs into law sanctions package targeting Russia's economy - Euronews.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdEpMdnhDNVdRRnZaSFVYNWNrbUVWal9VQTU4T1c1LXRyeFgtMnFfSVg0NENhc3ZXVTI2YVFaRGRtOUlrRmIzaXlUbjlEcDZxWkZEZ2wtcjRTWnFGQnQ0LVBMSUJqWmJnMF9ZVGxhMmE3T0VLOVdtNXgwWFNuQnNub2NDU2VnN0FwLXFDbUFhazVtTWJWeTFrejJfdGYyTTMwMk42RFZRcnVKcWFSZ0cwV1dwMklFWFZNZ2d6WVNUWDZZTFEt?oc=5",
+    "publishedAt": "2026-09-19T06:20:40.000Z",
+    "collectedAt": "2026-09-19T08:27:31.547Z",
+    "translation": {
+      "titleKo": "트럼프, 러시아 경제를 겨냥한 제재 패키지에 서명하여 법률로 제정 - Euronews.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f334564d9db33e993b4535fabff60a9439415138",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war - WBTV",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM0o5OXIzRU5NSzI5M2xPZlVHaHFMaUQxZlFhOVJwQWhPc1FneWN4OHhXQ3BTY1JGbDhNbTNmUWxwSHhNRnVDTEhvV1I2TkJxT1JBckxVa0tzZk9ZNUc2UW80aW1TS2pnY2F5bm1wRDdWcFBFR0J4SGJoRFY5cEp3cmU0MkR5YlhHSFRyM1Z0OTRuQ2F4NWJuclVUVFJUVDdFeVlMM1R0OEJNR2dZbkE1TzFOOHNTV1QzNmRzV2pSeUkwUkphWDFz?oc=5",
+    "publishedAt": "2026-09-19T03:51:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.548Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 우크라이나 전쟁에서 모스크바의 자금을 조이기 위한 전면적인 대러시아 제재 법안에 서명 - WBTV",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3b4029576a6b1b31b97aa0529ecbd2dc2ff3a1ac",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war - WITN",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONXNtNTlMUVBXcjFEVDlxWWNYMlFoTDdVdGowUTE5NTNxd0pSa0xrWGQxdHdveFBqdGJTUEw5cTVmRG03a0RuWDduZXgzMnhvOWVnU1F0OUVRRER4ai1xYWozMG11OElsU0tiNXh0eEtraTQ5M2k1a1JTaHZYOUVFWkdqaklIamJ2eEhCYlFaOGkzcFBpOXdqTmRXMVhBOEM3TUt1RWpTbTcyQVhpWGN0MDFTM0VScjgtRHRONU95bjlyNlcxV1RB?oc=5",
+    "publishedAt": "2026-09-19T03:51:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.548Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 우크라이나 전쟁에서 모스크바의 자금을 조이기 위한 전면적인 대러시아 제재 법안에 서명 - WITN",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b71c7783ec1e19d740bdfd46832a04961410e440",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war - WOWT",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1lkYnNiRGtDQzhZRTY5aHhwcUpITTFSWnp5VWEwTXR0eVk3aHJwVUVZaFZmOW8yUTBTQVQxSGZvS0Z2dTBwTG9qOTdqdV80TXpsYzAyNnFuYXp6b0ZVeUlMdTk2Y2hPZEdTeXBmT2pfRHZpN1Z6OUoteUJjcS1MN2JOdURfRWFmSFYxV0gxbEVnbmhxMmxrY0NZVW5Ya282NlptQXlfbGJQLWxZbXlEY2ZZNnc0dU4tU1dBZDg5a2dJbk8wdjdv?oc=5",
+    "publishedAt": "2026-09-19T03:51:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.548Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 우크라이나 전쟁에서 모스크바의 자금을 조이기 위한 전면적인 대러시아 제재 법안에 서명 - WOWT",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cc80d6ef1562445919995ec849a966443302c94a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump signs Russia sanctions bill into law: White House - Anadolu Ajansı",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGtGOXcyVFNhb0l3QWZLYUVsajVhSG1ScGY4Z3lwZF81bm9FWmFrd2xUTGx3bVJ3SXkwelJsNlgtMmV2WUsxU3k2Y0p1UUJHR0Nfd0Y5MUl5QjAwX2FELWFkOFEySnJpVW0ybXhDQ1NNSzFTYUJSV05XQm8xVFFvLWthMXV4Znh5ZnJLSFREcDdlYnBNRE5Wbw?oc=5",
+    "publishedAt": "2026-09-18T22:18:28.000Z",
+    "collectedAt": "2026-09-19T08:27:31.548Z",
+    "translation": {
+      "titleKo": "트럼프, 대러시아 제재 법안에 서명하여 법률로 제정: 백악관 - Anadolu Ajansı",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5f66e4d3702356b0498f4046f5aaacaae4f33b7a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war - KCRG",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLV9HUVpVSVo1cEc2blBwaUVYMGRNdTVKMzVPMmZNbjZMb240ekJqSXJFMVlKdElBNDdSZ0J2ZV8zZkhEcUtsZXpwMzQ4OEhoc3RROEtkWU9rMktUQUszQTFndmh2bUl1NmcxUWpFM1F0VzhSTEs4b2xSQkdoRmZqU19EV205WE9JWF8wYzZ0aHpNYlJPQnU3elk2aXhGQWIwTkdibktLR3U4VHhreVYydTl5MnkyZERRazRFTF9HM2loQl9YSTVZ?oc=5",
+    "publishedAt": "2026-09-19T03:51:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.548Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 우크라이나 전쟁에서 모스크바의 자금을 조이기 위한 전면적인 대러시아 제재 법안에 서명 - KCRG",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b8a3225f72d48cb3098066d1fcc73777256ccec7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war - FOX19 | Cincinnati",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS2Y2OXFCaUFtclExcUljZnJyRlRPaENrby1ybjliSk9hS3hSQnhCeFl4cl9jdXJzczI2Rll4cTdmZzRRYzNRQkpwaUU4UFg1UjdMSmVfLTF6UVJrU3R3cG4wX0Fid0RmbmQ1a0NmVzJwT0FGWVJfdWVWdnBNREVmb0UxUVVVdjcyZ2dzcWdtZGNrbmtaal9wZlMwNXk0ajZvTnVaek5BWE1RNGhqdGVfQVNJM0VnWWpTWlA5NlFacUhfV3hwNjRYZA?oc=5",
+    "publishedAt": "2026-09-19T03:51:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.548Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 우크라이나 전쟁에서 모스크바의 자금을 조이기 위한 전면적인 대러시아 제재 법안에 서명 - FOX19 | Cincinnati",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5d72ac23ccfbc1adb1eb2a4dd5f93ee4f12ec915",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war - WTVA",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV3JuMG0tVDVKeXlhc1JjWFNOQUtYaXRVX1l3VUlpbjFqeUNjaDcwVldSSVBMSVR6RkxCckxRM3FkblhxMGh4aFJ6SGlTcUkwdjlrOTA1OWtSZVRFdEVuY1ZmanJUOTVsUWZYT3hvcGxzYlZRYlNFVWRCNlphUWNfc3hrVXgxOGlDekkzRGJJQTczaWpIekpDYk1mTDlaVGhadmdsYUNCcUZsUXlVYl9TaExqcVBwU3o5RXlWSTB0Vm93a2VKU3BJ?oc=5",
+    "publishedAt": "2026-09-19T03:51:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.548Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 우크라이나 전쟁에서 모스크바의 자금을 조이기 위한 전면적인 대러시아 제재 법안에 서명 - WTVA",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cd7b7e9274e22537ea8729e1f335ddcca1498d60",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Report: Australia's reluctance to join settlement sanctions disappoints EU diplomats - Middle East Eye",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR1FCTUNEOUNzRlcwN0poRGFpLWFYb3d4bVVFemhRQndLbUtPT3c3Y2F1WnhrdkFuY2ZaLXRxamJKeXhMOW5UUVRHSFJxRVdobFU5a3NuZ2U4TDh4UkNfZWM2N3pmUGhHLXF5dmpwTjBJaGNobWNoQjhmb2phVGZHbDEzNlYydWJOLXdscjFZbjZYZlA5UWpIdFlpaWJSanVmcjhBclJYbVZBR3FfcHh1b2J0NDlyY3NJRU9Pd2pVMFVZaGxZ?oc=5",
+    "publishedAt": "2026-09-19T06:18:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.548Z",
+    "translation": {
+      "titleKo": "보도: 정착촌 제재 참여에 대한 호주의 꺼림이 EU 외교관들을 실망시키다 - Middle East Eye",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "18f74d83c441f360a19688906a87148fc5b3e61c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump signs Russia sanctions bill: What it means and will India actually face 100% tariff - The Times of India",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNb0F3bDFOZmtuMnFRQW5LaUZQWFp4UTA0dXZaNTM2U0k5QnUtTGpja21MTFVHeFhfMWg4Z1RjelhUZGFZelFWTlJaTUxqalN6VGRZVklTbmJyQTlqVDhsU3Z3SWpXeGVJQlJkbEpvT2VWNmlSQTdqd0pOdjl2YV9hbGxTcm0zOEhTdkhYbkJzRGhCQlFzS09JWG13MlBmUnB3S3dEUGg1YWkzMER5Qy1HYXdROUlRVHNOVE9WN3pVTmV6N2lDNjdTaWp4MnRFUE9UbktxdHpkWWtxOG9YdVVfaU44OVZWUllkR3RwSlkxaEw2eWFybVBNemJ4NFcxRXVoS1FRekJzUmtLUDBxZ2fSAZMCQVVfeXFMT0s0bFBlanlGWkJyZm1xVnhfM2QxOVF6bHQ3RGc5cTZMNmxRamZFQ0xqd3RxNWJSLTVtblo0dVkzUldfd3BUeTdRS2VtamFFc3VCTURFOTRacThlcXRUdXk4TGdQZjBjNndDWmk0UGxaUEthak5KXzQ3RWFPeUFCOVNCT3QzRVRTaS1pV1RsOG5hejFsdTUwelBiQ1N0YUNyVWk2RHAwTEROaGY5eDlVRndrczR1RGFYMFk4N3huUHZfZUprd3lJOHJ3SEY4UTlYaDNENXI5VWU3dlpyU2Q2TUg0aEtMWE5NLTk1b3Atb1ZobHNubjNlZGZTeWkyX2JnR2RsbzFoY3kyLWEwYllZcjc0STg?oc=5",
+    "publishedAt": "2026-09-19T06:18:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.548Z",
+    "translation": {
+      "titleKo": "트럼프 대러시아 제재 법안 서명: 이것이 의미하는 바와 인도가 실제로 100% 관세에 직면할 것인가 - The Times of India",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a66a4f805dbc20a23f9a1c318542b13b86ca6b79",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Signs Russia-Iran Sanctions Act Into Law - WANA News Agency",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oZmRqTU9XbUg0Yk1DMXJMa0p5QzZvZ1ZRWVdHdUV1MGU0MDl4Q1Y3ZU82VmwzUFZwOGtfWmljY2o2WGdFTHJsejZnWGtxYjlUdWEzaU1uZGFzRzJfUlRkTWJnMklQU0o2TU1qc20zem95dWdU?oc=5",
+    "publishedAt": "2026-09-19T07:58:02.000Z",
+    "collectedAt": "2026-09-19T08:27:31.548Z",
+    "translation": {
+      "titleKo": "트럼프, 러시아-이란 제재 법안에 서명하여 법률로 제정 - WANA News Agency",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b3c26b2a1b60402ae72d3994b2c73ffee6df255c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump signs law expanding sanctions on Russia and Iran - سانا",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZTGJQN242cGp2Q0NsOV84VWoxdWhXNE1lVUV2eW1uVl9tLXRCSTlfZnJyMHgzWnJWSVJqOEI5ZE8zTkdCNlZzUEVhWWhpMnM0WFBR?oc=5",
+    "publishedAt": "2026-09-19T07:36:04.000Z",
+    "collectedAt": "2026-09-19T08:27:31.548Z",
+    "translation": {
+      "titleKo": "트럼프, 러시아 및 이란에 대한 제재를 확대하는 법안에 서명 - سانا",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4a8781e40ee18072a9e55d0b63f95b444cdf697b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump signs Russia sanctions bill into law - The Hindu",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTJqZlV5LTBZb2ZDVFlzdjhMZW93ZUd1dzNEWmFHV1liRU0xVmtRZ0lPSldGZ2psZG5TTUM2UzdlallBN3ZOd0VnNTdGeEtWemJsR0lIT2ZkNEdKODRGbWFiZHZGazNpWXBuMkpWNmEyOXBoY1ZBRDJzYW1GWVo5dVV1aHVHTmsxeW00V1BFTGNVRF9GTnhzQ1hhZnRsQkVWc2ZpSjZJZklGUdIBsAFBVV95cUxQa2dNUlFqLWhtT0lOQTUxcnYzb25fQ0VwMFpkdnY2eGY5NkR3NTBEZFA1cjE4c3RFc1FJSS1lTDdCeEJLbTVIdm9rMF9tN2dLbTlFT2d1bnFKZktUN0lyMnoyUUgxbExYQ2d4V1Q1Y3A5TGU1cWVKNkVpbHNIVTduOF9fMWtCVFdIVm5MUTNTUWlwODA1Z212SWdyZmk5cUpXX0xpTVVobERzaUtQclZVMA?oc=5",
+    "publishedAt": "2026-09-18T21:59:17.000Z",
+    "collectedAt": "2026-09-19T08:27:31.548Z",
+    "translation": {
+      "titleKo": "트럼프, 대러시아 제재 법안에 서명하여 법률로 제정 - The Hindu",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f641948c03aef970002984e088cd7fa95fd526e4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "China, Russia veto Iran sanctions panel extension at UN - chinadaily.com.cn",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14SmhqQTB5SnIyS1BLNGNSTWRkb0FoaUhyQ0l4dTJ2NFM5a0FIRUtmTkJrdUQ2eDhXZlpLcUFlS2RJYTZienVQYlNVQ2t6NXZPMnJEb2hpcU1mdGRHWU9pYTFSMUp3NjhzeUd4cEQwWVR4VmJ4c2F1YWU1NVhjZw?oc=5",
+    "publishedAt": "2026-09-18T23:52:37.000Z",
+    "collectedAt": "2026-09-19T08:27:31.548Z",
+    "translation": {
+      "titleKo": "중국과 러시아, UN에서 이란 제재 패널 연장안에 거부권 행사 - chinadaily.com.cn",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d9d1aa807d7a772cc773932d47edd4db2cdddce8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump takes aim at Russia's energy sector with sanctions bill - BBC",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUN1d3SFpDMGMtYkFiV19SYTF1YnVsZUQ0NWV5dkRtRU9za3dQbDEwRnl5aDRBTVdqNy1KMzdzOHZRSlZpWTBkV3FZTjJSZUF2QTAycjNEcDRkNXViYlE?oc=5",
+    "publishedAt": "2026-09-18T22:05:47.000Z",
+    "collectedAt": "2026-09-19T08:27:31.549Z",
+    "translation": {
+      "titleKo": "트럼프, 제재 법안으로 러시아 에너지 부문 겨냥 - BBC",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "02d49687f2c9535e1facdc257ef4df516aa52735",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia and China veto US proposal for UN experts to keep monitoring sanctions on Iran - The Times of Israel",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZGxJa0FaOHp0MWFfcmtQYVA0ZmVtWXZMRGhLdWRNa2Z5SUF1a1lpX3NyOG9RMExuNWVwNE9zMWVDNEJvLWlTVkV6OGtVblFNTWpoWnBGT2hXaGRvYkk0N0c0X1VxYVVFaWNMV0g4azFjd3ZKY1VtSUVlQVVrTUxWbmtvalczWllQNnlJdlRqNUFWbTNoVzVPZGM0REZIVlNrRGh4dXVzM05WZi1hYUdOUWUxOVFNT2vSAbwBQVVfeXFMT3NvV2NCOGxhdDdwcXIyUHdYaW1SaUJIcFN2YnBuTHVIYkViSVpXZjFUaldyOXpybVV5eUZkaktmWlduTWpMZWF3T29DSXdQNTVUTDdHMTRMRUZ2U3djaGc3OUlKY29XRUhLbmdLbFhSN3Y4LVBoX3NJaldQMGRWeVBQMDVWcGRXZ2dZQUNXUmRGUUdGTkhISFhTVzRpRlFoQ0FZOFVlUDNzZnJRRlRBR0tQWVl0bE93WlE3RTQ?oc=5",
+    "publishedAt": "2026-09-18T14:08:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.549Z",
+    "translation": {
+      "titleKo": "러시아와 중국, UN 전문가들이 이란 제재를 계속 감시하도록 하자는 미국의 제안에 거부권 행사 - The Times of Israel",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e6832c398f936a3bce6b3aa5173c9fa4dd9d1371",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Escalates Economic Pressure on Russia With New Sanctions Law That Could Hit Moscow’s Biggest Tradin - Benzinga",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQMGtYbnNTWlN5RFFzX3ozMTE0YXpCNjEtY0VRMm9PdUpnbDRhR1dmMEFOeVR5a3ZyMkRaYW91aHVzTHJwUFNMMHdVYmxBeTVNb2E1QmtzaklIbS02aDA5aU1XSzNtc1llMlJuLTI1NEV3dS12VHlSYWJRLS1hZ2p3OUV2VHJua0ljenY1aW9zbHBVenFzOXpxNllkVWZIY1pfdzBZdFN5V0U3LVFoYWpILUdKT2xzaHFWZVZ5TmJaa0J6b1Z4VnN6X3ZhaFhUNUdlOFhDVnZwOWRHNnNhZmVRRVRrVHJNUVRnS2hwWmpDSnhNN29LcVd3enVMckFCemw4eFJjLUY4dnFUTXJHUXc?oc=5",
+    "publishedAt": "2026-09-19T06:07:57.000Z",
+    "collectedAt": "2026-09-19T08:27:31.549Z",
+    "translation": {
+      "titleKo": "트럼프, 모스크바의 최대 무역 상대국들을 타격할 수 있는 새로운 제재 법안으로 러시아에 대한 경제적 압박 고조 - Benzinga",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7b037de1edc1746f486275f14c762ead21d030b9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelenskyy thanks Trump for signing Russia sanctions law - Українська правда",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYZFpFLW1XSVgzRzBVNVpoLWQxVm51aUp3VDB5OTV2aUkwUThKdS1DNEhkdjhwcU1BZ2lLNmFLVjZfT1ExV2xNNG1zYkp6WlJPR0M0WWprSkhvSkdieXBlS1hJQXLSAXBBVV95cUxPaUxQVFdaUkZRX0VVZ3d1WmhfVVdnTDVhc2J4RHZNYXQzMlZQWnZOY0puSjNhZjdBZjlVQ1d4bEthUXUtaHp0cGNyd0I0UDhfRktmTzFCNmJVeGxkSGpkN0pfWmE4Wm1DaGlIcmhOMUs1?oc=5",
+    "publishedAt": "2026-09-18T22:54:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.549Z",
+    "translation": {
+      "titleKo": "젤렌스키, 대러시아 제재법에 서명한 트럼프에게 감사 표명 - Українська правда",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f0ccf8a72b20eef4fc4e1d31d957d15de46d3c68",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Signs Russia Sanctions Bill - KLVI AM 560",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZF9mWVZFdjZkTHhmT2tZTGlWand2VzQySXZtckw0LTYxUnY0YktlQ0N4Zkh4QXJrMkg1OWctUUlwZUxlem1MMXNnY2ZLMWZ5eHd1U0tISDJoOEVEQ0toZXhYVjhRbG5SbEJJSmRCU3JEbUVNeWxsSE8zQkdrS3hHZWdvRQ?oc=5",
+    "publishedAt": "2026-09-19T05:10:11.000Z",
+    "collectedAt": "2026-09-19T08:27:31.549Z",
+    "translation": {
+      "titleKo": "트럼프, 대러시아 제재 법안에 서명 - KLVI AM 560",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2b61ac1775f66114e51124d2be92f8912ea30d2e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Ukraine’s Foreign Minister Calls Trump’s Russia and Iran Sanctions Law Historic - Межа. Новини України.",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pSWdFcUpCellmRXNmVHAxRV9XZWdrT0xFTFJuWnBNSjNfeG15UFducFhHdVNxWVYwSjdiYmc0SHlDMDUxMHozYmF4RHVfTlY1S1pUdGQxSFBpNGp5LS10WEZIS1dJTHhhRVQwTW9zaGE?oc=5",
+    "publishedAt": "2026-09-19T06:03:32.000Z",
+    "collectedAt": "2026-09-19T08:27:31.549Z",
+    "translation": {
+      "titleKo": "우크라이나 외무장관, 트럼프의 러시아 및 이란 제재법을 역사적이라고 평가 - Межа. Новини України.",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6a4aa3b07834c9168c7077643baffe6771eeb357",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump signs Russia sanctions law: India faces fresh 100% tariff threat over Russian oil - WION",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSUxzUEFjMU5hSU9OTFBCTkVDTjgteTF0a2tvNk11STRTbE9MeHdlUE5rR3dpVU8wV0VSTm5ZN2QyQkl0SHRLVG80QnJZNDh2Zm9GZ0x3YVpQcDlUSVRvWVVCTm9qNm0wQTVBMTVHbFljYldWMzkxcnIzcmpuOUc5UVpRQ0FlYk95QzlxaE96aUIzYjQ3QU8xZkRERWxveGNCLWNEbk5OTFlLU2lFdjhwUGM4WXNnREIyZUgzckpfaTM0a1RZcFg3SEpReXNqRUdBVGtsY3RtWVFCd9IB3wFBVV95cUxNTlUydHZQS0V2d1dycUppSnRXcWFNMTVRTkJmWVA5YzREUXBybFNDa25HUjRxckkwTnNqbWJPQTJPLUE0aDE2M2t6aUp6NkpwSmp0RFR3ajdzX1cxRFFmTEE2NGY2UklxYXFWTlh2anp1Tk9TQU5iR1ljU1hKN0FXbVVJYy1RcFhremM5NlF6ZG10ZTVzcmJVRjVYTjRWbEJxczloNXk4c0dUYk4yQ01ONjR0bWJhSXExYVc3NUlic1FUYUd4b3RBbThaN2daQThYZ2YwWElJTkptdV8tc3Fj?oc=5",
+    "publishedAt": "2026-09-19T02:26:00.000Z",
+    "collectedAt": "2026-09-19T08:27:31.549Z",
+    "translation": {
+      "titleKo": "트럼프 대러시아 제재법 서명: 인도는 러시아산 석유로 인해 새로운 100% 관세 위협에 직면 - WION",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a4a8eb9e226822d413c38bb1e4ce1c47c5c0cf17",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump signs new sanctions package against Russia - pajhwok.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMmtIeGU1XzBHbExXRWxUV3ZUT0N6dzY1N3hmSzRteE1ObUJsX2l2Ukdib2xZbkdqNUhXaXpBbFNDZ2lPbF9yX09GTkdtbEZZYjRpMjNOeEY4UWlGMGExTnlFZEgwa09UN3M5T1Y3X19KWXdxb2ZlVTJUbGNvRTA4b2UydUM2LXM?oc=5",
+    "publishedAt": "2026-09-19T04:59:35.000Z",
+    "collectedAt": "2026-09-19T08:27:31.549Z",
+    "translation": {
+      "titleKo": "트럼프, 대러시아 신규 제재 패키지에 서명 - pajhwok.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d1849a8b94f1f0a70d0d5947716267a6a42e7b0d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Signs Russia Sanctions Law Allowing Tariffs of Up to 100% | Ukraine news - #Mezha - Межа. Новини України.",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hRG41UXJMZllKVWRXRUhWelYwRi1pSEVDWDBibWxtS0xhN3cxckVhQS1pNXZrNjB5X2QwczFWUVpBYll6SXJEMUhtVmtHYmNYemtLU28tMWRjbXUtSE5QQkxEcjRMZw?oc=5",
+    "publishedAt": "2026-09-18T22:18:04.000Z",
+    "collectedAt": "2026-09-19T08:27:31.549Z",
+    "translation": {
+      "titleKo": "트럼프, 최대 100%의 관세를 허용하는 대러시아 제재법에 서명 | 우크라이나 뉴스 - #Mezha - Межа. Новини України.",
+      "snippetKo": ""
+    }
   }
 ]
