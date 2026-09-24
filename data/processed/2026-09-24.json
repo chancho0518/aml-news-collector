@@ -200,5 +200,360 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb2JDX2o4M3NETjlpcXN5Q3dlcWdoeUI0Z2lrSnE4em9kSVBoblpNcW02dzBhQjhXYzJQU19ZWGFrdjhOZzFkdnhJdkc2RDdvSXZSRFZ3TTZNRXA2OFJ5VlBBV29hdXZYMmNGQ0xELW9ZNjZwVFVGOXpfMFJwbEI3cVFRcWNBbWt4Vnk2TFRTRm1YN3p5OG16aUtLemZaZTk5S0NvQmhWNmVqbmdudmlPZnp2SkJuOFc4eWxuVHNiRQ?oc=5",
     "publishedAt": "2026-09-24T02:33:22.000Z",
     "collectedAt": "2026-09-24T02:45:34.187Z"
+  },
+  {
+    "id": "a88147e252acc046a2c544f4bccd4b50085d284f",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "비댁스, 전 임직원 AML 교육 강화…“KRW1도 규제 준수 최우선” - 뉴스탭",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zS045SlBYYWxZTzFzZHprc3VsSzBzcmxqMTJtajNVbVU4YUhsRVBNaW9Lb29BUTBwOElpaEhXc2t5c2R0aUUwZDI2SmVqazZ5c3RlS3M5V0tCeDBKd0tHNV9NUU52bmJKNFV5WA?oc=5",
+    "publishedAt": "2026-09-24T01:12:44.000Z",
+    "collectedAt": "2026-09-24T08:56:14.549Z"
+  },
+  {
+    "id": "92e3b366f2d75173d47b4ab5fb73cbe01677bde0",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "한·타지키스탄, 자금세탁방지 공조 강화…금융정보 교환 MOU - 아시아경제",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kejdaekg5SFNEeHRPa1hCXzdUNW1icEM4YUcxNWRaeTVCQkwtbWNBQ0NWVHVkR0ZEblRXSGRkVl9VakxESENNZE9ISTNoaS1Cc1duYzhua3dTUHNuRHoxeXVR?oc=5",
+    "publishedAt": "2026-09-17T21:00:00.000Z",
+    "collectedAt": "2026-09-24T08:56:14.549Z"
+  },
+  {
+    "id": "9e167bbc6592a8fd9e2d1aed27e20ce4b510f7cb",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Anti-money laundering strategy a ‘turning point’ in tackling dirty money, says UK government - Global Government Forum",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "money laundering",
+      "anti-money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50bEhFUF9sSGtwQS02VV9DZDgzVHBwbjB3Nk1VVDJ3eXhRUDhYMWVwTVQ5ZE5MdGZIenlmR01YdkFGMW9oRGpHZ3p6MjBSZENyVHFGa2l2VTdiWmNhNVFOWkZ6MkU3OHo5YldRWTJuc2xvNHI0MUExNHI4cEE?oc=5",
+    "publishedAt": "2026-09-23T13:44:09.000Z",
+    "collectedAt": "2026-09-24T08:56:14.589Z",
+    "translation": {
+      "titleKo": "자금세탁방지 전략은 더러운 돈을 다루는 데 있어 '전환점'이라고 영국 정부가 밝히다 - Global Government Forum",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9dbc62c9aba833b1ea7056040b5a9d48d5ac8bae",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran airlines cancel flights as US sanctions hit - afp.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TQzVqeS1UdTlfTFQyQ241V3BJS1VONVJQckhzbG9HbkhCUlotemZPVFZ3UmlMeXZVdHUzTDFFTzNFUWVERHFzSlp1NGxtZDUtdzRXaGVRUVNDcEl2RDktdFN6WHZKWWpJaTl1RXVBQ2duVW9TOThj?oc=5",
+    "publishedAt": "2026-09-24T01:50:20.000Z",
+    "collectedAt": "2026-09-24T08:56:14.671Z",
+    "translation": {
+      "titleKo": "미국의 제재가 타격을 줌에 따라 이란 항공사들이 운항을 취소하다 - afp.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1a3b6af7b6e8bda9667a490b4916bb7f7c3c0ac3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions, Termination and Offshore Projects: When Geopolitical Risk Becomes a Contractual Dispute - JD Supra",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWDRRNXg1T0NHRzhDUTFacWk1MEVEcWZpSi1MU0JkdVVZcllDNmczTjIxVDZraE5FbTJ5c2NCNnVlU0Jpd1RlbVBzTUZhZmswS0QxQjFGOFYwNmEzYlh1cXlKakZUcVNnalJsd2k0Si1jc2ctNjRGRWFpYmVfeDRjYlNObw?oc=5",
+    "publishedAt": "2026-09-24T03:43:44.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "제재, 계약 해지 및 해양 프로젝트: 지정학적 리스크가 계약상 분쟁이 될 때 - JD Supra",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "423905b66b4ad157a983385da1324612f082caa9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Rights groups tell court ICC sanctions stifles advocacy and blocks victims’ path to justice - Jurist.org",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY3VYZENDeXN6NFJ2WnVzaU9JR3B0MzhPa3Q1eFhkekVDR3ZxTU9jSlBBQnI1ZUZ3a21lRWFhV2UzcWZvTmZFeVRUT1phQ0EwRlpud2NXMHAxd25jMFFneGpfb3hCYnNWaERhSkUyMVpXTURQb3oxTnZPVXg0bWsxZ3NRaDV2OUNhamhqNzVZQ3pPQ012S1VsY1dWajJsbGtnLWVuV3FGbzFfX2xTc0FvWl9idjVMVmtNUHRuZzJubW13MHlWWkE?oc=5",
+    "publishedAt": "2026-09-24T07:52:31.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "인권 단체들이 ICC 제재가 옹호 활동을 억압하고 피해자들의 정의로 향하는 길을 막는다고 법원에 말하다 - Jurist.org",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b2298c0a05df283e15b6f671419b43799e9b2561",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Serbia's Russian-owned NIS oil firm seeks new US sanctions waiver - Reuters",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlllVVlKRlVNVVB3eWZlWnkySGxQOWxidXRPRVVMM2xtZEhQd0Z0R1Rpak1RLXltQmFoVGRVU3hqaUJnSjhzbFVmWHZoRzBrMnpnNVBHWFUwaml0MTdCNjM1SDcxdHNyTWI4Z2RjbmpaZFFpWTFINEx3Q3g3NGpENzd4RER2eHpnaXJDamlXZFRMWmpTcGs1U2xLQ3FPQmNVTXNTdmdnUzVmT3BGcTNLN0JQZ0E3VjQ?oc=5",
+    "publishedAt": "2026-09-24T08:26:09.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "세르비아의 러시아 소유 석유 회사 NIS가 새로운 미국 제재 면제를 추진하다 - Reuters",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9ce58a72951d90110c8cdf3e25da1867521e88b0",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US and Indian top diplomats discuss Russia sanctions bill signed by Trump - Reuters",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjNWTlhTdURkUERZUjdNQnBhQWR2bzRjOUVYNWRJUkdoX1M0NmpBRk5Dc0dHMm8wWlJKby1YNVNDb28wSnJXazJnbG9sQTNRU0RVTXk0eHJJcGQwTkVIdS00UjNRakFkUHFLTFhJdi1vMGJGZVB0dzMtR0JHUlN2RFoza1F5d3FuOWhBd09MR2RBa1I1ZU11OGotV2FwM2NOdmNydlBjeU1nMzFoVXpTQ1RuR1E?oc=5",
+    "publishedAt": "2026-09-24T03:51:00.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "미국과 인도의 최고 외교관들이 트럼프가 서명한 러시아 제재 법안에 대해 논의하다 - Reuters",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fa299049d8bc3d62b60ca4b2e31030ef38a25fdd",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US drafted memo condemning West Bank sanctions, but not released - The New Arab",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUnZ1RThsaFJkb1VmZGk2MFBxZjdQM2Fxdk9QT2Ffck5kR2cxYWdYWlZ4UmRmZHR5MENPeTVkUmk0XzR0SW8yZlhXaGNudTkwNGp4cXZiczQ3MlNkZEZ6eHVBU21TY1dUcGhxX3k2bjF2dkRmdWFlMG9yWTBnMzl6RzByS1h5eE1qLUtkTW56Z0FLZ9IBlwFBVV95cUxOQUhTR19Ya3JjQk1vNWpiaTZRdnVkR3lzZ2h1aTJ2Zk5STU0wUFdaVTZUUDEzWE9rVnZlOVJ4b3pJNVhMUEpPaWpEbG44RXIzdVJYZWM4VUVfdVFqNWx5cl84NUh5MUtOVTZabU5NblVSTGo5bDlqeHlwMEhyOU4wRXc0Zkd3dml0NGJ0Z25xNWdnaXpNMUQw?oc=5",
+    "publishedAt": "2026-09-24T07:45:55.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "미국이 서안 지구 제재를 규탄하는 메모를 작성했으나 공개되지 않았다 - The New Arab",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "687cf9ea94711da0ade2312b22bef202868399b4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Chinese Shipments Fueling Iran's Weapons Programs Despite US Sanctions - Report - i24NEWS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTTZrYk80ZVNDbFdobDZld29XTDV0QVhGOV9ubl9BN3REa29QRUo1b2RPbGpoOFZEdThGRWNKVGJPLWs1WTVYRnNjZ245WTZVTXpsaEtWb1pQV01oRWk0WlNrWGhsdWZWTG9wTWlCY0tyR3V0TTFCYXctUTlNLXJFSHBaRm1UcnhLcW1jVFhObDFjYlZpZ2tHZTJLS1N5VnNUVHZsbzRyV2k3c09OTVRFRUtKb1pwQWtna3I1WG5vcjVsX09KY1E?oc=5",
+    "publishedAt": "2026-09-24T07:00:00.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "미국의 제재에도 불구하고 중국의 화물 수송이 이란의 무기 프로그램을 부추기고 있다 - 보고서 - i24NEWS",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4e7d08dcb11d323ead166e9d71f1507699fe0684",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Sanctions Disrupt Iranian International Flights as Regional Routes Halt - کوردستان 24",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGFXako2LU9IVVY5NElac1pSMnFydnl5SEl6VndPZnF5SERSMHp6emUtTXN5X2R6UUJlVFEyWUlRNFpMZlpreUxDdmQ1amlxSXYwaERIZlRnNWpCSmZ5TFI1eDJYLVpTUTZrbUpscDlWMGl1dUhDdWw3Q2tCYVh1TWdIQ3hLMGg5VGpOVUlzckowTExjdnZxN3d2RWs4ZTJ6VEFJZnJkellIN2UzZ0w0VElLb2dJbV9ZcVE?oc=5",
+    "publishedAt": "2026-09-24T05:21:23.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "역내 노선이 중단됨에 따라 미국 제재가 이란의 국제선 운항에 차질을 빚게 하다 - کوردستان 24",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7c52a1b55bff95d56898582d29dbe0cb41e55a14",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia Sanctions Lifted for Two Oligarchs - Kyiv Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FbnNoZEZrbDRaWmJLYlZQaU1OVnU2bUpSTHlYNFNVQzR4bW54MVVRbTVDZ1RuNUxXWGhFYnFNZm5Ycl9VZS1GdE9Maw?oc=5",
+    "publishedAt": "2026-09-24T06:34:40.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "두 명의 올리가르히에 대한 러시아 제재가 해제되다 - Kyiv Post",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5571cde053a6d6ba17506316687cea369527eb95",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Sanctions on Iran Losing Their Impact - WANA News Agency",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xUTNoaXRveXBSSVRiWkJKay1Sd3hKc19fYTlhOXJhZEoxQ013bGpqeDZkNDhka1d4d1NqcVpyTGpTZTF2cUswai1IU0FfckhrTXhLN2JNazN0WkhTSzBGdUJtWDl2QzUzRUNiSXh3?oc=5",
+    "publishedAt": "2026-09-24T07:58:43.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "이란에 대한 미국의 제재가 영향력을 잃어가고 있다 - WANA News Agency",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0ad4ec66b0d3537dc3626f090c66346c35d743d5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Sanctions On Iranian Airlines’ International Flights Takes Effect - Aviation Week",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUphemJsOW9zMzlXdGVidTBra2FYaGxkTGZPTS1xamRRd050YlNmRnpEV2Q3VG13RXJ1czlQYllvcDV5RDdURlAwSGloUjVMLWFyRy1RekU3eVZfNkxKVEU1V1A5UzFjYjVadnlsUE5TQldzSWVtblJMZnhVWDE0bzJ6eWpJNVd1ZlhkSkkzUEJtcllFcWYyZGF5R0dfUFVkODUtR2oyMGRidkViTkRYNjJmYmdjSVIwc3c?oc=5",
+    "publishedAt": "2026-09-23T22:09:04.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "이란 항공사들의 국제선에 대한 미국의 제재가 효력을 발휘하다 - Aviation Week",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6eee5a2831b0c43e1c37f8b79fdad03a2c2ba596",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Which countries are banning Iranian airlines over US sanctions? - The New Arab",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd01aN2N4a3Nsamt0d096M2czd09xb2tBVllHVGt4TlpxTmtialJ3bUVyWGNfb1loZS1qYVNVcnJZeFVBMkEtX3lVSzVaQTM2QUpjMEZ5T1JLbEs1NWRFcXZ5Sm9xbzZBVmJiUXJCdHl5WlB6UUtqUTZsQXRZUGxaNjRGMUlmWVA0dEc1aE9hRjBNem5sc0d0TGlJb9IBoAFBVV95cUxOM1ZpaWlQbW9WTjFBMXdFVEVPci0yd2lKLXd0N2NObTc0OUdvRW90RVBFU0d5VDVtejI5TnlIbWNsam9SM3lDWEU5cG0zTGJhVmRFYndCMFZHMmZvSkpRV2tkMEl5RmpCbzB5SlFNd2R3VTdmcWNNNGk5YkdhYkQ3UWhVdzFSemNVbjFqS1lTMGlUbmNGNVdKbWxCazRHRFNr?oc=5",
+    "publishedAt": "2026-09-23T12:54:25.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "미국 제재로 인해 어떤 국가들이 이란 항공사를 금지하고 있는가? - The New Arab",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "66de258c36a8be24b2cce1bef6c52ca8110128db",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bessent wonders how Iran's delegation would return home, as US tightens sanctions targeting Tehran's airline operations - Middle East Eye",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb1ZDTXR0LW94UzNmOFJxcWt5Rjh0aWRkUDJMcHVwSUhZMGtGRXdmd1pPYkplMWJZNUprR011cTdSaGxyYnNfa3p2Nnd4NU8xdzY3emlaNUE2T1FrQ3Bpa1ItM3E5dTgtLTdCUW13YUYzdWxQN2lBQkpFeGd4aE5ycHR6X09pbm1FTHFWQ0hsWTUwOU1KaE9aa3JLQlhDQ2hqSnJWeGx5dUJwWnN1QUUxMEdTT0lZWHdydl9rMzMtTDU?oc=5",
+    "publishedAt": "2026-09-24T06:21:00.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "미국이 테헤란의 항공사 운항을 겨냥한 제재를 강화함에 따라 베센트는 이란 대표단이 어떻게 귀국할지 궁금해하다 - Middle East Eye",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f7c75f0fc208dcec699e1ba37d67033ccf5c660f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US drafted a memo condemning UK, France and Canada over settlement sanctions: Report - Middle East Eye",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOEVLVnBVY0tTMndPdGJtRmtWTHBONzNrZkRKekRsQ1pVLVo4U0QyQVNvNnJFSThFUjJ0Nm5aN3F5Zjl1dG16d2ZXYkMzdFJfcWdpSF8tZFpWczZzRGxFNGxhQ0xKUHJ3TFpENzBCYWNROUluUW9vajNXb1dUUkx5amt3aFdxWXI1d3BKbjVNbTQ1UU9XVWF6eDk1Nmh1em90OENXY0toQk5UcDdVaWVncnNsQzhicXJGQWJiVmw2UzZZeU1aMXpzXw?oc=5",
+    "publishedAt": "2026-09-24T06:55:00.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "미국이 정착촌 제재와 관련해 영국, 프랑스, 캐나다를 규탄하는 메모를 작성했다: 보고서 - Middle East Eye",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f5492da38f7c1a505e2e5daa45a5b331b7b4861b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Politico: Ukraine proposes replacing Usmanov and Fridman on EU sanctions list with other Russian oligarchs - pravda.com.ua",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FMVJRN0hiNjNpbDF1bnBITUxUb180V0NzZGtCMk9OajRYdzkwY2E5cElWQ2NWX0xidDRhVXktVEZpTUh6aXFES3lqWmRKQms3Y1h2a2R5cGtGNzdWVmRteEtvTUXSAXBBVV95cUxOUGZPZTh0Y2FiS0UwSnpEZVp3dldTb3VhOXpyZHd0bU5jclJmekdzSWtuQlBfcjVKWVY0dUxoTmNFVnlOLWphVGtyT0ZhUDN4dE45SkxPaU5aUWhUcS1iT3BFWDQ3NHdlQlY4czNVSFk0?oc=5",
+    "publishedAt": "2026-09-24T07:58:00.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "폴리티코: 우크라이나가 EU 제재 목록의 우스마노프와 프리드만을 다른 러시아 올리가르히로 교체할 것을 제안하다 - pravda.com.ua",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "64c69d019f3f3fa80775a1279216f9096e9e3efe",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Senate Democrats Push Sanctions Over E1 Settlement Construction in Israeli-Occupied West Bank - Common Dreams",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtQ2hadGw0YTVBTllvYzJuczREUGltSFRzS3NHTVA0bEp4Y3FzUHlwdVpLWmNTa2w2NmlsZFd4d1lCS1RqMU5TbHZCbWdqNk13UUZyZ1UwaG1EdzQ?oc=5",
+    "publishedAt": "2026-09-24T00:23:59.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "상원 민주당원들이 이스라엘 점령 서안 지구의 E1 정착촌 건설에 대한 제재를 추진하다 - Common Dreams",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1cbc4923cab57de0b7b37a712fff6ddec58cdb73",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Despite the EU's decision, Britain will maintain sanctions against Usmanov and Friedman — Bloomberg - UA.NEWS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbklYcFNZUFlYdDk5dC15YWg2Ym80aExnQlZhdXlvckxXYUhIRG5LUDNKZldmVlRmVU9hVHI4VHJMTlIzaElWMmRDclNqYTRsMHN4OG1mX01YTnNRQk1JNkVfaEVfQndKMzJfbnR2MUVINlZQbHFIcG12YVNOSG9zM2x6d0lZeGxqYTlvMS0xU1l2cjY5aE5ZQ0tuTE1RN0ZpWWM1VHVXcnNURHFxVUE?oc=5",
+    "publishedAt": "2026-09-24T07:41:54.000Z",
+    "collectedAt": "2026-09-24T08:56:14.672Z",
+    "translation": {
+      "titleKo": "EU의 결정에도 불구하고 영국은 우스마노프와 프리드만에 대한 제재를 유지할 것이다 — 블룸버그 - UA.NEWS",
+      "snippetKo": ""
+    }
   }
 ]
