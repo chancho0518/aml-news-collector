@@ -1271,5 +1271,557 @@
     "link": "https://links-2.govdelivery.com/CL0/http:%2F%2Fwww.treasury.gov%2Fresource-center%2Fsanctions%2FPages%2Fdefault.aspx/1/010101a0d3d4db7b-ce2778eb-7874-4e87-b758-946c8c99f9a0-000000/29L5gAagchaEbTu6j61yKHhx2KM5oY1NbFHplcvaSTk=452",
     "publishedAt": "2026-09-24T14:32:17.000Z",
     "collectedAt": "2026-09-24T16:20:14.210Z"
+  },
+  {
+    "id": "4fd1006fe254a464204cd443180ffe7197c46746",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "여행 후 남은 달러 팔려다가 ‘범죄 자금세탁’ 연루···“금융사 통해야 안전” - v.daum.net",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Vc2x3Y0JqSi1DbmxHXzJpenY0Nm1qcHZ3MmpENjlnTmJjODlTSmhGZFBHSzl3UXhKNTRUcVI3alh2UDlRdGc?oc=5",
+    "publishedAt": "2026-09-20T03:02:07.000Z",
+    "collectedAt": "2026-09-24T22:56:23.971Z"
+  },
+  {
+    "id": "de669e4c9ae74fd8407c6ec2f79440679842d0b1",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "70억 불법 도박수익 숨긴 자금세탁책 징역 2년 - 에너지경제신문",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VVl9uSVBEdTRiVWJTZnRmNXd0YWVNdEpKamFzRW9lNjBlYUptb19wSGp5ZE5fQWJSWHEzRWE1cVV4V3RjZkNNN3h3cVlWNHhkOHhJYnBzYTl5Q1k?oc=5",
+    "publishedAt": "2026-08-05T07:00:00.000Z",
+    "collectedAt": "2026-09-24T22:56:23.972Z"
+  },
+  {
+    "id": "fd26af1218f44984427292984a11ea229ca3c009",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "북한, 자금세탁·테러자금 '고위험국' 지위 유지 - v.daum.net",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "테러자금"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOam9kLURFSHE4am85NXZ0OUtndmt1TFU5LWNWcTJ5Nl9JblpJY3RCU2VxOUFSM0pnQlBOLUxuNWtEeGd4SFJNUW5EUTNNQVk?oc=5",
+    "publishedAt": "2026-06-22T07:00:00.000Z",
+    "collectedAt": "2026-09-24T22:56:24.162Z"
+  },
+  {
+    "id": "8d167d530ca430dbc5dea35e71d4603a40925be0",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융위원회 금융정보분석원, 2026 에그몽 그룹(Egmont Group) 총회 참석 - 글로컬저널",
+    "snippet": "",
+    "keywords": [
+      "금융정보분석원"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1bXB4VDRlemNydnRHdWwyUkZvdEdyXzU4OVZkLTRRZFk4aXA0cFdSdHppaktmTGxZSVgwMW9BRE9Kb0MydEcxd24wbDR5MHk2WWJDSHlnb3h4V2d6SjNiUmRxSDllZHBTSjVZ0gFvQVVfeXFMT2FMNUQ1RE50RlRURFVWRERNZ1JtaklORnhWYS1YcVZsU2lVWVJNcWhhVzhGTWRjX1FVTmNKV3ZzR0FCVDRBZzM5NDJtWnd3MF9qVmFVcEtwSmFlclRLSThCQlIxQWZBSEtWTjlZdzVF?oc=5",
+    "publishedAt": "2026-07-13T07:00:00.000Z",
+    "collectedAt": "2026-09-24T22:56:24.162Z"
+  },
+  {
+    "id": "1cbb9e3ee167fb41a7a9ee0ed1cc5682c64f5e44",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "INSIGHT: ‘Follow the money’ – how journalism can combat financial crime - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMEsybG9ScGtYeDZBckNKUjd0cXBPcWVScnIyTy1QaV9mZmhZU0FWYXdNZ2g3OEFiUUZBNGNWa1VtM01LVDFmMEt4VmlzM0ptUEpUMjFMUVlvVWpSNXUxeUh3WEFFYmtzYnVjWENzZ1RoLTFIbFNGSzRwNE45M2toZ3ZFWEQ5Z2MyZXF1LXlXQWJabE16REtEa0t4dVl1N1R5Qm43Ynd3RkN0eHc?oc=5",
+    "publishedAt": "2026-09-24T17:23:07.000Z",
+    "collectedAt": "2026-09-24T22:56:23.931Z"
+  },
+  {
+    "id": "98a49850702ac0787741b40e3a9631831ba0d185",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "SEC’s Peirce urges shift from KYC/AML data collection to zero-knowledge proofs - FXStreet",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML",
+      "KYC"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWRQbW00d25MakNKSC1BNDhTTWRMZ01FNlN3ZUNPUGR0cUhXdER5T1J4bE56VlRRY0M5b0ZuYTJ1VHRmcUpSZFJPVFZUVnNZRDV1cXEtbFRCV1JOVU1HZzlYRzNyRjVhVGJQVTVMX0I4OUwzeFVKWEI1SllxQXJQdkN3V3NFcHV2Nm5FWXIzWkMwd0lUQTJzZ0RvVGNSd05BWFBab0ItR0NKOWllZlVuVWNzbUV1ek1tTmRIb1ZVeGt6Zm5TM2Vfc2llWWtYT1AyeEp3?oc=5",
+    "publishedAt": "2026-09-24T20:09:24.000Z",
+    "collectedAt": "2026-09-24T22:56:23.931Z"
+  },
+  {
+    "id": "2545908dde8864255cac24d7c4a47c78ce94f99f",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Peirce Pushes Zero-Knowledge Tech to Rethink KYC and AML Rules - CryptoRank",
+    "snippet": "",
+    "keywords": [
+      "AML",
+      "KYC"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMkk3Ry1Hb3ZPMDhPeWFiWERycEtUaGVLNjNIYllJRkFjZXdLdlFhUEpxSkdEUFZkM2NIOXVsSHdFdlBJNkdjTlBwbWJoRXJhNzlEYXNqejdfczFvZjAwWl85RlZUZHZIM0Q4NE9WWHYwMEhSdmlkd3ljNFNIZ2VwbW5Jal9EWFp4STBVdm9vR3BTZXRScnRvdjBR?oc=5",
+    "publishedAt": "2026-09-24T20:52:53.000Z",
+    "collectedAt": "2026-09-24T22:56:23.931Z"
+  },
+  {
+    "id": "f397b9f17b5cd14800ee886b32345743dbec539c",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AFC Urges FDIC to Adopt Risk-Based AML Rules for Stablecoin Issuers - thefintechtimes.com",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQekRSNzlHeWowVTFITVVIZGN2cDlaZUtfMzFRdGEtQkttd3ExSWE4QW5vamQ5YndfMXVCeXdUMGxzTGIzeUljanVQT0tJNUlwSTNDUVA5NDRQRTRkNnFfZy1SSXN5ZDFmaUJnY3hPTGk1cmhYOXB6Z0Q1TWM1VFpJbDhxeXlYcWxQbk9CYzU1WHJfQlkxUUw4QkJrZnE?oc=5",
+    "publishedAt": "2026-09-24T18:00:50.000Z",
+    "collectedAt": "2026-09-24T22:56:23.931Z"
+  },
+  {
+    "id": "4cf69aed487ce7941cbbb06331212d0ff1d2d5a6",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Hong Kong AML fine puts broker and insurer controls under scrutiny - Insurance Business",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZDRwb2JEWlk1M2VIanItQndQYVYtQ3FNZW02dE1aNUhTOW1YQmVhd2VaV3AxN1VEZklpLXVXWVlmLUU0OTFHdlZwRXpETllqcXhUcDBwTU1oRUdFR1A1VndORmlfbzVsTE83U0JKelQ1MjRuLWtmenJndW5lVElLdDhwWDhMTGZlQlBJalhmZlByZ3RrWDBFSWd6aGQxdWNJdUp6Q2w0dG1GcF9Pcy1HaDJLTzFuYWxULXZPYmxFdFFWZExnWTRwRWdTNHF5TTUzOFdwNFFFbw?oc=5",
+    "publishedAt": "2026-09-24T12:27:22.000Z",
+    "collectedAt": "2026-09-24T22:56:23.931Z"
+  },
+  {
+    "id": "4bfdef687e5e426d9ef9808927b0d8be437474bf",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Single-Cell Map Reveals Five Macrophage States Behind Chemotherapy Resistance in AML - bioengineer.org",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVdOcjhJX2s1aTM4VkZiS2hpVHJQdkN2aEpWX09FMkpVdDRoLXJxc2xkVVJmVFBZNC1vTUZRN3AzbGxYLU8zRjkzdHlrZC1mWWNhS0Y3ZjBuTlZMVkdCTWxUUkxDcXhpYi1CM3ZCVVFndUM4bEJkSE1MSXVpUHNxZDJKN0lLUG5HTkZkMWxzM3kzeHo0THQ0ZG9QWGZ2Wks0eFp4YWx2R2FQTDRmX2c?oc=5",
+    "publishedAt": "2026-09-24T21:21:52.000Z",
+    "collectedAt": "2026-09-24T22:56:23.931Z"
+  },
+  {
+    "id": "e25566ff27dd23d2483dcb897b24aa8d1f33b478",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Cullinan Therapeutics (CGEM) Eyes Key Autoimmune and AML Data Re - GuruFocus",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMUFGVzhxSnQ2bDZmNHJiNnUxN1FUaDVEOGY0Z2FCSUpHek1JMDF5VnJibmdqWDB0Uk53NnoxVEc4LS1FRVdPT3JsdHdHUjhzY2U4d0txcUttM0stejdDZC1kZS1UYlRBb3JyaFFhRGNQMEJ0R3JWNHJ3eU9HbVcteEVBNGx0Nkh6b2FjUDV0b01mdDg4cHRhdm1TeEJjaEJnZjhtdGNJb3RrN2hXN3ZvNUV4T2hqdWUzN0MzZDhQUmxoZllRMnNYUW5WbjAybjhlNUpFa0RBUQ?oc=5",
+    "publishedAt": "2026-09-24T18:06:08.000Z",
+    "collectedAt": "2026-09-24T22:56:23.931Z"
+  },
+  {
+    "id": "cb24f496060877cc88956745963c8718b20826a2",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Your Guide to AML Software Solutions in 2026 - securitybrief.com.au",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRWNUYWt3OURKWnQ4eGFuZXJhQ0FQeVNTVUU3am54Z1lNN2xSanlLdUZ6czN3QWZFWkRBR0UtSEI2eHIxeWNValNrMmVWeEEtZllTM1dXWGlBclNYN29rQkVxaEt2endJT2ZtVFA2NU0wd0NRem1BdG1mU0dzdzhEenNmb29HQQ?oc=5",
+    "publishedAt": "2026-09-24T22:30:00.000Z",
+    "collectedAt": "2026-09-24T22:56:23.931Z"
+  },
+  {
+    "id": "af7738c45df5f768434835f6225dcf2175ccecf5",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Hester Peirce Suggests Reducing Data Collection in KYC/AML - ForkLog",
+    "snippet": "",
+    "keywords": [
+      "AML",
+      "KYC"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS1J3WU1aX3J5VVozeFNBT1JCcWJGSEtuNXRzaVZvdXVYUUJaSjg0UGFZMWVpbFM2WXhKZzRHd0xKRHhRU2MzNlQ2UW05cFJHcmZHUy1MZVRjOXVKdDBXbWc3Smdha2hMN0RMd24yOUtSVVRBQ1Y5SURtOXdDOERSZ3Q3OC1qMGxKVUE?oc=5",
+    "publishedAt": "2026-09-24T16:17:11.000Z",
+    "collectedAt": "2026-09-24T22:56:23.931Z"
+  },
+  {
+    "id": "e6c6a7c16556647f3fe3a3e3c6a1752b2797b159",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FINTRAC sanctions co-ops - Investment Executive",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUlRqZ0l5eE1tSXR3ZHMyclk1aktGRGhWdUhWQmZKN1ltZUZJLUdiSktZc3FiX0xmU1pGTVQxVmZ3bnBVTXFOeTVlQ0wxS1JNbDFsV1BrYi12QjZzOEhuMXVlbHFqVHpfdHpDd1FqVzRGQVRHTmxfVklEZW5YM0RkMWJfTQ?oc=5",
+    "publishedAt": "2026-09-24T20:14:17.000Z",
+    "collectedAt": "2026-09-24T22:56:23.932Z"
+  },
+  {
+    "id": "b5b4054e5a8fb9e5f29d24a01bbdb12a79b58891",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions Aren’t Enough to Curb These Terror-Linked Groups - City Journal",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeXN0NVIyaUFYV0VZMHBxWHF0ODhFYXdIRWVJVkxFNlliSEVDc3d3eTlkTmJtdFY3OTNwbnlxMGVQejl2c1lRalJzaHh2cW45aGdsX3NRcXRsejRCdmxOYnJCblpVNWRiUFBvYzdMNklUSnJ3dHJwcHgyVV9iQld3dGI0cXVkNmlZelVucDJKYWJlX1Y2cUYta3F0WF92UQ?oc=5",
+    "publishedAt": "2026-09-24T16:32:04.000Z",
+    "collectedAt": "2026-09-24T22:56:24.217Z"
+  },
+  {
+    "id": "1bef1773a93d0f8bdc51358250de69ffdd808d39",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions international criminal court president and prosecutor - The Guardian",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8ta3BGYjBWMWNDejNhZnpDWDRjZF92VVFFOWYtUk5oam1iaENPeUdxc1duYzdDekxiOU55MXNIVkQza0Vxb0ExT0otNmJDQVljdVhLU2NJWkRReG9tU0h3Y0lkSGZWekg2SmZOeFF4cE11Zw?oc=5",
+    "publishedAt": "2026-08-18T07:00:00.000Z",
+    "collectedAt": "2026-09-24T22:56:24.217Z"
+  },
+  {
+    "id": "b199404c02da2977cefa100201201bf7172f8aa7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Policy Backgrounder: Possible Higher Tariffs Under Sanctions Bill - The Conference Board",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbTZJVGFac1RpRGh6UUJ6b2JfbWUzMHBaUkRRUzRUSDhZLUkzT0xpRUliSklKcFZEU1AwV1dCVjhFckQza2lYZ1Byb2RsUWpjYUtKcVJ1NWIyTDFNWThQREs4QkFKbzJSdm96R2I5UzFmVU1xeGNZOWNYSUZjOTJRdDJoZWhVMXBoTElsYkpGOXh6OU1FVi1LdG9uOW9ldEpBRTZPcl9xc2VCYkE?oc=5",
+    "publishedAt": "2026-09-24T16:34:19.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "1196148b394651278067bd9d28cc8e03d5f50f85",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UAE halts Iranian flights over US sanctions - Financial Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3k5d0oxT1hBN1NxYzUwZC1TaFF0eUNyU09jVmZrOUZjUEZueWFsVjNKMVhmQWt5cml0VFc3QkNIRXZJN0FUcXdyR01odlhzdnctVnJHdDBoV244QndVUTVYcFNrZWhXSjFmWmszclVIUFJQaDEtRkx3TmNuaDhIOG1BUmo?oc=5",
+    "publishedAt": "2026-09-24T15:41:55.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "7189ebbff7593bdd4193866d017347eafdfefd5c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Business - Iran sees air, land travel chaos as US sanctions bite - France 24",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUTU3WGtLa2F2azhaVlhpVkIxTmpZSm9TcDQ0STRMemxvaXNCYmpXNnBVaTh6UlRHcGFGY2l0QnhET2ktV0ktS2M1R1FDS1BYaDlFTHFoVEFPNkp6VXhMNjlicWZYUTd2NDM2eXRnTS12NXFxQmNqQ2t0VTBvNkJxTDJXZDFxV3M?oc=5",
+    "publishedAt": "2026-09-24T20:35:39.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "01dc6ec60534b6a2a6a176bdc55fd2e595cb2e6b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Senate Democrats seek sanctions on those facilitating controversial West Bank settlement project - Jewish Telegraphic Agency",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYnN4c19kc1Ywb0U5OHhzY1JuZkQ3SHRZWDUxNUVrQjhQTl8xXy1iMGlyYTduc0VwSzh1UGZJYlFwOG93R3JsRExqdV9sNmZTUmdpUHQzWlUySGtSOXNxcDF2N2hVay1zZjRNNGZuM2hpX213SmFvQ0dRWWFINlpFTmVVdG1mRU1hQXBGMWZiSkk0a0hmelpvR2JjWFkyek9NcTFlQlJ1Wm1SVlBMcU5RMzNwcFZzUHlBTVIxRllCcmx3WTRVa3NmQ0NmU1h5VHR3eW1yeWdR?oc=5",
+    "publishedAt": "2026-09-24T20:06:12.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "69c6c249bcce293b602a539271c9acfddbbbd409",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia’s $6.9bn sanctions evasion scheme - Financial Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions",
+      "sanctions evasion"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT1k2MjJNTTBzVHNuczd0cG9SUEpmUnJXRHFURWZqRFdxeGNLMzdzZXBzVjU3U1RpdDU5TlRWaUJ3Rkd6WlRocFJUbXNoOU5hWWRhalBOcmc5RVppSVBsOHhCTnBBcW02TmtBNzhXTWpCanlJQVlLNV81Z0otZk5SMEtXNl8?oc=5",
+    "publishedAt": "2026-09-24T17:00:36.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "4e95f3a37a309fe6435fe3cc83b7ab505098d064",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Hungary looking to extend US sanctions waiver on Russian energy - Reuters",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdko2Rms3YjQtU2U4d2RUSTJwbWRrUGNrMGlZdHh3N1ZRamlvRE1QM2dDaHQ3a05SNTJHLU9ycDhMZEFXZ0pDb2FCZk00UV9xUnN3aG9rOFU3anJRSzRGNzVXWjdqSG5wRlBCalJ3ZTJWZ3V1c1dFUXVvUjE5TWhmWS1fVExDbnRaQUwxSE8wQ1NwazQ5bmxtcWF4b1FKeUVOdm5ld256NS00MHA3dXc?oc=5",
+    "publishedAt": "2026-09-24T17:58:09.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "a144a7d93e25da8f8180b3ba3d1ce36abd97cef1",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FRL 1,265 Recap: Iowa State Sanctions, Who's Number One & Final X - FloWrestling",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWS1PSzJKSGhtZTdqc1FFdmZENWhxbDFLd0NUZVpXVEU4R0RYVXBNa0lqRVVvTTJLeFBXR0sxVjF2V2h6ZmJILWF1ZV9SVVA2dnltMWFTWmZjUHZSWGpPdDlJbzlHX19EdG8zeVlvT256UzVPQVgzeHJWeVZTUXZ2c2gwTE80SFYtMWp2SW45WjlzZlpRd3JfMmE0RkZKVlpxVm9UemRZMk1JUQ?oc=5",
+    "publishedAt": "2026-09-24T21:33:28.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "c23f596ac1c21a4608322a8d404f1eae45b58fd3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The Unexpected Rift: How U.S. Sanctions Against I.C.C. President Could Affect U.S.-Japan Relations - The Organization for World Peace",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUZRdzdkTmRXU3U5bnhuX3BzWGpXc2drTzM2NDN1QWQ1OWRxMmxlSG0xUFdHclhHNFRHUDd5MFJYbHA2b2hvdnBUSjVtT21xNGdtZW05eHpWcmlBSTdCUEZlWE0tOEhjeS1fSGhFbmlObTBvMGZvU3NLek1TSExPaWFkcG5WbHJUVFBBanMxdmRVcXB6SVBIVzFDdFk3cVVEYUtOSXpZU0lJUHNjcFpLaWdGUUE?oc=5",
+    "publishedAt": "2026-09-24T22:24:43.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "0364663a222b74cd1dfba7c52dcfbef5cbcf1b96",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU sanctions Russian pundit Xenia Fedorova after expulsion from France - France 24",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOakFGWnpDaVQyTkp1VTA1dklDUzl2dkpNdWQ5UjVfNkRqT3dwUmZ0NlRRM1hOTHNhTkNORXVUYkxsdDN5S3R3SnJFZ3RwQjZpcUxLUDRmWlF1MGlnUjBrUEFtOUJJc0pmUjRkSU9xa2VvZkhFOWdlU1AxNWNMeEQzQTJFU01PRDJUdGxIczYtek5vODRwdzBnQUZmLWZvRzBZSHJka05ZUkxCd3AxclF2YW5JNFE?oc=5",
+    "publishedAt": "2026-09-24T13:45:30.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "adaaf25e76666606229de8cd65217b5a45667340",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU sanctions former RT France chief Xenia Fedorova over pro-Russian propaganda - Euronews.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmZJXzcwbUhMajBaalBqUjgyUmk1UUFOcDBEUVFrQVZTekEybXdjQ1RlM19VTDAzVWxCVF9BSjRXMGQ1RXZHZERJeGlRdFduM2o5clF6amhqTUdlNlVjaW5aME9uY0NkODh1dExHemhkcXFHY09BUDJvQ1BlU2ZyY3otU01FdDEzTmlncmRXbkJ0U2gtN3FvclcyUWtmU2xjS0NhdjUybFZGeTd3WEhiOHQyczI?oc=5",
+    "publishedAt": "2026-09-24T18:12:16.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "ce14b856bcb42e1f1ed16020dda249196b090119",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran flights continue, UAE route closes on day 2 of US sanctions - Al-Monitor",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzZCR2xNNFVjMFJ6bk5TRnlMT2daTEQ2cEl3OTZKQjgwc2VhUjZaR3ZnNWp2UmI0cGRnUEJXM3c3QWpQcFd3U2NvUmJKTWdySVV3ZmdjQmx6RkxGTjRIREZVTG1jai0xY0h6ZktKT3pyY3p4eTdNcFk3MUl4WDRMSkpfVUJEZjF5d0V0cHZWTkdvNVI4S1Y3V1JfZDI5WlRZdGRFWg?oc=5",
+    "publishedAt": "2026-09-24T17:00:27.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "92706762380632fa2a7848c43c0dffc91c7f24a4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK's New Israel Sanctions Haven't Actually Suspended Any Weapons Transfers - commondreams.org",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13MXg5UU5pdlZaYThDYlJhampRcTBpWldSaUxpai1sQXhEVmJhWlNQam9Ub3hxMWZhOUJxUWJQbXJ0VEtkakgxVTJ3NjhLOGtjZl9xY2xlY2VzdDdTTm1BYTBxeDhKU1Y0RWFaejlR?oc=5",
+    "publishedAt": "2026-09-24T19:32:26.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "2add1d8ee1be374c9631db62879f7a2b3725e45a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "SDNY’s $61 Million Crypto Forfeiture Action Reflects Growing Convergence of Civil Forfeiture and Sanctions Enforcement - JD Supra",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ29xa1NNem9NWHhnMWtIZmZyT3R2RUZIRlZCMnBSYllKOGMzN0hZSmJuWDZ6RU5YUTNaaFZ4aHhKQzE0d0FzMTdQVXduMWN0ckk2c1c5UFVkYjJxdjJPY0o5SGxBQnAzekgyU0E1VVpjY2dSa0lFTi1EZVJGbzR5elZ6dDI?oc=5",
+    "publishedAt": "2026-09-24T22:37:05.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "7069818bff459fcfe939cf0fdb6a560e0659c2ac",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EEPA’s public statement on the US lifting sanctions on Eritrea - IDN-InDepthNews",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHR0XzRZR2JDbW45YlVrVUxkcmV6c0JOc2VnZkRjVmdCbDlkeTUwZGVjSWFPNFRVanBpNlhFX0NsRm9mdmM5R2VRUlE0NGhYcHM3YmtfajZ2N3MxZlA5VDQ5eGdGWnZNSl9XXzBxNHl4V3JWSE1JNGo0a2pxT0hJU3RrdmNSZXRqQVhhZUVCbw?oc=5",
+    "publishedAt": "2026-09-24T14:53:46.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "0ed27727dd8a3cc2c6f0614e8040ac8a4e07c050",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Press Release: Brittany Pettersen Introduces Bill to Reauthorize Fentanyl Sanctions Act - Quiver Quantitative",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOckVEVVpiejkxN2FXS25SaTNFMFhmd0lfek5NSUY5Y2trY2hXalVfUGdHY1dvUldQS3dKZ0dVQjB6SkVxSDFmSHE4VFBjTTVSaFNCckd0bVRJZ2ZRd29HLXY2NFh5SkwyVHhteFJwYnNJRGUxX2k3aTlrcFFPNGVkd1cwTjhSNW5WNzhTM0hXQXpyLWNJbFluX1VJTzdWSW5Bc013cGJnVU9CdHNobGxxUlIyWnFRanZsYTUwMndzTQ?oc=5",
+    "publishedAt": "2026-09-24T22:22:00.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "a67ee2ea8431a1632e1f7c344bd286e854cc254e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Cryptohack Roundup: US Sanctions BitBank - BankInfoSecurity",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkd3NGZHMnpoU2xMcUZkaU5HSG5kOFdJc3FNUmFuSFYwcFhrZE5EM3hHMi11RUtROUNpRkNFNlc4ZlRrcjBhcnZhcHVmcm5iUENOYUtqNkQzSmxkWDlLc0dxeXhvUUlCMjVRZVhwcDN0dTlRanhLSWVMdjF3TGI0amVqWWhTN0U?oc=5",
+    "publishedAt": "2026-09-24T17:16:47.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "7485041a6d7aa7afd77c50fa9186305d53fe56a7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US congressional Democrats warn of new Trump tariff authorities in sanctions bill - MLex",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWk1rVDhPSy1va2dmSmV0TG1iWnJwSVBEWjRGWkJJTGRaaHJnXy1DeG50T3FuYnBOUjVRRXdXaFJfTlRfdFFaUEp4cTF3MVg0emNubVp5bmNsODRURXRsenAtZWRzLUs0WU9kU2dadTRHYlBuUWNmVWkxNnYyVFhhUWs3WkptSmZOYkIzclhjSGVZalZEbGR5aVdsRUJjYjA2eFpVb09vNGpfc3ZLOHBmU3FobXRwSWc4ZzhpTDNxMVZIZ3Y2THNxZi1R0gFaQVVfeXFMT0NEOEk4eHVtb3pCZ3prZHY4ZFlxY0x0c1pGbWs1MUczb2tpV1E5bThuVHRtam83elFfcnhEZ1ZKSHQ5TEVYMXlCenZtMzVTR3kwckpvUzVvSGln?oc=5",
+    "publishedAt": "2026-09-24T18:39:00.000Z",
+    "collectedAt": "2026-09-24T22:56:24.218Z"
+  },
+  {
+    "id": "0a87539b6d309348e13858ce2c47f68aed380660",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Binance Is Under Federal Investigation Over Iran Sanctions Again. What Does It Mean for BNB? - 24/7 Wall St.",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSzY2RlExTVBUU0hhRGFPcm9ranhpajRkbE1oUVlSeTZWbnFOMUtxcE9ybEZEUm9PMVdxZGxWMk9kdHNWZDdXMGlqVUtVU2xhcE44SksxN05FWVdrS2daT0UzRUF6SFh2c0g3Tkp6dWp6ZHNNVVlBekJWUjNDSGhxOXd1UXlWeTk3YUFfTllwdHhqSnlPWjk4RkZKZHl0U0xjZVRtU0txTUtRN3FjNTZ5SEtYdmxORTN2aTV1cmtRakNzN1dITEFUdEkwWS1ZU2l3dzlSN1pkYWhULWxQQ2xsZnBfcw?oc=5",
+    "publishedAt": "2026-09-24T18:51:00.000Z",
+    "collectedAt": "2026-09-24T22:56:24.219Z"
+  },
+  {
+    "id": "a2d686a8521e8826a4f8a99296495e2e095e6d02",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK PM informs Zelenskyy he will maintain sanctions against Russian oligarchs – Bloomberg - Українська правда",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11eE5hWXoyUUM0U2tYX05oUmZTU2NDLW9uN0pMU1BHekNGRi1Jamp5WjZRT00zY256T2RGMHhYNjREU1dNdDFoNkpybTFSNTNxVmROVGVZRWhudUlOUlEySkdFY2_SAXBBVV95cUxNejlpR0NnM29qc2ZNODFFVUtSak01amFsLW55VkpLU0d4NUJURTl2V09fa0cyN1pBQTZrOEp5bTdYU3JIZ19aNlNWMk5NczRUczZYdjhLbmFob09ZQ0FWbEVBODVtei1YclVLS25fbmV1?oc=5",
+    "publishedAt": "2026-09-24T16:32:00.000Z",
+    "collectedAt": "2026-09-24T22:56:24.219Z"
+  },
+  {
+    "id": "c61a2bc8463b9f43245b8344d90bee55666bf073",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions by Statute: The Graham Act and Tariffs on Russia’s Energy Buyers - The National Law Review",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONGQyWll3TVlJVTNLcG1wY1ZxbVdEalRHT1k1Y0RoZ2Z0dGl6d3FDMThNQU9iUzFCN1Zad05TWjZxS0xWNFFxV3ZxZzhFY0ZrRTJpUldEQkllQlh6blBWLVBCVjZtdVpCSGplbzRvQlhKdlNHOUdZMmpVcDQ4ckZQZmx0VDhWQUp2VTBIUE9HQ01abVNGczRtODZjQdIBoAFBVV95cUxPR0EyVlB5QmVqczZHNkExOXR4NDFwZTM2VGRxZFB0TkpEODNBbTZOYnQ4RXpYVEtwZ2Vpcnl1WlFyRC1tei1QdHZRY0RTZ3BXWkpnSzJFTmQxM25Na18xRF9oeG9UTkZIOWVyUmVEbGVGdDFEcEJPb1JGT3ZhalhaVjhwdUtpd3dacEVqUW5SZ3dIMzd4U0lXbGdTdWxHcGU3?oc=5",
+    "publishedAt": "2026-09-24T17:24:11.000Z",
+    "collectedAt": "2026-09-24T22:56:24.219Z"
+  },
+  {
+    "id": "ba65b008b5cc10e39134b326f92e1dd05e0a6ec7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iraq’s Kata’ib Hezbollah Calls for Support for Iran Against US Sanctions - WANA News Agency",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNzFzRXBXNGt0a1BNWll1ZmFTVmhxMU9HNGNzVm43dG42cmxZRDZWMFRJYy05OFYybUczRVZ2SnRwMjNucTdYUjY4dmRPczM0TTFfTHVCdkJlNTlYWTFxWGFoRGxYemFDcVJkNXRpY1M3Y0RTeUI2dkdjWkhQOVZRZW52UzNfSFVWOVhVZmJxY0VQa2F3?oc=5",
+    "publishedAt": "2026-09-24T17:06:28.000Z",
+    "collectedAt": "2026-09-24T22:56:24.219Z"
+  },
+  {
+    "id": "9e093d424e660ad6a6a3ffc290365f929b1292b7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "New US sanctions shut down Iranian flights - CNA",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkVleUszTVg1QjEyd2ZrYUhWRlhfQThUNG5KOWZlZ0dhRm5qLTQ5b0hsUnhsSEk0VmVFaDZlZEJMM3NFU3JWR1BSNml3TjZ2dEN2UkVJSzB5RHFLUUN4UDdvLU1oWUEwLWpYcmR3VGRjY3phX1hyQlY1UDQ4UExiRXJsaEF5QWdudVpicmQtY0xQZw?oc=5",
+    "publishedAt": "2026-09-24T17:38:57.000Z",
+    "collectedAt": "2026-09-24T22:56:24.219Z"
+  },
+  {
+    "id": "39bf93f7644832b24d9231c60b7a4a56604f8383",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UAE says suspending all flights operated by Iranian airlines to comply with US sanctions - timesofisrael.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLUY3OXFGYlhIT2dJWDUyaU1YVG9ZYS1CNEdCV0FQYXVHVWdpR2RYVnlxNWhHY3VnSEczQVhwQ09yTFI4UGxQcTZSWjFuV1VOVTVDcVBIZVROS2FYR1VzRDZVVlA5a0NXNWgxMUVCRUtEYmpQZ0E2Qm13MEZvdXdGZlAwZGswdk55VWVLYU9XUTNMLXFqRWJ0RlZETjNqNXE2d1R6MjB0bkt3NGcwMUhzOWhUczM3N1FuMVdkajNpWjRBelFwV2RfdEZtZFNpNEk?oc=5",
+    "publishedAt": "2026-09-24T22:33:49.000Z",
+    "collectedAt": "2026-09-24T22:56:24.220Z"
   }
 ]
