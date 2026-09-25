@@ -121,5 +121,281 @@
       "titleKo": "새로운 미국 제재로 이란 항공편 운항 중단 - 레드 레이크 네이션 뉴스",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "0b84201a1c6f928f41001b116220c211dbee7a43",
+    "source": "한국경제 경제",
+    "category": "domestic",
+    "lang": "ko",
+    "title": "[단독] AP위성, 유럽社와 손잡고 2028년 SAR 위성 발사",
+    "snippet": "",
+    "keywords": [
+      "SAR"
+    ],
+    "link": "https://www.hankyung.com/article/202609233758i",
+    "publishedAt": "2026-09-25T04:00:13.000Z",
+    "collectedAt": "2026-09-25T09:17:03.534Z"
+  },
+  {
+    "id": "3cd97a1d87024e4b25c308633acff7ebabac6814",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "자금세탁 위험 보고: 은행은 정치적으로 중요한 인물(PEP) 고객, VIP 고객, 부동산 사업체 및 암호화폐 자산에 대한 정보를 제공해야 합니다. - Vietnam.vn",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV2UzMFJmdTR1X01HSzF2cW43NTJwblo5S0R4YzNzTVd0ZmU1U3RsSHpYcmEwQXlZVFMwVmU1aE1hSVdvcU9wNVpjbE9KR0JRQ2RteGRlZ2pmOG1sbFFrNGp2YXVTSUdjcXNvVEp3R1lJWktMUGpSSHRzRHBkSndjTG5hUDFGY1g4bVpYWmZYTVJ4ZzdtbE9yNURxQ1VUMzE5X3RLd1k1WlAteUhKN0lkMk5wZm16ZVRfMGVleGVuaDNUbHJsNzVySlZOOEdsQU1GWURmLTc0eGdvaFE?oc=5",
+    "publishedAt": "2026-09-25T06:05:45.000Z",
+    "collectedAt": "2026-09-25T09:17:04.601Z"
+  },
+  {
+    "id": "8340cfb726da7e3921ea5fa0252d3672fec76ca9",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "\"북한 '자금세탁 목적' 코인 몰수\"…'현상금 700만 달러' 심현섭 정체 - v.daum.net",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4RkFfdXV5QWR6eDM5MlRyal9sdXEzQnE2Z1UxNldMU2FtTEhZd2NTemk1RWhYREVXR2xkdFVCMGhjRjlQcE8zMHB1OHZLQjc4Q2VYNA?oc=5",
+    "publishedAt": "2026-09-08T07:00:00.000Z",
+    "collectedAt": "2026-09-25T09:17:04.601Z"
+  },
+  {
+    "id": "6ecdb381c6cd0eb2246721b66e61a447a5f46caa",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융정보분석원, 타지키스탄 국립은행과 자금세탁방지 협력 MOU 체결 - chaovietnam.co.kr",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "금융정보분석원"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxUUdhNnNYYzNnUGF0enN6X2pQMGxKTDBPVzZ6VWVCeDdhenhHUF8yLWNmSUx6WmhiN2tuU0NPRkYxRWxySTZNeA?oc=5",
+    "publishedAt": "2026-09-18T01:48:44.000Z",
+    "collectedAt": "2026-09-25T09:17:04.501Z"
+  },
+  {
+    "id": "68918447c726fc158ced6784c2ae4faeb80ae01a",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "America's Credit Unions Urges FinCEN Overhaul Ahead Of House Oversight Hearing - CUToday",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNW1Cb1F4QXhZbFZ2NDhmUVpnX09vWms3T3FHS2E3R0ZiMGNwYngxU0gtTDFHRFRRbkRxRTZkZTMwSF9IT21XUzAzX0psaEp4WUZLMVpYLVNpU3YxWDhKWERLM2U0THpFRnJEQ1BZWURwMVlyZExXckRpQ29SdHQzNlBweEpwbjg1VWRxRlRnVTg4bTdSdW1wSnFnMFpzeU1RU2JLY3lRWXZvZ0wyV0QxeVdlVVpKQQ?oc=5",
+    "publishedAt": "2026-07-22T07:00:00.000Z",
+    "collectedAt": "2026-09-25T09:17:04.436Z",
+    "translation": {
+      "titleKo": "하원 감독 청문회를 앞두고 FinCEN 개혁을 촉구하는 아메리카 신용협동조합 - CUToday",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a9a9dd2bb596966126214e51a17c0f7722735cfc",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Container Shipping to Cuba Surges Despite Trump’s Ever-Tighter Sanctions - Bloomberg.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44UUp2Q244ZDBHeUhaUXdPQWRmVzdFRkNadmpGb21RTF94ZDNya0JoalJqU0s5bWRid181Wlo2WmRGd2Z2ZDJlWUJmOFFRMnRNMmw5NHhESnRySlFFNVEzMFVTT0cxMEVmb0tCNXhuMThJMEk?oc=5",
+    "publishedAt": "2026-09-25T09:00:00.000Z",
+    "collectedAt": "2026-09-25T09:17:04.412Z",
+    "translation": {
+      "titleKo": "트럼프의 계속 강화되는 제재에도 불구하고 쿠바행 미국 컨테이너 운송 급증 - Bloomberg.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5ad9a95e646994ed1a243756df9344440d28a400",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK Escalates Financial Sanctions on 5 Major Iranian Banks - iranwire.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUEpySVhXTG55Wk1ZckI2SGl3SWRGQlA1d1VodFMwMlFVWTlScVhSZE41M295dTlUbThGZExaZThmYVFiRGVzZ3dkUTVTUlQtaGFSbjlSTVRRRjBfYkkyRktGV0xOOVNPQXh0aGdEa3YxbDV1S0czUHRxT0pRUGxrTURieXpWbGRvZ2VJcWpzTW95cjN4cG1LeHN3?oc=5",
+    "publishedAt": "2026-09-25T08:44:46.000Z",
+    "collectedAt": "2026-09-25T09:17:04.413Z",
+    "translation": {
+      "titleKo": "영국, 5개 주요 이란 은행에 대한 금융 제재 강화 - iranwire.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ae387a7e8a2cd05645532304cd0bf975fd882311",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "CRIMES AND OFFENSES—OFAC final rule consolidates sanctions penalty provisions in new regulations - VitalLaw.com",
+    "snippet": "",
+    "keywords": [
+      "OFAC",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNmpETDUtcEs5MzlZUjlickpZY1pSWllVSU9TQ1hqS2x6cGFWXzd3VjdjZDUtWHlLdDA4MkVqS19kZWo4czlJcnZpbmJEU1JkODMtZkVTMjREWVlUV2k2Q2pKaW40OUktOVNmS0tUY2lTbDk3eU8tNElpVnlmekVLMjJPUERvNnpWMnBCMDhIWUpneXRTOVFUdzhral9aeko3enVILUZ4bW5vZlU1dEF1Y3pMMkFsQURlUjl2NXQ5MnZwbmhYX3E4cDlRSUhscGo2ejh6Nml6eDZZUkc1ZkJTdE9MT0RieElzTUwzZml3MENKaHVEQkpN?oc=5",
+    "publishedAt": "2026-09-24T23:31:33.000Z",
+    "collectedAt": "2026-09-25T09:17:04.413Z",
+    "translation": {
+      "titleKo": "범죄 및 위법 행위—OFAC 최종 규칙, 새 규정에서 제재 처벌 조항 통합 - VitalLaw.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8773be09a7af7181ebfd96840ae25259d00859d3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Defense Stocks Gaining Attention As Russia Sanctions Reshape Energy Security - Yahoo Finance",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObDVTZV9VNTJMa3pkVVc2cGE1LWdRRFBmMllLbm0wLThTbUFqSlR1ZWk4dS16NEozWnlZMm81emdGZU1udjNYMTJEOERWUWR3bkRxWDhaeXFjd3ZHTXFWUTBQN3Z2NnlNU0JHUk82VExQeDd1enBhZUJhOVhlSm1ScVdwSDBOTFEwUUYyZGtWLVBWTUk1bVJXNU9IeVJoaUNza3dsX3Y4SQ?oc=5",
+    "publishedAt": "2026-09-25T03:12:00.000Z",
+    "collectedAt": "2026-09-25T09:17:04.413Z",
+    "translation": {
+      "titleKo": "러시아 제재가 에너지 안보를 재편함에 따라 주목받는 방산주 - Yahoo Finance",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1140dc8bd376783ab9a52c99f6f11021e6b62d5b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "How firms linked to Chinese cotton giant shirk sanctions to sell clothes to US - The Jerusalem Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3d01uRm9KOEwtTGVzR0lNTnRSU2NzMUNDMlFydGhaM01BMjZfbF9OMTl4YnZFOVg5WmVaVWNHb0ZaNWRFNTFmZ3lJRzh0VTV3QzVfTG5iZXFNMjRkTENF?oc=5",
+    "publishedAt": "2026-09-25T07:55:39.000Z",
+    "collectedAt": "2026-09-25T09:17:04.413Z",
+    "translation": {
+      "titleKo": "중국 면화 거대 기업과 연계된 기업들이 미국에 의류를 판매하기 위해 제재를 회피하는 방법 - The Jerusalem Post",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5f24d90c6810bf890a5bf92e4afc2068707abef3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iranian flights disappear as U.S. sanctions deadline hits - Mission Network News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdUF2bWUya2dvNWF5TXQ0M2FzU2t0MklNVEIzZldlWEpzTUFGdVVyU2N1NlhpRHhyMTdRT0VwU2x3ano2OHVhdDZOWURnRC1LckhxVVJXcTJJR29SSWhHblR0Q0dITmVxMDJZMFlZeWVtQk1uM3NTbktpSWZyUXR1MmxacXZ4b3F2MXJxYTRRUzgtdw?oc=5",
+    "publishedAt": "2026-09-25T04:27:28.000Z",
+    "collectedAt": "2026-09-25T09:17:04.413Z",
+    "translation": {
+      "titleKo": "미국 제재 마감 시한이 도래함에 따라 이란 항공편 사라져 - Mission Network News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "868be0f30ba7403dd4bdb15557644970e133f303",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Switzerland to hold referendum on stricter neutrality blocking sanctions against Russia - Українська правда",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82MGc0MF9vdWxfZWZvb0RlMXllNGVDZG56STdrMW1FVkFDQnNZMGhyTFFDSHJoRVlvMlIyWi1Td251V1VSZTdJdTZESXEtVmNYUFdYaGpFQUhoZkJJMHp6QWxOZHfSAXBBVV95cUxPd1owMFUxaG1LMzAyMkU1aXVwZnBpYW1ETnZmNUtpa25FZHZaMzJsNjZtblMxOVFjQ0ZmMFJWdkI3bXZKcjY1YzB6UkVzTEtSNkRCeDM5cWFlQnUtY09nQmljRmRJOVR4ci1nR0pnNlkz?oc=5",
+    "publishedAt": "2026-09-25T07:05:00.000Z",
+    "collectedAt": "2026-09-25T09:17:04.414Z",
+    "translation": {
+      "titleKo": "스위스, 대러시아 제재를 차단하는 더 엄격한 중립성에 대한 국민투표 실시 예정 - Українська правда",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e26daebf00a528b21c99a31eac180638fcb3c82b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The Sanctions Shuffle - blockhead.co",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZWJpUDZzN1ZaVE42dVNCNzhocTVDaVdWemdHVTlBcXZkMHdsNG9SRzdNU0JSSWh4cWNLc3hfLXBlRjNsb0xDcUJJVTBFWTlqd09UZmhzUEZKQ20tZDV4Q0JNYjJXWnZhWE13QUNWMzU2emtzMTl5S0tCNTA2dHpXby04bjZSSEU1dndWdnVHUDI0Zw?oc=5",
+    "publishedAt": "2026-09-25T09:03:20.000Z",
+    "collectedAt": "2026-09-25T09:17:04.414Z",
+    "translation": {
+      "titleKo": "제재 셔플 - blockhead.co",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "71d94fae733d41c02cfc07a86e9efe398cd8ff3b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions or enticements? What is the American approach towards Russia? - Defence24.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUEJrWkFSTmtaSUhVZ3FTTXVDd0ZEbE1XdlcwN0tNWG5ZUGstTV9od3pySUoxOHJYbktILWt5S0tvc2E1WFZmaWFQcGo4TWEtNnk0MklFTURHMmI0MnVoeEQzbGNQSjhFM1pLUFRYMFYxdm9XMDZjcjVURnIzX2NLaUkxWkdOZEd2UVJzWGhmQTNJYkUxU2VMeXduZHREVzh6elNVNTZ3?oc=5",
+    "publishedAt": "2026-09-25T05:30:01.000Z",
+    "collectedAt": "2026-09-25T09:17:04.414Z",
+    "translation": {
+      "titleKo": "제재인가 회유책인가? 러시아에 대한 미국의 접근 방식은 무엇인가? - Defence24.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c5ecb896d35358884bb60f2dba6ae28d00d36911",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Dutch PM lashes out at U.S. over ICC sanctions, ASML restrictions - nltimes.nl",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdGNJZHQyM0xKaHQ2YXh6Sk5ZeHpqUXB6bFVfX1pjeVV3MmJjZFZfa3dmeVhnbG96NU1hemVkNGhfYXRFZDJiXzd3WDYzSXdKTDFvLUxOeE1VeERRQlZaSEdpX1ZoZ212ajZmeEQ4cDJJSGg0ODFrY2JNS2xjNENTV0REdnVYVDA?oc=5",
+    "publishedAt": "2026-09-25T06:13:01.000Z",
+    "collectedAt": "2026-09-25T09:17:04.414Z",
+    "translation": {
+      "titleKo": "네덜란드 총리, ICC 제재 및 ASML 규제와 관련해 미국을 맹비난 - nltimes.nl",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "33a334acce2c8922e87534b63e000c47435ec0bb",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran halts all flights to the UAE as fresh US sanctions squeeze aviation - Briefs Finance",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWVMRmwtZ0F2aEZCUWxOUkdNWnRQaHcwUWp2MHo2SEoyNDl1a09IcnJTNC1VYUNGQnJOcmdjZnhaZ2JiNDlla3E2WEtScFhVTTFkb2kzb3BVX1pNNHFrZFNjVVgzR1drd0NfaDRNb1AtaEkybzkxNFhnZWxkT1RSRUllNVozbzVpTGFmMERvQnhRQQ?oc=5",
+    "publishedAt": "2026-09-25T03:12:04.000Z",
+    "collectedAt": "2026-09-25T09:17:04.415Z",
+    "translation": {
+      "titleKo": "새로운 미국 제재가 항공업계를 압박함에 따라 이란, UAE행 모든 항공편 중단 - Briefs Finance",
+      "snippetKo": ""
+    }
   }
 ]
