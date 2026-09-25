@@ -1,0 +1,125 @@
+[
+  {
+    "id": "27f21353cf9a123aa51789aca92568d0c7416f0e",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "FIU, 자금세탁방지 제도 손본다…가상자산 규제 대폭 강화 - 조세금융신문",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VN0w0U0FhTlNhSl9icDFjZEQyMnZ5UDM5NEhhUHpBUUhFX3Y0dllwMWRkMEtSTnBlYlV4T3BnRzltSnNrUm5ZbUtkMlJhNjRFM1VXb0JPcktMbEdaNWV1RkpSdw?oc=5",
+    "publishedAt": "2025-12-29T08:00:00.000Z",
+    "collectedAt": "2026-09-25T03:02:04.292Z"
+  },
+  {
+    "id": "a900a7efb43bf434b3928388166f03da6e748ad0",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AML checker for cryptocurrencies: what an address verification reveals - Triad City Beat",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTXN5NDg5WFZSdVBXVmczWkNBTzZ5ZVhIYjBWTlVWVHRkQWZRRC1kNG51c0lwVXltRjlGcFRhNDdRNlZ4ZklkalRIdUF4SUZFN1hOcThIMjZnV0l0V252TjZQMmVJcnItNHphOTZzeGY0c0VDeDR6Rmw1RXlRT2h1WHYyZ0xKdTl2MkE1Mkkyay1rSXg2TkpwTVh6WExOam8?oc=5",
+    "publishedAt": "2026-09-24T23:23:45.000Z",
+    "collectedAt": "2026-09-25T03:02:04.198Z",
+    "translation": {
+      "titleKo": "가상화폐를 위한 AML 검사기: 주소 검증이 밝혀내는 것 - 트라이애드 시티 비트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "06605f2b826f6a4dc375965d443203cd8a37de32",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Switzerland’s neutrality vote puts Russia sanctions on the line - politico.eu",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXE2X05VQmVIWmtrM1NleWNsX0xjQlFldzdPX1lJR1Z3Y2k4T0ZTRHBvcnRUNHlJcGFQT1JWSW8wTnZVUTAwVVNrRk9OYUpMVkw1SDVXbTFveVYzby1OSTF2TDF2WkhmZ3NvTGVIalhCWEM4MWJMSzhkcUlSamYyYW03YTFfUHhBVS1GanotTDl0M0drcHBKVF9teWQ?oc=5",
+    "publishedAt": "2026-09-25T02:48:59.000Z",
+    "collectedAt": "2026-09-25T03:02:04.099Z",
+    "translation": {
+      "titleKo": "스위스의 중립성 투표가 러시아 제재를 위기에 처하게 만들다 - politico.eu",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d9ba62779f6eb6254f9af123490b4b097aaa75f6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector - Al Jazeera",
+    "snippet": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector Al Jazeera UAE says it suspended Iranian airline flights over US sanctions Iran International New US sanctions shut down Iranian flights Reuters",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVdZMlktTUwtbjRXLWNBbDVLcW9iZjlXaWxxQktUN29CQ3FxQlQ4MnNaeWRWbDVjb0RtSzI3NlJaX051MUZnalptR05vQkFteHloUnFDV0RaTEhCMndINnpQbHg2NzdmYXJoeWk4bm02TGFJSWxvRzJIcl9oZ3R1S1hSYXBucldfTWdIRjR4eHlBSmlZOURFdXgxMGpoRndUeUFRdy1NdHhlM2dSNlYyTEpkQUcydw?oc=5",
+    "publishedAt": "2026-09-25T00:26:33.000Z",
+    "collectedAt": "2026-09-25T03:02:04.099Z",
+    "translation": {
+      "titleKo": "미국의 제재가 이란의 항공 부문을 압박함에 따라 UAE가 이란 항공사들을 금지하다 - 알자지라",
+      "snippetKo": "미국의 제재가 이란의 항공 부문을 압박함에 따라 UAE가 이란 항공사들을 금지하다 알자지라 UAE는 미국 제재로 인해 이란 항공사의 운항을 중단했다고 밝히다 이란 인터내셔널 새로운 미국 제재로 이란 항공편 운항이 중단되다 로이터"
+    }
+  },
+  {
+    "id": "46edf45816bd5632a9da7b798833769978c20c37",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Senate Democrats seek sanctions on those facilitating controversial West Bank settlement project - The Forward",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTEJjZC16SVVfWHpjaVljMWNKR1RzVkljMnRCSTM2bmZxVWJuRnlzczNUX2E2eDhnS2t0OGVEdDl1N2U2aFNjU2tlN0I2Yk9IcXU0NUZJRi03a0pYTFNId3g5T21OZTJmd1dXTFladVVkdEVSblpzYmZJanM0NW56SnQzdkxjcjlxMXVQTG02T0FhdzJrckFJSVBOYU8taTY2RHdZRDZjVkprVnlkX0k0RllBNE5VeXBDNmJQd09GMDVrSVR3UUIwblZZcmlDdmxJS0UxblE2QQ?oc=5",
+    "publishedAt": "2026-09-25T00:25:33.000Z",
+    "collectedAt": "2026-09-25T03:02:04.100Z",
+    "translation": {
+      "titleKo": "미국 상원 민주당원들, 논란이 되고 있는 서안 지구 정착촌 프로젝트를 용이하게 하는 자들에 대한 제재 모색 - 더 포워드",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "07bf9b2aab9b66c74728716430909ef91ceae9e5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Ex-Ill. Prosecutor Wants In On ICE Protest Sanctions Fight - Law360",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3VmbG00OFNPendtS0JKYnhMNWhhVUFiVjhGVkRmM1RBQ2tmN0YwMEIyVjZQN1A3NmhzaHh5UFI3WHYzU3FpV3NOT053am5ibFRsT1FKakYtSmFJdDU5VlVRVEVlSG9lMm9Rdml0N0diNzRGOTU5TC05RzlnazRHX240YzlMR0lXVFRuQWl4T1VkY0tXR05VdXJkVE94elp3b09LS1QwTXdWWV9SVXBB0gFWQVVfeXFMT1FfUFpQT01qRE5qcWhGZTl4X1RpYS13Q1NsWnZRa3o0eTZMVGJIQ0tsbG5DNVlUYldoUUdtejRER29hajZEZ3hPTV90Z1l0NzIzVlNZMWc?oc=5",
+    "publishedAt": "2026-09-24T23:11:00.000Z",
+    "collectedAt": "2026-09-25T03:02:04.101Z",
+    "translation": {
+      "titleKo": "전 일리노이주 검사, ICE 시위 제재 싸움에 개입하길 원하다 - 로360",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "819a78f3035658e3d06aa574c91bdf7671222af5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "New US sanctions shut down Iranian flights - Red Lake Nation News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVA5RUVEVWNqMGkyejRwWUV0ckEydkxXWlozZTNaVkE0Mm9ORHhTejF4OXlFS21qa1JTNGVtTDNZRjhwMjlDSHFSLWtQVHNiZWNIWXV2ZXpRSEdZeDNpZkdtMkRDajRoZmN5SFI1YnNvbHNkUlA5MmtUZFpsODh4aU9wRmYtYzFTZGl3dlhGcm92NkVfMVVlYTItNnNQcjJrbG5pSktXTWwzSmc2MFdR?oc=5",
+    "publishedAt": "2026-09-25T01:59:48.000Z",
+    "collectedAt": "2026-09-25T03:02:04.101Z",
+    "translation": {
+      "titleKo": "새로운 미국 제재로 이란 항공편 운항 중단 - 레드 레이크 네이션 뉴스",
+      "snippetKo": ""
+    }
+  }
+]
