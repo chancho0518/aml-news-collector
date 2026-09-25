@@ -918,5 +918,327 @@
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY0RkdUFPd2hPVnFNU1Y5OFFwSnpYeUw5aEFOSUs0OE15N1VLSks3RVV2SV9Fd0pOWWp2c3VUaW81VXE2TldYQWhBaWVyLXZ3ODgwS0JxODlwRWVvTjl6WTZ4czVMT2pJZ29pNnh0bWpCRUY5WlJlZEhxS3dBZldJRm5FVWtEYXdw?oc=5",
     "publishedAt": "2026-09-25T10:00:00.000Z",
     "collectedAt": "2026-09-25T16:20:39.898Z"
+  },
+  {
+    "id": "89d3a1f51c2f0548322341d82e9d58bc92b93bf8",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "마약·테러 연루 의심계좌 정지 추진‥자금세탁 코인 소각 기능도 의무화 - MBC 뉴스",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52NUcyUE9JY2ZjYUZXeVFFWlp2VGQtWlRtbDRoT3BNR0hZTTJLd2h5QU5BWWQwT0F3dS1VUlRabHR2UW1qWERqMGV6MEFFc3AzYlpYOG0yYkhHYTExM3EwNGR3VG1zWWhyMUloRkNOUFhfMXJn0gF0QVVfeXFMUEF4cFBFWnAxWVBGam43MHA4UGVCQkNVc3ZHaTVBS2R4NW5mdzZobkdXVUUxa0hhUTNvZTkxdk1yeXVaajEtYlpGQXd1Ym9rVmZWdDBocjQtVGt4WXgwWEpLNC0xLUhBYVhZM2l2LU9OUkxraEw?oc=5",
+    "publishedAt": "2026-02-05T08:00:00.000Z",
+    "collectedAt": "2026-09-25T23:00:55.232Z"
+  },
+  {
+    "id": "e89847cfde56a4d773c92d9454b7caacdda2e645",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Federal Reserve Sets Stablecoin Capital Floor; Barr Flags Run Risk and AML Gap - InsuranceNewsNet",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSVNhNUxCZ2pUOHJ4QXo4Yndic25nZ0F5eWdCOExLd3NrRThDSU5VQmFpSTFuQU55dFBlYi1BeXQ4NXdpbHBNZUlaSjBrY1kxeHlRT2tTMVNobXZIOUxYYTVoNU1PX0RDM3dBVEtfblpudFQ3a3AwUXZHOUFiV1p1NVVyN1huZXA0cjNHZndHdHlUc05pMnBHMEQ0RkcxVi16dUMxUmZaNjM1aTdrRTBhWXhOMWUzQQ?oc=5",
+    "publishedAt": "2026-09-25T19:32:28.000Z",
+    "collectedAt": "2026-09-25T23:00:55.227Z",
+    "translation": {
+      "titleKo": "연방준비제도, 스테이블코인 자본 최저한도 설정; 바 이사, 뱅크런 리스크 및 AML 공백 지적 - InsuranceNewsNet",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1989f0a83e7a91e50f27b53b4d7d82ce75cd4915",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Integrating Novel Therapies for NPM1-Mutated AML: The Expanding Role of the Oncology Pharmacist in Precision Treatment and Supportive Care - Pharmacy Times",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUmpnd0IxNE96VEpYZVNWbjNlWURYdkFiaGg4a19MQlRIYUVVZ3FwX2Z4cS1KUnhmN1YtMXRhV2RQU3QtNFNTOGUtaDlwSmQyWHU0SC10Zl82a0pXS0laTnZDRmFNSUd4NG5ULXBySDVkMTZYR2hnQWd2T0xQTnlIMlg5TTB3QTRTRkU1VlA1MG5EQVZVcGFtU2x5SEdlZ1drMGlDdmJkbGxJcFBCQXpBbF90bU9mUFdVMldmazJnX2NualV1RjNtTHl0SFJZYjhPUUpWdkpnMnJRcjJ6eHM0bnFOSHFMVFVvRTdmd1BQRzBCRTNQaFRHVzR6cHA2TUVydWc?oc=5",
+    "publishedAt": "2026-08-05T15:40:53.000Z",
+    "collectedAt": "2026-09-25T23:00:55.228Z",
+    "translation": {
+      "titleKo": "NPM1 변이 AML을 위한 신규 치료법 통합: 정밀 치료 및 지지 요법에서 종양 약사의 확대되는 역할 - Pharmacy Times",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b35fd76e09b2b9cdb6c88afcdbe362d15ec7d072",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Chief, Andrea Gacki, Exits for Sanctions Head Job at Citi - Bloomberg Law News",
+    "snippet": "",
+    "keywords": [
+      "FinCEN",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOG9LSGJlcHB2SmNEeHpNUzlvWVFkVUhxcHpEd0pvMVk4dVVuZmloYkNBOGpFOVlXLUZ5b2RVNm42Sm52NFU2Y3hRMkEwYUZnQngtWG40N2pNSzJTN25UR3JrRndzbFJTbmF2NDZQUHRJUzhXTHBoMThXenZ1Y05ZNGl4MXpIdVotS1I4YUpJLTA0VGFWM0xia25QdXdDbDYxNGd5bDV3Z21hdVZnVTVEdkZ3RldIN1h2aFVBRFI1WU53YVE2T19oaTdOR25FWVh1X2FQMDZnc0k3RVJfQkhnbXh0NXFoRFV5Y0d0cHduZkpFdzVBNWd2aHVOdHRzNnBjckZpOHlIWG1UMXhnX01RXw?oc=5",
+    "publishedAt": "2026-07-30T07:00:00.000Z",
+    "collectedAt": "2026-09-25T23:00:55.176Z",
+    "translation": {
+      "titleKo": "FinCEN 수장 안드레아 가키, 씨티의 제재 담당 총괄직으로 이직 - Bloomberg Law News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d760225284cc3aee5f139e5ae24f5b7fe6a0fed5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Alarm at UN over sanctions threatened by US on international criminal court - The Guardian",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Yc1MyZDJFVG1HQmFCM3g1UDFobVRrT3k1b0JhN3Axb3RLaW5TejBmc1RvbVYyTGdYamFKbjYySlE4TGowU01wQ3RUY19Zb0xFd1pVV2x3ZVd3cHhRdVhzUFFDNXAyZGZjNlVZOWx4dkt4dl9ncVRnbjh3?oc=5",
+    "publishedAt": "2026-09-24T07:00:00.000Z",
+    "collectedAt": "2026-09-25T23:00:55.202Z",
+    "translation": {
+      "titleKo": "미국이 국제형사재판소에 위협한 제재에 대한 유엔의 경악 - The Guardian",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "63e058f7278bf215bff46f2a6d385daadb895115",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iraqi airports halt Iranian flights after new US aviation sanctions - Al Jazeera",
+    "snippet": "Iraqi airports halt Iranian flights after new US aviation sanctions Al Jazeera New US sanctions shut down Iranian flights Reuters Iran threatens regional air travel as US sanctions cut its flight links Iran International",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3ppekJpMXdyaFhhWE40RGNyVFV6U2hYdFlLRXlwNVRnS1JHSHdQWnZfWFhydWdhLWFXY0RZOWlSdTFSZlJPdVFRRjBUWWZJaHpsUm5UckpBUlZHMG5HR3E5cXBYTnhtZHktcExqMVlVTmZmQ2xvOVRabTJDWE5wVjJpY2Q1VVkwUkI2MFdRTEFqdzVhcDRuc3JCOXJ6SWd0ZTBDcFlJR2d1TUg50gGyAUFVX3lxTFBGZDNrM25DNmMzWTNGdVVDbmFSZG5lU0FhNXhHczRwSUZoNl9VaDYxb1Rua2RScjFWYUFSTmNTTUJkRmhXNmpHTXBIVEZSbGhjSTlrdGxyQTMzcjl2eFpuc0VIZ2NoZWVPb3RoQzJCaDBrd2piM3ZLbnlQQ2xhSGZEVGhHMlBXVG0yb1Q2OWtzQk4wSFhHWnVNSW1QTC00MkxVVlozMFNwWWV4VC1SSFhhc1E?oc=5",
+    "publishedAt": "2026-09-25T18:34:17.000Z",
+    "collectedAt": "2026-09-25T23:00:55.202Z",
+    "translation": {
+      "titleKo": "새로운 미국의 항공 제재 이후 이라크 공항들이 이란 항공편을 중단하다 - Al Jazeera",
+      "snippetKo": "새로운 미국의 항공 제재 이후 이라크 공항들이 이란 항공편을 중단하다 Al Jazeera 새로운 미국 제재가 이란 항공편을 중단시키다 로이터 이란이 미국의 제재로 항공편 연결이 끊어짐에 따라 지역 항공 여행을 위협하다 이란 인터내셔널"
+    }
+  },
+  {
+    "id": "8bfbdd2052256793e9b81d802f56f3e10f7f509d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Weak Sanctions Enforcement Is Fueling China’s ‘Polar Silk Road’ - Foundation for Defense of Democracies",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZVdwRXd4ZlVuNDFiaU91TlBlOXdDS1VLR2xGY242bmt3YTJFVDQ4Ym1BMlpTS1BTYno5bnVFQm9PUGpIOWg1cHdUV3J5SmR2OVQwWUpxSXAwUnNvZnVyLVRDLW1PeTFEcVYxWDdTYUswblkxc3I2cWpobjVLcXlZSjNia0FtNlNsMjRvSFROZ1FtdU9WUGRleVk1eHBMbFR1anVF?oc=5",
+    "publishedAt": "2026-09-25T19:49:30.000Z",
+    "collectedAt": "2026-09-25T23:00:55.202Z",
+    "translation": {
+      "titleKo": "취약한 제재 집행이 중국의 '북극 실크로드'를 부추기고 있다 - Foundation for Defense of Democracies",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9c6244d2dc35c08ebd0d760a0c9446e7bfacfd64",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Array of Experts Back Lawsuit Challenging Trump’s ICC Sanctions Regime - hrw.org",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUEyVnFCc2ktY1J6ZjNBNXhfemlmZFhfMUpwbjV4Zjk3QTNaTGIxYkdHYUJlYkRjQzV0Z0IwYTl0bmlJNGdRTkZzaGtQRTNzdEViZEpqMV9xS2g5NXJDLVFOTEFYNkJKc2g5Rjl1MnhqdVoyVnY5QkRhS1ZYXzdVVnoyZ3VVdFZLYlRYck5pWVhpNDM0aVBjcFh5MmV5bUREWlJsRXRQV20?oc=5",
+    "publishedAt": "2026-09-25T20:15:00.000Z",
+    "collectedAt": "2026-09-25T23:00:55.202Z",
+    "translation": {
+      "titleKo": "트럼프의 ICC 제재 체제에 이의를 제기하는 소송을 지지하는 다수의 전문가들 - hrw.org",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "da2e7c894b2f2601454d78b0a738fc2ef1173a06",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "How Sanctions Have a Made a New Class of Nouveau Riche in Iran - IranWire",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2h6UG9sbWN1NEZETHdyQVJzUEd4VXdnaWFIYmRUbEZQbTdfRGxYVTZkWHBnaXl2UmVWeS1tYTRjMlF0MWxKcE16VGpZSGE5NGR6MzJVNkNoN2hrUXlPX2F5WUJnQkNucDc2djdrT3FTZkY2alRyYXVZbjl4cFFscmM3UGo1Q1FtazJQX2RCOERxT2VmZWhWSlNNbGU1RW1SeUwxNVpB?oc=5",
+    "publishedAt": "2026-09-25T15:52:51.000Z",
+    "collectedAt": "2026-09-25T23:00:55.203Z",
+    "translation": {
+      "titleKo": "제재가 어떻게 이란에서 새로운 신흥 부유층 계급을 만들었는가 - IranWire",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3c133e3bf024fdcdf2969c60a590109dbff2cb18",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector - Al Jazeera",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVdZMlktTUwtbjRXLWNBbDVLcW9iZjlXaWxxQktUN29CQ3FxQlQ4MnNaeWRWbDVjb0RtSzI3NlJaX051MUZnalptR05vQkFteHloUnFDV0RaTEhCMndINnpQbHg2NzdmYXJoeWk4bm02TGFJSWxvRzJIcl9oZ3R1S1hSYXBucldfTWdIRjR4eHlBSmlZOURFdXgxMGpoRndUeUFRdy1NdHhlM2dSNlYyTEpkQUcyd9IBuwFBVV95cUxOemF2d2VrcTZBRXFPUkhnS1RlVEpvOFpaaEJEdjdiRnZrZEtTM0JBN3JaUEtFeERhYVpHY2JwalpFbXI4MEpOZVRacXVZdUFwUGhtanZvMWFEUzNUbnVlTXFyRFZBN0I1d0hRWmkxcDMtZThZN1dfN2prY3V3T1BaeXh0TUpwWjQwUXNpVVJSN3NyZ3dTOHpsOTlfSHV5NmJTeHVfaTZ2YTNheTBoN3pkdU9rS3VFWmo5MTIw?oc=5",
+    "publishedAt": "2026-09-25T00:26:33.000Z",
+    "collectedAt": "2026-09-25T23:00:55.203Z",
+    "translation": {
+      "titleKo": "미국의 제재가 이란의 항공 부문을 압박함에 따라 UAE가 이란 항공사들을 금지하다 - Al Jazeera",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "aa8e9b4a62031d1e828812c906da6ad11072f7d2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Judge sanctions U.K. insurance company over discovery delays - Massachusetts Lawyers Weekly",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazBBT1lNNEJDdld0N0lOV0I4OEN4Q1hwc2pjOFpRRDFVSE4zajFHOENGSWdtZjJuOVBjeTB0RzE2S2xBS0tCVGpVQ0x2NWJyZXBCelBEdkJuNnlnNDlMTF90TmdGM1VtakFkUDAzNFB5WEhWTDdNdXE0V0JqRGZnTk1ON1o5Szg?oc=5",
+    "publishedAt": "2026-09-25T13:14:02.000Z",
+    "collectedAt": "2026-09-25T23:00:55.203Z",
+    "translation": {
+      "titleKo": "판사가 증거개시 지연에 대해 영국 보험회사를 제재하다 - Massachusetts Lawyers Weekly",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5328c81c69f653bbdd297011aa80c4294bc4b5ec",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions Against Terror-Linked Groups Aren’t Working - City Journal",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNW54SjZ3LUZuNVh2dXNldEl6X0laY18yem5OM2JtMFowcWc1UTlycjVma1ZlSWFCdVJTTE81NGtWS1kwQ0NoSHEwTFZvVEFxSllnWFdqcS12Y2x5ei1ZT181NnhFTHRJRk5UM1JqeGppQXRPdVV6YU5UYmtLaWpkVExnVm4?oc=5",
+    "publishedAt": "2026-09-25T11:43:58.000Z",
+    "collectedAt": "2026-09-25T23:00:55.203Z",
+    "translation": {
+      "titleKo": "테러 연계 단체들에 대한 제재가 작동하지 않고 있다 - City Journal",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c6d1d4967c99a80ad7232cdc3f51034c1f23518d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "International Criminal Court says it has taken steps to withstand potential US sanctions: Report - aa.com.tr",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY1U5S2V2ZWRXTGtzdllVRWtQU3Q2RXZFbTcyYnk1bFpidi1yVHJHSXg4Zmc5N01DWFRDWEVsVGZYNXQ0Rld3a1hROHVNY3gyd1hpQThmeUJkc0sxOWhtZ1ZReWFUVVhiaHI0N1k5cTkzSnh3TFUyRS1WdlBnOWFQNUcyWXNRdEdlSTd6alFJb3Y2Z19WeFdZNnNLMEJ1YkNFX3JsVWhDMHoxR2EyVDJvNTdVdlNMLXBwa0J5dlc3SEVPMlhEZmZuanJkWHlYRkE?oc=5",
+    "publishedAt": "2026-09-25T12:58:45.000Z",
+    "collectedAt": "2026-09-25T23:00:55.203Z",
+    "translation": {
+      "titleKo": "국제형사재판소가 잠재적인 미국의 제재를 견디기 위한 조치를 취했다고 밝히다: 보도 - aa.com.tr",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "af3f5e01c378c4c24c135d4de4df3fbb1f2869f3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iranian man sentenced to prison in US for violating sanctions, smuggling - mlex.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUs0eTFraUdueTlJLThnWFdycV9rTDVlOE1pVUFTUWtBVVdzeTM3M1owLXE0d3JDZTktX1dFTExqOVlFUWtVTGZLalpySS15cTZRVlM2amNwODhjYW5FdjFFdWo2UnhQaWlTelE0Z0FodXVLQUlDaDhrSTJmd210QXF2clBYZG1odkF3ZnotU0UwRGtjRmdOcFVlOVdrQjN6eFV3R252TllUYTl3N1pOMXk3RkPSAVpBVV95cUxPczVTTDBjMkZvTGtCcnF6RHh2dXotcjBPQXRIci14d1BPUTg4ajRrMGlwTFBFOUgwM1EwcGZibThHZlVuc2xWZF8xaHRQbUQ1a3Q2d1BpbFdFcWc?oc=5",
+    "publishedAt": "2026-09-25T19:17:58.000Z",
+    "collectedAt": "2026-09-25T23:00:55.203Z",
+    "translation": {
+      "titleKo": "이란인 남성이 제재 위반 및 밀수로 미국에서 징역형을 선고받다 - mlex.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "28cd3384d317490d83497bfd1f728a9d466eb2b3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iraq’s Najaf Suspends Iranian Airlines, Enforcing US Sanctions - ASHARQ AL-AWSAT English",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVc2OEhnVy1WSVdMMmMwWk1xX1RmX25mWmt2cEhKaXJIbDhmOVJyN2hRWlFUcWZWSGdSWllvVlhXZ3BjeGN5TzdER0dYcjdSS1RpVVhBbFZ6RGwxdEVNWnlCRGlnMXYzTXAyTUZCQnUxZG1TRWwwcnh0bldfMFRUSDdMdzd6M0lPeVAxb2ZNQnFIZzBmT0FacUdVaFdHU3BjNWhtZUp5SkFWOEFnbmxOZmpsYVpaUQ?oc=5",
+    "publishedAt": "2026-09-25T10:01:26.000Z",
+    "collectedAt": "2026-09-25T23:00:55.203Z",
+    "translation": {
+      "titleKo": "미국 제재를 집행하며 이란 항공사 운항을 중단한 이라크 나자프 - ASHARQ AL-AWSAT English",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e70b11104262b6a6b33b3995d515fefacf401b1a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Watch US Sanctions Are Stifling Cuban Economic Reform Efforts, Minister Says - Bloomberg.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYXFzMEtFUzAwQ1BSa2ZWcjZ6U1FZODlvWTdueGlyamgwZ212Y2xsU2lweWV6RVh1c0E5QWw3dmY2d1VvVXZMbU1rQ25XTUV0V2xyVUVVY0hOZDRaLXYxUmdnMVJ6Q0FCRWYxcjkyU25aMXNRdWxWZ2ZQSmo5VE4wQlo1aUx5WVJ1My1IQVNPdVF5dE5fS1NMNFlVekdLSWZOR3h3RDJ0R1FzSGc?oc=5",
+    "publishedAt": "2026-09-25T00:00:00.000Z",
+    "collectedAt": "2026-09-25T23:00:55.203Z",
+    "translation": {
+      "titleKo": "시청: 미국의 제재가 쿠바의 경제 개혁 노력을 억누르고 있다고 장관이 말하다 - Bloomberg.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0ad7b72fb4c0daca15d7ab6db17cc6bd8e3c0b2d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia Downgrades Oil, Gas Outlook on Sanctions, Drone Strikes - energyintel.com",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMVk1ZbFQ5THg2NHBvZEV2STVYdXctM0FPSjZIdGFtOW1VaF9PQXRnd1JfLXdEcTVpYlRjMUtzSGxlMW5vZ0I1REZCdzR4dTNSbWVHMjdUcFY5TTNJSzFlV1puZlY1TUs1MXdIaHVmWkowdw?oc=5",
+    "publishedAt": "2026-09-25T18:38:13.000Z",
+    "collectedAt": "2026-09-25T23:00:55.203Z",
+    "translation": {
+      "titleKo": "러시아, 제재 및 드론 공격으로 석유, 가스 전망 하향 조정 - energyintel.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ee3f08c71e659240e70018bb8385d6da68ac8688",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "What if the potential Manchester City sanctions push Erling Haaland to PSG, Real Madrid, or FC Barcelona? - bavarianfootballworks.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV0E2cmhHbmpvNzlKelA0ZjRBS1lKX1lrdFlNanNPeFhVSkdEdjdLMlBfdWhDcjZBLVU5SllUM1YxLWZnRU5INFhrdFpwaDNSV3Fjak9kRlZUZWN3NVd1c3Jzdk1Wd2JaUlE1N184RmFsa0JRU2RrNW16cHZRalI5bmVFdEY1XzgxVGs2NEFna0xXSDBjWjZBa2E4cW84VlJINTZzMm1BUjRiQzI3akc0TVEwcHBZV1ZpaTZVMmR5amVvYVl0amtWY1djX2dURUFybXk1QkhKQkVtLWM4NWoxc2haMnNrOEJHS3dIUFJQenp0R0pzN0E?oc=5",
+    "publishedAt": "2026-09-25T19:30:00.000Z",
+    "collectedAt": "2026-09-25T23:00:55.204Z",
+    "translation": {
+      "titleKo": "만약 잠재적인 맨체스터 시티 제재가 엘링 홀란드를 PSG, 레알 마드리드 또는 FC 바르셀로나로 밀어붙이면 어떻게 될까? - bavarianfootballworks.com",
+      "snippetKo": ""
+    }
   }
 ]
