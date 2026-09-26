@@ -744,5 +744,114 @@
       "titleKo": "러시아의 새로운 공격 이후, 젤렌스키는 트럼프에게 러시아 연방에 대한 \"지옥에서 온\" 제재 법안을 제정할 것을 촉구했다 - 우크라이나 국립 뉴스 (UNN)",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "d7fe22647562e9c71b96c435863fa8a1ac9924a7",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Characteristics of patients diagnosed for acute myeloid leukemia before and during the 2020 COVID-19 pandemic: the DATAML population-based cohort - Nature",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MQTdKaU1WaWdSZllId28xenZsWGpwaklVUkJIeXlQTEx0X0hhRDdXb0tfQmxzWlVqVm5pSnlDN2k3UGhOTGZpenFDMExtWWxSTlY4Y3FQSUwyeFdweWFj?oc=5",
+    "publishedAt": "2026-03-06T08:00:00.000Z",
+    "collectedAt": "2026-09-26T22:18:32.102Z",
+    "translation": {
+      "titleKo": "2020년 COVID-19 팬데믹 이전 및 도중에 급성 골수성 백혈병 진단을 받은 환자의 특성: DATAML 인구 기반 코호트 - Nature",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "49402707185cea5d59d007f1b9d5d84290cd31c9",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Reading between the cells: How MRD details predict AML relapse - fredhutch.org",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkT2VCVkQ5eTdyMTFfWjNqNE85Sk41bENKbnQzS2trQU5jM2hSUGNyWkhIUjNCaEVQTG9rSGNzUEJiSmJYa1ZGOHFkdUdRWC10X25SU0h3M21ERld1VWM5NC1fWTVNOHVuYzRuNWhVcnpkUF9URUJMWTNHQjV6NGM?oc=5",
+    "publishedAt": "2026-03-25T07:00:00.000Z",
+    "collectedAt": "2026-09-26T22:18:32.102Z",
+    "translation": {
+      "titleKo": "세포 사이를 읽다: MRD 세부 정보가 급성 골수성 백혈병 재발을 예측하는 방법 - fredhutch.org",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "73d7aedec53594d262fc797cf3cee905d32a4ec0",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UN mission warns disruption to Libya oil infrastructure could trigger sanctions - Arab News",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmhoaGt4bmVzSGFYbDRCbVBLdDRuUE5BUGhzNlA0NEdXXzhvWXJ2VmlGVWFubWV2Tjk4clJ4TGF3TVhUTlowVVVOblhzN0dMLV8tSGIzNE5ZcTlmT3p5cEwtMURfcUQ2WDRhUm5xYUJXU2N2UndxSlYzZXFWRWNGMVBxdUNfaXY4dkhXNjJiSnRLc1hzZllJU19uUVEzV2hGdGJnbjFIc2JLU0RCbjhtY3dyUWx1dlA5VzVzWkJZcGF3Zw?oc=5",
+    "publishedAt": "2026-09-26T21:32:36.000Z",
+    "collectedAt": "2026-09-26T22:18:32.115Z",
+    "translation": {
+      "titleKo": "UN 미션, 리비아 석유 인프라 중단이 제재를 유발할 수 있다고 경고 - Arab News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "85bb1ff814548ae67737c743df08800dfc53b5dc",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US aviation sanctions on Iran: Iraqi airports seek humanitarian exemptions - The Pantagraph",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdmw1TU5OQldrdEEzb09qSW1TVVhPUkhqUHZlY29XWUN5SzFqYVpsVTZEVTJXYUdoTzdqLVRHdHY4M2RpVjZoVzVMeDZxc29ESmxTTFVkRjNlV2YzeHBkV01FZkJRaFg5LUg0UERudjN5Y19MTThlTDRzc3d4cVpJaWpQUUZWT2JxbGV3dHdOSERZRm5fNEltV3Nud2dCNlhO?oc=5",
+    "publishedAt": "2026-09-26T10:20:53.000Z",
+    "collectedAt": "2026-09-26T22:18:32.115Z",
+    "translation": {
+      "titleKo": "이란에 대한 미국의 항공 제재: 이라크 공항들, 인도주의적 면제 모색 - The Pantagraph",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cfa7e74263451a0b6a8ace04309e1b73ee2ae0ba",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Washington’s “hellish sanctions”: A blow to Moscow or a major trade war? - Caliber.Az",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDV4UDZsNUprSXhoY1R0UlFGRFRLUWFGbXpkTHNGWV9IQXpsNHRuSHVPQzhNaEs2SkpUZDA1c0poX19WUnN3cHlhekJsNjRtaGo1RVJRdG5udE9HaVQteW1RdFMyUkpuWWZlMU5XNnRkOFhnSG16ZVk1RW1NOEdHZHZZUW5jNFBFOXlFQk9OSEMyYVB4cmU1cVktSQ?oc=5",
+    "publishedAt": "2026-09-26T20:01:02.000Z",
+    "collectedAt": "2026-09-26T22:18:32.116Z",
+    "translation": {
+      "titleKo": "워싱턴의 “지옥 같은 제재”: 모스크바에 대한 타격인가 아니면 주요 무역 전쟁인가? - Caliber.Az",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a94e0f19840c3f6aa8b4d3627529d1625be4ee36",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran’s Air Sanctions; New U.S. Pressure and Tehran’s Possible Responses - WANA News Agency",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa3FBak5sS0ZfWXJjbWhXd1dPdWhFYVY1bFRia2xicU50Vl8wOEF1aThPaV9pT25pZWZXYlpFX2JHNTJXeXE2VFIwOENQTkE5ZTlMZm5BRmdWSUFNUUdqZHVwNkhHeEdpeUNaRERMd3ZiNGNMd3NJVDV4VFpWS2hvTlJzTW9YQXJLQktpU1d3OXM?oc=5",
+    "publishedAt": "2026-09-26T15:27:56.000Z",
+    "collectedAt": "2026-09-26T22:18:32.116Z",
+    "translation": {
+      "titleKo": "이란의 항공 제재; 미국의 새로운 압박과 테헤란의 가능한 대응 - WANA News Agency",
+      "snippetKo": ""
+    }
   }
 ]
