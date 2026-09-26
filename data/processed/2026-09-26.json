@@ -1,0 +1,71 @@
+[
+  {
+    "id": "2773fc6ba2a6b18069a2f51bf5803a096e734d98",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "남편선물 이틀새 순금 80돈?…보이스피싱 자금세탁! '촉'이 왔다 - 연합뉴스",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xT3R3bmUxYXBtNDFGclA1Q3lIbW9rUFVmcU5nc0NpbURNMV9BQXNjdzdxV3BKemFHaGNPclJ2c09zT212NmFXRFYteFctdGJlcTZVc2h6Z0dZTlk?oc=5",
+    "publishedAt": "2026-08-12T07:00:00.000Z",
+    "collectedAt": "2026-09-26T03:05:54.429Z"
+  },
+  {
+    "id": "a8e38fefa44847b63c68cc1c13af50c2c3a12495",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "3 AML Tech Stocks Investors May Want To Watch After Money Laundering Headlines - Yahoo Finance",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMWNsbTZEdjdsNkJMWXkxWG1xQ3U1S0Y4UmZ6YzZJbWJYY3JhWVlHY3JUTEpBRlRUOTUwNnNDQnNhek5uckRvUWJlYldydF8zX1QxTEdMU1l5UzM2YTMxbWc4MVJqRDJaTkczcko2QVJzYjdSdVpjSzkxVXFUMWdFZFViRmFDdXl5UG1FbERMazZxSmpfam5J?oc=5",
+    "publishedAt": "2026-09-21T23:20:14.000Z",
+    "collectedAt": "2026-09-26T03:05:54.419Z",
+    "translation": {
+      "titleKo": "자금세탁 헤드라인 이후 투자자들이 주시하고 싶어 할 수 있는 3가지 AML 기술 주식 - 야후 파이낸스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f1f2a08abc0f5915b356c02d19b9b18fbe437347",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Report: ICC deputy prosecutor says court has insulated itself against US sanctions - Middle East Eye",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOODhtNmI1ZmNoVUpIeUl4RUExbndtNk1sdVd0M01WX2hhMGNodWlvZ2ZjU3JaVUt3U1l1cWx6MDR4VG1sbVRDbEtmeFVIeHpTbXRwaEtEWUpmLWtuTExlLTVwN2tMSkxoMVpGSUUzSHJkYXFodnJ0c191aGxSX3ZMSHV1NFZLZzFhX2pwX0xlZEFYT2M2dHpvWGpiaDNhbWp5dERyai02MzBZcHl2NWF3TjVVUDhuZWs1b2FKNF9OVDhmWWJSNUNJ?oc=5",
+    "publishedAt": "2026-09-25T23:15:00.000Z",
+    "collectedAt": "2026-09-26T03:05:54.450Z",
+    "translation": {
+      "titleKo": "보도: ICC 부검사는 재판소가 미국의 제재로부터 스스로를 보호했다고 말한다 - 미들 이스트 아이",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1f65bbc0fc959b204185b3131a41ea436b0c62b9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Court Contempt Cases Double, Sanctions Stagnant at 10 Annually - chosun.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3NkUS1OZWpsLWsweEdDVk1RNnpRa0RIS3RHbDM4cTFXczQtYlV2TERUOXFjbFNnTWpSQXh3ci1HQlktZ0szM3h5aDFzUzQ0Rzd4RDVuZlVUN1NVVGp5ZTJIaTZSbjN5SkdXRjBhaEtSYndJY3ZzNGV5TlRHYUxaOTBTQkRlSUtF?oc=5",
+    "publishedAt": "2026-09-26T01:44:56.000Z",
+    "collectedAt": "2026-09-26T03:05:54.451Z",
+    "translation": {
+      "titleKo": "법정모독 사건 2배 증가, 제재는 연간 10건으로 정체 - chosun.com",
+      "snippetKo": ""
+    }
+  }
+]
