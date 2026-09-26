@@ -366,5 +366,218 @@
       "titleKo": "이란, 미국의 항공사 제재를 집행하는 국가들을 위협 - 알자지라",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "37c87c1754b258919323f19d03103bdc751a1d4b",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "비트겟 CEO \"토르체인, 해커 자금 세탁 시도 거부해야\" - 블루밍비트",
+    "snippet": "",
+    "keywords": [
+      "자금 세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOeEU4ekJ2OHZ4aG94TVFEdkxEVUtJNmZsVmgtMUlPcXlEX1RwaURlcUZuMnhFVmhELXFTLVZQOTB2SHRXcnRyLWRxcUZEbm1v?oc=5",
+    "publishedAt": "2026-09-26T11:55:53.000Z",
+    "collectedAt": "2026-09-26T15:34:29.650Z"
+  },
+  {
+    "id": "36dbf57ceb222ddd4526bcab242afc4536b21dfb",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "NEWS: Fraudsters using AI on WhatsApp calls fool bank chair in €95 million scam at Italian lender Intesa Sanpaolo - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaVl0R0hCSVRoaHRzRTRYT0JCbXR1MjVTX0h6Q0FsVzh5TVZDVm4zb2x3UGx1aVZmZlFaaFp4RllsVEJfV2hvRi1FNG40M1NhTjZKQmJIRlRWcEhPQ2REaHJZMDRXUUg5WlJFOFgzQW5Vb25TZ1EyaTgxTnlkOXNGTTJpREp6RmNETjlMN3RkRVNRdHZQV2pyQThVQWx6ZHdOMV91M19YazFnNEVqdzduWGxsYw?oc=5",
+    "publishedAt": "2026-09-25T20:04:46.000Z",
+    "collectedAt": "2026-09-26T15:34:32.756Z",
+    "translation": {
+      "titleKo": "뉴스: 사기꾼들이 WhatsApp 통화에서 AI를 사용하여 이탈리아 대출 기관 인테사 산파올로에서 9,500만 유로 규모의 사기로 은행 의장을 속이다 - AML Intelligence",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5891a509c604d16e85d5265b8bf31d35d109f6c8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelenskyy enacts sanctions against 44 individuals over Russia's State Duma elections - Anadolu Ajansı",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFNydGxfWC04eWtDcU9oWDhCQzNndXozNWZmQjRxVTRYMTFjOGpJYVdDa2p5UHZPdXd1dDVLLWhTS1NwVlg0aGl3NUdCRjY1ZlBqNGo2LUJmcFB0a0xoMDdXaWR5WmlGQjBUTGQ2SWZZX1piR1pkVGI1b0k2Q1BZa0FEQ3pEUFBIMEwxV0FORndqMjYwM1N3N2xCbmZwRkw1c21FMV9SZGtjYlJhVmZZQ01nd2pDeFN1NlM5Zy12ZEJoQQ?oc=5",
+    "publishedAt": "2026-09-26T14:55:36.000Z",
+    "collectedAt": "2026-09-26T15:34:31.261Z",
+    "translation": {
+      "titleKo": "젤렌스키, 러시아 국가두마 선거와 관련하여 개인 44명에 대한 제재 발효 - Anadolu Ajansı",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f519732b159f081cfb37d2e25b51609f879626c4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelensky Asks Trump to Act on Lindsey Graham's Sanctions After Another Deadly Russian Attack - Kyiv Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GalJGdE0wcTJTSko5RjVKR3VUYVVCRXBCOFN4Q24tclNhX3J2YjZwc0xXczIzc0kzUURfaTFvX1E0bEVVd0ViR0g3SQ?oc=5",
+    "publishedAt": "2026-09-26T10:01:02.000Z",
+    "collectedAt": "2026-09-26T15:34:31.261Z",
+    "translation": {
+      "titleKo": "젤렌스키, 또 다른 치명적인 러시아의 공격 이후 트럼프에게 린지 그레이엄의 제재안에 대해 행동할 것을 요청 - Kyiv Post",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7b05bd946f1be1b68fc7d942b66ce4a4ced65f9e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelenskyy imposes sanctions on 44 individuals involved in sham elections in temporarily occupied territories - Українська правда",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vNHVwejlVNjVYNTFnUC01RmNpbzczUEJzaWdRRzBwWlVoeEpKa2g0NjgycTdzZ09teVg0Z2lVOWhwM3hGLXcwY1FhMEJMeUtqTWRMUHVhTlR3ei1xWnZDT0MtV3LSAXBBVV95cUxNSWhQSFpTNzJ6YkZBX3NqcTV5WkpHYWVCd2RCY082MEtYVV9MdFAzcW50aDRYSjZLMXJDTzFYM1plNUVtdmpsLVY1bjRtVWM4MnpLQXRfckhiMTJGN1I1T0xwdjE3cnktQ3phOEFaUlhS?oc=5",
+    "publishedAt": "2026-09-26T11:22:00.000Z",
+    "collectedAt": "2026-09-26T15:34:31.261Z",
+    "translation": {
+      "titleKo": "젤렌스키, 일시 점령 지역에서의 가짜 선거에 연루된 개인 44명에게 제재 부과 - Українська правда",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "23a8a2c49e75d8f985d444f51f9b51b91c80f781",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Minister Anand announces additional sanctions against Iranian individuals and entities - canada.ca",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajR6Y2w3bW50SVUtaW1meTJhdnk1cU5VbTgza3k4d1FJZUotSzRLSm5STHZEaW9NbnE5RHNWVWtUUTZfeHoxQmNuUmp1WEk3Y1pBa2tRZWpwYkZxUkdMZGl6TDlweEpBWldmbE9MRktMT0p6bDhoY1hCdklhZ0wtRHcycmI4bVJSaHZGZzJKTWdmandhYll6ZmYwZGtrMDdSNkk2REthWXhBajQzT1NhajVlc0R5RTFRVXdtRWkzeWNUWGtJZkdRUE0zeXYyWmdmdFQ3REk3QTlVSFEy?oc=5",
+    "publishedAt": "2026-09-23T13:02:24.000Z",
+    "collectedAt": "2026-09-26T15:34:31.262Z",
+    "translation": {
+      "titleKo": "아난드 장관, 이란 개인 및 단체에 대한 추가 제재 발표 - canada.ca",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8be5e79858ed6afc26ed86b05fb6fe61ef6bae49",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "COMMENT: BRICS gives Russia a platform but no sanctions shield - IntelliNews",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGIzWlNZb2U1dEI1QkRQY3YzTEhKZllUTFZDMDRkNkh6NHlOdkRrNWRrNmtTNXNjZHl6SkVubHc3VF9MYTZTeEItSGxxa1VudmxjNXlGb29tWmVzRFN3dTJyMElpTHFka0pmd2NrUUdDNk5XODNmcWlrMlJfQmkzTFROV3Bzd0thS1VfSVJJOUFlM3JSWERTTk5pbWIxMVVzSXVYTXlHSmw2V2ZoZ3c?oc=5",
+    "publishedAt": "2026-09-26T10:16:36.000Z",
+    "collectedAt": "2026-09-26T15:34:31.262Z",
+    "translation": {
+      "titleKo": "논평: 브릭스는 러시아에게 플랫폼을 제공하지만 제재 방패는 제공하지 않는다 - IntelliNews",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e8b001ff93e8830bce142cbceaa4917f33d6022c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelensky Urges Trump to Enforce Russia Sanctions Law After Deadly Strikes - Межа. Новини України.",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFbW51TFNIbFFkOGZmVTNtYmFIa0tYOV8yOGNlR3drSzFIWHJOeW9fS19tZTZlcDBqWHVWZ1hwajZFU0dYYmRtNHNXLWJaaHIzb0txa19kSWZzS0VONkZCNVJYTFZWSnpB?oc=5",
+    "publishedAt": "2026-09-26T10:20:16.000Z",
+    "collectedAt": "2026-09-26T15:34:31.262Z",
+    "translation": {
+      "titleKo": "젤렌스키, 치명적인 공습 이후 트럼프에게 러시아 제재법을 집행할 것을 촉구 - Межа. Новини України.",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "396ea0e071409df4e2cbb53e5fa86bc61029dcc6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russian Businesspeople Study How Usmanov and Fridman Left the EU Sanctions List - Межа. Новини України.",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzcktTYld5SmlaY29RVnVhZkROcjZkWWo4U0Z6dC11ay1YSW12aDhmdHZ5ZnRRREozVFBxWW91R0pUc0VhTlF1OXpSS2xMYURDZFF2dHpSZC1OU0toNjB0MmVldGsyZFZaemc3dFZ6OXl5MGM?oc=5",
+    "publishedAt": "2026-09-26T10:36:47.000Z",
+    "collectedAt": "2026-09-26T15:34:31.262Z",
+    "translation": {
+      "titleKo": "러시아 사업가들, 우스마노프와 프리드만이 어떻게 EU 제재 목록에서 벗어났는지 연구 - Межа. Новини України.",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "494f26aa3feaec9a181c9af62adbd4880a382831",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US downplays Russia Sanctions bill - The Indian EYE",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93cE9fWnUzaVlXTzd4Z1YwckdWcHJTM01wdWNucHMxR0pCd1pnTF9jM0NGd2o4U1FHWmRpajdUcnd1ZmZFTE1WdkMzNGh5akFvUVNjSlhuQWVjZ2MtcldwSWZDZk0wVUQ2VlE1cGhXanpYSlVmT2xwVW9mOA?oc=5",
+    "publishedAt": "2026-09-26T10:14:13.000Z",
+    "collectedAt": "2026-09-26T15:34:31.262Z",
+    "translation": {
+      "titleKo": "미국, 러시아 제재 법안 축소 평가 - The Indian EYE",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a0892564a82b87f66c946e2078c4774522d68ae3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelenskyy Sanctions 44 People Linked to Russian Elections in Occupied Ukraine - Межа. Новини України.",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uWkxXZFhsbVhicFRHZDJWWnBCdFI1NUJvVFJsSjd4WFI2NGJ6dkZqNTM0Z2lGaktJQi1RczBfMDhabTk5N1dTN0tGVHZUN0xHeHl3dzVzZ1FXcHhLdWJHZjlBaUlhb3ZnZ3FN?oc=5",
+    "publishedAt": "2026-09-26T12:22:15.000Z",
+    "collectedAt": "2026-09-26T15:34:31.262Z",
+    "translation": {
+      "titleKo": "젤렌스키, 점령된 우크라이나에서의 러시아 선거와 관련된 44명 제재 - Межа. Новини України.",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3a1d8c7f7d2ca61e9d4288908565faa5e72a125f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelensky urges Trump to implement Russia sanctions - Breakingthenews.net",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVThvYlpLQ1JNbml1M0d6bnJFTnNLRlBrTGtLcHRoamhibFpfTXZ4d0w4WHVPVl9SOVcyS0ZVY2FzRmFQY3MtckZGWjI2VFdnZUtpY0x3SERRcVcxWXYtRmRTQ2ZSdl9CbEZKRGV0aXNWYU1UdkFQUE1SVm9KTkNpaXVVUGYyeG5fc2NKWmFXYzVia3BzTnNCdk1ZQQ?oc=5",
+    "publishedAt": "2026-09-26T10:10:00.000Z",
+    "collectedAt": "2026-09-26T15:34:31.263Z",
+    "translation": {
+      "titleKo": "젤렌스키, 트럼프에게 러시아 제재 이행 촉구 - Breakingthenews.net",
+      "snippetKo": ""
+    }
   }
 ]
