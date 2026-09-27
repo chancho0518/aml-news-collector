@@ -669,5 +669,368 @@
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFhnaHBjeUhRb2Z6RDZSOHBFS09wTUJZTEYydHpjc1JSTnpZelN2ZU0taHIzTDE2VERYN3ZHVV9zNm40MGQwSnhWbW8xUFRBdk00NWozNDZxQWVVdUNLb29PTzRVcWdleWhOQlkza1p1U2VhS1E1VG9mTTFtaFlRNURwbGNtRjZwclp1a3cwOFQyX2MxeHIwSTlhOGRQY1NPWXltY19pbVI?oc=5",
     "publishedAt": "2026-09-27T14:03:45.000Z",
     "collectedAt": "2026-09-27T16:14:07.696Z"
+  },
+  {
+    "id": "9b9e2613738f3b1097deb090f9155fc2c4cbbf67",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융 정보 분석원, 자금세탁방지 교육 질적 강화 나선다 - 토큰포스트",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rMVBxT3BzVUZLTElfNnRIT3BTQTY1X04xbjBiVUJPNjRVMWVteW5aWFEtS01YNm5yRkxDVVVrb3BYY2gya2V5b0FkUjFoUWRZX1ZXS1h3?oc=5",
+    "publishedAt": "2026-07-06T07:00:00.000Z",
+    "collectedAt": "2026-09-27T22:45:08.514Z"
+  },
+  {
+    "id": "6ddf2427b6a42da576653135f8bd4cdf9f3f8b5a",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융정보분석원, 국제 무대서 한국 불법 자금 추적 성과 공유 - 토큰포스트",
+    "snippet": "",
+    "keywords": [
+      "금융정보분석원"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xN0hlVnpFOWh5MlJqbFFaLV9tajZkUFMwNUhvWC11TTlsSlhhX04wNi11Ql82TUJEN3lkOVBPTW5STzNvd3o4MDJ3c0owXzdGMFJtNmNwbw?oc=5",
+    "publishedAt": "2026-07-13T07:00:00.000Z",
+    "collectedAt": "2026-09-27T22:45:08.515Z"
+  },
+  {
+    "id": "6842a7f450ff615c040017e4c6a73e3ed3075633",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "가상자산 해외이전 일률 보고 완화…사업자별 AML 관리로 전환 - 이투데이",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYWmFHU2ZaS000YTdtTWZmVXdtWl83RF9XUVg0T2g0dHVsU05tNTVmUUZxY3BRNkJPcWx5WFlFQXo5RjNlSkpQWG9iRFJ3VXlCd1NzaQ?oc=5",
+    "publishedAt": "2026-06-05T07:00:00.000Z",
+    "collectedAt": "2026-09-27T22:45:08.515Z"
+  },
+  {
+    "id": "0cda7cde722290e1b59922ef8ba5b304750382ae",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "[블미뷰] 법률 유보 원칙과 1000만원짜리 족쇄…FIU 시행령이 놓치고 있는 것들 - 블록미디어",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HMmU2TjBGWFdMTEtaa3llbTRJamRxS3dvWXZ3eXZtZWh6THJSbUM1UndDbGJzUkF1NEpzQW1ISlRtXzlHLUNOeTk3UjJ2NUpSSEFXSGdiU00?oc=5",
+    "publishedAt": "2026-05-26T07:00:00.000Z",
+    "collectedAt": "2026-09-27T22:45:08.515Z"
+  },
+  {
+    "id": "ded0da3c28e390e6be7496988013b7edc4f830b4",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "CRISPR could help doctors attack blood cancer without destroying healthy cells - ScienceDaily",
+    "snippet": "",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pVjJ4dGd4azdtZDF3NWZuNnpiWmt2ZHBOaWVlOGZSd01xRE1xTFktd1FCLU51UHdNUTAzaTM2ZlV3T0dBOGhQWVVKamJhWkJOa2pRMlRPN2l4ZFdiVEZHNXBhTGFxWk1FaGFMQmhwSQ?oc=5",
+    "publishedAt": "2026-09-25T13:14:46.000Z",
+    "collectedAt": "2026-09-27T22:45:08.480Z",
+    "translation": {
+      "titleKo": "CRISPR가 의사들이 건강한 세포를 파괴하지 않고 혈액암을 공격하는 데 도움이 될 수 있다 - ScienceDaily",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8bd4b566c2d41c5352f3002d3a89cc0b7c7e465d",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "CFPB and FinCEN Sharpen Focus on Non‑Work Authorized Populations, Ability to Repay, and BSA/AML Risk - consumerfinancialserviceslawmonitor.com",
+    "snippet": "",
+    "keywords": [
+      "AML",
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQzBFeG02ZXJESF8xa0YzZUp5MjlralpHZEdRbV82M0o1enBZMmFZYy0tSE9RZ2c5LXZLX3NwVGJCYWw0bVFDdGd1WkJCRGIwdUptaDhLVTQ3SGloNndqZDVud3djSnNGQmpVY3k3TW5aeEp5QzFRSGh5c2pxQzdlVlVuVkhrNG1ZUHlGRi0xekhfMExHRzM2OEt6eFAwYXRJWkJ1TXMzVDN6OFY0RGp6RXdxcWJWeDNPS252SGRjUlQtRWh6bUNwZ2w4Y3FXOU1UYmtnd1M4U09fZjdEZXJRZm40NVkzS0VXdkYtZlBIVW4?oc=5",
+    "publishedAt": "2026-06-09T07:00:00.000Z",
+    "collectedAt": "2026-09-27T22:45:08.465Z",
+    "translation": {
+      "titleKo": "CFPB와 FinCEN, 취업 미인가 인구, 상환 능력 및 BSA/AML 리스크에 대한 초점을 강화하다 - consumerfinancialserviceslawmonitor.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "eec1f7a664570c5f6c23dd060aa89e062d36ec50",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN's new 314(b) guidance: Progress, but the real problem remains unsolved - BioCatch",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSC1LcUpQdUxtcW1DYWFGeVRUNmdMeXpRRUVJMTBWOTQ5UFZYRHM2dTQzQi0yVGRLNHA2aXhBWm1VTnlWY3JfX1A2YnQxSjkwaDNIMnlfSDRwcXk1eVZzQS1DMTJocC0zZ1czdTE5RlFmX195NS1TbnBaV05QeXI5bHlBVTI2ZFhXMVlKYks0OWNtWFR5Mnphc2RsLXJTRE12SlJkNw?oc=5",
+    "publishedAt": "2026-07-01T07:00:00.000Z",
+    "collectedAt": "2026-09-27T22:45:08.466Z",
+    "translation": {
+      "titleKo": "FinCEN의 새로운 314(b) 지침: 진전이 있지만, 실제 문제는 여전히 해결되지 않은 채로 남아 있다 - BioCatch",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "486e42d40870750df362e54db0b90cf66d494caa",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Permanently Rolls Back CTA Reporting Requirement - Law360",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHN3WkpIeVRZQXA2UXNxMkVuYi1vcDAzU1A4MEx1UGxZbEpRaHNYbDctV1Q1d082eEtFenNPMmtLcHB2SjVxaDF3X0xnakV6X3ltZzhLNGxKR25JWTh5VnRkdFJwSWprbFRENDRRLUx4MHNiN2xVU3FnbHVEeVNHaGFNZ2lqUmVvN3RWZGF4MlBlRzFHdHQtVEZSY0o5MUlmcEdVdTc4MTMtd1NqWVJhQ29na3M1NlBN0gFzQVVfeXFMTXpyWDZIcjV1WVVEMjJoRjJMY0pxRU4zVGdSZDlpZzd6YlRGa19leXNJemhKVkRtcjAzeDlqWVRwdTFFLVZrQUoxbnNwWG1KSVdaZmZaZmpFdHo3OWU1SmRxOERKUFVhem9hbVVadDljX19VNA?oc=5",
+    "publishedAt": "2026-08-11T07:00:00.000Z",
+    "collectedAt": "2026-09-27T22:45:08.466Z",
+    "translation": {
+      "titleKo": "FinCEN, CTA 보고 요건을 영구적으로 철회하다 - Law360",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3c4061d7bd49502e71aa67354f17ab2630dcce98",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Israel revokes Dutch diplomats’ status over sanctions on settlements - Al Jazeera",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMjJIOHkwRlBTTTYzZldsNWNYT2R1X3BZTzYtSExFOGVvU1h4LVNpTnZMeUVFaXNoRGJ0SWZoa3NBeHAycU9qYk9PUTlrOE5uQS1VdEVsaW92cm9lMk5uaDZGNVVxTHJZbTZ5V0ZwUW9QUDMwOXpPYTRyNHBNSGdwT3RPZW5LbFlCMFpPNWtyNHN4ZDdDZlMzR2JyMG1UVGdVamdXakFSemZDY1JB0gGyAUFVX3lxTE16R3lDRl9mTl9SZkpEaGd2Z1RvekxxeXZVRTM2ckRVSzhwVndQSzB1OHRhbTBZUDBDN3NSZVh1LVdvLTY4aDhsY0pkVEZLVXQyQnhLTVRzY0tGenVnbHNuUHNWLTBBUGFYSGtUQmhzZW5ieUVmWmdtSlVsZlBUQWdFWkoyOFZnaDFOMXZxYmxkVFhKZXZHNkVMdndNRUpNcGdoU2w3Y1g4c2tSR1ZYZmFQd3c?oc=5",
+    "publishedAt": "2026-09-27T20:28:11.000Z",
+    "collectedAt": "2026-09-27T22:45:08.449Z",
+    "translation": {
+      "titleKo": "이스라엘, 정착촌에 대한 제재를 이유로 네덜란드 외교관들의 지위를 박탈하다 - Al Jazeera",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3785f25345410ecd6de7e8a09ba35ec2f161a45f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Gharibabadi: Era of Imposing Will Through Threats and Sanctions Is Coming to an End - WANA News Agency",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0JsUm1MRTJGS0xlaVR5X3hRX0lBOWJ4bFNmcHM1UTlNVk51LVpuekdlYVRfYkN6OVdBaGVLT2ZYcGpOOHRSYVhRdWlucDFjV3dtcTl6azd6ZFNYeF95V2NTeGFUS0prQ0YyS1FKMTFzUWJtUi05WFVKenFpTTJsMWs4dk9uMWNrR1lVcjl3ZFhaLURUVjVnYVduaEFia0o4SDBFSQ?oc=5",
+    "publishedAt": "2026-09-27T18:36:10.000Z",
+    "collectedAt": "2026-09-27T22:45:08.450Z",
+    "translation": {
+      "titleKo": "가리바바디: 위협과 제재를 통해 의지를 강요하는 시대가 끝나가고 있다 - WANA News Agency",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8970d23579715dafd2c73acafe2e290334f9942c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "F5 Project Sanctions Press Conference - InForum",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zSER6cEt3WkVJUFkxLVpzWk5jNGpkMkxZSFdFMVQwYm9RNF9yei1PUGloeGtvV1pJck4wNHlHYXNaYURvQ2FGYjdWaXg5YVktS1lMQklXeWZkU1lObFBMcVVZN2hkZFlGSEU3LUNB?oc=5",
+    "publishedAt": "2026-09-27T17:31:36.000Z",
+    "collectedAt": "2026-09-27T22:45:08.450Z",
+    "translation": {
+      "titleKo": "F5 프로젝트 제재 기자회견 - InForum",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6ed360d9b8c5de536d0b039fd5f6bd2256e9dda3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelensky Says New Russia Sanctions Could Take Effect in October - Межа. Новини України.",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KWEN3anJYcFpJVkNVWXBLcDBEZlg0SHdZRlU3enVFdW82YVhaRWhUTGFPZ0hhQkctMDNsclViYUtRNXo3QTl1UDh2eEUxNnFhSXNIZjRocXJTWDJFN3FVX3F6OXU?oc=5",
+    "publishedAt": "2026-09-27T18:50:19.000Z",
+    "collectedAt": "2026-09-27T22:45:08.451Z",
+    "translation": {
+      "titleKo": "젤렌스키, 새로운 대러시아 제재가 10월에 발효될 수 있다고 말하다 - Межа. Новини України.",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "dbb49079fd7d7079ba052781d734f741a1708ad2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelensky and Trumpʼs meeting, EU sanctions against Russia without oligarchs, and massive Russian attacks on data centers. Weekly digest - Бабель",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPck9yYlFaX0NTdXVCaXdJNnlwcXJJWFZ1dnRCTU9HbDU5Q2ZBbVNsT1JtSjZlc1F5SGt6TjgtYklPRV9rTklaU3NXRXBRWDhETE5qcFB0N1Y1ejJiMUphS0g3ZEhDbnI3aEdkaVdiTlFnT3FOaVp3elhoZ1dnZXlueTBwYVUxOXNlQV9FcXZvUFlMV1ZiZGlYMEpaYTZTSXdnRW5KaEg2amlhc0lSVkJhV3JKSWNhUlhIeWZ1MWlKUlZ6X1ZCR3drT055czVjNGhLQVpnekUzYWJGVFJ4emhnYlA1WVF6aVBGZVlUZXlwenQ4NzdxYjdz?oc=5",
+    "publishedAt": "2026-09-27T18:56:29.000Z",
+    "collectedAt": "2026-09-27T22:45:08.452Z",
+    "translation": {
+      "titleKo": "젤렌스키와 트럼프의 회동, 올리가르히가 제외된 EU의 대러시아 제재, 그리고 데이터 센터에 대한 러시아의 대규모 공격. 주간 다이제스트 - Бабель",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ac1893d21d768f3d6491a13e38b487c8be1cf2b6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Swiss reject plan to adopt stricter form of neutrality that would rule out NATO cooperation - France 24",
+    "snippet": "",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONnktWklvalFhV0hEMUhDNTFzZkFsUWkyRWU3b0ZwM2l6eXVXc3k3UmVfVUtuNzc4MFoyd0RXTXgtaHJlT2tTcGs0cWxYMDk1bU55VDBRUXVDckpMRTB6QkNwWHpkTjhzRGZDRHNpLTdQUm1JYlNDMnFkSGJnVUp0dVVXc0lWS1JEN1dvamw0UWdxQmhtUGNMWEZrbW1Idk01dHoxVjFYdEFGVXVJNE1uREFXRDlfN0V4bDJDN3lVWG9uOUs3MzIyeDRpWGhOMHpl?oc=5",
+    "publishedAt": "2026-09-27T05:52:08.000Z",
+    "collectedAt": "2026-09-27T22:45:08.452Z",
+    "translation": {
+      "titleKo": "스위스, 나토 협력을 배제하는 더 엄격한 형태의 중립성 채택 계획을 거부하다 - France 24",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "233663fecf1e5ce3b01141009edb79a47bde2cf2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "United States lifts sanctions on Eritrea - Agenzia Fides",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaW15bFA1ZnBXa05Ka2NlMGFNand4SWFKX3JGTXY2cVFWOXNKZjB4bVc4ckF6dUQycERTZmEyX1o1aHFTbVdyZ1QtdHp2elhSR21Xd3kwdWdYUG0wUjFrQnRfWTliTkhZLXZFdm5QMXpPS3JSYmlUY3lUOVBFQUhnNA?oc=5",
+    "publishedAt": "2026-09-27T16:26:40.000Z",
+    "collectedAt": "2026-09-27T22:45:08.452Z",
+    "translation": {
+      "titleKo": "미국, 에리트레아에 대한 제재를 해제하다 - Agenzia Fides",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "09804fd84233f316327996542eea764f2a5f77f9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Most Companies Supplying Molniya Drones Remain Outside Western Sanctions - militarnyi.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3VDbmZySUNIQjBtUllfTFphdEhUVHhERlpUcmJiYldySENIM2Z5NGVxbzRVMVhONHl4dGF5aVROQzlXZVdVNDRFaUo1OE8xbGxsOVpPTENlS1R2Slk5OGZXV0g3SEg4dXZkam9ERzEzajZNSXZsVmJULU5FSEVnQTRtNEtzRjlBYkQ5eUp2TGxpcW5VT2NVQkpRVmFpREVVenpmajdRWQ?oc=5",
+    "publishedAt": "2026-09-27T14:32:07.000Z",
+    "collectedAt": "2026-09-27T22:45:08.452Z",
+    "translation": {
+      "titleKo": "몰니야 드론을 공급하는 대부분의 기업은 여전히 서방의 제재 대상 밖에 남아 있다 - militarnyi.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "246c56d66b47a5703b8c96de9beae2aa81ac8c04",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Shafaq News..Iraq-Iran flights: US sanctions put Baghdad under pressure - شفق نيوز",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSXdSRVd6ZlpHMkpYRkpCd2VfTW9uNFJiWjVNYWE5ckhsRjVKNnlpMXRFOVNfNjk0bHV0VTJueDZIcGctQWNDeGttTDJ5aUNvMjV1OGU3X1dwRWUya0VKTTRPQlo3MnNqVlFkXzk4SzF1VFFlb3AwMURiZWcxUGZPOW42R2JCRWExQi1CbTBtY1E1Zw?oc=5",
+    "publishedAt": "2026-09-27T22:14:33.000Z",
+    "collectedAt": "2026-09-27T22:45:08.452Z",
+    "translation": {
+      "titleKo": "샤파크 뉴스..이라크-이란 항공편: 미국의 제재로 바그다드가 압박을 받다 - شفق نيوز",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cb1da456764345a75526cecdb259f370e066fdb2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Amid concerns over Russia sanctions law, Foreign Secretary meets U.S. delegation - The Hindu",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNU9xelFuV2l0NzdGNkRPTEZ3UGZyNk0tX1NaSVgwMWNpMlFyX3NmUnNuTlIyWG16bDRTVXNDR1dLQm1GRzFDbVg2bHd5Y0VEa2tObUU5TkIzMkhiZWlLY0g2UXZOWVBSYm5HWGNTT090X3lCb2JkQUhGbjl0QTZMcGpfaGc4S2UwOVd5VXB0UEFEQ21fX0VPWHFZRDdzUFcySFhiMXpPYTlGNVZwM0xzZEZSaTJ1U05BS21rLTI3UUJEUGMxZ3lYeVdQMTdQaW4tOUHSAdgBQVVfeXFMTnlTLWZQSDNlRnBkODlSYUpwRFFMV05PX29DMDRMRzVzanBXMGFDVzhPeERIU1NIemRQSS1odUdDRjRyOGplZ2NlMGNGNHlkZndtaVVaX0l6ZjdXTmZRaURQUUhNcHRFUnhrdXBwelFYOW9XQUFMTC1DV044ZVZwLUVjSGxrcnJUdTlZU2JoMUdJdVV2MHdET2Q3d2VmclYyWnh1eUJFc19iVEpycDhHd1cyYkNpUXFSdFZGUlVYN0ludExJOWljT29sUzl1dFZUT1VoeGNwbHhY?oc=5",
+    "publishedAt": "2026-09-27T17:17:15.000Z",
+    "collectedAt": "2026-09-27T22:45:08.452Z",
+    "translation": {
+      "titleKo": "대러시아 제재 법안에 대한 우려 속에 외무장관이 미국 대표단을 만나다 - The Hindu",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4efc635245f5a7bb860791c1b9a34dbdb29c528a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelensky: New Russia sanctions being prepared - Breakingthenews.net",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX1J6ZjBCNWRKbUFoM2Jnc1JoSzJIRHZHQ2dMRnB0NmN4TkJBWDgtRnRRXzB6UEpGN1BxbjVyZFhsMUxrdmJIckU1RGVEbk8yM2Fna0tKb0RER1pSaXVKRi1hWl84NTJVbDNmSGppRVZ3TjBkMUoyMmloeUlUTnlTTXp0eVluNmdsVVJWWHpjd1c5SThn?oc=5",
+    "publishedAt": "2026-09-27T18:23:00.000Z",
+    "collectedAt": "2026-09-27T22:45:08.452Z",
+    "translation": {
+      "titleKo": "젤렌스키: 새로운 대러시아 제재가 준비 중이다 - Breakingthenews.net",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9a21b5a2de06da5361515aaf330bdd784390f300",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Senate Democrats seek sanctions on those facilitating controversial West Bank settlement project - jweekly.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYzlva3pWMl9UVGM5a1VVUWgtQ3VvTTFnVk1TanpVOGNMWUFqYlFPZ2ZLZE1nMUdLQnRTamdLUUZZT1NQT1lQNW5Eb1RvTF9LcXprQWItZFJjTjQ2Q1V1c3k1dnhTdVJ0X1NhMmZFUXJURWtyRHphdk1MWF93bEJUaDE0OVZvQW9oSkgtZjVZMS1RSTdYeHVxUmFHZmFxaE5aX3YydG10QlZXT0h2bjFqdi0xSG5GVEl0WWFEYVUwSTBxS2UxVXBmSS1tWQ?oc=5",
+    "publishedAt": "2026-09-25T16:53:41.000Z",
+    "collectedAt": "2026-09-27T22:45:08.452Z",
+    "translation": {
+      "titleKo": "미 상원 민주당원들, 논란이 되고 있는 서안 지구 정착촌 프로젝트를 조력하는 자들에 대한 제재를 추진하다 - jweekly.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fd7c622ff5c6cbc07c95cb37ec3369e3320cfd3c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "France explained to Ukraine its decision to lift EU sanctions against oligarch Usmanov - UA.NEWS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxoT1FjNlQ5RVJKRFdLdERhU0IteGxKTHZxaE1NemZyTGJBa2MwaWliX3k1b1NsQmw0MFlhcFJNeG96NGR2WlowU0RudTlYZkhYVWx5LWM1dHhocmpVUWgzZmZiNV9ZN1pvNk5hVW9vLWhzVTJXUC1saHJnMmRtb1NtX2JkX3R6cTJlQ29vV3hJUF9xelpDZV9FcWZQTHYzOUZjb3NmeDdGcG1FM25TbWN3bw?oc=5",
+    "publishedAt": "2026-09-27T17:08:31.000Z",
+    "collectedAt": "2026-09-27T22:45:08.452Z",
+    "translation": {
+      "titleKo": "프랑스, 우크라이나에 올리가르히 우스마노프에 대한 EU 제재를 해제하기로 한 결정을 설명하다 - UA.NEWS",
+      "snippetKo": ""
+    }
   }
 ]
