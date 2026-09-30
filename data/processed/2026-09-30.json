@@ -935,5 +935,985 @@
       "titleKo": "트럼프가 이란 제재 완화를 부인한 후 유가는 103달러 이상 유지 - 더 타임스 오브 인디아",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "6edfad81733863191725f9a2d11c25b225e93bc8",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "\"VIP 고객\"을 위한 자금세탁 방지 모니터링 정보를 정확하게 이해하기 - Vietnam.vn",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT0R0Q1AyNXNhVTFEUFRFV1ZncWU4YlJaeHNvc040XzhfcTBlSHRTeG9iZ253UXVVQTBOd0hObnBER2ktZFcxWE9uOTNYQlRnQ1Z2bC1pZHNJR2poWjVIQVBkV2dqcHpBUE5RbW1NanVKWWpVdU5VckVJcWJWeTg4Qk9TZWZLWU0ySjR6ek81RGdsWE5uRVdhWDRVcmt4dw?oc=5",
+    "publishedAt": "2026-09-30T10:35:22.000Z",
+    "collectedAt": "2026-09-30T17:27:18.023Z"
+  },
+  {
+    "id": "8ee3a6d23e1934326b6745579f58f21d1d9e28bc",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Menin Inhibitor Landscape in NPM1-Mutated and KMT2A-Rearranged AML - CancerNetwork",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGJkb3g1cW5nbFg2ZjhYYkpzWTNqUXM1YnJndW5UZFI0Z3BUOUxQbU1BcjkxT3ZpMDJyQXl1WGdJQlV4aXBORy0xeElIQkEyWGhfd1VoNF9FNjZKNE5Xc3hrZzN5Y1NQN01VNnFOdnB0TldPR3RmbGxHeGdIVFFxM19KbUdkbWRwNi1MRTRWVVNJMGk1NGNuVFZTcmtYZGxnTzNF?oc=5",
+    "publishedAt": "2026-09-30T12:09:41.000Z",
+    "collectedAt": "2026-09-30T17:27:18.102Z",
+    "translation": {
+      "titleKo": "NPM1 변이 및 KMT2A 재배열 AML에서의 메닌 억제제 현황 - CancerNetwork",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "949c75cc34dffbee8cae1f243da25d5f0ca1ccb0",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "New AML legislation comes into force in Guatemala - Step.org",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGluYU43T09MajZORk9QZmgtT2I4VUQ5YTN0dVN5VG5vaDRrV01kUDgzM2Y4d2tHZjd1VXk4eGpXYlBrby1CQ0lmdkJrMU01UTJZLXItU2x2Tk9NRldORnVzQ3R2dHhQNWJMMmR1SjNmeERVNzdwRld4Y0k4WllSVFNB?oc=5",
+    "publishedAt": "2026-09-30T13:02:16.000Z",
+    "collectedAt": "2026-09-30T17:27:18.102Z",
+    "translation": {
+      "titleKo": "과테말라에서 새로운 AML(자금세탁방지) 법안 발효 - Step.org",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f8c69534c7ae6f297abdeead7fea0b848b780423",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "NEWS: Cyprus central bank fines Banque SBA €750,000 over AML breaches - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSXR6Z1RGck1odFl1aUY5NFl0UGlnY1plRVAwZjgtV0JNX2RYMEtRMXRXd0ZiNWpHYkozY3lCRFlabmlLandmeTJveVdIcnlnVFJlR0U0Z29CYXR0YWd3WHFtbGFwSnZKMERGYjRZa0FfYVVNdW5VZ0ZjZWFSSEhOQnRoRkY1Z1FjVDNQMFRQOXZ2UGFOdnozREhqb0dhMG5oTk5YTDh5TzlHdlBq?oc=5",
+    "publishedAt": "2026-09-30T13:54:42.000Z",
+    "collectedAt": "2026-09-30T17:27:18.102Z",
+    "translation": {
+      "titleKo": "뉴스: 키프로스 중앙은행, AML 위반으로 Banque SBA에 750,000유로 과징금 부과 - AML Intelligence",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fefb268c11ed9e4d2a65ce3c96a61938f65c0258",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FCA AML supervision reform: what law firms, accountants and TCSPs need to do now - TLT LLP",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT2dvQkV3X294aDZKSUdzSVBNTW1Sdmt1SDczVTFBLUlYNE5ZaGlPVEpMR1ZFYkEtNXI0X3BmNmhUTy00T01oM2htUEZya3JPUmRNRm9RX3lUd0VvX2NYMHcxS2pFUkJnUHhkdU5UZVlNeHZnSlk0VXRtNXRPR1ZGZ29oVDkwQzJ2bDR6U3JhMlhicnJRLVVxbTVLZGkzMjhGSldPT25yZTIzOUNRcS1CUWM1MEduNU11LVFFc253TXZFRkVX?oc=5",
+    "publishedAt": "2026-09-30T09:01:56.000Z",
+    "collectedAt": "2026-09-30T17:27:18.102Z",
+    "translation": {
+      "titleKo": "FCA AML 감독 개혁: 로펌, 회계사 및 TCSP가 지금 해야 할 일 - TLT LLP",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "576b99cafd29f472586b65c4af79f52cc4860278",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pulse of global AFC - FinCrime Frontier 26/27 revealed - shows under 5% of bank alerts prompt SARs, FATF flags gaps in Canada’s AML prosecutions - LinkedIn",
+    "snippet": "",
+    "keywords": [
+      "AML",
+      "FATF",
+      "SAR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSW1YMTQzXy16WG5nTXgzQ21XSWlkdnN2UE1KeWhaOFp1ZDhlcVRFbUdkSTRRMU81R1lMRGtjenkzb2RCMl95WVZQd3JLemVvbjFQc0JpSDBvXzQ5aENxc0ZBYU9tM25lZUVNSXJBaExpUnE3UUg3SHhIaEhObGU5aDhwX0UyeG9hZ1FiUVlWM1Q2Q1d6b0E?oc=5",
+    "publishedAt": "2026-09-30T09:52:43.000Z",
+    "collectedAt": "2026-09-30T17:27:18.102Z",
+    "translation": {
+      "titleKo": "글로벌 AFC의 맥박 - FinCrime Frontier 26/27 공개 - 은행 경보의 5% 미만이 SAR을 유발함을 보여줌, FATF는 캐나다의 AML 기소 허점 지적 - LinkedIn",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "180ffbdce717ffe89512aa2df368b1612b618ab8",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FINMA Finds Serious AML Failures at Julius Baer Over Russian PEPs - Fincrime Central",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SMkgxM21GMUY0cTFIZlJzN1FVRGdOSjBHX2VCcHZpMDdLd21pWHVWWFdLc1dPYUdoVjA4WERsa296RHZIaENIQVpGN1lGM2ludEhFZk9sdnVKWHlacThrRGdkYlhkUFhWY3gyMUFmUGJFaFNwcjVySUJZRUhDdlU?oc=5",
+    "publishedAt": "2026-09-30T07:05:37.000Z",
+    "collectedAt": "2026-09-30T17:27:18.103Z",
+    "translation": {
+      "titleKo": "FINMA, 러시아 PEP 관련 율리우스 베어에서 심각한 AML 결함 발견 - Fincrime Central",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e191857700fd7691cacf940580798f4b5caa8d79",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Anti-Money Laundering: A Shift in Strategy from ‘Hygiene’ to ‘Hunter’ - BCL Solicitors LLP",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "money laundering",
+      "anti-money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMVlmMGh0TDgxZGh2aDBCeUMyb3dFZXBzNGJGd3hfSDNTX0Z3R01kVUkxTjljUmRFX3pQWi1DcHJEZTZ3dVVEcXhWd0d5UlBLMHJjbkZOazFnbWJleTF4MkppeHhVNjQ0LWNNVkpjMjBWUWo2Qk9DMEswVU5iU29oSnBBdW9sSGVsX1JZUjB1YjRhd28?oc=5",
+    "publishedAt": "2026-09-30T16:30:39.000Z",
+    "collectedAt": "2026-09-30T17:27:18.103Z",
+    "translation": {
+      "titleKo": "자금세탁방지: '위생'에서 '사냥꾼'으로의 전략 전환 - BCL Solicitors LLP",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5b7ea5134be5a8437d91bf160ea22cee0843d960",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bonanza Factory Expands IAAN AML Cooperation Network; Bybit Joins - bloomingbit",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5icFh1aktjbUpJNlROcUQ5dWxSVVJMU2I4WWRZMXEwcWhHZGl2THdlc1NpUkZDY3NWV0dnZzU3a196OFpNYXhrclZJNlFmV2dicjd6Nw?oc=5",
+    "publishedAt": "2026-09-30T05:01:46.000Z",
+    "collectedAt": "2026-09-30T17:27:18.103Z",
+    "translation": {
+      "titleKo": "보난자팩토리, IAAN AML 협력 네트워크 확장; 바이비트 합류 - bloomingbit",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3f6e082096e530c6d70d0820f2a8266eca8d7d68",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Soft2Bet and AML Activity Monitoring in iGaming: Risk Flags, Review, and Governance - cuindependent.com",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdkFTOXRjVDg3UXBud1o2MjZ4RERsRjVvOWd6ZkllZks1clRQZkF0M3dGX0E5TTN4Ql9TNHJrMWVMS2NyU25WN05TRy1nck8xTExLTE9PNGZrZHdkaUJXVXFjdHhuLV9EMGN0a3h5eFRGTzl6UVQ0bTNyZU9LNWdBdV9hSWppRm93UG80bU4zSG52RWo2b2hoUEpreXpVNjNQaUVKdFh4VE14dTl3Q1ZMYQ?oc=5",
+    "publishedAt": "2026-09-30T10:12:56.000Z",
+    "collectedAt": "2026-09-30T17:27:18.103Z",
+    "translation": {
+      "titleKo": "Soft2Bet 및 iGaming의 AML 활동 모니터링: 위험 플래그, 검토 및 거버넌스 - cuindependent.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b66c1279f69dabaf6e50889e9ac4c9d017fbe544",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AUSTRAC Targets Non-Enrolled Businesses in Expanded AML Regime - Fincrime Central",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBYkotalZ2ZzRZekNuLUlXdUFKeTJGZ1lfYlRhWjFBVUFtOTN3dTJLcVJ1UmlSUkY3ZzJJVWlwX3BSbUl3R3RtNkJxTmdsclNDdkIzY0hrWjBTYjVEbXEtNEhpYmhweWVDVWpMbTNHdy1qNFZZRl9ERGFNX3U?oc=5",
+    "publishedAt": "2026-09-30T08:46:43.000Z",
+    "collectedAt": "2026-09-30T17:27:18.103Z",
+    "translation": {
+      "titleKo": "AUSTRAC, 확장된 AML 제도에서 미등록 기업을 표적으로 설정 - Fincrime Central",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "611213ed67948c442bfe810bb16a9caefc8bed4d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Kremlin Denies Talks on Freeing Political Prisoners for U.S. Sanctions Relief - The Moscow Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdXVwZlFBYUFESmZOTC1nOUNIUlNHQ0lJaDNOdjdHbVMtdTA3aXl1WXFXS3VVYXR1WE02YVFWTVNEQkxnQndIUWRkUktyS1FxVnNsenU5dmE1QmdRcGhkN0ZpNW1VbzRIYWEyUjdidkxzV0xISnI2a2NFZzBJZ2IwLWpac1BrYTU3NEJjNkdiZ2hEcTBnbkFSaEdCbG9lb1p5QjdKdnZPWS1hcmFXdXNWSC1ITmFwRFlNc1RIQWlfeV9rUQ?oc=5",
+    "publishedAt": "2026-09-30T11:14:43.000Z",
+    "collectedAt": "2026-09-30T17:27:18.122Z",
+    "translation": {
+      "titleKo": "크렘린, 미국 제재 완화를 위한 정치범 석방 논의 부인 - The Moscow Times",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "266493b995ebacbd9f4346e53b4bf41bf39ca942",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. sanctions 21 people, 25 firms tied to Sinaloa Cartel - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOallVbERTcFlxdVd0cFcwYzM1d3ZkOEROVjRFcVVLU2Q5QjgyVGZXLXRkTlVMc2lkZW13U3VXXzZEdzFIUkd1bzAyQ2lpVzFqc1ZUa0p5cWJqNUFSMFRjOExRZmd5eERGQVpyVmJoWVBvdXhJclhsUV9acmpJMkFSYnhHZHA?oc=5",
+    "publishedAt": "2026-09-30T16:49:00.000Z",
+    "collectedAt": "2026-09-30T17:27:18.122Z",
+    "translation": {
+      "titleKo": "미국, 시날로아 카르텔과 관련된 개인 21명 및 기업 25곳 제재 - Yahoo",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c1e0ab7c4b7f609ce5b57bac2f7b1fbc7628d036",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks - cnbc.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiZGlpZjdwYjY3b19oa2o4LUhaSDNIM3NZS2ZOTHFTNlVnd2FYSlJRWUc2c1doTEpRR1lRMi1LRGtOZ011aGxrYjhuVHdtM3hnMXl5cVMtSFRhNUpLUVBPbzg2S2hJdFdEQlRsWVNn0gFzQVVfeXFMUHVrUmctM0g2MmVKM1VYZzduZ3JLMEl2ZFR6TUpDeFl1MFpFNXpCNFhBVmFLMGNyN1BnQThEdXBwaTBhMnVFRFROZWxjM2VNcjh5MzNHeTZ4OVFuQXNJMVV3bHRVMFd5a0JLNm5VVkhGQmw3NA?oc=5",
+    "publishedAt": "2026-09-30T07:12:51.000Z",
+    "collectedAt": "2026-09-30T17:27:18.122Z",
+    "translation": {
+      "titleKo": "트럼프, 이란 제재 완화 제안 부인; 테헤란은 카타르 회담 후 미국의 제안 수령 - cnbc.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d2dc0d43a8270828a273e83fe77925d9a70341df",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "OFAC Issues New Cuba Sanctions Regulations and Amends Other Existing Sanctions - thompsonhinesmartrade.com",
+    "snippet": "",
+    "keywords": [
+      "OFAC",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUxUVmMxOUc4M2RlQ1BjUGMzRGhteFJlWGZsSnZ6T3c1dHlwVkJyS2stTHdBM0xmUVJVMV80QmFOZ2ZqdUVKVzJWWDBpUXdRX3NZblMxWUdfNlNjZGFobXF0S21tVHZObFdWUUFwbGdnZFBmTlNaaWFHZzVRT01lUTRUNERwc0lKeGhVczN3MXE0MnQ1eDRxX3BkTlU2b0k2THZjUlZEZENuVFJlY1MyaGQ4THlaWW11c0l0NGhiOXN6dlk?oc=5",
+    "publishedAt": "2026-09-30T13:15:18.000Z",
+    "collectedAt": "2026-09-30T17:27:18.122Z",
+    "translation": {
+      "titleKo": "OFAC, 새로운 쿠바 제재 규정 발표 및 기타 기존 제재 개정 - thompsonhinesmartrade.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "88e85c1e750dddce50c3d61a0d9b3a53fff1bb47",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions: “The US administration may see the ICC as an institutional pilot” - JusticeInfo.net",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmpMYXVOQW42bXFFUU4zNU9RWjZTcGNiMElrSER5WHIxVGVzaWU4aUJQNDlOR1l0STdrdVhiRjNscUJlTDBLd1IzdGlHazFrS25weHVUcE5tQVVaY1FqeXA0UVFDaWdKZmxSelhhQUFmWDdqRk1yMkp4dU9WSkM4N19tUEhiZ0RwNk5YTDM1WUlEU1Z3YlZlT3VmVnJJMzNXbGhrUFFTamtncVhRa1J3dUxxVDBCTW1oaFB3?oc=5",
+    "publishedAt": "2026-09-30T09:25:48.000Z",
+    "collectedAt": "2026-09-30T17:27:18.122Z",
+    "translation": {
+      "titleKo": "미국 제재: \"미국 정부는 ICC를 기관 시범 대상으로 볼 수 있다\" - JusticeInfo.net",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8733f1677f9015558baddefeab2bade1e3ad32bd",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions Watch (September 2026) - cepr.net",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5NHhVdU9Hd2NqdnI4b2UxdUw5dUF3UDl4LVVEWHJKeWRGNngyRzl0dElnSnB1bXVmREhnZ25SZ0ZaR3lsMThVbWttTzhNZHRucGItUmZjbHQ1MjFFTllaRlV4NG45RUhCLVFhdlBR?oc=5",
+    "publishedAt": "2026-09-30T13:54:01.000Z",
+    "collectedAt": "2026-09-30T17:27:18.122Z",
+    "translation": {
+      "titleKo": "제재 워치 (2026년 9월) - cepr.net",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a07a158803ef365c860da3d17981f0e9c260d94a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Ukraine’s ex-president and son lose bid to break free of EU sanctions - Courthouse News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQWUwdExaQlRCNkRUaDFpczdZLVF5YkEwUjczOW9xZHNhRW9kaWtodzNYc3lWbXRLM0xyaWdYcDdEUks2Zm43NzBCMXRmTEhpQnRET21VemVueEdLOU9qRFFEWk5POGtEQ3M4T2xzRTcySmxLWTh4dEF5djIzcExaNFI5VVg5eDJOdG52UWdKMHo2VXYtbVJsWHpHSEJ1WnlWVEE?oc=5",
+    "publishedAt": "2026-09-30T15:42:58.000Z",
+    "collectedAt": "2026-09-30T17:27:18.122Z",
+    "translation": {
+      "titleKo": "우크라이나 전 대통령과 아들, EU 제재에서 벗어나려는 시도 실패 - Courthouse News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a5e39ee2d647dbf5f0089834e2d40c7c74a715d9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran-Backed Militias in Iraq Urge Resistance to Enforcement of U.S. Sanctions on Iranian Airlines - Homeland Security Today",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeG9ob1FBaUUxR28xcmkxOGgxUkI2c0RXanBjNXhhaFZTZ2wxaFdYWG1fT3hlVWZqUlM3bWViUnZXcktVZlJwcmNYbUZHS3JBTlp3Y2syYjF3cEs4bkx5SlRHUjRyWGpwSHp0c25CRThxRkZjb2VjakVUaTRNM3hySGNOSlRMWldaTlRJUldlYXRHNHFYckdpR29ZSmctU3BlV1RfZG93MnNmWmRjakFrZms2QWRJQmNQMEp2eHJmb2R6UGVKN09QSXpORjgtaHdEQWFlRlBNZUlfZ0ZNX0JDTmZDZUY0Z2QtTHZoSmRpYw?oc=5",
+    "publishedAt": "2026-09-30T13:31:15.000Z",
+    "collectedAt": "2026-09-30T17:27:18.122Z",
+    "translation": {
+      "titleKo": "이라크 내 이란 지원 민병대, 이란 항공사에 대한 미국 제재 집행 저항 촉구 - Homeland Security Today",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6eb502becbe4365cd00b9bbea19902df6e0fe532",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Florida lawyer denies submitting ‘AI slop’ in bid to dodge court sanctions - Reuters",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMlg1RV9MZTFpSG5MbEtlU2NySTMxQXFiTGlXOW5saDVHWFl2WmpPTXpqc0RxYURQQmVxU2EtLXp1M0JFQ1ZESDc3VFlfcG45QmhETHNGckUydUxKQm95VGJ1a3FZVjRtS0dPMWN0X1oyaDFrdzNDd1lyQXU0dHBnUEY3cWtBTHp1dkFXaG0xT0NyTFRuX1pFVHMta0x5LTAzX2I5Uy1oQmFldlFZZnZVUzJtblQwNEtlSHZ3?oc=5",
+    "publishedAt": "2026-09-30T15:59:34.000Z",
+    "collectedAt": "2026-09-30T17:27:18.122Z",
+    "translation": {
+      "titleKo": "플로리다 변호사, 법원 제재를 피하기 위해 'AI 조악품'을 제출했다는 혐의 부인 - Reuters",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d3408e6e2f10911621edbafaf8458bcc92573651",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Sanctions Pakistani Defense Executive, 3 Companies Over Alleged Iran Arms Procurement Network - The Media Line",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczBIU2JnOVNMYTkzVzA5R0JlRFdHZTRtNUpYT29vYlNDWDZ0SmlTbHdhNi1Vczh5ZHQ0dmhCckxKWHFWZnVCR2xvaHpEbTJHRkwxSl9BWmlTeHE5THVxUWh5WmttS1RBdER3SExlZ1VmSzRiVUI2MlJRU2R6TVEtVWpyN1VBQnlfUlNYVEhtRUdsbms4alFtd0UtU1RnREdKX2E4UXJqT0h1ZlNwUENyTlFMaXhDMmNzTFNOOHdvR1MyZjFLaWlpUGZsRQ?oc=5",
+    "publishedAt": "2026-09-30T15:24:39.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "미국, 이란 무기 조달 네트워크 혐의로 파키스탄 국방 임원 및 3개 기업 제재 - The Media Line",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9e8582af6a981039c0f5c424acfff71bb34c47f1",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Former US Diplomat Fried Warns Mixed Signals Could Undercut Russia Sanctions - Radio Free Europe/Radio Liberty",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT04zWWRHZGR0bFJhLXJlb1d5aHBrUDJTcjZ4Qll4VDk4bTN4WGFGWXA1bHB2RHdUNFNRalZXWkpmQ0R1OS03cmpIeUM2alliTjlQeXJSMXdGd3hXTFNkYUx4UnF3Q3ZHY1gyT0FweF9PTll5dGxQaWs0eXpPbWZ1YklKdmxhT3M0QTc5U3JzQW4wQ2lYeEx0RC1xZ0dnZVlrdEk2OXBkN19IVkpTdlQ3bHl5aXXSAbcBQVVfeXFMT3RCT2FITDNGNDdUUk5uS2pYbWZ0T25zbFFzTXIzb3BjODM0aDJWZTViU1dwQ2ZhUlB0X3JqczdEVmZtdmpIX2tOZ0dRdHBxdkNkUXVlUWd5eF93WEd0UzlMWEM3UGY3bkhXYWlrN2xGZkxtMmRLU3VoMVd2R1pwTkh5VWhNdUtjbzZlUkVIRFRvTG1kelFLTWZBNlZjME9KUGdNYmtEcmxmdS1aU1RzS2pMMzRwczJr?oc=5",
+    "publishedAt": "2026-09-30T09:40:03.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "전 미국 외교관 프리드, 혼란스러운 신호가 대러시아 제재를 약화시킬 수 있다고 경고 - Radio Free Europe/Radio Liberty",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d32b5b59a477400654d984521c6834add16d24d9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Potential sanctions against Man City could range from fines to expulsion from the Premier League - The Washington Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeV9Ka3VxNXJEcVd2YkQ5ZEVkazJORGJOdHVQRjctYXhjWDRPdUJSaHQ2TDc3elREd2NoQnNXUWNzMFZlWG5SSVNVMmZZQmx4dmh3RFJjOWJXQ2tNZzdIVzJSUmZocGZyclBXaHlJdTk2ZmdFbm5JXy1UWDNhdi13Q1pPZ0lMb3JNYlpreHdFcUVvZkp1Y2R1UzZGOUo3RElDRTBEcmZ1ZjdqajhyRVBZdWFFLXJoVDQzNWhCR1N6dzd4MktROEVYV1Y4TDc0bm1i?oc=5",
+    "publishedAt": "2026-09-30T16:55:46.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "맨시티에 대한 잠재적 제재는 벌금부터 프리미어리그 퇴출까지 다양할 수 있다 - The Washington Post",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "75c1fdd583e017c700b543a497ec93346c2c2858",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. sanctions target alleged head of Sinaloa cartel faction in latest crackdown - KJZZ",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRDZVTmRJUWcyYmpQdFB5V0xCLXkxM3JmTXZ0MWc2eXp6SVVhRndQRnFzSm9UcFpKZktETld6Sm0zMXBkTVVhSUdnb3VrVVBhN3JveW9neFJDVldfaWV6aVo0d2FYNnNvMVVuMGtRVGw5QlE4eDdIYlhVQ2hjVmd0QndfVllXSUF3aVlIdUFPbTYwQkxjMndxTFdBTGtSbDQzREFZMnBMUTJqMnc4NGxEaTYwSXM2Zi1VbG1tSVF1bDZjSlMt?oc=5",
+    "publishedAt": "2026-09-30T12:00:00.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "미국 제재, 최근 단속에서 시날로아 카르텔 파벌의 수장으로 추정되는 인물 표적 지정 - KJZZ",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "07b613df802f458d3eaf051adc40a2ef5191667f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. sanctions 21 people, 25 firms tied to Sinaloa Cartel - upi.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGNRQ2g3WFVsazBQVGVtZnUwOWFiOG5kcHJzTm9TdFhoVUI5RHZ1ZUZQSURNMktjVVRSdW5PMHB4RzF5MDdFSFNoUzJfc1RWOWc2a09ySmxYXzEwUlBYOUItcW5RR0dMNmkxbWhhdjJuNTlmREFTM05EbXJvR0NPNW15OHh4c1U5c1hvOHFpZ0RjZk43QXd0N0gzQWp3Q3pGREw0VHlwVTc2UdIBrwFBVV95cUxOcUVlLWRqZ29ZbzhWOW9rQzRXTGhQal9mZWZKWTFpeHViVENUTkd5Wi1qUzJMSlNRM0NRWW04UXpTWHZLSHpvOWN1OVF0Yy1UbXZ0SzkyeUd6WDFQbDY5Tm5MNnVhSjdobG81SElEX0UtNzY0TmU5aGZEblFfRWVHekR3eXI1OFZscl9VdHJkeUM1aWhaY1BxYU1WU3ROVjFEdWplaDN6YmxfeHRSTzFv?oc=5",
+    "publishedAt": "2026-09-30T16:49:00.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "미국, 시날로아 카르텔과 관련된 개인 21명 및 기업 25곳 제재 - upi.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f175b1b4e664c22ef7f6326a92c98917f77c36c7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions lifted from oligarchs Usmanov and Fridman - en.thebell.io",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCM2hPQkRUdzh2TkJwckpIQjRMNF9tRlY1dk05cmNKWElIdVZnR3FMRTRvVEJDVlljNXdaNy1xY1FTdHlCdUdocmZiTjB4aE9laV9ERExGZ0RPYXZtcWo2NU43WFpRbENoeFVyY3hMY0xmVzFmeU9BWkU0NWdaUnc?oc=5",
+    "publishedAt": "2026-09-30T14:03:52.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "올리가르히 우스마노프와 프리드만에 대한 제재 해제 - en.thebell.io",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "611bf1d3dcefa44e0f59e10c68f487ae8e46a566",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Amplitude takes FID on Otway ECSP development, sanctions Nestor well - Drilling Contractor",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZl81dDB0REpXM3VPVk11Yy1kd1lCamM4SHRIY01uZjh2eWdSam9HTWxlMzhPU3VqSm90TG1WZ3ZWR09xekxBNzlkdlIyZEhNNnZ1Qmd5OWs4MmhaRW1vZ2tZR3cxbVBJYTZPZFowb05FU1lLWGRHdUFjVG4tb2E2dTFUNGNyU3diXzJnMThIbVQ0TTBIemJBX2dienlnanZ0c250dVJHZw?oc=5",
+    "publishedAt": "2026-09-30T15:11:40.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "Amplitude, Otway ECSP 개발에 대한 FID 채택 및 Nestor 우물 승인 - Drilling Contractor",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bd25f459b9a28cd97de3827ff2d640e6fd82fa91",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump open to Iran sanctions relief for ‘concrete progress’ on nuclear issues, US official says | CNN Politics - edition.cnn.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV1B4eXF4bjlpaXFlRHRleTJ3RHpETmQtOS1MZ0sydlVCc2hTZkNXN1hmMjZDZDEtdG4xSURMSFZ1RTZRaUptNDZoTlk3UVZpQ3dZenluUkJxd25BTFdFLS1wdnZ2cVhEdFVLMXhmbFF1bHVtS0kyZzJVZVhMZ2ZENklrTQ?oc=5",
+    "publishedAt": "2026-09-28T16:26:05.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "트럼프, 핵 문제에 대한 '구체적인 진전'이 있을 경우 이란 제재 완화에 열려 있다고 미국 당국자 밝혀 | CNN Politics - edition.cnn.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "34ec849b4ec387261805bd76e9a0d478d904bb18",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Kremlin denies talks on easing US sanctions in exchange for prisoner releases - Anadolu Ajansı",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGMySFBhd1UybnRYNk5FOHdGSUVYZ2J5SjRJbmpWSlVSeFlzbERsZGJmcmdOaHJ0MUZwSWFLMXNVQmZJMWJVRVRYcXFybzNaaEZLdFRLUkYxM0FiTTRSNEFId3JpRXcyUmRHOXNfa3Q1QlFaVDVNVFJHcWtEaFFKNFAwckVMdkVjUUxXUFZ1N0hWWkk4b1MtTTNkaEZPTUs4cEVreFhfdFhCNTQ3NFNHZXUxU0NHb1k?oc=5",
+    "publishedAt": "2026-09-30T15:30:10.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "크렘린, 수감자 석방 대가로 미국 제재 완화 논의 부인 - Anadolu Ajansı",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "976dd2dbe691f866d4b9fcd4f7cf3a2681b0aa38",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Kremlin Rejects US Sanctions-for-Prisoners Deal, Calls Proposal \"Completely Inappropriate\" - UNITED24 Media",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOemJMZ0ZZUEFKSWdPQ3otMnBvdmszQklnWGYtUnVlZ0J2S1V3ckc0N3gxYkhlVTlhcURNSDRnOHJCbHBjN0x4NGZFeGJUSlRBTkdKM3FyUklPb3pER0FCYThzbi0tZUF2UlRCc2Q3N2NfUXpSbGxOYnlpMm1ULWhtdGVzZzlIN0xVQlFZX0paNllmbHZ1aVFXdUE4eFlFUDh1RU81LUstcm54V1JFdFBTQmpFLVQ1S0pjV3hMUDVyM1B5dWc?oc=5",
+    "publishedAt": "2026-09-30T14:24:30.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "크렘린, 미국의 수감자-제재 맞교환 거래 거부, 제안을 \"전혀 부적절함\"이라 칭함 - UNITED24 Media",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fb3c64849373411457188a09e3760939bbc4d802",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "A group of U.S. congressmen urged Trump not to ease sanctions against Russia and to invoke the \"Graham Act\" - Українські Національні Новини (УНН)",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ0ROMVZXZWpYbEllMWhCQ3pPMWdTY3Y2SnhLOGZPT0o2UkxpU0p3R0F3V01WX1U4VDFKNGlZa3pZSV9VSFB0OEY4YkloRlh3U2J3bTQ2ZEN4djcweWxVbkE1R1NFUU9Ob0MxU2RzZ0dHYkszRW5QOXFmSkJpZmY0SVo2ZE10YlJSa1JMcThnQ2d6WkV3dXJMVVZfZVFxZlBqQl9hLWdsUzdHRnM0eHRXb3MtWDlGaXc4Sml1ZkNzckwxM1Bo0gHDAUFVX3lxTE53MEs5VFNVUDd5OGplNXBRem1sZ04tT21JdVZtd290YUhhdTlTU1hMTWFrenNFbUxvVnRGZGtvX0JoTXdQcW9UaXY5NzhhTTRYeDVaMVlrVTAtZy1zaVBUS2IzMm9ETlAxNHpmZS11TGdNVTRIQm5kZkNUXzd0dy1CR0F6OXpWS0J6Y2U2Zjc4YlUtNFplSmRHRHZQSFRRcWlRTWdWcnY3aWhGQWZpMmtnU1Y2NlhqckFEanhiWGJZUVBGUQ?oc=5",
+    "publishedAt": "2026-09-30T14:22:14.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "미국 의원 그룹, 트럼프에게 대러시아 제재를 완화하지 말고 \"그레이엄 법\"을 발동할 것을 촉구 - Українські Національні Новини (УНН)",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e1ce55e955d7196ee046aba6b241dccde3111c9e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Oil gains after Trump denies he is willing to ease Iran sanctions - Bradenton Herald",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ka1Rtb1Vxd0xqcXhRYmdXa0tsZV8xdHExcXdDSGFvaFpNZ3VUUkxCSUJHUkc1SmR5d3pCVGVTUk9BM2RJdkp5Unc3Q1BzRGFRQU1meG1IN0pwX2d2NGZteU5YeGt1OW5IVFBHUVF3?oc=5",
+    "publishedAt": "2026-09-30T01:39:00.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "트럼프가 이란 제재 완화 의향을 부인한 후 유가 상승 - Bradenton Herald",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2a8711feab3b4ba11155a034c8334b5a36a360ca",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Potential sanctions against Man City could range from fines to expulsion from the Premier League - chronicleonline.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQZnRBWGRySHBOemczRjd2eWh6aXpENUpuMGVfRkNNM01HRXJuNnJqRVRqdlFxamFNb01yTU1GNXNfWTNkWUlOYmdLcXdCTzJrX0l1YnpFc3VhR0pCU0VIMmxDSzQwNmUtTGNfa1BVQl93YnJkQmlUbURxN2dQdXZRNUZ5d19YU3NJS1FTUEpwM1JtbnVGVzBPYkJrbWduejBkclpqOEpsaXNTYXlNeE92NEpjeFdVR09paklpdURGOUx0NG5UYjMybG90YVlmLVNYcG1jSVVpVWRqazhVZjFVTXI5elcxVE1BalVNR2tlTWM0YkRRYjBaSkd1bmd3RTVDNFlWZVJZYmx1cjFmMVNVd0RNVk1seC0yc1ZjTQ?oc=5",
+    "publishedAt": "2026-09-30T16:29:51.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "맨시티에 대한 잠재적 제재는 벌금부터 프리미어리그 퇴출까지 다양할 수 있다 - chronicleonline.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cf89f1e6c6595f7540e21f478da232c8ca457183",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Potential sanctions against Man City could range from fines to expulsion from the Premier League - Marietta Daily Journal",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZHFSZ2FMOTVUZnlyNEVRZ3ZXZndrZi1ydjBOVlhuLW43LS10cHA0TEVFaThoRUwtWWU5bDRreU03S29pYjhGS0JNVElVRWI1aVdWUG9yOXktUG96MGU0czkzNkJ4R2VTSmMyTjNrRHIyYklqTDJEbmM1eV96REN4RjhTQ0NjbmZ3TVowb1pZNzV4VkNqZm1GS2tBaU5IUi0wTVh1Q1pZODYxV1ZGZ2d1MFE2ODEwODcyNGtlOFVVY2hpcnREU0l6aW9NMXM4U0hPUmgtak5BamJLb1YySU1FaHlwc0ZhYlhHaGFNSVB3Sk16dXgxZDhzSDQ1c25oTmp1c0wzUXJoellrdXZhV0JlVTZuVm0?oc=5",
+    "publishedAt": "2026-09-30T15:59:12.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "맨시티에 대한 잠재적 제재는 벌금부터 프리미어리그 퇴출까지 다양할 수 있다 - Marietta Daily Journal",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e85f9a35d014ea9515ef1b665151fcf8202c600f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Japan Lifts Syria Sanctions on 16 Entities - nippon.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05RWlNNVZ0bDFYRi1wR1dIem9fY0VZeTRzcDhUV3p4ckJrSFRzbGVUa0FWQkZXbnVZbFowRW5GZmFQYUM5SWEweHRTM3B6WkxIcHJFOFViZXktRlRt?oc=5",
+    "publishedAt": "2026-09-30T00:05:08.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "일본, 16개 단체에 대한 시리아 제재 해제 - nippon.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "579367bd2e64ccd92406a26edf5ee5b8feb442b2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Peskov Says Russia Has No Political Prisoners to Exchange for Sanctions Relief - Kyiv Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zSXFjMDJ0cHNiZGZsckdJMmx2ZkFYaGtKNWF4SkdwUVBha3dvcnQzdFpUenE5eXFHeENnQ3c1eF94aVFrRzR6MGptQQ?oc=5",
+    "publishedAt": "2026-09-30T13:09:10.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "페스코프, 러시아에는 제재 완화와 교환할 정치범이 없다고 밝혀 - Kyiv Post",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "deac3bd12464cde5397833a85b4b377a405bc018",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iranian firms develop domestic insulin to blunt sanctions - Muslim Network TV",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdW5jbDBKUzB4QVF4Qm5RNmZYZDlEWUVrMFdmYnZqcUxpOE83ZzRpdU82bXhXdndvTE9MSmNxNVdqbHpBQ3A5TGhJUlI5SzJIXzM4bVBjVXBlRnIxNFdmbVg5Z29abVgwRkRscFVqa2NneXQ4X08xdDVFS3JrOW1nRkhtMjV6OENBSHhOcC1SU2U?oc=5",
+    "publishedAt": "2026-09-30T11:27:21.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "이란 기업들, 제재 완화를 위해 자체 인슐린 개발 - Muslim Network TV",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "536bf8420f073ac8eab024a2da80698012606091",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Potential sanctions against Man City could range from fines to expulsion from the Premier League - Star Beacon",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYkhtV3phYVBaYTBrQ0xnbEZiRkgyLTI0dGZoMmliejFKQ0cxY081UlU4NUd4NjVWYmFFQnBsc25JdlNfWTZiS05kTGQ4eE9zWkRVQTNLUzI4aFhJbW01QmNtUE44bmVBdHE2VEItN3VwQThsekRjZjdwOFVhbW1LZEtwejJRYjBDT3lXT2QzeHZBa0h6RnpCc1JQcEhJM1lsZHRDdExrTmttbXJDdVpVRDNnUFc5ejhRNDZpeU9lYS1hTTFNZVNGR2xTZDRkQk1NcnVyYVpYMzFiZXZwNnBCeEhxVU9Lc1l0X2ZSUWZPenk0UHA5ODBOQVZIa2NYWFh3OTd1T0FGSkFla05Z?oc=5",
+    "publishedAt": "2026-09-30T15:59:12.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "맨시티에 대한 잠재적 제재는 벌금부터 프리미어리그 퇴출까지 다양할 수 있다 - Star Beacon",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f382968cf723e31b403cdd2dde214c2868b1ea80",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Sanctions Money Launderers Linked to Tren de Aragua Theft Scheme - Mirage News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0xOZldSRmtGN2tWam54T1VvTWhrMHNVcThmTjN1TEtyd29HSkd5enpGZmctOXBCNndXYkNxN25oWF8tWERPc2tFVWFEZkJIa1hEYmtrV3RRd2tFZ3NRak1JWTZRUEJKTGZGZ296bkZOM3NnaFZvTG1iYXdpeGpWSUJ4RVVvdUNUb0RZ?oc=5",
+    "publishedAt": "2026-09-30T15:16:00.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "미국, 트렌 데 아라구아 절도 수법과 관련된 자금세탁업자 제재 - Mirage News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3beb9040f70fa331d61e26866f3a975576448492",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Sanctions 13 Individuals and Companies Tied to Iran Weapons Procurement, Including Russian Firms - UNITED24 Media",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMWpDRmRUWWJhVTd0U0MwWk5tcFlyZXA5WFQ3YklRZGNlZkx5MGwwUnB1UzN4T2gzd1V4X0d5MnJuaDFMVURDekNsS0hBUEFoNG5MOHFIQ0dDUDhleU1rUlA2NFVQQ3pHR1pYY3JLdmZZd3BBQ1VlaGZfU0t1UE51LTl5czlVOVFuWDFpOUxHNlVraUp6WUtGaXdvTzRtZ1Z3aFNYQk5xM0JBUjZFOHJvMHQxa2VZekFycFpvRHVjbk5hdV9OV3U2MWt2bVllSXBnQWc?oc=5",
+    "publishedAt": "2026-09-30T11:23:34.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "미국, 러시아 기업을 포함하여 이란 무기 조달과 관련된 13개 개인 및 기업 제재 - UNITED24 Media",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b91a1352bc42753e549106ca33ed49214d5cf664",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Potential sanctions against Man City could range from fines to expulsion from the Premier League - Tribune Ledger News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPVU10U1lVaUdxYmI0blBpdWwtclpZYnBrV05jMFB0VWtzSndUUU9vc3d0a1dnT042OVVfWGRVVWJIU1I4WTR6ZVo1SVVqVEswbVhsQWVneWlfVEZzbC1INUZ2U3FTa3JUdXllRVhRYUhsMjRELXNKbTlxX1M1VjZKQUFCY2xKZkxENGdaWEgwMjZrMUZkR3RsTXNDVVprUGJGdHl4Y1diTUpyRDZ5V3ZlRVdhdWhUcVVpLTE2Vl83ejJCVmxUMlVzZEQ0NU5hXzBlbHBrTnhZOHhaRDVwc0o5XzVkU1NDX0lxejAxcjJEbF8xVjlJNXp1LTdvSzJhLWRZQ1ZRRjd6d2ZhTXZRWUxmOW85bWtMUGl4aWFDY0Nqb21xcnR0Q3BhY2kyZllnQmwzUXYyUg?oc=5",
+    "publishedAt": "2026-09-30T15:59:12.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z",
+    "translation": {
+      "titleKo": "맨시티에 대한 잠재적 제재는 벌금부터 프리미어리그 퇴출까지 다양할 수 있다 - Tribune Ledger News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "470ea18e8b20683bd62ba7c410c8d4630de8759a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Kremlin denies talks over US sanctions relief for prisoner releases - TRT World",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yamdqUzBURy12RE9WRnhQaURwMEpneVczeHgyNVNOZ2dXMFRFQXZpUXBDNWZnVVlNalZxMHh6dUUtRG5WdGR5SFRNVXBBSUU1THdLQXh5U1Q?oc=5",
+    "publishedAt": "2026-09-30T14:57:11.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z"
+  },
+  {
+    "id": "9f06c23dbfdc5a7c10073a2c71084e062f7d7309",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran’s Economy Nears Collapse Under Pressure from Inflation, Record Currency Depreciation, and Intensified US Sanctions - صحيفة مال",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZGt5MDZOa3M4WHJOcnFxLXN1TW82RnpzSTJULTFUWmNlbFlIN2FOV2VmMk9GaXJqZ3JWMWVua2FQVTJvNFlkdlJoT2dXQThOUGF0eTUyR1Y2ZDEwekhxT0EyYmR6MmFHazMw?oc=5",
+    "publishedAt": "2026-09-30T13:25:33.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z"
+  },
+  {
+    "id": "38a49fb9a1bfe287cc63caffa0498883b84704fa",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Medicine prices soar in Iran as US blockade and sanctions hit hard - France 24",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1piOXdhSWlrbk5kVDRiVmUzR0dlN055UGlvUWN1cGFycjBUWTR0YjdVQmVLQ1BpczBfaThDM2xmbjBjRTZXZkF6LWhuelRjck9Lc3R2bW1TWnRZWElvb2VDME9kQm45MlJEQm9zcTZVVlNfanE5WHlSWW9TNlNlZGlHNzJtMjhJMTRWOGtvMEJQNnFvbkZxdmtlQUNIdU0yUEtScWsxZGZKNndLWHc?oc=5",
+    "publishedAt": "2026-09-30T10:23:13.000Z",
+    "collectedAt": "2026-09-30T17:27:18.123Z"
+  },
+  {
+    "id": "e99b5f385ede3b6da7b3e0bd527f184f769e7f66",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Florida lawyer denies submitting ‘AI slop’ in bid to dodge court sanctions - TradingView",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNFZueEEzcHhmazdsNVZUYWNmS2pvbzZoUlhLY1F5eHprSTBCTEJOSkpyYjZoZU5CS1ZQMDNYMW9sWFpUVmNSbEZoWW42NEktQkN6V3hfTVZEdlIzMHJOSjVBcHhVQXRoRjFBbEtrNVFZeS1jNGhCbXNrUXlBa2g4OHBQZHU1Nm51b005Z1Y0VFI1X1ktUWxaTXJDY3lMOW9FT19wTkpndFhQN1c3V3ZkVW9QRDB4c0lIX1dHbmVuZjZfUE12aE02NjMyci1nMGtXLXZjRHZvcEVLZw?oc=5",
+    "publishedAt": "2026-09-30T14:32:53.000Z",
+    "collectedAt": "2026-09-30T17:27:18.124Z"
+  },
+  {
+    "id": "6432ae4271cc1eb41d0d3d6333dd34e72ff73325",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Kremlin denies Russia has political prisoners as Trump weighs sanctions relief for releases - The Kyiv Independent",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGd0ek5yNnZIS0JFT2Z0My15S2xENnJqRy1MOHZRRDcyLXIxaXFZMVh3dHNQT3FzZkJoa3RqeDRETldjTjlPUnM5a2tRTjdvUlNmNEdsemxLX2JvN3Ztd0J0WFhCVTE3QndZZXZVbVY1NTZZUFJPR1ZHNlFWZkNkeUhOQXNaZEFVZW1reVhvZl9DanlQSE14UXZQWDJ6eTRaSjN6dU5FdjZDMFBsWXhXNHQtdnNfd3hGX2Q4aA?oc=5",
+    "publishedAt": "2026-09-30T11:25:40.000Z",
+    "collectedAt": "2026-09-30T17:27:18.124Z"
+  },
+  {
+    "id": "58baf86a03678066174d9aaeb9f5e0f52a64b656",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Tightens Cuba Sanctions Over Regime Repression - Mirage News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WQjJPMEIwZHVzOXpQZF9UdDQ3amozZmc1U0RPQjR2ZERRVDJNWWxQUXNGVzdWcnRTa1cwcDBvSG1YYVFZSXIzaVQtVGlWZVU1azBWQlVrc3B3ZFZWMUNzTzBweHd1YWlkeG1lQzlMRzVES0ZhOFQ4REpmOEVoZGs?oc=5",
+    "publishedAt": "2026-09-30T15:58:00.000Z",
+    "collectedAt": "2026-09-30T17:27:18.124Z"
+  },
+  {
+    "id": "35b42d13603b9a7d5ddbc863ac0d9d0ed624b3ab",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Fresh sanctions add pressure to Iranian produce trade - Fruitnet",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0tLNzFnMDIxV3BraV9ucEtsMzZZV1lwRXVEemh2cXVtazhyUGpSNWNXdTVTRkJaNllub0xMU21QU01aUXNqdUFoWW5BZk5CSlBuSDBodlBRbkFIYXp4SXZjOVNVOWdfejR1M3dwMkQwRkRLTWJfR3N4eXIxQlAtUlVKUUtyOVBnYlg4R0dmMl9jLWVrdzNqQkZOd0NrSlphQkhfQll3?oc=5",
+    "publishedAt": "2026-09-30T13:28:26.000Z",
+    "collectedAt": "2026-09-30T17:27:18.124Z"
+  },
+  {
+    "id": "e637cac0d0bdbf1d6aae89ae6e08b8362441009f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Japan approves lifting sanctions on 16 Syria-linked organisations - Nation Thailand",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aV3phanBNUFhOZm84V2ZfdDVMb2Z3Q0VLTC1QeUNxbVB6UEZBVG1SM0ZuMERHTnpFdDFxOXJrLUVwckkzbWZUYmE2U3dhalhweEZKT1pRcGtyZHVmeDZV?oc=5",
+    "publishedAt": "2026-09-30T15:46:00.000Z",
+    "collectedAt": "2026-09-30T17:27:18.124Z"
+  },
+  {
+    "id": "6bb76dde8411970332c517d5d30daa80660477cf",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Most Gulf stocks in red as Trump rebuffs Iran sanctions easing - TradingView",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQTlwUUNHRHJCdWNRaGk1MHU4R3dKQ0NDYWwzSXFNYXBPTEVwaGcyaHdzYkN0QWxkYWI0bzdKRWliU1hkU3d5YzhkU1pfdmZmTlRmZWhHQ3BBRW9sV0ZxelhyMWliOWZJT1ZhZHpSS0htdEZXbXl4U1NwSVNsYWpTT3E1akZMaEZQbG5yNU96STlCZUtlUVIzb3F4eDFOdk0wTVdnOWlpa2lBX1VSMzZ3Z2tCMlVNYVlwTU9WZlZfdWNuWi14OHhuWHNqajY?oc=5",
+    "publishedAt": "2026-09-30T13:47:02.000Z",
+    "collectedAt": "2026-09-30T17:27:18.124Z"
+  },
+  {
+    "id": "2f57492b905d09819c42549f152b7dc4dba02802",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US removes Syria from arms export ban as Trump administration draws closer to new Syrian government - Akron News-Reporter",
+    "snippet": "",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQTU3OVdiRG1INHZTRGpCRnF0Mmsycmw0WmF2XzlQVWpkdnpkRjJPNkUzYzZuRk9jNDI0cDI4MHRfYnJ3ZHMwOHhYcEZBbVd0aWRicmxNbEcxSDZmQUpSdGVwNTBlMzZyYmxVODN1aEdYU3JiM3N0QmxNWlVqdGtidWFyZGs?oc=5",
+    "publishedAt": "2026-09-30T16:32:06.000Z",
+    "collectedAt": "2026-09-30T17:27:18.124Z"
+  },
+  {
+    "id": "c312772d41f7b37b2e5b71932880d0626104ff7f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Oil holds above $100/bbl as Trump rules out sanctions relief for Iran - engine.online",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUJlUU14cTFzZkI3TnctZGhBNHAxVFQ0OWJTd25EZ0hJZFBsTnRvY2xhZ0NXY3p4WmdhaGxzU2VkVU82N095LVhSelhnckRUVVZDbnQ0SmdEbGlwTzJSejVtV3E3LVBBSk9qeC1ZNjdVbUFGVWlMYnRNNTBKT0Rvb1h1ODZUTmd0d1hCR2tuVXdJX3ZodG5CcE0zN3N1cDhXT1B6YlYxdUpXS2M?oc=5",
+    "publishedAt": "2026-09-30T11:16:07.000Z",
+    "collectedAt": "2026-09-30T17:27:18.124Z"
+  },
+  {
+    "id": "41789cfcd258d742af10135e29c7178f4ee01fab",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Sanctions 46 Sinaloa Cartel Figures, Companies and Politicians, as Pentagon Expands Military Campaign Across Latin America - The Bureau | Sam Cooper",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qaGR1V2xPNjZHbmVjczNmdHBvc05xdDFQSTVWTXFvVjRtTGJIWlVhSW1CTzFOYlJnaDdxd3I5azdqUzJmUzdzLWxCdFI0Unk5TEpRNG1PUHVCTXM3YlViMGFEZzBKS0hfQkVkckdyejltbldIZHc?oc=5",
+    "publishedAt": "2026-09-30T13:16:04.000Z",
+    "collectedAt": "2026-09-30T17:27:18.124Z"
+  },
+  {
+    "id": "b3e13364f9af46a4bc46afa49d110af590207a30",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Statement by the Japanese Government on the Partial Lifting of Sanctions on Syria - Syria Report",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUZRdzFIMEdGUkhTaU1yVmVKUlFsQnlnTF9JdFJDTFhneE1HOVVwRng3OXROTTBfRnNSMkpxdnhfSHpXR0ROQjk2T1lPRlU3X1k0YndQVGVfazQwZ3hjRVBCSmE2NVBtalphN21WSlZ3QWsyb2VrcHpmNllEanQ3WGdzcExKUlZZZ2RxZ2FZMTA0d0lrMlUtWnR1dEpwM2hDQWpVc09fa1B6VFE?oc=5",
+    "publishedAt": "2026-09-30T13:47:55.000Z",
+    "collectedAt": "2026-09-30T17:27:18.124Z"
+  },
+  {
+    "id": "6af9bc6d5c9d8f7e2e7abe11db1d963733af4ddb",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions",
+      "sanctions evasion"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLW16MDdTT3VNQlRmSUdQQ2RqV2haMnB6bWxjcExrRHhxdkxXb2phbEg5cGs0QTg0dzZOdF9GYTl6QXZlWFpzbnVzUDhySk55VzNxN2FwTjhKaEVWWlBjakZ2Z0VXU3hUTDdneVNiZ0FBMzZSSGtkNzJJWUJpRzFCSmtJSEVBal8wMHJKTERSTWtvaDVxdEJ0T0ZlZw?oc=5",
+    "publishedAt": "2026-09-30T10:32:01.000Z",
+    "collectedAt": "2026-09-30T17:27:18.124Z"
+  },
+  {
+    "id": "686c1f437b878fd21730f55f45865e1ef2575667",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Potential sanctions against Man City could range from fines to expulsion from the Premier League - The Daily Gazette",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZDJyT2c1bVppSkk4MDVxQUs5bHQtNXloS1UxdFhoMEpmVWJtQTNidVNoWTZqVVI1Vk05UmpNTDFFSnRhZEl5OTJHd3F5dkFxUkVFVVdRRWVxN3NBbGtyRzVDbGxhWGpSdEVodF96UGowZDVKT1lCc3BqZVJlc1VGQk9SX1JRYnVSZHVIemFyTjBHZVdnemlYRGhVRF9qNWQxVW9qWGs5X1BMN1lzT0NyYWZ4T2hwVlZTYW45Ym1nSlBNREZWcHJXcUlKd3Q4ZFE3YUJqUEtsU0NwMGdBeG41c0FNVGM1SHNuOFRoN25vc3Bvelk3UGJZZmJYWGt3ZUFFQU5RTks0SHNJNVJIbm5PUXdYOA?oc=5",
+    "publishedAt": "2026-09-30T15:59:12.000Z",
+    "collectedAt": "2026-09-30T17:27:18.124Z"
+  },
+  {
+    "id": "555eb5f5dd2ee9b22895c74c1ed0ee659289be08",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Oil Prices Jumps as Trump Says He Offered Iran ‘Nothing’ on Sanctions - Yahoo Finance",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEpPWHF0MF9wTEtqZjctellBeTVBVDQtSDFxaTBkT2Rud0RwN2hpVWVfRnY4aEMwVHgyb0tKOXNJWGNZWTBvYUFJV25RcVJNWkIyVXFPQllueDR0bFk4eEw3X2o3QVJYancwUkRpcHVoakJuS09uVWlOODJuSnJhdEphempiNnV1SEplVA?oc=5",
+    "publishedAt": "2026-09-30T05:52:00.000Z",
+    "collectedAt": "2026-09-30T17:27:18.124Z"
+  },
+  {
+    "id": "321a9cd7231a7d2ab291af755627a1d053af7083",
+    "source": "OFAC (Email)",
+    "category": "investigative",
+    "lang": "en",
+    "title": "OFAC SDN List Update: Counter Terrorism and Transnational Criminal Organizations Designations; Belarus, Counter Narcotics, and Libya Designations Removals",
+    "snippet": "[ http://www.treasury.gov/resource-center/sanctions/Pages/default.aspx ] * Search OFAC's Sanctions Lists [ https://sanctionssearch.ofac.treas.gov/ ] * Sanctions List Service [ https://ofac.treasury.gov/sanctions-list-service ] * OFAC Recent Actions [ https://ofac.treasury.gov/recent-actions ] * OFAC",
+    "keywords": [
+      "OFAC"
+    ],
+    "link": "https://links-2.govdelivery.com/CL0/http:%2F%2Fwww.treasury.gov%2Fresource-center%2Fsanctions%2FPages%2Fdefault.aspx/1/010101a0f2bdc1e7-e19e658a-cd9c-468e-b47a-3a85dd2d4738-000000/SSlJoWRxgrlDYewVw8hYQBXIzinpF2h4mbLlzmBlkdo=452",
+    "publishedAt": "2026-09-30T14:35:17.000Z",
+    "collectedAt": "2026-09-30T17:27:22.061Z"
   }
 ]
