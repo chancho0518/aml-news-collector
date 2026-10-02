@@ -1621,5 +1621,345 @@
     "link": "https://links-2.govdelivery.com/CL0/http:%2F%2Fwww.treasury.gov%2Fresource-center%2Fsanctions%2FPages%2Fdefault.aspx/1/010101a0fd7055db-173b5322-8452-4fc9-a2e7-1824ec3ce251-000000/5P5eBin6IvFRP0D7xR8WBMlv4jL0F1PwLJ5Qt_I54ik=452",
     "publishedAt": "2026-10-02T16:26:32.000Z",
     "collectedAt": "2026-10-02T17:17:02.012Z"
+  },
+  {
+    "id": "017d7d4efc28e8d31ab52f08b918316ec525e5c0",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "경찰, ‘사이버사기 자금 세탁’ 혐의 8명 구속 송치 - KBS 뉴스",
+    "snippet": "",
+    "keywords": [
+      "자금 세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hM3oyVVZMblJQem5OTkJfVVpKVHM1cFBNX3R6akxsc3ZIYmhOWW9tQlJ4bEN5TU5mV2dJNXVZclh4bF9sSWV4MUUtNWVUNl9GQWs1M0U3d3g1YXhSdkhhbWYtN0Fqal9sNnFz?oc=5",
+    "publishedAt": "2026-10-01T11:02:00.000Z",
+    "collectedAt": "2026-10-02T23:30:24.295Z"
+  },
+  {
+    "id": "24bf285d1756383e0116a5a6076995a6559c5171",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "제재 비웃는 푸틴…글로벌 은행에 '가짜 도장' 찍어 자금세탁 - 연합뉴스 한민족센터",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "제재"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hSlNyd3dqN0xta2RvblVXc3RaRjd2TmRMUmt3Wk5BbVFIM0EtYkI2Qm0zLVoxNWQ3NXZBd2tnaWJvV2NHakNFUjluTDJWN0VsVE5iN3o0bnNJQ21JcTlrVFI3eDRubzlRN3NiaVBOZjh2X1Vx?oc=5",
+    "publishedAt": "2026-09-22T02:54:44.000Z",
+    "collectedAt": "2026-10-02T23:30:24.296Z"
+  },
+  {
+    "id": "8ad0eb52c092cbed2b235999d6a084f9c0663e4a",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "한국, FATF 총회서 \"가상자산 규제차익 해소해야\"…글로벌 공조 강화 촉구 - 아시아경제",
+    "snippet": "",
+    "keywords": [
+      "FATF"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kWFA2ZlBwY0wxVWFSMG84VlluaWlzX2IxTnBaSk11MjJwWEtWV2VtaEtCZlZnQnduZlV1Z2dJakVhNFZGYTRjaHl1NnphQ1RRTHdyeEcwWngycFByajU3RGJFVFJOa29UQzJGeUUtNkFob1FCMWc?oc=5",
+    "publishedAt": "2026-06-22T07:00:00.000Z",
+    "collectedAt": "2026-10-02T23:30:24.359Z"
+  },
+  {
+    "id": "9a5fac59f0ce185c932a310b3a4ab082785157f5",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Radioimmunotherapy (RIT) in AML Transplant Conditioning: Can Radiation Be Targeted to Leukemia? - oncodaily.com",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VbmFwUzE4MG1VN2NOakZ2RlRINFVNVEo2YXM4VHJTcTFncFc1SVBLcE95QkdTNmVYSndlUDVkdlBqTi1aeE5IX3NvTjAxV3JqVnNIQU5LT2xDTEF5VU9CM2cyWEFMQWc0TTkwRUFBN0t2UFBnNFVmeWFscWs?oc=5",
+    "publishedAt": "2026-10-02T18:00:40.000Z",
+    "collectedAt": "2026-10-02T23:30:24.273Z"
+  },
+  {
+    "id": "1d60ec31a32df87cc40ff7221afc95be5c2cf76f",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "LATEST:AMLA seeks industry feedback on simplified due diligence guidelines - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2RDUkNSUDMtS1p1NjUwU3JLSERGTjVqNTBFXzcxeG5lcHVuLTR0U3RuVGI2eGVRbVVaYWZMRXotNG85clY0VF9jZGl6Q2xzTS1oN1JZZ0cwVUY0ZFUzdkNuMEdYS3pIOUdiMmNxdDlxZWRQREs1dlVCYklkanF0QV9hd0FZMFRKRnktSDZ3Y3BJR0ljOWNGaU5YazEwaEJwWEZhWTdqSVhNSFVWN1FVQTVia04?oc=5",
+    "publishedAt": "2026-10-02T17:47:04.000Z",
+    "collectedAt": "2026-10-02T23:30:24.273Z"
+  },
+  {
+    "id": "77c643cd86e3b51ac48190284effe3a6dab938d4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions three individuals and two charities over alleged Hamas financing - The Guardian",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbk5IUnNOS1FxWUhkZFZMWWFqOE8yd1RHY1Q1QkswWVZBVC1KZV85MVR3WjhUM3dXdDc0MjVHVXJYbWZtTXZmS0hhRWZRVUphc2xQZHQ2czI0Yi15b2kzUjd4d0ZTV1htN2dLemc4eXpLLVI1cWJpXzRaZ2hFNktRb2E5QjhMdDF0MEh1ag?oc=5",
+    "publishedAt": "2026-10-02T22:25:00.000Z",
+    "collectedAt": "2026-10-02T23:30:24.486Z"
+  },
+  {
+    "id": "c9e3c12a2003fd12ef0884f397e096cc04b4e2f6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions alleged Hamas financing network, including two France-based charities - news.cgtn.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14YnYzNUJNYUN1aVFSRHN3eVBjQ2syV2R6LV9RYlNvUXE2V2hrMjRWMGZsbWdBQlptV3JMTGhSbEJvTk5lM3lrZ0JKTkYwTFh1aWdBQ19VYnNtV29CRTEyWDlMOEpZT1lRaVlUQ0Nn?oc=5",
+    "publishedAt": "2026-10-02T14:33:31.000Z",
+    "collectedAt": "2026-10-02T23:30:24.486Z"
+  },
+  {
+    "id": "3acb0759259ae385e8c993f7334f70348ff3fabf",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran war live: US urges UN sanctions on Iran, targets ‘Hamas financing’ - aljazeera.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUC1tREkzTk9ydXdTMXFqZzAzMzlCZWN2N2RnVG5WM0V3Z3ZBblk0SkI4bkJ2ZXhmQXBsZFFVajMwVWdNRi1SUmNfRWJwZENIcEZtM1BaZVU2blVWLXhkMUhtdXI0SklvQm1vU1BEVXJlZFg5TDQwcU5EeGpqME9Yalk4RFUxSWJtZ3pyTmxRM2hZaFRNZUI0ZEVhWE9IdmdOalB4LWs0cXlkU29GLV90dFNTbzFXNGxlNUhTV3hB0gHDAUFVX3lxTE81ZkY5SzJvZG1CTnB0NzcyT1FleFBfZUIzanRrSjROcXZUd1JVakZQV3Fhc0U1SXRQMllyZkZrN2ppSU02NmZlT3pXMWlFelRNQU9MX0dRRmJRTGJRa1JyMDdkTy1FZHhsd2xLRVR4Y25UeVJ1QV9uY3UydUJsQUdtSS1nR1lqRTlZZmZ3ZEVhRERtdE5SekFHQVZubjFMODNld2lETXc0Q0tvUDE4VTlQTmR2U3pqREJBczBpSE9QNjg4cw?oc=5",
+    "publishedAt": "2026-10-02T20:56:02.000Z",
+    "collectedAt": "2026-10-02T23:30:24.486Z"
+  },
+  {
+    "id": "76889f40ca028ad32b007c35ade27bce0cc47617",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump plans sanctions against ‘evil’ International Criminal Court - The Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORzJBdEdmQWNnT29HVWJTOU9LVVctekxDV0VWbjZvV0o1cFVTT3FyRFhPSzVCRjZFbTZOOXpERGh5bko5ek12dXcwMEpyb1pybUZFd0lYZVJpZV94TEpwX0FHTm5lYmtyTm1aU2lZekxrbURsTng3bzRseUt0Ym1MZGRMd3NqMXhrbVdPYUl3NGVzR3Y4aTVDR19NM05LR1NheDNHTFlJOERySGtFLWhWU2RoS0tpUWlOUlE?oc=5",
+    "publishedAt": "2026-10-02T20:20:52.000Z",
+    "collectedAt": "2026-10-02T23:30:24.486Z"
+  },
+  {
+    "id": "859c747d4de17b37aaa0ac0ef9866bef2025b5f1",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Weighing Sanctions on Israel Over West Bank Settler Violence, Sources Say - Haaretz",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNMkV0Q2RaRkN3dWVvUXhsM2JBd2tNQ1Z0WGNtVFZJNm5YSnh5LVhpVjR2b0JYVzIwOTFtbFlZc0hpSWJ1V0xaVXMzQlJIaEpKR3pIek5zLW0wdEZxVndKYVV1cU5YaUdxSzlKam9TT1ZMNXc4dTlkWklzaUdfQ2Q5V3hjbFRBVTItQVgtODBMN0FuV2J5eVVHdkdfT0otMVpsMmQyaGRUSXZQYlhKOVhCaXllZ2JDWms5cnZlYjEzRUdMS2E4YWFKbWF6aHctdFVYMFhHRjdEaWt0eTFSR2EwSmd1WDc3bkhFM1Npb1htTzVVcmpuTHB5Z0JSVi02WWFuNEtEOTBzT3VXeXp2T0NrX2NhamZnZGJXMS1MRFR5NG52dw?oc=5",
+    "publishedAt": "2026-10-02T19:27:00.000Z",
+    "collectedAt": "2026-10-02T23:30:24.486Z"
+  },
+  {
+    "id": "5f262e2c5fdd22bec75b4ce0e6b8022346b32080",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Jackson Walker Threatened With Sanctions Over New Romance Case - Bloomberg Law News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa1F4UXI1TkRRa0xRT3V0MlFod2ZydnBPX2hFcW1jT0Noby1pZmtlNWFYOWJwVjllWGJYc0xqWnJvaDliSzlWZFZBMkJ5VmZSZVk3aHR4UDE3WXlBNXlXSGJTSGo0UkN4YmZyLV9DN1ZPeXhHR2gwNEU0NUtrbHFvODVTTklqX25pTXk5Vk5Tb2RZdWhGczNSNFdPejRlQnRZaEdwSmI1aVBUVTQ?oc=5",
+    "publishedAt": "2026-10-02T20:23:00.000Z",
+    "collectedAt": "2026-10-02T23:30:24.486Z"
+  },
+  {
+    "id": "507293e8aebe2d3bfa3719e54d966d832ec18353",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Global Watchdog Puts Turkey on Notice over Hamas Terror Financing, Money Laundering, Iran Sanctions - Middle East Forum",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWDY4dG9IUmx4SFVRV0RJY0FnWnFDbWN2OE14NzhOd2dIdUEyLV9MbXNadTlNNkdWVXNJSW5IcUZ1SzB3UXFWRWJ1aDhNN3ZoS1lGRWZzTmNLUEpuMDA5dXMtZjRXa2V2MldwMkpiRnpJV0pBcGRXTE1taVpXVWlSS2dVUFRncFZKMW1uQks2WmZveGJoUnA4MHRBTEFZZldRNm9iWmhWVFZ1dHRTUWJqbEtjZUkweFhBTUNDWng4TlUyYjZvM0JlR1VNaTk?oc=5",
+    "publishedAt": "2026-10-02T17:34:41.000Z",
+    "collectedAt": "2026-10-02T23:30:24.487Z"
+  },
+  {
+    "id": "9ec9cd7add8c7408723559f3eb2e9991bb9027ce",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump takes a risky gamble by seeking to ease sanctions on Russia - Le Monde.fr",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdHBQZzFqS0dQVzhOdTVhRjlCeVJHZGVPWmN2Z0tTVk5pWFRzN3lPVW1MRmp4cWJYMEc5MUlwSWlGNTRTSkZyOGcwS1RNMTg4VzB3Q2dVVm5EazZpWnlHRkJpWmlXLV9WMmZqb3BubVhvbWpaZ0ZDZHNJM0p6VzlPRFVyRkVma3V1ZlEyLWhCMU51RTZoT0tOLUxIYmdubHlXR3ZZdHZwNXlvMzd0S1ZoREhNeVZPcFdSWWJyeXR1bmludzVuaHpRSmcxcVRWRGdXOUFFZ2VR?oc=5",
+    "publishedAt": "2026-10-02T20:07:13.000Z",
+    "collectedAt": "2026-10-02T23:30:24.487Z"
+  },
+  {
+    "id": "97d18bfa0e103ed63096e0eb53bf269b96590fd9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Full Fed. Circ. Won't Review NPE Marking, Ramey Sanctions - Law360",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0NsejU2amp4dkF6VDhGSVd5WkJadUxfcWhUTVExd3hkYXVTeHJHei1LZGZtUkFpLXQ0M1BsQzhDcVJJSGNkR2V0QmN4cEtTYXl2YXBYWjd1QUJ3Q2JwZXJ1TnBNcXlVOWlfazVpUUU1dzJSVUY3X1NrRzhZa0M2LWRJRGhYckZaT3pZQ3N4OTd3M1psT2p0aWJn0gFWQVVfeXFMUHR6ejI5RjBJRlJpQ3RCemVLamlJckxVS0dEZldnNFZOc21RNTFMZFd2b053U3RtZXpiSXVhaDVxMFpnSk91MU5CR2pvM1VlVk5FR0phNUE?oc=5",
+    "publishedAt": "2026-10-02T21:49:07.000Z",
+    "collectedAt": "2026-10-02T23:30:24.487Z"
+  },
+  {
+    "id": "9824ee5a276124b6742a5528ee35588e4cbc3daf",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk - Crude Oil Prices Today | OilPrice.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkRSYWU1SUxvN2pWS0dKdWluZndLaDY3UU9RVUxxTFpxWFVjeE1OcDFLZVZmTXB6OERkQlFqVjJpb1otYXZodnJ1dU1kWWxFbU12UXpYMUNYajBWbXdKSW1EMUh1UnZqM1VFWUtNUU05UDFLMzV1VjNOS3RRQWMwaFR4N2JvLVVzdW0tdHhqTE8xdzIxUXI0ZXdMcjZLc3JscENHMGFyU2ZLRjI5ZU8zN2pQWlHSAboBQVVfeXFMTnY5R1VtbDhFX0p0TW9ETjMyQkhpNXNFb3Z1OV9pRjZucEdHQ0xPempFazIwOGdvUHpxTTg5cU1oMkd3ajY5TE5UTlg5aVhiYzJ0dzMySDQ4QlJrd2hETmxqb2otRTBVbTVaXzJkYWZsRnZ6Mkc1NTBReXc0bEs1ZU5vTEV5OEFlUGZrSXlxeVI0WlV6ZVJuZXpSU0ItRDBFN3I1d2pkZExyTkc3OWg3NVlESEVYX1E5NkNR?oc=5",
+    "publishedAt": "2026-10-02T19:00:00.000Z",
+    "collectedAt": "2026-10-02T23:30:24.487Z"
+  },
+  {
+    "id": "963feaa8b7591a55c525ef847d59fb0407fd9fe3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Palestine Action online fundraiser blocked due to US sanctions - Arab News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUo5OGZNajhVVGFmR3RCRU1XUmVYbzNPWUJhblpCRExDMWV3QUJnNU85Z3ZKeldJLWNfWU5zQ2xLanBKeXBDeVlEOG5WTm82YWJHcDBTV0dwTTBaMVl5dlkzeXVqWXM4Zkl4ZUpDNUtVbVVCaDhNRjk3VEFlWDFpWXRFRzZfS1VaVzJzWlBvaFNGMmgyd0xyMndGUXpfcG5SU0w0?oc=5",
+    "publishedAt": "2026-10-02T19:25:15.000Z",
+    "collectedAt": "2026-10-02T23:30:24.487Z"
+  },
+  {
+    "id": "0af54e62c502c079a4d3596b8470a5806f017796",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Sanctions France-based Fundraisers Accused Of Channeling $2 Million To Hamas - i24news.tv",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZWhZZy1DMDN5OGlMczZWLXV5d21COEtoaENONkUxbnFqWGFYLXlNc3owVGR2c2ZxdUhiM3dfeWNZcTQ5amdqQlpadDBGdTA2cHlJdTc1Rks2Y3pRSHNuNy03Q2ZWTXN3bWRVbXFhQXV1VnRQT18wR1RDQV9iYlUxdVRiOGlZaHh2VTBza3piQ25CVkZydkUwRS12aWFJQW5DNGhCbjBzemUzQ2MyVTBZX1Y1eVVLenpMRjdrOWNlMmJvemJqNkhN?oc=5",
+    "publishedAt": "2026-10-02T17:15:39.000Z",
+    "collectedAt": "2026-10-02T23:30:24.487Z"
+  },
+  {
+    "id": "e60c5db768910c644709437329194be915d196ff",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Sanctions Hamas Finance Network In France, Targeting Three Individuals And Two Charities: 15 outlets compared - NewsCord",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdlVzcFRwcUsxYXQ1RFdDTFE0YmlqTUJSenoxSS02MjJRZDBPeVZ0YWVGUkpEMGYtR056RWdaVXBhX1IyaFZhNVlnbFN2QTdXTGJfNWladmhVT0p0SWxPa2dmSWg0VHE1TlczSm9Ub21seFZwZ3ZKYVN6TF9lOG5sQW5Xb1NmemZFTDRMc3Y1bnhhOG5jTzZhSkhXOTZTODc0Q1R2aWhCQ0o4R1ZEZ1kzSktxSC1TSjJIb3VSbEtoWHlQdzY0NXh3Rk9Gbmt3ZU0?oc=5",
+    "publishedAt": "2026-10-02T21:44:49.000Z",
+    "collectedAt": "2026-10-02T23:30:24.487Z"
+  },
+  {
+    "id": "8de53f13af388704395765e4116ebc7d562bc0af",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump strikes positive tone on lifting Türkiye CAATSA sanctions - TRT World",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOXdTajlkMXlRUWhIMmszaFFtdTNHSUtTbXpnd2xpYzVhS0sxVzV5ZVBBaktVNkdlUFl1enpnTU9jSjQ1cnlxTElXbXZHZE5QR2VNaF9oM3JsSUNmVm1iSWt2N3pUdWswTVFEYVRZYktoYUI1Mk15eU16LWNTZUFNN09ydlBoNnVsZWNSVTI0N0plOGwwWmFpZkREYVBMUUxrbWdYcXNLTmVXRmpCc0xNMkIycHhiMTR0MWdDWUQ4ODhUd3Z5ZTRhUWlWNXozVUlLUFdBck9PWmtNa0p6ZVZHNzc0dm9yZw?oc=5",
+    "publishedAt": "2026-10-02T21:38:08.000Z",
+    "collectedAt": "2026-10-02T23:30:24.487Z"
+  },
+  {
+    "id": "b1e6aaa7a05c79369a054110e2f45c55e4886c6a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran Wants Sanctions Eased to Allow Back Nuclear Inspectors - Rigzone",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNFlJRUR1OGlZN1pUWW1yQmh0WGJhQzlERVV2TjhuRUV5dnZzZ2FkeC1PN3M4S0l6YVotel9qRTkzMkFOZGUzOEo3d2JlT2pLNlI1MTV0YWVaYlZMY1Judzg2WmFlbG1lQ0wtRktRTF9OOUtBOVp1MFR6QUMtaTQySWJScTYxRF9WQVh4endGVnZLX052WklEdElxUHkweG9PbnVsTFp6d0R6dHpiUktSZFRaZkJDQzZLM1p1WEl3?oc=5",
+    "publishedAt": "2026-10-02T08:41:00.000Z",
+    "collectedAt": "2026-10-02T23:30:24.487Z"
+  },
+  {
+    "id": "9f643f56ee4cd62f435ebcb9fbac1f097010d143",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump praises Turkish President Erdogan when pressed on delay in lifting sanctions on Ankara - Anadolu Ajansı",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRm9nUTlDeXN3d0VrcWZsUEd2TkV4NUplaTE4dnJRLXh1a3A0UG90SDJZaXVkWlpmM0dxWV9XOWFZaXhJZkVabHZ5VUpjT09vaGtZOGZUZEtHYk9PcVVTTlJ3Ni04Q21vZ3dXeFlHdVFTMHVPUzVzWUp4aVB4Z19aS21xSUJUUjlRbkk3Tk92MXVYaklVb1gtUzNydFZzR25JOXhjUVkxZzJzR01neHpVOHFPNUdBT3U4VWZueUtWMzlheVRORGdocnVqanM3SEU?oc=5",
+    "publishedAt": "2026-10-02T20:50:39.000Z",
+    "collectedAt": "2026-10-02T23:30:24.487Z"
+  },
+  {
+    "id": "4933079ba7e3680afcfb3993137ad851cf51091f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions alleged Hamas finance network, including two France-based charities - Arab News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjVMRFRIRkdKUWg0T2NBMnY5UUtOSkx0Z1Y3SmVsdXBPN21mNWxHaE1Kd1dfLThwVDd0SDdQSHdSMmVnbjdnR0V3SVRTSTNMMjExUXp5ejlZaF90V01TSjhSd0RNbDlZZzlJU0FNRWdUVy0yenQxLVJVclE1YnBQb2loOWJkb0VISjROVGlJLU5NRnZwbV9aMG9FZXBzc3dhNk9uS3gyeUJhX3owemtMei1mLUxMT2xNR0E?oc=5",
+    "publishedAt": "2026-10-02T14:43:23.000Z",
+    "collectedAt": "2026-10-02T23:30:24.487Z"
+  },
+  {
+    "id": "58b6468d33bf2632e5f3ac8a09a3034ba8a41551",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "WAPA Attorney Faces Sanctions After Missed Deadlines - stthomassource.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd0I1aDZMeEp2UlZVd3k4bDdmcGdPUEVWcUNMc0JHWnppSEZzaExPMXdScWpPdWhMQlRvWEpDem5TNFFsODMtZU8wc3k0cGVQSThUTUVSa1BLb21yMnlLYWNhZXFSUFR4UUpfSUNfMDRhNkNXOGN3YzVQQmp4aTVqRlZGNzdKdFJzeDFkQ0RzVW8yWVV4M2pEeTc3Y3JMbEtC?oc=5",
+    "publishedAt": "2026-10-02T22:06:18.000Z",
+    "collectedAt": "2026-10-02T23:30:24.488Z"
+  },
+  {
+    "id": "1781692fe33ce8e6dc2cdf5a8e90dbf33f0d8a7b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Japan imposes new sanctions on Russia: 33 companies, individuals and shadow fleet vessels blacklisted - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTk8tT0w1YndSRVNBcG9sem5pUFo0clJOR2lzWHhwY0J0T05ndWVfZjFRT0lTZUJSQ1NuaENydUt4UnJmNXVSelkxMEdmWjhrYnJvZmt0dGczSUtoUzVCdTdsSzJCcFl5Um1xaWFnOWV1c2toejVLX05LUzFxa1VoclVvMXBwTThZaUJrVXZ3YjBwY29z?oc=5",
+    "publishedAt": "2026-10-02T12:44:00.000Z",
+    "collectedAt": "2026-10-02T23:30:24.488Z"
   }
 ]
