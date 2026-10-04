@@ -428,5 +428,164 @@
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PQXBNRkh4TVFvb3JBdUlQcWxfdG5MbmlsU3BmSTE0dEYwVTNHZjhSeXR0OXZxc2FCYmhEYnprTVVVTjlJTUhhR3JXZEk5TkVucXgtRFM1VE41UQ?oc=5",
     "publishedAt": "2026-10-04T13:23:02.000Z",
     "collectedAt": "2026-10-04T16:18:56.528Z"
+  },
+  {
+    "id": "1d9c90516d656b0cefdddcf9257167f93cf97612",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "[조승현 연구위원] 보조금 부정수급 근절, 금융권 자금세탁방지(AML) 기법에서 답을 찾다 - 핀테크투데이",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Qd0hKRkxwNW43WXg3bEVkNlRYd3U3M0gzMmxFd0RwZl8xU3R0alpILWhKNGw0eVdsMXZPMjQtbjdOZml5V2hGWXNRb2hWa0gxZVJEWmtjZmF2UV9hb29jQVdFZ0tXWHNtQW0wa2lWQdIBc0FVX3lxTE5IaEduSS1GVGZuUVR5dS1XV0NHcUZYbUR1N1V6aXNDaTdwS1VoR1otcnA1NHl5aXBNRUctNjdHLTVFUkJPSDFTTU5LeVN4VXUyZ2xMWGhfVGFKMS1iMmc0WHM0Y1lFdnBROXAyRzRfWS1NdVk?oc=5",
+    "publishedAt": "2026-09-21T02:47:56.000Z",
+    "collectedAt": "2026-10-04T22:40:04.053Z"
+  },
+  {
+    "id": "0105b9309a63d38721ca95d11ff77a5fd5e8325f",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "[크립토Now] FIU \"가상자산 규제 차익 우려…국제 공조 강화해야\" - 매일경제TV",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52WDdLWUpmWWx1VE81Z2ViYWxVQ044Q1lvTDFYUUcydFBNTlVVbXhMZTBZWFRSOExDdDhXdDZ3allBVmFCWFc3MTVZWDh0SVBFWGlMUVFWVDFoQzJDNnBkLTcxWHhUU19x?oc=5",
+    "publishedAt": "2026-06-22T07:00:00.000Z",
+    "collectedAt": "2026-10-04T22:40:04.029Z"
+  },
+  {
+    "id": "74a257ef68d2db47fb43fd50e711837821351439",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AUSTRAC begins AML/CTF crackdown as broker obligations remain unclear - brokerdaily.au",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSTVKQmtLMWlUbEp1SjMtSWo2dVJ1QnZuVEl5UnNxVjV5QTJyQnFxd0t5WUZoRDhHcmFVSTJEZ2RoRWpnUmxUbXAtaFRqa1BsSUVNbXJGM1lVbHk4U2pFS1E2Q0ptOU93aFNiQ2VNRWxjNlZpckQ3ZWZxbUdyT05DbEdhT0RZRHc0UTB2TG1lWm1DMzBRamxfTUo1UWJDZ2IwelpLXzVJeGJYcm1sNG9pU1pkUQ?oc=5",
+    "publishedAt": "2026-10-04T19:30:32.000Z",
+    "collectedAt": "2026-10-04T22:40:04.092Z",
+    "translation": {
+      "titleKo": "AUSTRAC, 브로커 의무가 여전히 불분명한 가운데 AML/CTF 단속 시작 - brokerdaily.au",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b18dd85d94bfafe21372e89fe35b4d4eb706a080",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Shorter Course of Venetoclax Misses Noninferiority Bar in AML - AJMC",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM2FwR0RQT0RWcGltdU41WGdNQWtrYzVZdk5vOFNWR3BPMmVkS0g4MnIwRWhHbEtkRl9xRWpzR1ZNd0xrcVFXdjFzMFlsZ05aTkFFejJ4VHdmd3V0RVo4bk5nekxpRUtyeTM0OW04QmRqUnJmTHJWYklpaFFyRmVJWW55LUp4NmQxY2NPeEFZVXM?oc=5",
+    "publishedAt": "2026-08-19T07:00:00.000Z",
+    "collectedAt": "2026-10-04T22:40:04.092Z",
+    "translation": {
+      "titleKo": "베네토클락스의 더 짧은 치료 과정, AML에서 비열등성 기준에 미달 - AJMC",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "00b95b22034a429a8cc1f0b42eb39980bf263bcf",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN narrows beneficial ownership information reporting requirements - mcdermottlaw.com",
+    "snippet": "",
+    "keywords": [
+      "FinCEN",
+      "beneficial ownership"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnpWVkF2WG1xWngybVc2Umo3d0tVTG5DSWtiUTMyT1dXZm96bFlTM2VDSlVkTl9mMzVZQzJfUDR2SUNLSTR6WXk4Tk94T1VnX1NRc21mYjRjSkRBNGI2U2oyV0Rld0Q3VWtnX1FKZGkzS3J3NERzU1hZR1A2WnA3WFFDMnNVTGlta3JVOWFUaVdzdkxTeEtWak1wX3dFUjZTcHV0RnQxbjhOUnBSUmc?oc=5",
+    "publishedAt": "2026-08-15T00:29:53.000Z",
+    "collectedAt": "2026-10-04T22:40:04.114Z",
+    "translation": {
+      "titleKo": "FinCEN, 실소유자 정보 보고 요건 축소 - mcdermottlaw.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b2642b266900aa754fad1fa94d9524f3864da41a",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Permanently Ends CTA Beneficial Ownership Reporting Requirements for U.S. Persons and U.S. Entities - Dorsey & Whitney",
+    "snippet": "",
+    "keywords": [
+      "FinCEN",
+      "beneficial ownership"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnlQbktsQW82VENGREM0OU5WWGVnYUJqamdKdDFUWVF0QmhRRFFZaWdRQ3RwOFp4V01xMHNRQUNxXzh3cHZtVW5WRnlRYzd4NERGTzNULUpfWGJJeG5ZOXloaWpqaW54eEhVS0RVZFFwams5UVJnTzBhS250YVVsNmRNUXhYWUlnODVwYzZ3?oc=5",
+    "publishedAt": "2026-08-28T01:23:12.000Z",
+    "collectedAt": "2026-10-04T22:40:04.114Z",
+    "translation": {
+      "titleKo": "FinCEN, 미국인 및 미국 법인에 대한 CTA 실소유자 보고 요건 영구 종료 - Dorsey & Whitney",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c3b152630e40f2ba5d7f0ed27dbee42de81301e4",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Modernizing AML/CFT: FinCEN Proposes Fundamental Reforms to Program Requirements - Jones Day",
+    "snippet": "",
+    "keywords": [
+      "AML",
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ3VhMHVLOW50UE4wRGxKQ3ozU2J6dXQtMTRtcnBhYzFQQ2IxNnJDWF9GbWFFLVc2UFdRMFM5NlFGYXVTUDR2aW5CT0FELVp1aXlMdlNFM3FsWFdkd2JSaFhzZDRmdWJfOVRzbUhkY3k0ekZNOXlqNGdLQld2M0hYRkZ0MC1FY0tfV0wxUXJIc1JadThMX0FVNXVwa0k5R20yblNkaGJrbGxLN1ByYmllMlp4cXZJQkRHbjIzcjlmaTI?oc=5",
+    "publishedAt": "2026-05-04T16:09:39.000Z",
+    "collectedAt": "2026-10-04T22:40:04.115Z",
+    "translation": {
+      "titleKo": "AML/CFT 현대화: FinCEN, 프로그램 요건에 대한 근본적 개혁 제안 - Jones Day",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c06f1784597217aaf7a16e49611ac8ea84826b60",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Elliot Anderson among 4 Manchester City stars Liverpool could raid amid sanctions threat - Rush The Kop",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNLUZTRG13SDlFZXB0THQzMmVRV3h1TVNuaGJaYkpua3Fvb0o0UWdOVnp6UUliQm0xZU5uM3k4anN2dGRvWXpZZU50Qkc4Ui0xMVFlVUtwSmlWVG5mU3cyUDBwRGlYWUpaMUtaQVlYa2dzWWJSTkdhMFl1amRVd1dkZWNvSm9ScWtKOUJabEJua1l2SFd6RVJ5czRoNVBIalJCT1hpdi1icTQwT0RNcVZlTktwdDlpNzJuNlZKNFdrUUV3YjBRVnRBdmJ0Nnk3c1VmQ2NFUHV6LU1YcEw1NlJ0cFYwZm81dUZNUzZ3ZjVkbDlhMjJ3aHFjUEVUbmx3c1lZdlFkZ2tOMERHZmhUU3NENE5pWXJQN3duNlo2N2pLcmVpODJENmc?oc=5",
+    "publishedAt": "2026-10-04T20:40:36.000Z",
+    "collectedAt": "2026-10-04T22:40:04.078Z",
+    "translation": {
+      "titleKo": "제재 위협 속에 리버풀이 영입을 시도할 수 있는 맨체스터 시티 스타 4명에 엘리엇 앤더슨 포함 - Rush The Kop",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "abdff64ab658d899508ce2be1d72185b42603eab",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions Against Russia Are in Doubt — U.S. Officials Explain Trump's Position - UA.NEWS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMTZDUkNqa2pCa3ZicnhUMHNwR2l1cTRvb2JwQUxvOHVUSGRjS3k5bDVnRnViUy00ZGd4Ylo4OXlvdDVuX1NMUlBtbVRDaFpScG84MWhWT3ZTeWZMRGVkTXJSdlQ1Q2RiUUJfaGlzVWtUTlp1REQxSURxMFUxWDFHcDdidk9fVlZSZHNpUGFXVjlsM2QzV0E?oc=5",
+    "publishedAt": "2026-10-04T18:32:28.000Z",
+    "collectedAt": "2026-10-04T22:40:04.078Z",
+    "translation": {
+      "titleKo": "대러시아 제재에 대한 의문 제기 — 미국 당국자들, 트럼프의 입장 설명 - UA.NEWS",
+      "snippetKo": ""
+    }
   }
 ]
