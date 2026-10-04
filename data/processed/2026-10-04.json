@@ -357,5 +357,76 @@
       "titleKo": "호주, 테러 자금 조달 제재 목록에 “아부 마리암 알-아우스트랄리” 재등재 - ANHA",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "d15c1eb411414cc2921fe80417162fdb4ea7dacd",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "VIP 고객을 위한 자금세탁 감시 시스템 이해; 500kV 핵심 전기 장비 최초 생산. - Vietnam.vn",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjA2eVl0Z25YVGtkVUdPdHN5QXB5VU9Pa1NKR0xwM1M2UWdXMjlFMl9fc0pEbGR6alhGbnhjYmJSS000aUlyeVhTZmk1RThBcWw0cHJCUjEtN3BkOW1xb2pBcHZnTURWWWZhc3B2NnZ4UklfT21hVGNnZ3RDYUQ1UUZRVGtQQ09IdXN3bnBsYnRhNEtaZHg0QlMxZVc3c2lETW10SmZmbUhLT3VKNDZ6eEFQS3g?oc=5",
+    "publishedAt": "2026-10-04T09:11:08.000Z",
+    "collectedAt": "2026-10-04T16:18:56.496Z"
+  },
+  {
+    "id": "592ab408aaf1fb649b1eeda8b846d21566538174",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "FIU, 금융권 AML 전면 강화…AI로 의심거래 잡고 전담조직 늘린다 - 메트로신문",
+    "snippet": "",
+    "keywords": [
+      "FIU",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1acmxSZnE3VU9za2Q4NXRvWDc3eEF1OGhNTW1mdU80eGEyY1owOHVZa1JPYW1rZjg4WjAzV0pRRWJwSTJVRmRRVHRXZEYza3N6Nkt3eldZZlBlRjVWVEVuUg?oc=5",
+    "publishedAt": "2026-08-27T05:30:22.000Z",
+    "collectedAt": "2026-10-04T16:18:56.521Z"
+  },
+  {
+    "id": "a2c77c5ef962b188d58b42ac3bf90cb4c3512898",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU countries shoot themselves in the foot when they veto sanctions - Financial Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlRtVGlCUl92Vk1TUHZJVmRseW9BQ0NERW9rcGNuUHFwS2tPNzg4WThPUGcyUHZYVk43S3lDcVVwckRHRllHbUV6Y3JFWmoxaG5FSWtPc0xYTHoxV1RZemJXZmhjb2c3cC01NlVzOW1JWmlCRXlsd01lNHFIX0VVeEdwQ0I?oc=5",
+    "publishedAt": "2026-10-04T11:00:08.000Z",
+    "collectedAt": "2026-10-04T16:18:56.527Z"
+  },
+  {
+    "id": "770337383f374f63591b99862720f5a22cf4a057",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "North Korea, Russia evade U.N. sanctions to buttress Moscow’s drone - Indo-Pacific Defense FORUM",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzVENFA4ZE56b0c1VDZaaHhwZWpOUW1ZX3YtOHlPbTN3dEdUTVFzZEtfYmpCX2FOajhkVHBUTkN2SGpJTnBlS0ZiVURjemdmckVSQnFpVXRMMTdmY1NNR3dDaVdaRExlR0tDbVVzcUJ6cVVDQVZ5Y05Od015N3JyZWhsUURpeFF3S3lUaVhRU2xvZU92V2tFcWRpOTY1OEMtNWc?oc=5",
+    "publishedAt": "2026-10-04T14:00:48.000Z",
+    "collectedAt": "2026-10-04T16:18:56.527Z"
+  },
+  {
+    "id": "bb8cbbf5f6178e5ad79d354da3d3e4e1e3c0184c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war - Cryptonews.net",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PQXBNRkh4TVFvb3JBdUlQcWxfdG5MbmlsU3BmSTE0dEYwVTNHZjhSeXR0OXZxc2FCYmhEYnprTVVVTjlJTUhhR3JXZEk5TkVucXgtRFM1VE41UQ?oc=5",
+    "publishedAt": "2026-10-04T13:23:02.000Z",
+    "collectedAt": "2026-10-04T16:18:56.528Z"
   }
 ]
