@@ -1371,5 +1371,868 @@
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWWt5Q0tpOXJlbE9KbTRoQnNUb0N4TDMtZ3FYckkzV2tDdDR3eUNCVHRfbWRyUWpNMmhVdkFqZGpIOTJ0SE93Y21ZZmtLNng0VWlqLUlIallxX1d4TUZla05MWkMzRkFtOE1LdkF6SlQtblFVTjY3NHlCcjJydGlNcmJ3?oc=5",
     "publishedAt": "2026-10-12T08:51:00.000Z",
     "collectedAt": "2026-10-12T11:35:10.399Z"
+  },
+  {
+    "id": "1b2e0b664e4497fdbfcf666f7a2eab8fb73473de",
+    "source": "OCCRP Money Laundering",
+    "category": "investigative",
+    "lang": "en",
+    "title": "EU Blacklists Nearly 1,600 in Russian Defense Firms and Executives",
+    "snippet": "The EU’s largest-ever round of sanctions listings targets key suppliers of components used in Russian weapons, particularly ballistic missiles deployed against Ukraine.",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://www.occrp.org/en/news/eu-blacklists-nearly-1600-in-russian-defense-firms-and-executives",
+    "publishedAt": "2026-10-12T17:50:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.785Z"
+  },
+  {
+    "id": "d76ee753da3052044acad7825b5cc8cf119e315b",
+    "source": "OCCRP Money Laundering",
+    "category": "investigative",
+    "lang": "en",
+    "title": "A Chinese Auto Giant Sponsors Portugal's National Football Team. Its Trucks Are Used by Russia to Attack Ukraine.",
+    "snippet": "The Portuguese Football Federations said its sponsorship deal with China’s Changan Automobile went through a “tight” compliance process. Reporters found that the Russian military uses Changan trucks to launch drone strikes against Ukraine.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.occrp.org/en/scoop/a-chinese-auto-giant-sponsors-portugals-national-football-team-its-trucks-are-used-by-russia-to-attack-ukraine",
+    "publishedAt": "2026-10-12T15:00:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.785Z"
+  },
+  {
+    "id": "74f35695c5c413e35c8f609d3f8dcdab0e5c9f8e",
+    "source": "OCCRP Money Laundering",
+    "category": "investigative",
+    "lang": "en",
+    "title": "Hungarian Ad Agency Got Millions From Firm Owned by Orban’s Billionaire Friend",
+    "snippet": "The Hungarian political advertising agency Megafon received about $12 million from a construction company owned by a friend of former Prime Minister Viktor Orbán. After years promoting the government, the ad firm appears to have ceased activities since Orbán’s dramatic loss in April.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.occrp.org/en/news/hungarian-ad-agency-got-millions-from-firm-owned-by-orbans-billionaire-friend",
+    "publishedAt": "2026-10-12T12:07:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.785Z"
+  },
+  {
+    "id": "1b2e0b664e4497fdbfcf666f7a2eab8fb73473de",
+    "source": "OCCRP Sanctions",
+    "category": "investigative",
+    "lang": "en",
+    "title": "EU Blacklists Nearly 1,600 in Russian Defense Firms and Executives",
+    "snippet": "The EU’s largest-ever round of sanctions listings targets key suppliers of components used in Russian weapons, particularly ballistic missiles deployed against Ukraine.",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://www.occrp.org/en/news/eu-blacklists-nearly-1600-in-russian-defense-firms-and-executives",
+    "publishedAt": "2026-10-12T17:50:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.794Z"
+  },
+  {
+    "id": "d76ee753da3052044acad7825b5cc8cf119e315b",
+    "source": "OCCRP Sanctions",
+    "category": "investigative",
+    "lang": "en",
+    "title": "A Chinese Auto Giant Sponsors Portugal's National Football Team. Its Trucks Are Used by Russia to Attack Ukraine.",
+    "snippet": "The Portuguese Football Federations said its sponsorship deal with China’s Changan Automobile went through a “tight” compliance process. Reporters found that the Russian military uses Changan trucks to launch drone strikes against Ukraine.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.occrp.org/en/scoop/a-chinese-auto-giant-sponsors-portugals-national-football-team-its-trucks-are-used-by-russia-to-attack-ukraine",
+    "publishedAt": "2026-10-12T15:00:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.794Z"
+  },
+  {
+    "id": "74f35695c5c413e35c8f609d3f8dcdab0e5c9f8e",
+    "source": "OCCRP Sanctions",
+    "category": "investigative",
+    "lang": "en",
+    "title": "Hungarian Ad Agency Got Millions From Firm Owned by Orban’s Billionaire Friend",
+    "snippet": "The Hungarian political advertising agency Megafon received about $12 million from a construction company owned by a friend of former Prime Minister Viktor Orbán. After years promoting the government, the ad firm appears to have ceased activities since Orbán’s dramatic loss in April.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.occrp.org/en/news/hungarian-ad-agency-got-millions-from-firm-owned-by-orbans-billionaire-friend",
+    "publishedAt": "2026-10-12T12:07:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.794Z"
+  },
+  {
+    "id": "aee0e873d57deb01c569f2d243147c3398da194f",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "자금세탁, 테러자금 조달 및 대량살상무기 확산 자금 조달의 예방 및 퇴치 강화에 관한 2026년 9월 11일자 총리 지침 제34/CT-TTg호에 대한 정보를 배포합니다. - Vietnam.vn",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "테러자금"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOOXlVbTJPNmlWODdWVjJsQjdLNGVETUd5REQ4MHM4TlZiM19vWWRhNUNTbTE2Tk9LdFVZTkhuVzJta2QzTGhrTnd5Y3ROVC1lTDFCWW5BYzM4OVg2bDNLaC1sbHh6akd1NERVblBzVS1VcnhhUzdBa1NUMFpFVmZFOG9pSS1IbW44dWVCai02TXEySnYtaFNRTXVwdFBrcGN5QjZuWGI1cWNmeDNjckwwZDJjY29ERDRWcXJEM1F1SjdlbkV4RWUxMW9JRHNvR0VKS2Z6OUxhYnUydlE2WG1qRTVVdnN3dXN6LXl1b21OOEZTUFkzT182YWR6QVljOWRBM3FBUDVIcjdLclY2NVFjR0QzYjUxN0hmZDFBcUJ5YW1mMUpabk9xTVBRNmFUdllheTIxMFdNcE8?oc=5",
+    "publishedAt": "2026-10-07T04:22:33.000Z",
+    "collectedAt": "2026-10-12T20:46:29.749Z"
+  },
+  {
+    "id": "92908838056a315db01572502fc12af19ecc9391",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "인터넷 물품 사기 조직 자금 세탁 일당 8명 구속 송치 - 노컷뉴스",
+    "snippet": "",
+    "keywords": [
+      "자금 세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sWkNRbDZaVF82NEJ0ZFlqR2RVZDZ4d2s0b3R2OEVvWFFQTlBfNDlvczFUcGxFd0N6WlFMc0JLblR5Zm83ekhYUElQNmxQbGZwbGc?oc=5",
+    "publishedAt": "2026-10-01T07:00:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.750Z"
+  },
+  {
+    "id": "9400bdbf7b08f9a3f5d9e7c3dd50b71b5d38965f",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "FIU “한국, 현금·가상자산 자금세탁 위험도 높다” - 헤럴드경제",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "FIU",
+      "가상자산 자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrQUhuZFh0X0o0MGlLQ09aaElrVExwOHRpWW1jTW9nS205RUZNUWhDd3NyOHVQNl9pVWhuVEJQaTBYLUpLcjNxcUZLUzRueEM0NVJlRVln?oc=5",
+    "publishedAt": "2026-03-23T07:00:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.832Z"
+  },
+  {
+    "id": "28c1b0f1588e627ba1cb37c2a97565a4f84e3057",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "American Express Fined $350m Over AML Failures - Banking Exchange",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQnk2YWZ0WlJNUVdpTWRtU0lpMTBXTG1NOTNXVHRkMVpXRmY3VkNpczlZMFhRLXg2QlhqTXdmN3haUHo2SGowa3YtSHZuREIyZ25pMFAtOUlnLUZHWTJVV1BoajJraEpEUHFWaDJ0RmN1M2hiMDNQNEh6WkFkRmE2YmpGYTlDeWhkYlB6UEtEaFZLMWlXM2MteklrVlE1YjQ?oc=5",
+    "publishedAt": "2026-10-12T13:21:16.000Z",
+    "collectedAt": "2026-10-12T20:46:29.821Z"
+  },
+  {
+    "id": "814c1863de3ec68dfc81fd3da7f8f8f3c8fc1f8f",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "LATEST: FATF to consult on information sharing standards, President reveals - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML",
+      "FATF"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc1lxeFV4bjVHcXJWQ2I5dXRlbWE5WWcxWEI5b3o0eFk3UGZFenpaYWNCVVpmd3dJQ3JYclBlbHEtc0MtN1RpTXJRMGRtYlZjTEU4TkpyenpEdk9YLXp5eHFwX1pMUGZkenFHSm9PQnExNDZRcjVETFFoaHJhYzFmb1Jkb3hrS19sTm53M1N5TTQ2eUVnM3BQQ0ltRWRiV3FhaHc3UjRYc1ZxdTBnbmlhRTVRVUQ?oc=5",
+    "publishedAt": "2026-10-12T17:38:36.000Z",
+    "collectedAt": "2026-10-12T20:46:29.821Z"
+  },
+  {
+    "id": "4e7666d0a9afe91981d0c7a951b8192a5e1748fc",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Unit21 and Corelation Bring AI-Native Fraud Prevention and AML Monitoring to Credit Unions on Keystone - The National Law Review",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZTRpSV9rVi1DREJxYkNXVTkxRWllOC1wX0tST1JSYVREdmZpRDNZeXBrX3lxYzdoZmVHM1dKMV9paHpRWV9KTXhtQW9mTm5QVFU4RTNDdUdKbmhFRXRNMEluVGpzODhVMkEyalRGd3FaR2dTZTI4QTJHbHFYd3ZldlVqb2RrVmhNQ2xnOERpSEt6Q3RBa2hneXU2anFFamRTTW9ZREF3X05NcVlmZGtWb25hbw?oc=5",
+    "publishedAt": "2026-10-12T12:30:33.000Z",
+    "collectedAt": "2026-10-12T20:46:29.821Z"
+  },
+  {
+    "id": "60b1b2fcf0ec7dbc0e286d23642d7fb4f2825eb1",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Chipscreen Biosciences Announced NMPA Approval of IND for CS43158, an AML Candidate Discovered via the AI-enabled Chemical Genomics Platform - 01net",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUzJVeFAxMUJwbnVadGk3RU9wbDF3ZjVWSmY4NFo4R2ZHV211X2U3UWdYSUx3TUlGNE9zcWI3a1hVaVVyemFqYTdjN25FVVh5TGc1VkQxRkNJc3lCVUJCZHFpYVJodGZDQ1FQSEl6NE1OcXBKcmpNZmJqXzhVU25CU3ROY2xoM19NN3JhdUMyNWQxaTFCaUhwaHNmWTlSWTlFVUFWYTBCM2wycURLdkxVV3M0bzRrMFptSnV4TkhEcHJZV2d3aTM1MUVpeVp3eGxYSWRteVdKbVNtbF9LZUxpNlRXMzlncVFyMGN4MkRhQUFKQnc?oc=5",
+    "publishedAt": "2026-10-12T18:11:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.821Z"
+  },
+  {
+    "id": "803e58cf0bb55c62691226d81877a7c7be1d1f55",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Withdraws Two Crypto-Related Proposed Rules - JD Supra",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdTJYeld1d3FCZ2htWmg4cjQ5QWVlTC1PbmpBUGRJWXVlWWJ2d25LdVVNc2sxeFdTV2szMUk5UlZNUlAyVHpXTVdZLUFCbExkdURHTVpJMXpGNERiMmkyT1Y4X0l4clBEVl95UEtSRHBlZDNSdklTNldHR3Zhb1FYWGl0Z3o?oc=5",
+    "publishedAt": "2026-10-12T18:53:32.000Z",
+    "collectedAt": "2026-10-12T20:46:29.860Z"
+  },
+  {
+    "id": "91af6d83c74f9736caf16a4aa4093a633e39cd6a",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN withdraws proposed convertible virtual currency mixing special measure and unhosted wallet reporting rule - JD Supra",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUGlQUXJNSm9XczZZRFliRk9xU3hjQjZMc3ZEVGNhbkkxcm8taVJZSlFlZWJsVFZRczRWYy16TjZYWXh2SFYzdXY2ZGpmUGxVUDdvYzlaNGlwSEtPcmU3d1dyTlJjTUFjdExqdHZpUGhEVjEzVFF2Q3lKNFZWTXR4OU9BTkFzY0E?oc=5",
+    "publishedAt": "2026-10-12T17:58:03.000Z",
+    "collectedAt": "2026-10-12T20:46:29.861Z"
+  },
+  {
+    "id": "8dda522aa4d6f7abd82a58e322a0c00c33076eda",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Permanently Ends Enforcement of Beneficial Ownership Reporting Requirements – For Now - JD Supra",
+    "snippet": "",
+    "keywords": [
+      "FinCEN",
+      "beneficial ownership"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzhXb0M3RjBWRjNYVHZkd0FKbEQzcnUwSlRwWWtZMk5LbWg5cW1rT0tCUnVRNUhuN2ppTG5kU1BDb3BkM1FVdU5nUVpscUIxam5uMjJ4ZkZON1dNelVWLU1QNnlUSE10LU9IZmVaWkVYYjVmRlVCRnowZmc2V09maEhBMVpSdGFV?oc=5",
+    "publishedAt": "2026-09-08T07:00:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.862Z"
+  },
+  {
+    "id": "524235071361ba4fcff6fa624063585d41b35ab9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals - Al Jazeera",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRG1HQUhkZXVQNnlVX2lncldfd2lGQWd6UEdNcWtFRmR4SVZPNW9kSHY0LXhyMWJGTXZjbWRseGZqY0I5eEEtRjJ2YTktcE94M1ZEWkpqbFpzNmMtMnRETlF1a256SkVlSXBrZF9IR1hIcy1Xd3RkaDJSSGpiMHl3akdCbDdObDFQTjBpUjRmOXM2SGtPTWNrSTdUdy1UbzZQUkVvYnlBcVDSAa4BQVVfeXFMTTRHWjZ3aUotTExWNThqTk1tM24zWndPbVRLS3dRLVlrRHNyTkQ4ODZXRHlpYWszbVdSRWp5U0tmZnZDd18tT1RJR01JLXJvUE4yczJrajFnSkNPbVBab3FPNjg5a21FeW5MLTVsbU9FOE5KZTNKSXNjb01SM3p3QWdDMzhaTXZnTkE0M183eW5YQmt0V0F2YnlOLVFJeHpkWENJakdISWFVNVNLczVR?oc=5",
+    "publishedAt": "2026-10-12T18:55:10.000Z",
+    "collectedAt": "2026-10-12T20:46:29.841Z"
+  },
+  {
+    "id": "5c6e4fccef3dc135d99bac20dcb038cf49068453",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened - The Guardian",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNHIyNlZnb1hFbVV2WFZoY1FCUG1ySjRtNXdzdXFBTzVIOGdBOE1iV0lLZXZjdzJ1aWpXN1M5aE5oU3hMaFEtM3gyb2x0S1VWNWtzSndnOGF0eDRJbkhQWmhkTGZXM1hybXpzUTluLTVEN281Q2NqRXJPNjQwazNYOHduNVd0cDB4WjZWRDhQbEpTS2xpZ1Z6Nk5pbkxoaXhSdU9YbWdObUpTTXRBVHMwVEJlMXV1a1dVYnRRQXczdUVyU2I4QU5wNlB4dFp3YW00OTFsblFtY2lnX05WNE9fenJ3?oc=5",
+    "publishedAt": "2026-10-09T07:34:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "41e5b9ece23ff17116fa9d8a179cf0eb884bf2cc",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia’s war of aggression against Ukraine: EU agrees largest-ever package of listings targeting almost 1600 individuals and entities in Russia’s military-industrial complex - Consilium.europa.eu",
+    "snippet": "",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPWHNlczJqY1VHMDg3NEFKaXNMTkN5eVJSdXB5VE5ZR21CRWpoYm1GeVVLVkl2VjkzUk15RGtEZXRKMG80ZlQ0elBzSWR2M1Z4MmItR2p4WVQyZk43SHFYNGZ5c0JodTFxVmdVTU52VzhWM0tGSHZjcFdZUVE0Sl9td2dnd1BoUUN3R3RzbFAtRWwzUk01d1VsUzg3Q0RzLUowY1ZibnBYbjZnaUFnclFuREw5S2ljajB4UU9qWWRFWXpITUE3a0k5enh2X2JQSEFBSkZadmpZRDVuZy01UGR1bWY0Vk9CenJ5LUhRV0ZjaWljaXhsWjJvS0VnbEU1SUhQcWdUOXBHWkRncWRXZXY2end4MmM3TEZfQlpEZ2ZneTRhU25NX3B2LVl3Nzk4dkJxa2o4NFJjYTVTejBwRFZXRGFNc01BNG9RaU1sZHgwTFpQZXB3Y0RUa00yWEE?oc=5",
+    "publishedAt": "2026-10-12T10:37:33.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "2b07811be684ab3619650ec62fa9ca93bfa11e1d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "China says sanctions on Latin American ministers over Taiwan ties 'a warning to others' - Courthouse News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbHJTOUF0WWY1S2FMR0ZHZlRHeF9UVlNMOWFjRTkxa3U5WDhUMVZhVzdpREdUVlN1aGdqalpaaEVIdEx2YmQ0RHRmeGJwSUFBRUtxT1lDNnhwNGw2bW85czVMWHE2UklJYk9BbkJPR0VVUUJyZUVvZnpJaWFIdjhfc092NjhSWGhaUnlMMUhpeUFXcUt1djNUX0hkQk5abE43U1h1Y3RZNW4tRmhLM0RlMXY5WGVJMmdT?oc=5",
+    "publishedAt": "2026-10-12T16:43:28.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "0e055ae1bf3884e089bcce56e3046518344212c6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions in a Snap: Developments in Sanctions September 2026 - JD Supra",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVF6bUI3WV9qY05PZENNdk9KNVlkU0dNWnNMblJPcHNPM2JZVTlfX09ybjBUM0d2SElWS2NER2V5Qm1QZGtNTkhBWFZfUVdmN0M2QnBjUlMwbmpfNmhWb2V4aTYtZzhLN0F4cks1ZW5zaTZ3dDRaQWxIMDRXRG1RTVh3X3M?oc=5",
+    "publishedAt": "2026-10-12T14:32:44.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "c98b9c45254b16167b5f8ca1b0120d4887d65efb",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Joint statement: States Must Act Now to Protect the International Criminal Court from Unlawful US Sanctions - The International Commission of Jurists - ICJ",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWW9Jd1hHYkFYbTVEay05OHRLRks5SjZiTm53dTFrSTBRTndsbDdhVFNReGlOS2ZDZU15RmVmYUk1Y0s0aERGczZFZ0dET3NySFJtdDVaWmpoNEplRzRoaHZLbHc3clhxUHVpS2JoMXlsY0xfQ1Z2U0o4dlNhU3hZQjdmMkpIeGZkTGgwbUJud1lOTjY0VWlfTXRLU2ZJQU9SellxX1MyeHpJM2ZURlVhRlZsUmhoQlJabEZzRk93aHplRGNBV2c?oc=5",
+    "publishedAt": "2026-10-12T13:30:02.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "d03810834682cfe96ba45b899aa5d7bd3e5affba",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU approves biggest Russia sanctions package since invasion began - POLITICO.eu",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcUxaYjU5S3ZjUkhlMHd1UlVxNnFjQTdwdmFnU0pKTllRWXlGNldMcWpLSDcwYzktOWR1a09hOG1GRm56ZmdXX2p3cXpXekFsNGp0cmo1dnQyMGVxbS14Y0YzdTdYaVVpYmZOQURtbGgxd3ZfaTFtcjZydnR5UjFVcUx0UUtnLW9BOEM5cE5zUjNoTnU3WDJCQzhFbGhjX3M?oc=5",
+    "publishedAt": "2026-10-12T14:52:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "cbe46c64893ad2cb66ed0f639b59b4d707a5f3ca",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU Hits Russian Military-Industrial Complex with 1,500 Sanctions in Record Rollout - Kharon",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsTF9PaGs2SzJLeUxrLVR1SlY1WHMzMHdrejNfX0lwM0ZJVFNQMVFUWVNqeUdOMGwtYVRjMUFqZ0dXaF9RNFNSQVpadGFVMlBhbE9nNVlBNjhoWjJpenJBODJqVmNPUm03RERfU0tBaGpvSWQ1SVE?oc=5",
+    "publishedAt": "2026-10-12T17:31:20.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "2bbeb610070ca300ab1c6a9364ac5340293a10d5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "DPRK: Council adds three individuals and four entities to sanctions lists over nuclear, missile programmes and Russia ties - Consilium.europa.eu",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQd3hZZEVKckJjWWVkUFE1UWowcUpQX1JZSzNFdVNzclUtZGhZTzVmemJUYVNWQ3ZkXzR6MHNmaE15QUh2dEQxak5oV18yVmVYblc1a3JuSXJ4dVBVSlBPMl85Q1lVT2s0U3VyZUtGTHlXWS1aekNseEFqMHdudVJRcHE5eVIzZk1ZZFMzWVVaY3NyLVZKZjI5OXUxckNkY3llemNDVWthSnVLZ1llcVlkbTdPcWxoOFdvTXJGQnMxRi0ydldrX0swUkN1YzVkOHlwVGt3d2VrMGw4WkZxT2RNaWhzT3pkRkt6aVh4YmVTM3FUa0pHa3MxajRYV0hFUERyNTh3NnNEV3drYjROSjB4QS0yU1VIcG8?oc=5",
+    "publishedAt": "2026-10-12T11:23:52.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "651698fdd86c4961fbfe86ecf4767cac8687003a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU: Fresh Russia sanctions over 'sham' elections in occupied Ukraine - upi",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdk52SlVwMzNJV3V4eUxZazBINE5CQW5XQ3JMNUhFbHNNN2pKWWVCZHluSGtaaTF3TGNrSWFPQ0FnYTNUYng2b25SekVrSFZiZkdHOTBIQjhaOVloWlNRRC1IOGd6cU1DMkg1cHpRSTNWX2RfN0xtdzZmdGF6WlRFRURaTkRrQWhod2RhQUJsZ0xwejlKcHVTMjcxUDktaFhzY25QaXNISWsza1ZQd3A4MjN2d9IBuAFBVV95cUxPWlhhaFJmRVNUQ3lkdnh5U3huQS1NZEVOSEpLaURXN2h6b0tsSHNvNWMwVS1wN2lZYXZsbVZuTndfMEMtUlFPeC1oT3BDVUpoc2lQZm1oNlNIMnZqaGpCbHBjVVRfYXoxUVJPNXhWLXhoUjA2ODRQQkhQNjc1N01QTEtZQllCN2lsenVfaHZTTFMwMHpybWJUZ0tOd2JjN056a2lOLVY0M2hsVzlLcnN1aW1qaUYxNXh6?oc=5",
+    "publishedAt": "2026-10-12T14:01:45.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "604127e28e5dd8daa103eee0333f2bf7e2310107",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "China sanctions Paraguay and Belize officials over ties with Taiwan - ABC News - Breaking News, Latest News and Videos",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1NrUmhiYzl3ZlJPMkR1ODhtLTc5QnlLTi01R0txcEpZcnk1RmU2eUlEb2MzOUxpTUstaS15clZPZW5ONUFkXzAtN1FVNm1KdDVEVk1QOXdyM2lySk1iVkhlcmcwc1lDV1dRWVo4dHBPOWh4aTBPOUdJeGsxWHBTM1JEUVBabklJeGNGU2taSEZTZFBwRTJZMkE0cEE3TmpiUGNZVl9kSzVYQlXSAbABQVVfeXFMUEt5WW5VNnpyNFEwRHc3bjd4SXlpUUNEZzBXNG1Mb0dLaWZvdnpKZXJOSGVxRmZrRmU4X2NmR3NJMi0xOWtKR0lMcHlQenh1cnVBQ0tkY3Jnb2ctYmk5VXFjXzB4TkhCLU1JUnJCcHh0Z0FpbWZhaWppTFVqREkxdWx0cnJsa1k0TUxoUW1Tdm16SVlpd2VnQnFWZWJNT29RU05SS2JPZ0FtcGtqOGZHeXA?oc=5",
+    "publishedAt": "2026-10-12T07:48:27.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "7636456b780cc0069e9811cd37b46a930cb97cdd",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Imposes Further Sanctions on ICC After Navi Pillay Wins Nobel Peace Prize - Democracy Now!",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX0tRVjEtazBOd0ZNeEZZLTNIaEpmc0htcVlrUXl2aE4wU04yUmFmdUVINHVQQ3FXRnp0SF9sN0p0ZXV2RHVRT2hUVGNZVEw4enFvOTFLc2xDVWV2T2RmVkpfSjlZeUJiLV9fdjl0UlU4T3N4T25jR1BtdThvbVlZNDBOd0FPZkk1VkhDZ2dqM0pqNklUYXprV080WGRzWllrQmlNY2xjWU1vUF9UX0l3NEpreV9BNE9yMUdjbFlXcFNYbEI0?oc=5",
+    "publishedAt": "2026-10-12T14:48:24.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "8045262524427670fad7f963f95399dd42f6f37e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Ticker: China’s carmakers export more; EU sanctions nearly 1,600 Russian people and firms - Boston Herald",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUDV3b3h3UWxGUTYydXhGWFFScFNtZldlQldDNmlWVDhDaGVwYTlvTUo4SkROem1qZDF5dkpnbHRiZmlmTXBpZWFCV2I3aTVEUWo5ZjRzRkYxdDBZb0ZjRlNpM2pwVWJIVkFOSWg4WXdDWVhPb1FMT2tMR2xWV3hqTG5nNkpfWmlYMVFOMFZnRU11eUowem5uMVBITkJndEhPdFg3RnNuaVd6YjZ0WUZ0Y2xMZnBtcy1MUzZvV0FlanJIaENl?oc=5",
+    "publishedAt": "2026-10-12T19:36:02.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "7606eabbce243d8a386fa26d90877b3a6d76e1ad",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU Targets Major Russian Shipyards in Sweeping Sanctions Expansion - gCaptain",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUDhiNTJPS0VDZDF2QjZlaHNQQW12Z2xQLXhMX3JpUmVkSS1BSDQ5Z1p3UXptOHhqOHNyZ1ZEVW5JUlIyNzUxT2Y4Rnc4M3J5eF83czFvdXd1OW5aQWs1WkVvZ1F2N1Q2UzBXLVllWTEzajdXTGR2bmhYblhLZmoxSEh3bXVseWFuOU85ZWtHSWE5QQ?oc=5",
+    "publishedAt": "2026-10-12T17:07:14.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "3cd02a8a50a0fd6d4b6696fb2391fb64e314dbc4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran Defense Candidate Asserts Sanctions Won’t Halt Missile Operations - IranWire",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3BsSDZBejJmVERCbXk0U0RqLXBZNWx0eXBVVnV6aVpMbnNUdmlXTENBeDJEdnQ2ZGhVNUVCQ21tNzhWUEd1QzQ4QUZWc1FZV1RkYmlKeFBzS2pxLWl0MUFKc091dTh5S3hGUlZySTJaTVpQbGJ4TDlBYU1LcTFTYTBOMjBHUWZQLWpWWW1UV1VmN09ia0dQdzUtSHdWc25rcEZYZXhnX2tZZw?oc=5",
+    "publishedAt": "2026-10-12T14:38:59.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "5347cdd6b16aa8c8abde66bf87e4a0d839654222",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU imposes sanctions on almost 1,600 Russians and companies linked to Russian arms industry - myMotherLode.com",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcm5wVTduNVdFSkFaS19OSi1lem03UlczMmxfUmVQSXI5eXBNSTNwb1pjbFJHVEtGM1EyYjIxbkJUUk5xOV9xaWxFOGhLa3Y0UG5zZkNvZUlPc29FSGN3ekdKTTFpVTR1Mk92M3c1WkJzcEdpWXNMWHd3S1lIYWxjbGwyNVJCRThLb0hQb05felc3OFM3RTA5SjFQUlJpcFNMY3ZfNDdMSTU3NTcxUjJ0ZHJBcVhzY2Vhek1NRkxVYkpuSy1zSWZldWo0Z3hNQ01iaC16aWdwb9IB3AFBVV95cUxOOWZ4VVNOMUtBZm9zZ3J3aFBLd1pxdTVlRFhZSTdIVWg5VDBhZTBJS1J1Tm9PTnlkSm9OdjJvaW9ieDJLUU9vYjhFWnpkSEN4amhxX05KNTdaTEUzUjQwTVZmVWR2cWNnR0lveXUyd0VDbERaWkllXzhBUVNmWU9LN29KR3VsdmFFWDhYd1EyVVAyZXJBSHptVTliSWFJd1cya1ZqbDJoR29XS1hiYWlHTmh4V1ZNaWZpMVlrekMwa29xYVlmTWlEa3l5S2x2a3JtLWI4ZXc0QTZScXJp?oc=5",
+    "publishedAt": "2026-10-12T11:11:11.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "b39d13b65a232c6c15de43229e285afa307008d9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The Waiver Is the Policy: What 19 October Will Reveal About Who Washington Really Sanctions - Modern Diplomacy",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa1B1b2hQWWdNbWNTVElGSTM2S0VYOWhnZW9zMncySUNYTzBpTVNaUk9SUWZEdkhxNkplLUp3bzU3N3hQclNwWGVpZzVnZ2NiWTRQMDYwSU94VFNCNko4a1NDdXJZUUl0STBYU3dJNmJ4UFhFdzlNT003YUQyYlJISE5qNjFTNUNaQVRlM3U5eFBmWXgtVkE?oc=5",
+    "publishedAt": "2026-10-12T18:11:59.000Z",
+    "collectedAt": "2026-10-12T20:46:29.842Z"
+  },
+  {
+    "id": "7cd2cff98d137262aefa46662fa9d95edbf6c6d7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions Make Well-Connected Middlemen Richer While Most Iranians Become Poorer - IranWire",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdk1pa1E5Vmo3VURaSjg4NnhaN3gxeE9YbTIyRjNoR1lHRXRmNDBtdTlsWkF6X25NNTNhNnp0TWRLdU1TVGVReEhZNm01N0VqQzZFZkhxMUtTSlBUTjl4MG1SWlNXNmplVVBPVzB6YkkwczBaajFlcEs2M1o0czhOcXhNaDIyb2dUYThkODd6TkVJTXpGc0t2WTg5NUZfZk94cWk5YzJ0Rkp5T0UwWWdmb2dhd0JoampSLVZ1R2RB?oc=5",
+    "publishedAt": "2026-10-12T12:25:46.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "de362346ecca1fde2d7cd57b6847bd54d2dac1a6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU sanctions affect almost 1,600 Russian people and firms linked to arms industry - European Interest",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzJRT3lQTW1wbkZRazVaaWhMUEEzT2JLcThRN0t5MUR0Qk00cy0yV0NaQ2pPanpVWl9iMmZLLVFFdUJ3NU5sRUVfeUd2NXVHbWxXS0l1cnNNaDBKVWd4VHBMalFDWVE0V1lkeEN0Z2R0NUp2cEtpUkZYV3pqYXFkRFlvbDBkYjdHcWFxRExHN1dod2NEZFdCRm9lZUxGNG1JOUlXUmlFU3JhMFZud05pc0RrZw?oc=5",
+    "publishedAt": "2026-10-12T19:22:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "95f088649adf780e776942365372fadaaf9572c6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU Expands Sanctions on North Korea and Russian Firms Over Growing Military and Economic Ties - UNITED24 Media",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR0tyUU94OEwyQmw2LTM0THRMRndjUEptMHRBTzgwVFk1OHI5MkVwZVdaUWRVM0VSTjB6RXhXWUhIaFdWU0dObHdjVTNOS3VhcThXTDNBbUIxN1R0dENZV3A0Q0ZpWEtiNHRpU09BdWxCLW0wSEFWZXFPMnlzRDl5aUxNNlJDRGpWc0o2ZnpHSGM4MnotWUE3b2hZOGVrSTFheFZPZFpPSVJFRi1DcnVkdjk4RGRZOElobWtVMG03aWtlck5UTUdxTmcxVQ?oc=5",
+    "publishedAt": "2026-10-12T15:40:15.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "ac620b0e19b0e9327db47d4d4ec309d491b214a4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Raiffeisen Stock And European Banks Facing Russia Sanctions Pressure - Yahoo Finance",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSDhXVEpCN3hSSThYU1Z6amFUSmZKWVJZdlQ4dzJ6eTMwbV9wZXRIeXcxRmFjS1Z1VVdwZWQ5ejBqT1dPTVVpZkJJX1U4NjVQY3E4elBPM2s3cmVucjBfeG96NWFSOUI1NmNnSExLb2haYkRuUUpoQmFHSW5TQ0pFeFM2cWxwUTR5ZGdJRWRmejZfdklQenJZdEhjNUpxYkNIOGxRTWF3?oc=5",
+    "publishedAt": "2026-10-12T11:10:05.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "640c22077fa328a63b8ab257cc046cd2d0fc33f5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US ICC sanctions ‘an attack on international legal order’ - University of Reading",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONVNzbnI1U094T1kyc0J2bjM5dFByaE9qb1VxdDV3MXZaWDhKdUozb2tqQ0ZNRWZQbHpYNVU2Y3ZEMktXS0hKcVVyeTNzV2dxU3JVV1lrRDNQQmZJM3l5aXpRN0JKRjMyRnQ4M095U1A3NkRWWVFjVnVHdVhvd09pQjV6MGY1SWJadDdSX1NTUFl1VnRtYmp6alJuNA?oc=5",
+    "publishedAt": "2026-10-12T12:34:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "800c4d6d232be4e5ff8ee0d9bc9c72cdeeca6344",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU Adopts Record Sanctions Expansion Targeting 1.6K Russian Defense Firms and Executives - The Moscow Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORHh1TXh0cnNocjFvcFREeTBoVHFNeUIxZUR3a2JOU1NzVVZQTEwxUWJtSmRnc2k4QkcwT2psZk5uNXl0U2JaWlNpUktkTEFVZzV2VC1tclhuVkNGaGl2M0MzdFNweXJlM3RKUmM2TFFuN1k4ZjMwZEV2MkVGc3BOU1lELWJoWnFoWEEyb0swOUk4cDJvNGNIZXdqWkVabU5Vb1VJRDE4TEQxMnVOVDVWdGpmM2FKZjhpQVhGbnpXRk5ZS0dtS1ozelhRb29tb3ViQXc?oc=5",
+    "publishedAt": "2026-10-12T13:33:28.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "282ad6e85bcdac54f35039ba88e14eeb7cd5866b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Kallas Calls for Greater US–EU Coordination on Russia Sanctions - Hungarian Conservative",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWxvZlNNVEtjNllaY3gzVDRRWk5XQmo5Y0t2OFdwTE1OeW9SZXJDVnk0OWRTczFWS3lCYjhocWZUX2ZYM1dsOVk0ZmNuTU9pUU13WWVuRGZLM215UXNSZnhyU195ODNDZ2VLRDFvT2gzLU5OZGtRcVB1NEVya2RnZE9fdTNmaThjZzFEdl9jMjl5SlRIc1BNd2hpYmktNXg3dHZqTl9WRjB5ZUstOGJxOEE4Qlk?oc=5",
+    "publishedAt": "2026-10-12T13:04:39.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "a2c40c89f0c56c22ce26c34ea7de113369641d08",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Germany Rejects Easing Russia Sanctions After Trump-Putin Diesel Deal - UNITED24 Media",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTkNGME50Nk9LbGNSd01vUmxNUXJ4WWVKenY5UmF3UlVKN2RZd3VUT29QVEM1UG5kaFRQOWZJX2Y3OE5McGpqb29RRG1fVGF0VkhlREY3aHpmQ0pPZERDQUlOY3RNU0I5M2tTdlRyWi1vZG9scTg1cVhfaTNQNFp1eVNiX3g1R0FXX2M0aE1KZE1jWXBCcDM2LVJOVTd0US1MOHk5VnhrdkNacE0?oc=5",
+    "publishedAt": "2026-10-12T15:52:13.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "765d99573490a77e3cf0a49233248b07c8350f39",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU Foreign Ministers Adopt Nearly 1,600 Sanctions Listings Targeting Russia’s Military-Industrial Complex - NewsCord",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSGdPLWJKenhtZUFmN1VWaXczWDJjSTRfRThBdnF0ZGVxUDlabWIxd0p0YU93UGVXd2xTb1BhaDVwYXM4S2x6OFk2NjZFWHBqeHdSVi1QY2RFRXVMMFVmN2xaMGxLUExObGdFX0NZencydlhySUNwRjlmUS1xY3BoaExnRk9GU1ZMNFk5ZUFzaTN0R2xjRHBNZndUTDM4ajZ6bUJoN1Z1OGJoSFhxVkpkVkYxOTBrWDJKLWxWeGxENUpSYTV6eVBqZGtDRWx6dXBEY1M4azFGTENpQQ?oc=5",
+    "publishedAt": "2026-10-12T14:06:07.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "258f179d4e0619cb7cf35694a9ba044eb577ba16",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU Leaders Fear US-Russia Diesel Deal Will Erode Sanctions - Energy Intelligence",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Lay1wYkVrZV9HdkYxVkYxeWFnamFnZC1vMEZILTBuMFpUOGhwb0I5RkFUN3JaZi02T1pnN2s3NXdvdmN0TXgtbFAxS283X2J3MEMxa2dBbW1rWHRLX0NiMm5lVTcyOWpvOHhZUEhrM1FDZw?oc=5",
+    "publishedAt": "2026-10-12T17:01:42.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "bdcb8f8c5fb5be186c43eca206d13693df81b7ef",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Ukraine imposes sanctions against another Belarusian company - Belsat",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcGc5M3dUcy1YRjFRQkhGMjBacTViMkxsNTV4R3lYSWhlX3h2bkxxb0hxd1VzZVlKZUR4YUFwV0xJdHlVUGpfeDVlemFRN09Rc0JLWWo0dWR5RWVRcmtjbTI5Y0k1cnY1SXl2UVNhRlExSkF5SDZOS0JkbWNnRnJJeFlkOG5XUVNhdkZFSi1Pd1NfM2Vr?oc=5",
+    "publishedAt": "2026-10-12T10:38:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "f388dbefac518ab367e523b7f3b14dadf7f5f137",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Taiwan condemns China over sanctions on ministers of diplomatic allies - Focus Taiwan",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUdjYyeG1pSDVCM25kaHFFazBPRWVvTWFUWV9LWHJNVEhpLUpLdEVYbmdsQjNHQUViSDhBVkhacHZreG1ESlFsZ2JfREZ0a0s3UDUxaHdNaw?oc=5",
+    "publishedAt": "2026-10-12T11:44:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "623f16b49b277ea445a3c8d3ed1834f315a2a4aa",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "China sanctions Paraguayan, Belizean ministers over Taiwan question, delivering explicit warning of ‘no bargaining over one-China principle’ - Global Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YOXNldlN1X0xhcnNJY3VfbnlKN3FFM19rX0FQZ3lKUzUxT3hKYW1SdDZSdy01SE00ZGlfX3FyNTM2TUo3QVN0YjgyODFISml3ckEzNkFINDNyc2lob0swNlN3?oc=5",
+    "publishedAt": "2026-10-12T14:13:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "a400201831cbd2f3374022d217f943be2314ad9b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK imposes new sanctions on Iran over RAF Fairford incident - Financial Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMk4xNGlvRVBCSGdyVmN6S1pPbWJUWTRFaFJ0WnJpWWhBUkVnN0JjVlFxQ3JqQTRORjFLcERTTHd4d2RXcGhiZms3eG1MR2hsaUN4Q245R2dNYXJqZTVXVUFIRWVZOXM3VjFjNEhvR3RMQS1VSVN2cFhObWVKYjR4SXJuRG8?oc=5",
+    "publishedAt": "2026-10-12T15:05:02.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "b33c86bc7627ad4b84272f3ad41dba0acd664d57",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "German chancellor rejects US-Russia diesel deal, demands tougher sanctions on Moscow - Anadolu Ajansı",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2dfWUREWDJQZUJFU0xFcFdCdzQ0YXl4TnFZZ0tLWU1GVk5tai1nS3BLY2pNQngweEZ5VnpHWmU3Y1lYZDhBeEFXeGNBa1pqY1NlMVlPWk5NaDdSdGg1NzVzSk1ZNVRETmxwemFvS0VtWGVmb0MxWndBbGdaUDBYbW5Id1d5X1dOVGlpNmNHelVSeUFpdDBiTlhUWWU5WVpIS3RsM1dWRnZfUlZyU0g0Z3hwWjJ0VU1vWXVmdUU5dXI?oc=5",
+    "publishedAt": "2026-10-12T12:40:44.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "c8ee5a4e5432658362c4af8bf35aa9a6fbb6d4a7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU approves largest expansion of sanctions list against Russia - Meduza",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2xyRUtyczl1R3dtUnlIbzhKWEZ2YlQ2dEdJa2s2RzV3OTB0dkV2NXRFWGZvbTh0VF9SckVMTy15WGVhb0lFWVdVOXo1Z2t0OXpzZGk0QVFZN1VwN1NZcXRLTzItT1dZZWZsQllpdUhsdUxqdDlMZ1RVY3ZPMi1zNktPX0p6VmZ1czRHR3BVQm9sV05VMUs1UTFDbWlHUms10gGmAUFVX3lxTE1PSVFDRlRvdVNGWmhlTnJoQW9CcFZtUEdZQ3dRWVV3THNYQndrSjhodzV2d0ZGU0dieDQ1MFNMbXJkMWE5S01JVFRxQk52VDl3UE5YS1lqVDQ4M2JEV3hKc0dxT21XYTBmNEpLWHRYellfaDlwLXpfV3Z5ZTNPczZFQTZmdVBIQ2c1ZmNLeW1jREVRZVE4N1NvWnZRYWxveDBTM2xKY3c?oc=5",
+    "publishedAt": "2026-10-12T14:41:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "6dd7b084fe9bd5bd444fe35e85e28fedd5ca480b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU Hits Russia With 1,646 New Sanctions Listings [2026] - https://tech-insider.org/",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qSzcyQWp4VnhlS2ZCVzQxQWQ0bkpWdTExOFVLRHk0cTdmclhXNDZkN2h0MHFHenBDR3B4WURaSnV5Y3ZOenRFcjI1MzhjOUlqVjRXZm1nbUxYX01Qd1N0R04xWU55LU1veHE0Mk5uWG1IUQ?oc=5",
+    "publishedAt": "2026-10-12T09:25:47.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "c777d61b5384dfbcbf593f191a8b8258cbaf32be",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "New EU sanctions target Russian ballistic missile makers - TVP World",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWFREbk92Q1gxQnpuVTEwaDAyTnhySlltR3ZEOUw4ZGVDNUhCYkVwT0liT2YxTnV2SjRDamRFQ3lkdnNzdnIzQms4bHNfX0pjYkJMV0g0TTIxWEMxaFhha2xTUjYtUTljMDNFTEF3VDhtY2lsUXVlcG9XQjNONEhYTVZLeC13TjZyWGdyRzY3UHRaNXM?oc=5",
+    "publishedAt": "2026-10-12T13:16:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "2e9e8ab28c028a3c12018335115a653eddd96953",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU sanctions nearly 1,600 Russian people and firms linked to drone and missile parts - The Killeen Daily Herald",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTnhlU0FLaE5ydk93UWtfejRJaU9RU2h6QXdjYWJLUGRfY3Z0M1hGU0NoM3RDWWVvWU5sOVJjajFvVlBpcFpyTm9hcks5OE1UblY1ZTlqSDlZX2ZMbER4Y1U0V0NwcERUQng1RkNHZ2V6bXR6eFRqdlpKNV9ZeWRRUUNxcU50d2lXOUJIS3pubUo2aTQ2OHVhLURQVVFkVFZ6MUpHWGVjOFRVRWNKeW9PZTM5VXRqdU1HckxhbVVYakhwOGlyZVRoeXZtdDdjd1hBOGtzemJlT3YxbzJ5S2xKRWQ5Y0VNa2VyVkxzUlhORzVybFAwMjVlUA?oc=5",
+    "publishedAt": "2026-10-12T11:03:28.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "541ca67a30525bd6ace5992dbb3fc1dee0b18574",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU Targets 1,646 People and Entities in Biggest Sanctions Expansion Against Russia Since 2022 - Kyiv Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmMUp6SWE3S0U0QjZwWk5DekIwcWl4eUNWVjBaakE4Vi1pSmpYWmVCc2ZEUnFxa0wxa2lDQU14Rm0xTDRrYnZYY3lsTQ?oc=5",
+    "publishedAt": "2026-10-12T12:47:24.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "050909564abf1d77c4287c6b5f7a74cf7cf31c75",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU seeks dialogue with U.S. to lift ICC sanctions within 6 months - NL Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1BVMVNWNUlrTWJROEZOMEF1dFpwNXlqSHV3MENxTDM2ZWJ4LWJROHF2OUhGSXVEU1VMa3VsUjZJSUxBWF9GYTRuR19HQVRMX2ZyUXBYa3B3TzVFS0VtaVVJeGhUejgwMVNial9mNVJGd2h4ZHZpM2tPaGVxX0RJXzFwZEljS0tIWE9vR09n?oc=5",
+    "publishedAt": "2026-10-12T17:30:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "56c5473fabb0baaabf7e81cdab31c59c017988c7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The Daily View: China’s answer to sanctions is not Russia’s shadow fleet - Lloyd's List",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUlQbDBOLWNDUkxIaXF4VXZiRVJ6aGpzcmRZNVZjRU9JMkxWWUNDNjZ5TFpUZmRSYTNOREdFZ3J5OHhFMUpMMEZNNDdSanNtYWNSa2Q2X0N6bGJhMTFmbzhHcFQ3SlZkSWNLd3BHT3E1b1NLNDJ5WEJnU3QtcDBVdXZKOVVsWkh4WEdOczZ2UFZxaGE0VktsQTlOZ1paNUhIQWZpZlBQMzdfZw?oc=5",
+    "publishedAt": "2026-10-12T16:47:57.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "8d25a820a38d8f70f14578eb00047f859c063fd4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Europe Vows to Maintain Russia Sanctions Despite Trump Deal - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUGVGaHAwWGJtYkxLbTRhYzFOUlF0TTVLRWxqdnluWUpsMGN3VVlKSm1SbnJYUmNEdEVkN0RfdmliNmdYX2pGQlp4MGhxOEVUNjdyNDlub0EtOEtWWWx3SV9aSG9XSmt1bWZMZmwtUlBrandVZ3RDeThCek4zeVNKOXVISWNQRnRsSmFmVXhPcDh3Q0RITnpqTFFQX1Uwdw?oc=5",
+    "publishedAt": "2026-10-12T19:28:45.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "f61bd05f771023003355473202cb5a3b0d4ef116",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "China targets Taiwan's allies with sanctions on Paraguay, Belize ministers - IntelliNews",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVm1qZGlHdXBGZ1lCM19KaVQ1MFBxXzY2Z1h6ZWRPT0RhVnNSQkJUYUFIS29sczUxRFFRZzNmajdDMjhqY2hhclA3THpmUllHVlhhYmZiVmlqZnU1V0s2a3ZrdG1jRlRlY2NfRmNlaDducjVWSGMtQnFmV1MxdWVVelVBcmN4ZXdrVDdEd2ZvWUtxakFVVC1RY3ctWmZ2M2lyaE9WNWFEZUpiVE43c01VV2VTVzd5eVNrUUZ0YnR3?oc=5",
+    "publishedAt": "2026-10-12T17:27:57.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "26c3af968eb55a53e059956a69ac225e58bb0dc7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Ukraine to Propose Sanctions on 10 More Russian Oligarchs After EU Drops Usmanov and Fridman - UNITED24 Media",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTjB3NjBzc2JoeDR4UmRVdFNmMHNKdFAzRm8wbW1vVlBiNDd3WFRqeFlTNk5zWldjQXdTcDBtSHd4LWxlVWRPdlE1Ulo2STRPY3NtZjNsR1NxN1JUM3RrbjlpRkNGUUhJM3VRaGtjSkJSRFVWOW1tQzI5S0pSNmlxTGd1Mk82a3BCWC1UTENBOGFuY09naXlKcGJXWGE2TzBZdkpBSWpfamJUd0lxeVBjSnhuSjNfZ1Y4YXNSUE9ZSFBrQ3hIYy1KSXJB?oc=5",
+    "publishedAt": "2026-10-12T14:52:43.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "573003971c38fbb951a2931abcb740c4f1bb80d1",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Video. EU decries Trump-Putin diesel deal, insists sanctions will continue - Euronews.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHZVRFI1M1ZWeER2Nk9XMzdFTl9jc3RoNkg0dFpTV2Q5dG8ySGoxWjVyc19keGNCN2JvcU5WSUk5UUNhQTNqOW5sOUlXdkJsWkxfWmlCbFRGNGlQcWtMT280Q1gxcUdqQzBfbHFsQkhteDBiNTNXZ0stUWlHLWNNam1OUVc2Q2x2NE5XaXl1N0h6VEQweXFkLVhtaG90SERBWE9KdnNTOUo0bm41a1RDSDRQRnJjTFZtNS03ZzhUaw?oc=5",
+    "publishedAt": "2026-10-12T08:37:10.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "6a230b330a1f11da56abb5fd77bca618354c59db",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU Approves 22nd Package of Anti-Russian Sanctions: Kallas - تسنیم",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFBMT2tiWFNJMnZtVzhZczZDRDJQWDA2aEpES0pTSzlaeXQtRGlUSmszQ0d3cHVIdXJEdUpiT2VvTHdjM0lVVU9mNmV4MC1RWmFBTFlQWlVGYnlHNk9YY0gzSTV6dU9iNWFzeElzZTlVeVlCVFMxRV80NHVxdXYwZS1WZGlfLVhiRm5BMi1CRm10RGY5STlDWldTQm9NX3VQWG1XeDF3WGNyQjFVVURz0gG0AUFVX3lxTE8zVWtjbWVOdnVMTkh0bjh5ZERQWFc5aHJmX0h4a0RXZGFmOFd0WC04ekZEbk02czZyNVpxV2c1V2tUcVFXYkJfaGZPT1VTUWdOUFhsa2N5MFpsMDlEaDd0SUN3OVFrbWhKOExuOWRQVzhUam1LZFd4TVAwUnY5YVNjTFM3NmFkZjl2ZXhMb0JmdjNQYVBVTmtXRE9NSEV6dEw4cFo2d1RNX1F5OHluNkI2cG5ERg?oc=5",
+    "publishedAt": "2026-10-12T13:16:15.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
+  },
+  {
+    "id": "b773bbc542c3f00561f3426a18ab75a288690f6e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "‘Direct assault on accountability’: CenterLaw hits US’ sanctions vs ICC - Inquirer.net",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZGxUbUxKaTdhNXhvMkNuOGlfaGJETDh0ZHJ4Q192Qk5zYjNuUk82SllTdXU4cEdWYlVuQXZzQmVwUDQwMTR4emZ6YTNRUVVvNElqN2JUTGtaN0doSEhPWWV0dXd6a1lEQkZ0aENKNnNIR2NTTEF1ODh2cXFSOFpLRVo4SlBrVXd3NEtSR05KVEdmZVVTQ205blBJaXMwdVVFTElsczdIdG5uZ0Zk0gGyAUFVX3lxTFBnS1k3VFZqWGVLUjVqTExNYzZzUUNmZEU1ZWJoUnByeUk0OEhseG5qSlJwVHY5a19MZHNUbC00eWU0VGJMaHZhZXN6VkFkc0h3QThOVnBMdmE1UXhEdkpRUUZ6S0tzbU1fb1J4VUZKT3ZSeXluM3RBYjhYaEFQWFFJUGI5QjBhMzdZdG8ta1ZaRnd6OVZPbTQzbU1FWFB5VzB3U2R2eERlQ3pXcUhueGp6RWc?oc=5",
+    "publishedAt": "2026-10-12T16:41:00.000Z",
+    "collectedAt": "2026-10-12T20:46:29.843Z"
   }
 ]
