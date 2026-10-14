@@ -1553,5 +1553,824 @@
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYk0zNGxET0hqMmU4aXlHb251Vm1SdEx0OGhmWXREMmhrY0YzMVp0X241UGdjM3huZWlVcER5ay1teE80d3p5X0JiX3ctbXh2bnZoX1FISVlJTFNLam0wQ2stZnBhdmxHUVJ5aUd2cHNCN1l2d1kxUTR1WG1DWVlWaQ?oc=5",
     "publishedAt": "2026-10-14T04:45:34.000Z",
     "collectedAt": "2026-10-14T09:13:07.711Z"
+  },
+  {
+    "id": "62373ec8b53a829f0bf665736eac623a117bf072",
+    "source": "파이낸셜뉴스 증권",
+    "category": "domestic",
+    "lang": "ko",
+    "title": "한주에이알티 회계처리 위반…금융위 \"매출 부풀려\"",
+    "snippet": "[파이낸셜뉴스] 코스닥 상장사 한주에이알티가 2021~2023년 매출·매출원가 등을 허위 계상하고 외부감사를 방해한 사실이 적발돼 제재를 받았다. 금융위원회는 14일 증권선물위원회가 한주에이알티에 감사인지정 3년을 의결하고, 전 대표이사 등 3명에게 해임 또는 면직 권고 상당 조치를 내렸다고 밝혔다. 회사와 전 대표이사 등 4명은 수사기관에 고발하기로 했다. 과징금은 금융위가 추후 최종 결정한다. 한주에이알티는 허위 세금계산서를 주고받는 등의 방법으로 매출 및 매출원가 등을 2021년 123억9800만원, 2022년 99억8500만",
+    "keywords": [
+      "제재"
+    ],
+    "link": "https://www.fnnews.com/news/202610141759450572",
+    "publishedAt": "2026-10-14T09:16:35.000Z",
+    "collectedAt": "2026-10-14T16:21:11.958Z"
+  },
+  {
+    "id": "e39d49bd6c779e0956722df5c9dea17d0ede7438",
+    "source": "OCCRP Money Laundering",
+    "category": "investigative",
+    "lang": "en",
+    "title": "Bank of America Fined $1.21B Over AML Failures",
+    "snippet": "U.S. regulators imposed more than $1.21 billion in penalties on Bank of America over failures in its anti-money laundering controls and apparent sanctions violations. The bank admitted to willfully violating the Bank Secrecy Act and said it is investing billions of dollars to fix the problems.",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering",
+      "AML",
+      "sanctions"
+    ],
+    "link": "https://www.occrp.org/en/news/bank-of-america-fined-121b-over-aml-failures",
+    "publishedAt": "2026-10-14T11:29:00.000Z",
+    "collectedAt": "2026-10-14T16:21:11.987Z"
+  },
+  {
+    "id": "e40a6ad92e5f6af621213787e006567d9b5bfe94",
+    "source": "OCCRP Money Laundering",
+    "category": "investigative",
+    "lang": "en",
+    "title": "The Maldives Plans to Offer Residency to the World’s Ultra Rich – And Create Islands From Scratch to Do It",
+    "snippet": "The debt-distressed Maldives is poised to sell residency and luxury real estate on artificial islands, raising fears of a new offshore tax and money-laundering haven.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.occrp.org/en/feature/the-maldives-plans-to-offer-residency-to-the-worlds-ultra-rich-and-create-islands-from-scratch-to-do-it",
+    "publishedAt": "2026-10-14T09:05:00.000Z",
+    "collectedAt": "2026-10-14T16:21:11.987Z"
+  },
+  {
+    "id": "e39d49bd6c779e0956722df5c9dea17d0ede7438",
+    "source": "OCCRP Sanctions",
+    "category": "investigative",
+    "lang": "en",
+    "title": "Bank of America Fined $1.21B Over AML Failures",
+    "snippet": "U.S. regulators imposed more than $1.21 billion in penalties on Bank of America over failures in its anti-money laundering controls and apparent sanctions violations. The bank admitted to willfully violating the Bank Secrecy Act and said it is investing billions of dollars to fix the problems.",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering",
+      "AML",
+      "sanctions"
+    ],
+    "link": "https://www.occrp.org/en/news/bank-of-america-fined-121b-over-aml-failures",
+    "publishedAt": "2026-10-14T11:29:00.000Z",
+    "collectedAt": "2026-10-14T16:21:11.976Z"
+  },
+  {
+    "id": "e40a6ad92e5f6af621213787e006567d9b5bfe94",
+    "source": "OCCRP Sanctions",
+    "category": "investigative",
+    "lang": "en",
+    "title": "The Maldives Plans to Offer Residency to the World’s Ultra Rich – And Create Islands From Scratch to Do It",
+    "snippet": "The debt-distressed Maldives is poised to sell residency and luxury real estate on artificial islands, raising fears of a new offshore tax and money-laundering haven.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.occrp.org/en/feature/the-maldives-plans-to-offer-residency-to-the-worlds-ultra-rich-and-create-islands-from-scratch-to-do-it",
+    "publishedAt": "2026-10-14T09:05:00.000Z",
+    "collectedAt": "2026-10-14T16:21:11.976Z"
+  },
+  {
+    "id": "42e3b40133a193b894fe97008777bed8783cd5cd",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "[미국 특징주] BofA 8.7% 급락… 자금세탁 감시 소홀로 12억달러 벌금 '직격탄' - 뉴스핌",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tdVc4aXhkQUpUVDRyd29aeGV5enFGYjMwd0xFSTVrZk9JaWVZN1lua2swX0pCNGwxWEdybDRQcmlOR0otNXhTczljdEdKLUFfOFNGbDBPc093Y0RL?oc=5",
+    "publishedAt": "2026-10-14T15:47:00.000Z",
+    "collectedAt": "2026-10-14T16:21:12.375Z"
+  },
+  {
+    "id": "a6097fec6ba8115d8730a9568a57a78ecba3ab85",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "\"美는 안보, 中은 자본 유출 방어\" 자금세탁 단속 고삐 죄는 양국, 불법 금융망 차단에 총력 - The Economy Korea",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yOEhmWGduLXR5UHR6akdFakZJc2FBMVl1UnU1THZkbnhSRlFfVC1UVHVBRzdlaThSTlpQNG1Tam4xam1fRlI2VFBPVm5MWXIzMzNnd0VRRmNwODg?oc=5",
+    "publishedAt": "2026-10-14T05:56:23.000Z",
+    "collectedAt": "2026-10-14T16:21:12.376Z"
+  },
+  {
+    "id": "94e2d4d151f2d2610eb46701ac7d6ec28139edbb",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융위, 내년 하반기 세종 이전…FIU도 함께 이동 - PRESS9",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01bVhqM0dqMl83M2Q1OURxLTQ2RXJTS2NFd1dkVkNwY0hxbUhqMmJnV1pkbWlKRm13aVNzNEJ5OG1ENWFhZTVCX3UxcGZldUNTRHNESDRTN2gtMWlpMktFQTRtOFBGUQ?oc=5",
+    "publishedAt": "2026-10-13T06:53:05.000Z",
+    "collectedAt": "2026-10-14T16:21:12.437Z"
+  },
+  {
+    "id": "7fc60ca46a41fce84ce86911ea5d662ddaccc367",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bank of America (BAC) Hit With Record $1.2 Billion AML Fine - Yahoo Finance",
+    "snippet": "Bank of America (BAC) Hit With Record $1.2 Billion AML Fine Yahoo Finance US Fines Bank of America $1.2 Billion, Alleging AML and Sanctions Violations PYMNTS.com Bank of America ordered to pay historic $1.2 billion over alleged sanctions law violations NBC News AML, Sanctions Breaches Catch Up to Bo",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering",
+      "AML",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVkRsRlhXSXRKNFNLMmM1NnBFdG5zZDZ2ZzRPWThNUG4wRVpyTUZvQVZpSk41bGFMWFNsUUN4VzBFQ0Z6b1FRNEhuMFY4SEFOMFphb3hhNnQwZUFLT1lfbzFOSlFHQnRac3VBTjJqTl9vbnVRREU5dHJxdkFiOU50bTNhNnpXQlJZMTFNaTBqSXlxSjl2TWtj?oc=5",
+    "publishedAt": "2026-10-14T12:14:08.000Z",
+    "collectedAt": "2026-10-14T16:21:12.614Z"
+  },
+  {
+    "id": "4ee67a57ba7c7463ba4da95caa6a3e0d66b45e9b",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "As Treasury overhauls AML rules, banks need a new measure of success - American Banker",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEpRSHFORTA4eHZaeWFpRElRaUJYUlV4MXB2dy1IZGUzX0huVFRVeXhQOHNpcUlQcFlobXhkZnE1MTlDcVRyUzdOcjJCbklvRkhtT1NZQTVaajdlVTNNTmhfQzBKZXcycWFqbUhGRnM0MThSWDJHSEhKbTlsQnNCZmVCekZtM3I3THptWjM0NmxMN2tDTmRiTUpsOFlDZ2ZfVWNaN0RCQ1NSQQ?oc=5",
+    "publishedAt": "2026-10-14T11:30:00.000Z",
+    "collectedAt": "2026-10-14T16:21:12.614Z"
+  },
+  {
+    "id": "98a48ebf8ebf43cbc2343f6bee3d9322e5515528",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bank Of America Penalized For More Than $1.21 Billion In AML, Sanction Violations - Family Wealth Report",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVWRjNUJ2XzVDUm9xR2ZkaGRYZDh2MlVCTlVUcmlhako4NVlfTHJNUktncEJ4dEV4OHVvNGRTbFFJcGRpT0lqMTV5T21YU21xUzNTQm1GM2ZrS3hGa09BUGd5dFNBcXVfeTNnNU1zUkoxNXROZzhUeng4UmVnRkd6NU93ZWdYeTZEakFTeWg0SEdsNTJxYWxQNnJNMjVHeDB5dzNoLV9mRlFONGFFZzJ5ZTZIYXpxYUV6ajQ3R2ZSU2tkU2Y5SE02SkpYX04?oc=5",
+    "publishedAt": "2026-10-14T11:52:17.000Z",
+    "collectedAt": "2026-10-14T16:21:12.614Z"
+  },
+  {
+    "id": "595e211f4c63c6d3df367c9572747fa44a53459f",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bank of America fined $1.2 billion over money laundering violations - CNBC",
+    "snippet": "",
+    "keywords": [
+      "money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUhsTGsxZGVaWDBvc1p3eGp2UE1IaU03VmFwLUxQVlFkdVhDSWhpZTZEenQtWDgxeUFuUlZQWUZ1cDg0UUZyeWxBaERkdTh3U3M0SFROT3k4OFVZQkNzWG12ZGJIWlREY1pqMS13WjNTZ0dQNDFWVzVwV0JHU2VuRXVteUzSAYoBQVVfeXFMT28tc1VERndMQ09XcmplYUJ0RFhNb0Vjc2tleXZZSUJyblpDWnBIQXY4aXNmWmJUQU9OcjJIbDdVdEpLSDBac2xIdm5BSTlWMG5VWEUxMHRyTjNDOTVacGhXVmV3OThSeVhtbE13eFA3YXlfRkpMdFRFdDlnWmhLMHdFZDhFeGd1QWZn?oc=5",
+    "publishedAt": "2026-10-13T20:09:06.000Z",
+    "collectedAt": "2026-10-14T16:21:12.614Z"
+  },
+  {
+    "id": "c1b0d28ec570af713f545834f34149a5326740c6",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "LATEST: Bank of America profit hurt by $1.2 billion AML fine - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWxSS0ZUbnEzQWZzNHdocEFTdjdlVXNpNWtXcWkzU2tzNFBkZ0JwRVRLQ1gxeDJ5VXJ2NThGdDdSdVJSSmZVa05tM1RnaFRzeDF2QWRRbDVHX2lXNTBHN25hRjRYRUluQU5PQWZnQzdvUXZjU3dWVlZjMWtKUUFybjMyWnVWVlRqaXZaaXlKTWVuN0tOX284UWYyTXhISV9V?oc=5",
+    "publishedAt": "2026-10-14T11:13:44.000Z",
+    "collectedAt": "2026-10-14T16:21:12.614Z"
+  },
+  {
+    "id": "4bcae4e77a1320825079a92c35b57c617deaca40",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BoA fined $1.2bn over \"egregious\" AML deficiencies - Finextra Research",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRHZIRHpSR3hBSjYwbi1LYnI0WTFXRVlZdmpxOHJ1V1hCMnBRdmpEVmowRi1TZnIxNUwxZm84aVo4dEJNSzNzSFk3OHhWVktGcHdTX0FCajlXVWU1czVSdlBVdC1ZN3g2RjF5MkJid2JsWDFGTmdfYzBTbzc0SWotb3lfb183MGNndzdnbE5aMTd0ajA?oc=5",
+    "publishedAt": "2026-10-14T10:25:34.000Z",
+    "collectedAt": "2026-10-14T16:21:12.614Z"
+  },
+  {
+    "id": "4253c3cdb0fc44c22a2e72df9e7a55d791449dd9",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bank of America hit with $1.2bn penalty for AML failures; Barclays plans re-entry into investment banking in India - The Banker",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wRGswa28tNllsa01qdG9Mb0VyMTVEaXlsLV9DV0tlQzFwS2hvSldBV0czN2FsX3d3b3hGMUJEaW5LR21qZXdRSXQ0eTR6NElxZGVwamNKQjh4YjBBWTdNRk0xZ216QjJnbGlGdWVMNS1kN2FDUk1hUjh3?oc=5",
+    "publishedAt": "2026-10-14T09:55:14.000Z",
+    "collectedAt": "2026-10-14T16:21:12.614Z"
+  },
+  {
+    "id": "fc586289fd4b000dda18216e5a515be3a71b7bf7",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "3 Compliance Tech Stocks In Focus After Bank Of America AML Fine - Simply Wall Street",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcUNCcU9vQWxPNnkzX1BKVU1ZMEhwbGZKcTlCWmpqaGZoT1VRdzkwaVJoSEVxZlE5Yy04NzUxV0dVMEQtZHJjdXRoUUhzVlgxZVBfaU9XUHZIT0d0X3VNa2xMQklRRkZKQ1B0eEVOXzBtV1d3NmxKYlZXYTRzN0VBc0NhdkdzRFQxOW9ZSldybWsyVzJBeHVFblRIOVpNYkJ5NWJ1Rmd6azJMbjV0dE5FcVpNRU85RklNOHdFSVZINzRBYnhiRTg5MzctTElDbW9YRU9BemRZTGF4ZGhjVFVZZzd1MDhXVnBw0gHuAUFVX3lxTE4yNzhrU09TNDFlcDE5YU1TamZaNm5nVzBxbUdGUGR3Qi1wLUNDZ003OWVpQm0wWnc4ZTNqOGd4VkxIZEh3RzJkcFZ6YmxydjVQQlMyOUpHN2h2WG4zRnRDeDMwcXVPZ2JnME1zMXBSa0dYRVU1ZGQ5Y05peDhZbXNVU25WZFhfTDZacmRmT2pxcWtFaVRORXcyT01Lb0puSDRfakJOUGktWGUySFlSeUJWRUVyVkVOUVRLTk96LXhXTFhVZk9PTDVrQkdDU3Q5UDEyOGpDZDBYaEdQaGlZR1BPMlVLNDc3SFEyRk5HMHc?oc=5",
+    "publishedAt": "2026-10-14T12:46:59.000Z",
+    "collectedAt": "2026-10-14T16:21:12.614Z"
+  },
+  {
+    "id": "aa70a6d90bf0b59d8280b0fb00691926c053f2ee",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "LATEST: Bank of America moves 1,000 staff to address AML failings after $1.2bn fine - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM181bXlpMUI5dmVhejRhTV92ZmpSWTdEZkVVa3IzenYwcTZpNWluRGt3WEFlQVhKamxaSFNNZnVBVWt6MlRETFhjSGhpOEJDN1o0WDN3cjRyUU16ZW5zVHM4VjEwV201Q3JHM21pS2FwdVk5WmFua0dJckNvbFEwd0xJb2p5RENURHVwUGV1aVQ5UlFQRjhPTUVzSHh4OHZzYXJBSy1fZEJ3UjZqME03WG9FVUhObkt1X2ZCUHZ3?oc=5",
+    "publishedAt": "2026-10-14T15:41:52.000Z",
+    "collectedAt": "2026-10-14T16:21:12.614Z"
+  },
+  {
+    "id": "82942ad098e43a77d8bdb8b482db740dd45b1ced",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BREAKING: Nine major US lenders unfairly engaged in ‘debanking’, watchdog finds - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSHlFM2NWaWRVT25xcVNqT2JnQ3JDMVhIeUk4V0I2cVpPSXFoSE5KTVdxd0J5elZuTFJONmVsamMySlNuTnhETDh2RHp4NXlOaUJFaHRUYmxuU1BublpCWVZkazA2dkpFN0phY3hkRk9yU0FrUlVkOTRlaGhNdFlZSHhyN3FzS3g2MzNyZVFabmRoWGNMZ2llTHBkdWRXZnE1MmFVUTVTV25PU3ZVNmNGYzEyS2tON0E?oc=5",
+    "publishedAt": "2026-10-14T12:23:54.000Z",
+    "collectedAt": "2026-10-14T16:21:12.614Z"
+  },
+  {
+    "id": "188f40d06fe6ef590251f55cbbd4a8b8655921b8",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "STING OPERATION: Canary Islands beekeeping chief guilty of subsidy fraud - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZmxWQjdYSmNDY203cEFnUm5nX1BmZ0djZnpnRGsxdVFCN0NyMUVidHNnMHVQMktkaGNHSzByZU1iTnN5QjVVZ0U0RjF1TnltYmdnalhlNzQ1Z1lwem9kSjkwa1RCMWhpczF3dGFldnphMlMxNjhuakZUSlItVmNaVTlZaFJWUldNZDg5MTE4NnV4dHljV0NxcXBfSkpZT1BwZ25Td2p5ZjJHWnlCNEJuMXBB?oc=5",
+    "publishedAt": "2026-10-14T14:26:15.000Z",
+    "collectedAt": "2026-10-14T16:21:12.614Z"
+  },
+  {
+    "id": "2bfc32a5c0a17379d3fc4ffad8d52ac39dab6045",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Amphista doses first patient in Phase I BRD9 degrader trial for AML - AllSci",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNS0wbW5uX0szbzNhOG9xQVhEUzlfcGJxZWgtb09lTm9nVHppcURTWDduMmFXSWc0NkxMeDNvVUQ0MGVQeDlabm5GeWRUYVpGRFFRTUwxN3lORjJoUllIZ2kwV3VmWUd4WnF4bEcxY0ZacXdIMmpILWd5eTBneUcwQ19IbzNiU2NUc285eTFjcF9IQQ?oc=5",
+    "publishedAt": "2026-10-13T15:10:28.000Z",
+    "collectedAt": "2026-10-14T16:21:12.614Z"
+  },
+  {
+    "id": "8e7d897ac3e2cc6978f995c3cf7be3ac5b265a1c",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bank of America fined $1.2bn for AML failings - Business & Accountancy Daily",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xWHhkTklGVHBGRV83MDhDc2JXblpNOWdBT0lKSFAtNHk4MDJyVENUZ1ZTcjRvYnRhQldyYk9xZ0tGSkV0RFg3cENMU2FYa0w2RVFsR3UyS3FzaGRCS3Z2aVczeFQtczM4U3E3aTJrbUgxYmFhcDVV?oc=5",
+    "publishedAt": "2026-10-14T14:35:10.000Z",
+    "collectedAt": "2026-10-14T16:21:12.614Z"
+  },
+  {
+    "id": "3f0c2bf1d7fe46b7499d2ee77c7a2f652956d8f5",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bank of America Fined $1.21 Billion Over Anti-Money Laundering Failures, Shares Fall - Quiver Quantitative",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYnU0TmhqNnBnc0RaTGFoTUM0Qlo1b21ibEpFX0MtelVLS0RmVTkycW9lSVRZcWlrc2Q0U1ktMElkN2xoUmFRNVducGhULVlaWWdMWG02bjhhVWhlVUd3c0RyLS1vVmRKbTRqXzJwTFFxRUYxTURQMFZzSGVXTFJHRURDZHliS2xEb0dSeUVZZlR3cTRPUTdQMUk0bmhCTzdGeW1FRHg1RzJzbkMyeWlBM1BJQ0k1M3dMQ0FZSUFn?oc=5",
+    "publishedAt": "2026-10-13T20:53:00.000Z",
+    "collectedAt": "2026-10-14T16:21:12.615Z"
+  },
+  {
+    "id": "73a1c1d7b1e8a7d5a9c9c09dd5b4694c5f9ab0c7",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FG Trains 100 On Anti-Money Laundering, Counter-Financing Terrorism - Channels Television",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVBpNnpxUmhDLXJ0Y2UxTXJuRmZLQTJhSUp2cXNXSEVwcEpBdktvaWxUZ0NxbnozQWRTRE5qenpMYzVDc2RPZHlDUlVZQUhfZ2gyQTZobFZvYktxaHZnTkRsUFpJWUZjWjRrcm9hUm1oQkhLWUQ1azA1WDdkbzFOM2NCbFZadVBIQU43MW5GQV81ZUlkcDNJQ19YQXZFX1hicF9QdjBnN2Q?oc=5",
+    "publishedAt": "2026-10-14T12:20:02.000Z",
+    "collectedAt": "2026-10-14T16:21:12.615Z"
+  },
+  {
+    "id": "ffe83d3864986d0f163c350f0b69e4e0ec70b703",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN clarifies use of mobile driver’s licences in bank onboarding - FinTech Global",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdnJrVUJpa3dzN2E4T3dFaERoaGVZMFZjNmtkX2w0MDladVBKZVBPMjdZVVNGc29FcUVqYmtnSEI4aU1PUldEbk1Nanl0M0FBTFBIZnZGUWFDcUQ3QnBZaXVRMUFlWHM3c2FFTlVIbjNRd2EyajVpSnFQeTRrSkJ4MDFoRXJlVmE5X2szaUZkMV92Rm1aUlYtQXBkQnF3X2Ruel9V?oc=5",
+    "publishedAt": "2026-10-14T10:29:41.000Z",
+    "collectedAt": "2026-10-14T16:21:12.444Z"
+  },
+  {
+    "id": "4ad8e3db615a326b0f349393d01603d4ef05b743",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Analyzes Human Smuggling SARs - ACAMS",
+    "snippet": "",
+    "keywords": [
+      "FinCEN",
+      "SAR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhYXJ0bmRZZXRNSnZoQUhVa2JIUVVySEVaWjBOVlJ5c19NTHpQSTJjU1RCQjZNWVV3LXE5WDZVOVR3dHJySHdSZE0zaktDTDFXT1pIZHNoY2JXOXlDbndKczBXMzZXMnZieXJkOHExNzBGRzVZ?oc=5",
+    "publishedAt": "2026-08-14T07:00:00.000Z",
+    "collectedAt": "2026-10-14T16:21:12.445Z"
+  },
+  {
+    "id": "47f77a8ac4a7491bc223f6aa58e6b80a03711859",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US lifts sanctions on head of Venezuela legislature - Reuters",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVXFnM3A0T3lJeVdPVnZrVlZHT3l6dlBUbjZkZGdmYTd4NTFkZEE1TkpOVkNxaXpoZVBiQUNSNWhrRGl4cXZxS2VWeHN5aVVfbEpSR2doM0xwR1JiZHA5VjdkLVhrVHhBMTlNQmQ1ZGNOSGd1bDhFOEFFQlpveFRpcG43MUZ1OEwwWGxqeXFrLUNwakUxOTU5R19rZEFTQQ?oc=5",
+    "publishedAt": "2026-10-14T14:39:45.000Z",
+    "collectedAt": "2026-10-14T16:21:12.408Z"
+  },
+  {
+    "id": "bc71d2231ea9162220fffa0adc54aa711bbcb669",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Lifts Sanctions on Venezuela’s Top Lawmaker as Relations Thaw - Bloomberg.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOazhhdGZDbDRkc2k2RjZRTmxfa0J1NlV4cTU4eGNfMWljaDlTd2pnLVFRa2J1ZDdOWEJoMDdMSlFzS3NuQXhkb2lINUVlNDhJZjhfbURhYXJyVXBOTDJjbWc4WVlxcnVOVERuZ3JZNE9YWVVIRW1zd3RhQV9DVF9lMkNvMnRoRHgzZXhrQmpueGpZY1VCMGpiM3BhcjJlTThjbFdpbUg5LWs2QWpWangxOU01YjVqZw?oc=5",
+    "publishedAt": "2026-10-14T14:20:42.000Z",
+    "collectedAt": "2026-10-14T16:21:12.408Z"
+  },
+  {
+    "id": "12a8995d6af533fda353f2b7525654b3a45fcb15",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Britain Goes “Further and Faster” With 5,000 Missiles and New Sanctions for Ukraine - UNITED24 Media",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd05qSHFlbjdYdFZBalVSWnFDbXR6STNhRU5rOURzZDFRNHlpYWxmWUFRZXppMkl0NWNKZE9QLUN2b0EtMWhFT05WSGxwaGpGLUhFeDlnMlJ0NHphSlhUMDgxSTRKSTIzZ2c5STRkM3dmVWxNMjE3cnI3WGVaeU9RZnFMQkEzd3J1NXl3V083LU1KNXNfTnJwZHd0dHQyYmtqMmNjWVdTWFVqYUJqNWtCRzVXZTlRd0JqcUE?oc=5",
+    "publishedAt": "2026-10-14T11:28:07.000Z",
+    "collectedAt": "2026-10-14T16:21:12.408Z"
+  },
+  {
+    "id": "e88772d49e3e99a749bd3c29a022b4433a53b268",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.K. Sanctions Cryptomus for RU Money Laundering - Krebs on Security",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEliUkhCMHk0akh2VTJvYWg4a3dmYU4tejlMQWtnM2RLMG1ncEZuVDdvN1pTd3lwZnIzN2JHV0FmeDVPZGZrX3g0TnNGdWdNMVpyemRGU3M5M0pSOWRQWjVqV19jbS16NFJ3anJVb3hOQjRoRHozRjFsaHY3eDF0VXd3YlhYZmV1c2NSdA?oc=5",
+    "publishedAt": "2026-10-14T14:30:47.000Z",
+    "collectedAt": "2026-10-14T16:21:12.408Z"
+  },
+  {
+    "id": "c318a338686332887e63b4435c2b31eae30eb206",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Following the Adoption of a UN Security Council Resolution on Haiti Sanctions - United States Mission to the United Nations (.gov)",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXFjekZJTV9RSk4xa3lyMEJJeG8xbWl3d1ZMd1FhWEVEelpVUjI4eGpGWDMtanhlU05zRjdneWtRQUMtZk00MWRYNS1VdjgtT0phejZ0bHlBemo0OHFnTy1nU1ZmSXR4YjRHeDZVLUJfOE1ibFV1T25OdmV2RTBOME83RkNaajU3cEpoZ2lZc3NVS1I2UXZIU2l2VXdKRmJ4MnpDYnNCYTM?oc=5",
+    "publishedAt": "2026-10-14T14:36:56.000Z",
+    "collectedAt": "2026-10-14T16:21:12.408Z"
+  },
+  {
+    "id": "b475d3f371f8ab25ed064c2b23964022d2a480aa",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Administration Imposes Sweeping Sanctions on the International Criminal Court, Threatening Global Justice and Civil Society - Charity & Security Network",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb2xqcWNQYWhxeWtWVFlGbnl2NzY1bVBvWnpndldkVHlDR1VSUG5TZURkSkM3QUhmc2FGcF9lRTBGend4VVc3ZFAxa0ttQkFLQkNHWDJ2WGxYQU1VbnBQMms4X1pHUUNYMHAwVmd6TkVKV25GNG45OVdMbWZEazBBTm00RDNnQ3JEX0NhemlQSFFFRlNLUEtrWmV3dzdqTDJRbU84b0QtNlRzWmFVb1p5cUpPX1dxYnFDVGhUZTBWQ3J4bDJId2tBYldPRzlKcDVfazhraTdLcnY1bjFjd2dwY0x4WmMxb3dVbW16TEVGSDl6UVhyNGdwVQ?oc=5",
+    "publishedAt": "2026-10-14T14:24:51.000Z",
+    "collectedAt": "2026-10-14T16:21:12.408Z"
+  },
+  {
+    "id": "1b294f7393303144cf27359de8f960b0045ae725",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU must shield ICC from US sanctions – European Institutions Office - European Institutions Office",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3SDlxQXpVdmNlVUZWSXdoQUdqV2tZLWRNMkYteHlGaDJyNFpERkp0OURvNDBXVXE4QmdoQjZ4TUozcUxPbFBtOVhRb2pTX05XOXowUmctalhDeGVhNHhvczlMSWRUNWlldmR5ZzdMa0JWelE?oc=5",
+    "publishedAt": "2026-10-14T15:01:12.000Z",
+    "collectedAt": "2026-10-14T16:21:12.409Z"
+  },
+  {
+    "id": "656f5ea19965746114c03f183a968bbdaf64bf1c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Reimposed Sanctions Raise Questions Over Iran's Nuclear Program - Legis1",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GUC03S1BYWHRITVJLUC1aczdxRzJNb1U0ZW1kT2xrVUVYblRHWkhFX1U1VlczVjZEdkIwblpxaHZPUEZVSEhDbFp5aHh1QlpOaWVlMlVzNl9WenRVZVBIWlhwUjNScGpHNDhkdWZCd0JZSnlB?oc=5",
+    "publishedAt": "2026-10-14T14:44:04.000Z",
+    "collectedAt": "2026-10-14T16:21:12.409Z"
+  },
+  {
+    "id": "9633976e30fca9de5069f532937f08743788a264",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The Morning Risk Report: Bank of America to Pay $1.2 Billion to Settle Violations of Money Laundering, Sanctions Laws - WSJ",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaTdQMkNEdjdvMnNPM2xIYzRIejU4WVVBWFliMElFTGdham1QajNKalo0Z1Y0b0s1RFUxdFR6VFVabmk2TDczd1hBYThxcFJyT0EzZHpYMGZkVUowSC1zMTBmZ2N4NW5sUVlTVW9GLVF2SXVnbXVIWm5lZmt1ek16T2tBdC13NjlLQS15bURoNXV5X0xES0hVVjZ0ZVdzRnRXMVJya3c1ejlvbXpVeVdtQ1VpY2V0Q3JrNjI4WUNPX08zTzhtTVVFWVBsaWJFQWY3MXlQM1hWOVFkMF9PeHVVVWxHSnVIQnYyWjhaLV91aEpCMTV5ek9xYXVtTQ?oc=5",
+    "publishedAt": "2026-10-14T11:45:00.000Z",
+    "collectedAt": "2026-10-14T16:21:12.409Z"
+  },
+  {
+    "id": "b9fdd568fd430ec29ae1137fc3fbbe2f05d371f4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bank of America Fined $1.2B+ Over Sanctions and Money Laundering Violations - IranWire",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkh1M1R4MHY0eHpfWFd0R2poNGU2bjlNSTJIbVJDVUdRdUpJWXJlMFRZa2hrRGtha1FpbHBYMkhpUDc2MEt4Um5sNXl2LWVtSGE2LVpGSk5feE1LSk42RWFXS0VuanVLT0RYbjF0WXZ1QTJuMkUxeUlUYkZNbjhaQVNDOVdBUGtBYklpRTE0X1g0dGFaMUlTeUR1RjdQTll1ZThqQk5Ra3NCNXl4cXc?oc=5",
+    "publishedAt": "2026-10-14T10:09:11.000Z",
+    "collectedAt": "2026-10-14T16:21:12.409Z"
+  },
+  {
+    "id": "d9ffe9b63a2579016d06caab9a924ed15a366539",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FTC seeks sanctions against Martin Shkreli over alleged pharma ban violations - Fierce Pharma",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTm1iOEZXYVhpQ29RUVV5YTBXNXNCaVRUSVl0OHUycXpERHBNblFaSVJldWVtbG5Qci1yLWRLT2N1b0hrN1FNcEJhVTBWc0xRZUhSaEpSbmpDNVY4LS1FYVRIOVNpMWl3dEJaaXVoNko3V1pYdVlvdThoRElOUzZTOWliNGthSFhMaGpURDJuVFAycWxMTTBPc3dZTjV3Zw?oc=5",
+    "publishedAt": "2026-10-14T12:40:03.000Z",
+    "collectedAt": "2026-10-14T16:21:12.409Z"
+  },
+  {
+    "id": "e928cff7bccea909a4c44ebd6d21f05f20ce482c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Murkowski, Colleagues Urge President to Reverse Russian Diesel Deal, Enforce Sanctions - Alaska Native News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYjFzX0FoUktPSVFoamhlMkdyZ3JFZjhvOVRWU1VWN3lOUWFGU2VfUHlqczctd3M2Rl9iMXNJRVpQZ2JuekFDU2hqQ1U5UVphVEFkNzRVNXpwYTZaRFFkY293Zkx1YkpnNExXN0FEbWR3S2l6X2RrQzBidENSZ09kRnpsODlrNTlHZjJNSEVzdmhZeS1YaU90Q3hlMzVOZnd0ZHJMWi1qeEJwOW5pM1Vtc0dpd2ZEZHk3Ui1YeXdVaw?oc=5",
+    "publishedAt": "2026-10-14T14:02:21.000Z",
+    "collectedAt": "2026-10-14T16:21:12.409Z"
+  },
+  {
+    "id": "3962393adad520814120209c1e05e6c293830f9b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bank of America to pay $1.2B over money laundering, sanctions failures - The Business Journals",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdW4xckFhWndwWnppdVFST3FKYTBnY21icnBWTHZLSmMyMXB6Znp0UHBZbHFwd2RVQWlqN3FxOXU1ZWhTNkQteWxrV0w2NHF0X0x6R0Jrc0x4OWJwcDV2emVCeEI4ck9heEFtTzJWYlRGa3hzNWpnaUk0em9aUGpSSnB0cnYwOXVWTnVabmZPY2hUMTFzLUJmYm5XbG1xRWozY0ttTkFJa1FRLWM?oc=5",
+    "publishedAt": "2026-10-14T12:07:00.000Z",
+    "collectedAt": "2026-10-14T16:21:12.410Z"
+  },
+  {
+    "id": "e1c608130b488cf5b73f4b56341fd3a3e2ccd0b6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EXCLUSIVE Belize PM vows stronger support for Taiwan after China sanctions - Focus Taiwan",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QZmdSWkdHOXpOZ1JtMGxIV2VTOWVQNEFyR0h5MlM3QnRobDVLVTB4WFJPRVZ0TDFhemFDemNZWVZSWjhVNm9mU3dfbWx2UzRPZWIySDZxcw?oc=5",
+    "publishedAt": "2026-10-14T13:07:00.000Z",
+    "collectedAt": "2026-10-14T16:21:12.410Z"
+  },
+  {
+    "id": "e275383d1c75d4cd8bb66ea6dc5642e7f04ba0a5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Japan Struggles to Change U.S. Stance on ICC Sanctions - nippon.com",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fek1tOEJaOHBJOEowYjBpTTBoS09rRGhHOXhEZWhDblp0Um9PU2pRTVBjN1JTRmU4eGx4VmVoSF9seDdfbDJ0TDFpYmFJTThxQUJCMGg0STM1UE95?oc=5",
+    "publishedAt": "2026-10-14T07:40:09.000Z",
+    "collectedAt": "2026-10-14T16:21:12.410Z"
+  },
+  {
+    "id": "0a427b6bb822d5a205ff385f7392b42880f8dd17",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Why sanctions won't stop Russia - DW.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqMjFhazJTbDBJYUQyNjhmMkx1eG41WE9qTEJ4NHBCbEZlXzVfd0phUEd3aUFEaHh5TTN6eUpRakpTejJPekFidXBfMlZkODRyTjk4THhSMHRjYU1ZaXI0Z3BjekRQMHdfaEhSOUprdHZaT3FUOEl3?oc=5",
+    "publishedAt": "2026-10-14T09:37:35.000Z",
+    "collectedAt": "2026-10-14T16:21:12.410Z"
+  },
+  {
+    "id": "766df5d34c7b956d524dc71a37883eea5013c4b7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bank of America hit with $1.2B fine for money laundering, sanctions violations - New York Post",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPXzZlSUdJOVFZcFlDVlpCXzBnTGUzV2N3VzBQY1UwX1RKcjAwRFdocC1pNWRaVVFMNllmU0YtQkk3Q1RYRG1TbFRXYVp1UnJYYS1oejhWLXlTc1hXdHk1VGlqZUFJRWpjbUVTN18xNUxHcHF2dDZmTkd1QlVnb2EyZW1QT0tRVlJIMUFSVnFUSUpMcFBZMlZzaVBESEF2WmxnWloxX3FJbmVUd2N6VGtWTnR3V0d2Szg?oc=5",
+    "publishedAt": "2026-10-13T22:07:02.000Z",
+    "collectedAt": "2026-10-14T16:21:12.410Z"
+  },
+  {
+    "id": "54171d54696288bf6b220e05f1066cb212bf3de0",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US judge blocks sanctions against 2 human rights groups engaging with international court - Anadolu Ajansı",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1ZmaGZhUlVzS1VPX2hrZG82ZmhfQUcwSVVTODB6SXVXOVBaZ2d2V3QteGhKNlM3WUhCNWNTYmpFWUFPZjJJRExweXNzQkRoeDVpVEEtVUlfRmhMOTRkcnpIOHhYX0ZvUDcwTFJZVTI5RURLVXBOMkFZT2dxNlUyRkl4YWRSZ19wVUFkcDNvXzVYWFJVRzdnV3R5Y2FMbWd5S2NyejBxM0NiZ3NXR0VVTUxsaG5yRTI3X3NscGl3NkhkVl9hbldIREhFWQ?oc=5",
+    "publishedAt": "2026-10-14T13:47:04.000Z",
+    "collectedAt": "2026-10-14T16:21:12.410Z"
+  },
+  {
+    "id": "5b95a81222b594994152483ae2f2bf35a730a7d2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU bets on diplomacy, not blocking statute, to protect ICC from Trump sanctions - EUobserver",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTFBOU3RZWGRkTnU0NFJMYnB1LXRIdmFmc3l2NFpYRng5V3YwQnlMWVlSVnozbmwxZW5DQTdScVprUFBSN2l1OGVFZW9zNE1IbHRlSUdXa2JYdS1aRzF4ZVdlWWtPUnNFU0dneGtZVUFXZktMeUVwNm80bXllMk9nX0t1YmZjSTNsZFEwVl8zVDRxT1dNSE52cUtFT0xtNXlwbThWR2dhVTBvdTFC?oc=5",
+    "publishedAt": "2026-10-14T13:55:40.000Z",
+    "collectedAt": "2026-10-14T16:21:12.410Z"
+  },
+  {
+    "id": "a88aa60b85be0dd3f1f9ff5b507b6cd62d9d194b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "MAC accuses Beijing of election interference over Puma Shen family firm sanctions - Focus Taiwan",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHQ2gtLXJaVmxhcVFuUGhmcWludTg4VURYdEZYQkkxUERTUEVsemhCSTk4R2llSnpnY2lJeGRZZ09VRVBfNW51c0czalF1dEZKMi13TlVBUQ?oc=5",
+    "publishedAt": "2026-10-14T11:42:00.000Z",
+    "collectedAt": "2026-10-14T16:21:12.410Z"
+  },
+  {
+    "id": "4120326bdac909c0f752a2dbbf5a7e2967c8df5c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU to Lift Sanctions on Chinese Firm in Deal With Beijing Over ASML Supplier - UNITED24 Media",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjZIMjRVUTZ5U0tleVlZSzNIX0ZFNngzM3JfSWpZc3NJOVpSNDFJRHVXem9zSVhpX0JQM1dHb1ZEdV9faDh0N1BWR1pSR3FLTTNCSC1md3BIZmlJSkVRc3NtYVhKUzZoaGJ6RWY2VVZ6Sl9paGJRU21ndHo0dmQ1bDIyNEtIbkxfYldBYzg2ZG9icmVMZUVWaDI5Q3dPMnBvQ3N5Q19YbUJzcUlSSEUtTUlxajM?oc=5",
+    "publishedAt": "2026-10-14T15:17:21.000Z",
+    "collectedAt": "2026-10-14T16:21:12.410Z"
+  },
+  {
+    "id": "510530cffa042e9d71fa05497a5abad3b1017691",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US lifts sanctions on Venezuela's National Assembly leader - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSEdqTXRuckdIYkJ6YUV5UGxNekt1Z01fLXdxNmxOZUxPcEZhMm84dFFxbk0tSDB2V24xRmlTNE9mZm45bVpBanp1dDM2eFFCbFEwVWRPcjdvOEszcXFKOHlCT3daRW1mUlJ2djNWbFdncjhUN2lIejdKdmpDUWlJcTYxbUxvNDBDWTRERFVzLTJtcXotQ2R4RmIzTHp3UFU?oc=5",
+    "publishedAt": "2026-10-14T15:52:55.000Z",
+    "collectedAt": "2026-10-14T16:21:12.410Z"
+  },
+  {
+    "id": "a4aa17eabd57341eed11c468431e010384023dbb",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Senators Press Trump to Scrap Eased Russian Sanctions - Newser",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQm44dnQySzAtMWY5SHpjcFdRclQ3QkZCYmJMTTZ3Q29nbjVSUnRJQ1VMWEhCOGJsRlMyVEVTb0hkT1IxNDVxSVNnTDRxTHhGcGlxOE5hNjJpc19mNmNBY1lLdEd1cE9kdU9tT3I0Z3dvMnREMnJDM0VVbk5Pc2pHYjhzbzBXWHZsS2JlVEpzQzdkSlhKS2NRNWFB?oc=5",
+    "publishedAt": "2026-10-14T16:15:00.000Z",
+    "collectedAt": "2026-10-14T16:21:12.411Z"
+  },
+  {
+    "id": "db4365cd81f3b2953a629262ce40349f9b1c5c15",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "RAW: TRUMP ADMIN'S SANCTIONS ON GROUPS HELPING ICC BLOCKED - Local 3 News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSDdldVV1NXJTeFd2TXl2Z3JDNFNLNDNiYWZUWFlsamZTRmxQeWtwZHpmY0M0aTBqRS1SLU9WWWFVX3NsaVlWSnpBRW8wSnpfVHhaRlpSNC1EbVgtTE42akZRYUcwSWtIWENqU1haZ3l2RFBod0ZORHI0dDNyYUktVlVLTXdDX0pUSG02N2I3YTN2cy01ZEZEQzhvaDhtdHc2Wi1vOGRkMGR1ekp2Tk5kWnpWdmgwUnlZdk1oWVFYMTJzTVFTZlNpb3h2NXAwOV9lYWt1Y2hqN2RJU0ZTNURhZDltdw?oc=5",
+    "publishedAt": "2026-10-14T09:10:43.000Z",
+    "collectedAt": "2026-10-14T16:21:12.411Z"
+  },
+  {
+    "id": "504715a3dd779aa40def8c10f020067f3bc5d680",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Europe Must Get Tougher on Russian Oil Buyers: Interview with Bill Browder, Architect of Magnitsky Sanctions - UNITED24 Media",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdHBuQTRyUFczVjlKLXpEN0VUYkhJMjNfalFPeUFIYnRxOXhDd0x1VHd3YTJPR3I4U0FrTTZxUGt2Z0M2endaV2JVekdMb3o2WUxxWkhMb29nT1F3c0NQTUtsRWI5WU56YXF3S0VWcEN3VkhHN2hSODZ2NlRQLU9xUW5oWlBNZTRoSXlLXzdoMDM5MUNFMzUzbFRfQnFLelNoZ255T2tvSUFkSVV4MG1UQWtmczkwcXYtVzNLY05BUTg0T2RCcE9NclJyV05HQ180Q1pld2NWbzJBeEtyZUsyOVlR?oc=5",
+    "publishedAt": "2026-10-14T12:51:19.000Z",
+    "collectedAt": "2026-10-14T16:21:12.411Z"
+  },
+  {
+    "id": "7423eea3d08ebf9d84e02c9f1033484797dfcda2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The UN sanctions regime remains an essential tool to address insecurity in Haiti and to alleviate the suffering of the Haitian people: UK Explanation of Vote at the UN Security Council - GOV.UK",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNa1lDc2tOTXZ4VmdScG8wdmhtSTFKbE9Qbi1aQlFEWEhSSDJMamNKRjJjR25ZTzlVcmRKdGxsMEcxei1fQ1A5YmtJRjZ1YlJWa3BXQks5eGZlNjJhLTJtWlQ3XzdYSHloODNRLWhvb3Jad2szM2JOdWVaQmQyc1c2ZDNwcjJlQzI5U1B0M3c0RWpXVHN2VXlsdmtheV9Wc1A4QTI4SVdQS2JERlZVVWdtRll6QW9Say14OE5JMkY2bnQtLWNQV0FNTkRzcl9hX1N5NG5NaHU1cVVKZlZ0MFVkdXUwSE9mc01ER195c1BNTUtqWV9yNXlYX3VKRUtCaE41ZGloWHJ6SzdaeURJTnhzdWxNbkpKTjVx?oc=5",
+    "publishedAt": "2026-10-14T15:45:56.000Z",
+    "collectedAt": "2026-10-14T16:21:12.411Z"
+  },
+  {
+    "id": "08fb778d413f33d4fd58a010e2ca393070f8d37d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US lifts sanctions on head of Venezuela legislature By Reuters - Investing.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnJiQU1KZVBlSk9lTnhMRGFBbGVXMjNfM1BYZFUyaFhHMy1qaDBTTVZGS29vdTlTYnd3dFdJZXMxeDhqUy11NGFCTVVpMFNyWWtGRnBCbi1LbWxaWDFPLU9PSDIybm1HZ1VLb1gyOG9SaUtVQjVSZkdTbVE2Y2dHbm1NWFhFRWJOM0FWdU5ad0Z2TG5FdDdQdjJISlpDMzhWOFg4dUlvZWluaEk?oc=5",
+    "publishedAt": "2026-10-14T14:52:41.000Z",
+    "collectedAt": "2026-10-14T16:21:12.411Z"
+  },
+  {
+    "id": "c9e8b474a0132aaae235e35437e35d241b27f59b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US weighs sanctions on Lebanese judges over complaint against envoy for contacting Israeli ambassador after son wounded - The Times of Israel",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQU1dvdnBLeGNGVEVnREwwWnpPNUI5alVTMEFJVVF1YVRobVR3SWVHWHp4bjNpSEtGSlYtcGItRDUzaWtYcFlDam9YWXowV2hYZHM0TThiZmFTMTk2T3d0anI5eFNVYWRJUkM0UVhmckNucndLd2ktdWlnSDhhSWJrdWJoQTBqZUdwVm5kNElmVE5JYXhqcXNxYU90X1hwMk9iNFIwckNOcy1LMkNlNFRUOUpUb2hSbkozQjl2TElsV3JuSzZFNkdRWm9UMDE5eVpDV1ZBN1BEZzljZWlldDJzZkk4Xzd0WU1DUS1jc0JuU0duUGdITjZfVw?oc=5",
+    "publishedAt": "2026-10-14T15:29:28.000Z",
+    "collectedAt": "2026-10-14T16:21:12.411Z"
+  },
+  {
+    "id": "93674d1bd80beb90cdfd990139eb80639523f602",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Belize backs foreign minister after China imposes sanctions over Taiwan ties - Caribbean National Weekly",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ1BqcEhnWHBESUpkY1I3VUh1ZDkxTWtRY3BNNXJFMGN6WnZwMEJvcmxQdGFwTUlHN2ZfNGFjRGI5bnZ3WGZtWW80WmRCekV6M0U3eUJRRG95UmxfWHZqdmUzMUV3aDIwSWVQdlE2ZGRxSy1GNnhGek9JdDNuclUwbDA0eXJkakxfMTBxcFl1cVk5UHVWVjh6dE1SR1QzTzBNYTRiMEE2SGNySHMtQnpXejNWU3JsLVY2LWVic3RnNA?oc=5",
+    "publishedAt": "2026-10-14T13:20:11.000Z",
+    "collectedAt": "2026-10-14T16:21:12.411Z"
+  },
+  {
+    "id": "e3b94a6e449859617d787ac530c1fc6fe36c9317",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Supreme Court lets $122,200 in sanctions stand against Lake, Finchem attorney - Havasu News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNb29yc0I3NWdxaU5KVVJTZkoyX3dsTHgzX1RadWVwclNsOHhGTEZHajlVd21YdndoOWl1dXZSRU1LS2hFYnMteTU2dVpxSy1ucFY1QVhpZ1htbm9ITUxyWC1leVc1NUNCTXl5NTRiN0V0cFQ4RFh2V2VQVHE2UDFIdlBxaFNzTlMtc1NZZkhUWnNod29pcUVPb0xoVGdTNnZFRmoyeDNfSkdLR1k5ZXJ6WVRmOV9oWERKbmJaOUM5OWRqMEhGVHJKQWFhXzc0dUdfbFFHOG5DeERFaW91X0ZKYUE3M2plclM5Z01yZ2N3?oc=5",
+    "publishedAt": "2026-10-14T15:15:00.000Z",
+    "collectedAt": "2026-10-14T16:21:12.411Z"
+  },
+  {
+    "id": "a095c5dfd2fd948463a325b3f918d9095a0f379b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Lithuania has frozen Friedman's and Usmanov's assets as part of its sanctions - UA.NEWS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUlZhTVNsSDVNUlotV2xyZE9pREgyVGdmTkNfUFl5MDZXVG1tRzVZcDJOQ2h3X2F6czJ0LWZEazJjaTlhYThNN28tR28wcHZEZWhhVVFzNmtGQmlPX2xEeDFOT2lfbU1pdnd4ZVlDWEw3MmFLcDIwRmhJa3dRY21BNGJPLWswQ3hCbU5oSHdFSzVkZEJVYy1jazBac1M?oc=5",
+    "publishedAt": "2026-10-14T14:35:27.000Z",
+    "collectedAt": "2026-10-14T16:21:12.411Z"
+  },
+  {
+    "id": "c9249f138c0fe903e6f276e7b8e9c5a254c0ca40",
+    "source": "OFAC (Email)",
+    "category": "investigative",
+    "lang": "en",
+    "title": "OFAC SDN List Update: Venezuela-related Designation Removal",
+    "snippet": "[ http://www.treasury.gov/resource-center/sanctions/Pages/default.aspx ] * Search OFAC's Sanctions Lists [ https://sanctionssearch.ofac.treas.gov/ ] * Sanctions List Service [ https://ofac.treasury.gov/sanctions-list-service ] * OFAC Recent Actions [ https://ofac.treasury.gov/recent-actions ] * OFAC",
+    "keywords": [
+      "OFAC"
+    ],
+    "link": "https://links-2.govdelivery.com/CL0/http:%2F%2Fwww.treasury.gov%2Fresource-center%2Fsanctions%2FPages%2Fdefault.aspx/1/010101a13ad5eb06-94b2bd1f-0958-462e-99a2-46f9ffc8ad6f-000000/GDBANAjeVzkGTm8LYcycBqJt2fazkvlcjwB2P2O1LGc=452",
+    "publishedAt": "2026-10-14T14:34:20.000Z",
+    "collectedAt": "2026-10-14T16:21:16.550Z"
   }
 ]
