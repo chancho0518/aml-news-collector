@@ -391,5 +391,391 @@
       "titleKo": "투자자들이 '그림자 함대'에 대한 미국의 제재 가능성을 저울질함에 따라 유가 소폭 하락 - 트레이딩뷰",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "86817d866f7ba0c35ef31f1da62f0d0ed0fbd406",
+    "source": "OCCRP Money Laundering",
+    "category": "investigative",
+    "lang": "en",
+    "title": "Scammers in Timor-Leste Go Straight Back to Work After Being Busted, Police Say",
+    "snippet": "Without cyberfraud laws, police in tiny Southeast Asian country are struggling to combat a surge in scam center operations.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.occrp.org/en/news/scammers-timor-leste-go-straight-back-to-work",
+    "publishedAt": "2026-10-16T05:59:00.000Z",
+    "collectedAt": "2026-10-16T08:41:21.787Z"
+  },
+  {
+    "id": "86817d866f7ba0c35ef31f1da62f0d0ed0fbd406",
+    "source": "OCCRP Sanctions",
+    "category": "investigative",
+    "lang": "en",
+    "title": "Scammers in Timor-Leste Go Straight Back to Work After Being Busted, Police Say",
+    "snippet": "Without cyberfraud laws, police in tiny Southeast Asian country are struggling to combat a surge in scam center operations.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.occrp.org/en/news/scammers-timor-leste-go-straight-back-to-work",
+    "publishedAt": "2026-10-16T05:59:00.000Z",
+    "collectedAt": "2026-10-16T08:41:21.813Z"
+  },
+  {
+    "id": "f42a3ac3e8492080825c13fa0f574f9ebe701648",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "SEB, 발트해 지역 자금세탁 검토와 관련해 뉴욕 규제 당국에 3,300만 달러를 지급 - TradingView",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HNVRFbGdOdnVJLThYakxPNGE5eFJyZnVDcmZsdkpubVNtRGRRYzJlMGZBaGZxMHpKWnpSeWpKSDNwLTczVlR0T0kwX3laOHV4RGVHc2doVnhaMzk0bFV5Tk9oSlM2UHlUQVZTSElraE4zRWpKc3VN?oc=5",
+    "publishedAt": "2026-10-15T14:17:20.000Z",
+    "collectedAt": "2026-10-16T08:41:21.990Z"
+  },
+  {
+    "id": "41eb2d97ea4e81b840f4d4db20b221ea4ee783cb",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "이형주 FIU 원장, FATF 운영위 참여…국제 자금세탁방지 규범 논의 - 파이낸셜뉴스",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "FIU",
+      "FATF"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zTVdVVXVablB4QTdmVGZOSW04VU8zVGJrdTdBakpjM0pqOG1IWF8tT0VxYXpaRW9ha3FQS3Z1LWJ4aWxXLVVkejh3VFFaVUdDSDZRUnNZU1RMUQ?oc=5",
+    "publishedAt": "2026-10-14T01:06:12.000Z",
+    "collectedAt": "2026-10-16T08:41:21.991Z"
+  },
+  {
+    "id": "3f7b6c72663fcf8daaad2e64404cd95a9027c7b6",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US hits Bank of America with $1.2B fine for allegedly violating anti-money laundering and sanctions laws - ABC11 News",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbFBqSDRFYlpoTWZiMWtUV0dBNmxMLW5SMUJLM2NCM3lHb1BySTViZXN1cng5M3JhT2F6TnNwa21fZmJRdksyZjZZOXJNQjVncU93Ym5heUFGNUJTTDY0aU5PN1ZLeVVFOTFsbTdUNUtEd0NCa21mZFVoMmI3cHVnN1UzQmozYXVOcnE2UC1SZm1OejNpTDIyaU1NX09tSmlzTTZ1QlFabEIyTWZneU8wTHpXSGZMLWZGbmFKWA?oc=5",
+    "publishedAt": "2026-10-14T15:00:32.000Z",
+    "collectedAt": "2026-10-16T08:41:22.062Z"
+  },
+  {
+    "id": "39be132e44fe36f6273ea0bb36ea21e1d054e2ed",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "NY Regulator Fines Swedish Bank $33M Over Anti-Money Laundering Failures - Law.com",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdGpEUFJ4aUNlS1BOQ3hLaTc4TUF0cFJpMWhSZV9SUGduSzdaMVJPWjFIRDl2UWFZUmNFS1dtTzdGTnpqdGtGRm44dC1WUmNzV3F3VDdncmw5MGlWS1BJWm5qbDVjTUExOHpVU2hXYU10R1FYSm1VUmItZzlGUEVmQkJHRU1MYURCelZLeG8wc1dPWmpQVEtRR1c3STVvN2hjLUJRZG9iaWZqUHF6U2xDUVpQcU1tQWxkZWlGZ05R?oc=5",
+    "publishedAt": "2026-10-15T20:19:30.000Z",
+    "collectedAt": "2026-10-16T08:41:22.062Z"
+  },
+  {
+    "id": "f509c045b160e9e6d4991654989167c509c638b3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Oil edges down as investors weigh possible U.S. sanctions on 'shadow fleet' - CNBC",
+    "snippet": "Oil edges down as investors weigh possible U.S. sanctions on 'shadow fleet' CNBC US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says Reuters Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’ Financial Times",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTDNXbmh6MkxiVVVtY3NoWE9qU0JJLVc3MlljN3JCUWRjUmstNklzTjh4cmhjbXdrOFZUeGotVl9fLW9IamFJMUdqRm1JczI3TXlLdHR2Z1l1bmF5QlB1ZXRfeVVrcnYybWVPSE5WY1hOTmZhSFQ5a3VYN1dUeXlvZUJhUnFaVEE1ejJFMXFkbE10WnJXZGhoTUNtQkJuWVRNZ3pIQlNkM043WFJz0gGyAUFVX3lxTE1ZcGJqS3F0ZWR2YWl6aXhja21JV29vRFB0blc3ZGNEQ0MyQzE3YXVxNlBFaVQwNFJBTnhNdFR5ckxWbDhfeUJwMS1aOUJmRVZBV3V4b25hRlJ4Q21aSUw4b2x2R04wbU1hRFdjSnR1WFNrZkRqMHFiNTJySFRJaVRrTERibFJwMWpINk14X2JVaW9DdnZPYVlNT2M3UHZTYURzVWljNHFUQVdEamItTXAwalE?oc=5",
+    "publishedAt": "2026-10-16T01:21:00.000Z",
+    "collectedAt": "2026-10-16T08:41:22.053Z"
+  },
+  {
+    "id": "44eefd022ff06b1e9de1729b9a9f8ee12c913c00",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU’s von der Leyen pledges to ‘not lift any sanctions unless Russia stops the war’ as leaders discuss Ukraine – Europe live - The Guardian",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZExjaHNmcDBZOUFuWlhxV2FjVmlPYmUtSGlINkZDMktpMk8wUjBMVTRfNnZEOEh2aVp2Uk8yOTRQMHJTRzg5TlVjUEdGYnFuVmI0Wkxaby05OE1maHcwTEhINEFGdUZ6aUJDM0xRdDRZMWp2c1FTS2JPOFhseERNQ0xPYVBSXzRkb1ZtaGZ3SWlza3kzVzZaOTdrbl9YdDhhS1V1R2xtMkxzc3VXdXdCcjMwZUgwZmdsVFVDTk84bHlBLTZJUEtENW90SHdMMnZZM3RTWjExSFlWSzVXQk9EVk9meEJjUDFqQ2E4Q0FMMnhVZw?oc=5",
+    "publishedAt": "2026-10-16T08:10:00.000Z",
+    "collectedAt": "2026-10-16T08:41:22.053Z"
+  },
+  {
+    "id": "303ff99eb4d1420e1be9e32ec80a1d93a005c70d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Indonesia regulator announces sanctions against 3 listed firms - Reuters",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT19xNkFlWGlKRk14ZTJVYnFwTGM0eEIxeGdLdUN4OE5NekIyOWJkSVNuZWdZdW1NYndTYU1RUF9EQm1kdklJaHNWMjg2TFNNaU1PZkJmdGdtb0FIaExBb0tUdV85a3ZDdVgwLU9IOXNQWTVvRDQ0ZGJINTdQYWJ2ZUt5S3BXbnFHMXBPazh3Y0dWaXBuQ2RscXBmb2FadnVKWkxNTXQ5bDRmWl9aaDh1bWxhaF9fR210?oc=5",
+    "publishedAt": "2026-10-16T07:30:09.000Z",
+    "collectedAt": "2026-10-16T08:41:22.053Z"
+  },
+  {
+    "id": "2c3bdccb33817ae57d5e373a0be2d3f7cc09595b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions leave Iranians facing flight cancellations and soaring costs - Al Jazeera",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3VsbnB5RXpMTExtZ0U4Z2dWYUg5bE5pMzhQcXluNDhQNHlVT21TRnNPbGNma0lXVUNDQ3Z5blR4bF9MMGJhRkQ4dVBnQ1lwR3FnMmRmdFd2VmtZcU5kZWRLLXduZWhGZUl3c1RNNGgyNkhydzMzN2tIMmhlOXFaUW5MYXJpMXoxLTBwVjF6VDJDU0xhVXgtdXZEb2t0Q1NkUEkyQi1SajlnV3JnaW9fWkRYbTJKdHBUVkg2ZEVxb0RQUdIBxwFBVV95cUxOUDJJWk5UM21WdXJkejdKNTMxcHg3VE5UZ2d6aWpLSE41OVpYV3VidzN0aXo0STNLZ05SNGhNVUcyWlR6cHNrWWhTWnJDWXRUV0IwR3BiNEM5UXI1Z3p4VUo3eWVydjVkREg4Z1hKMkVZQUZQZnlvUUs4U1NXV1luemxuWkZ5VkhpRUZ5WlpWZ2o5ajM5QTZlUkVBLUJWdDY5V3FFY2ZzaVJZbVI1X1d4NW83Nmk3S09wU0ZlYU1DMG5UejNMaktZ?oc=5",
+    "publishedAt": "2026-10-16T05:54:40.000Z",
+    "collectedAt": "2026-10-16T08:41:22.053Z"
+  },
+  {
+    "id": "849421c3de5f730c850d65a296c0656a8824e15f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "September 2026 — Monthly analysis of Russian fossil fuel exports and sanctions - Centre for Research on Energy and Clean Air",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTlNQlpfb3NHako1aWxSUDdRd0xrM2JuVWs1YXFCSVR6SlAwakZ1QnJOLUtIc2JweGoyVHBJQmpHbkpZdlVoOThzZXdITzQzWGM2RHJ3ZEFZN1RfUmNNdi1sVGN3LUY2VnBMOVg3RGlRdDhaUTBsLXJUT1pWemEyWUxXempPNHQzWEtJUS1NV0EyOTBGOVl1NVNkcnI5dVpXQ3ljbGxsaHJkYlk?oc=5",
+    "publishedAt": "2026-10-16T06:18:51.000Z",
+    "collectedAt": "2026-10-16T08:41:22.053Z"
+  },
+  {
+    "id": "b3e8a5d8b80457cf72e674d6db4e52d9fe56a5f2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. imposes fresh Iran-related sanctions, blacklisting Iraqi bank - upi",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnRsSHhYS1NwOXVKY1k3SmJGMWFDM2R0N0w3dWJGZW4xV2N0R3dWRVItWGRTRm1ZSTMtSHpCZHp6UHE3eFM4R2hTbnJabmZreVo3R2VJVkkxcDdNXzZsSXkyc0tuTmV0NFZ5MjR6UWRGRjV4eHpMZFp1MVNnN05hUDRYdjRqWTJVZ0tqWUVCUkhzcU3SAZgBQVVfeXFMT0hnNmZZWmFDU1BkMGhHWDBFTFkxVFg4VHh6UEVJTUdJQ2NRTmxnbzVLaktmUU5DVUU1SWFNbmRTeGtVcTFsaHAxOWU3b18tWFp4ZUhCNEFRQzhtS2ZScjRMT2Z6bEpTZ08xWkFwYkppUl9lMEQtWTJCV3lhNU4zU3Q2SEhldzgyb3E4ZkhvQ2FsXzQ2aWI0ckQ?oc=5",
+    "publishedAt": "2026-10-16T07:15:06.000Z",
+    "collectedAt": "2026-10-16T08:41:22.053Z"
+  },
+  {
+    "id": "0b5d3988f687f81a1b2aadedcf2067c57d8860b6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "ICC Sanctions and the EU Blocking Statute: Lessons from a Past EU Failure to Hold the United States Accountable - Opinio Juris",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeVlTQU9SUzhWZjFTTlpVQlNKYjR1UXowWmFHcFJXZENCVjZQODBZQ3ZRcDQ0YmpVWl9SQWE3VEVwSFZsOUtiSzl5UmF6eFFfX1Ywak5sSE94T0FfUGxTZGFkRVR1XzE4OGVld2VTOS0wVUg1Y2hiNzdna0lDUXJ4dUZHalJMaTBWbWJFSGtuT3FnT2JMaHRNd2NoRG9RTnBmSzB2ZUYxUzk5TVRXSS1Yd3VMYkJ2Skk3RU91T3M5RDlFeldBOWU3UVA1dmxMNXZMZ3k4UmxSRVJLbzdQc0E?oc=5",
+    "publishedAt": "2026-10-16T08:01:31.000Z",
+    "collectedAt": "2026-10-16T08:41:22.053Z"
+  },
+  {
+    "id": "a87df919e7b4e08032306500cc389e792c449f9b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US imposes Iran-related sanctions on Iraq Development Bank - The National",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYzVkVWlMQkdZeklGUUdZa3dfV1Ixd3ZHS0lPNmFqSUxuU01sUUtrcDdNX0loZFVpdjl6dERBNURIUlpOMDk1OUdUa1g3MzJjMzRxYUtRQzJsMzlSTjZ2dVpMNEhhQmdWdEU4dHZCRG9VQjdEZnNMR05Qb0NFOUJWQVB5ZUxzQkJNZ19DbENBQkNIMEdwUkdyN0ZRcVY4UmxRRkxkSWpQQzNKdl9NNGhz?oc=5",
+    "publishedAt": "2026-10-16T03:33:45.000Z",
+    "collectedAt": "2026-10-16T08:41:22.054Z"
+  },
+  {
+    "id": "d4d4232516e6b012a327bc6d1a070d59949ac213",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "22 US Lawmakers Press Trump to Enforce Russia Sanctions Ahead of Oct. 18 Deadline - Kyiv Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zWEROdXJ6eC1rS0J0QlFYSmNzbGdIZzVFNFlxTjFTaVQ3ZlpFcGN6dUlqZWFJcldFdWZFVGVWNmdaVGRiT2ZNdE5pcw?oc=5",
+    "publishedAt": "2026-10-16T03:01:13.000Z",
+    "collectedAt": "2026-10-16T08:41:22.054Z"
+  },
+  {
+    "id": "f7b964773fc8cc0c30998eae05a59521368db827",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Issues Fresh Iran-Related Sanctions, Treasury Website Shows - U.S. News & World Report",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZjJTckRmbGhVamFKaUhTZnhxWXJqQmtMQWRIcUh3d3VJanJfa2IwQ2xJT2lNMEtfQTNQYmNHdlhhZm1KNlE1NHVOaVlqbnAzU0VVdkdKOWJjUE91WWVCbWdlMy1HWTMwQzZUUTZ6V2hjTGdKaS1OdFFBYnp6TlNEamZ0NHJfNXJISnB4YWNfU0pOYS1DSGVFbE91Z3Y1MXZMMjBTcGg3TkV0a0N1NF9jckhuZG1Wdw?oc=5",
+    "publishedAt": "2026-10-15T16:45:00.000Z",
+    "collectedAt": "2026-10-16T08:41:22.054Z"
+  },
+  {
+    "id": "f5b26a5b70498ed06d95b301b03284d00d7891d8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US extends sanctions waiver on Russia's Lukoil until 2027 - The National",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmtPaTRWUWV1NW9VeFMwNVlDNEtDNVktV3hCQzk1azhheHFXX3BQQTYzQkJURGVnVVVzV3VZdjVzdzhxTERpc25WZzlhNzAta1VYUzh5Sm1TS29lTEJLeFF6RFJ1ZU91V2JsaTF6VVlhMkxiVjRhaU5BWEdUYjlScGJ1UC1ETzdyeFR4TkVLMlJaVlJHS1A1Ni1PbzRrTHFKcTNaSVJMMjVrODJP?oc=5",
+    "publishedAt": "2026-10-16T04:18:45.000Z",
+    "collectedAt": "2026-10-16T08:41:22.054Z"
+  },
+  {
+    "id": "e4506527b69e9a48580a59457587b78aa2058ca0",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US issues fresh Iran-related sanctions, Treasury website shows - WKZO",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVmxVODF1RTFZbXF4NVZtVi1ET0NyYUR0dVVJME1heHNkU0ZRRXlpUk54MmZDQncyajNEX01hQnRRc09ZaXJpMXNzMDdLSVZGQi1sRTBZMkNQR2tjWFdtR0xFZ2NEWE54UXB1S3pNUUEwYlJjX0lHRmRDY2M5NHhJS1NTOG95ejBwbDI5Q21GdGRlNTRT?oc=5",
+    "publishedAt": "2026-10-15T18:35:47.000Z",
+    "collectedAt": "2026-10-16T08:41:22.054Z"
+  },
+  {
+    "id": "7547234886160496caa026718104d269e34fa3f0",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Mapping sanctions against Israel: 121 measures across 61 countries - Ynetnews",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxdVptdjRaVDUyOXdoVW1jUTF3Ry1NUWhsNmo1YklWUGRtb1ZKMlYxaThJU1loSmpHbFJpeVNLeHBnamxYU0MxamFONnhUOXBzSUF4VEtB?oc=5",
+    "publishedAt": "2026-10-16T08:32:44.000Z",
+    "collectedAt": "2026-10-16T08:41:22.054Z"
+  },
+  {
+    "id": "c49808f387d343c0a7873f2860e71a8030ef24dc",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US lifts some sanctions restrictions on overseas assets of Russia's Lukoil - Українська правда",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPbC1XU2tEYWtzeWh6T2Z4U3gzbFpXWGx3anpPMmhkaEU3MG9RblJEdXhZOTBuMjBvMWVlc0Z2ZkdLZWVmNEdIR2lmT3hlUlZLM1lxaW9ja1hNZ1czV1NGdE95RDjSAXBBVV95cUxPWTlRbjhMYWZBM2xNV25jWXF5MmF0UHlibjhjVUFZLUNBdTFkeGlETzVFdjJoeGJCUkl3al9DcjFsdW1hbnZYSUoxbTJjejdDZzNHQVpsM3VZU2hTWVJLdEthREFFOS1ETU5NNDZvSS1E?oc=5",
+    "publishedAt": "2026-10-16T03:03:00.000Z",
+    "collectedAt": "2026-10-16T08:41:22.054Z"
+  },
+  {
+    "id": "653337096325d4e056e630f3082bfd4efe17144e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions Cuban state-owned bank BICSA over alleged financial links to Iran - WION",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFloMWY3Ukd1a21oM3ZIelJ4QWs4VzVrakxEeVdtTy1vLWFUVFZ4SGJGSFFDODg0cHpEUnRxeUlXYWxiYXUtZmRqMHpwdU5RWFFuM0xZbFJHVG5Nd0VPQ0piZzY5NnZuUVNKeFlMVm9DdFVoQTU1V2x2VW5jMkNyWGVMTnNuOXgxYVdIQkpKaEFUTDgxV3k4VXkxd25ZcXdWcWgwdE9aWmd3WUlJazJXUWFweEhEWWY4X25QTU9INNIBxAFBVV95cUxOZUp3aXBXV3lwbTJDX3gtTUVjMFNnWksxM2NvQ1RhQkFBWGRJSVY2U0xSM1VfT21jVGJfV1FGQm9KbUgtYlFTN3YtU0ctTHpYMlNEbkNnMVFBbHY5UmZBSTJpX1FLZTNnY0ZGTW9faW5idlhEcG4xdXd6ZVVsbW1qQWJEaG1Qd2xTZ0ZNSzlTc0U2MnpkQ2VJQ3MtVlZuT3p3TkdiWkdrTFdsR19SOEd1ZzZfbmZaUkJoMWY0N0s4SWg3MzZS?oc=5",
+    "publishedAt": "2026-10-16T07:35:56.000Z",
+    "collectedAt": "2026-10-16T08:41:22.055Z"
+  },
+  {
+    "id": "53a9bdba30e1ec1b285e08170b2af5666c9c1b79",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Asian countries should consider sanctions on the Houthis - Nikkei Asia",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVZmUjh0ZEZrb2R3OHdEbTFSQzAtR0tlNXBQcXZTOWhPVUZoMlpYRGVTWHRZeDVCVF9YUVo1SWp6VG84RXNCV095TWVFZ1Q3ZG1wdzhhMk5reWlJaVBPdXlXY1RQaHQxckRUX0ljeG1nZExvVjkwQ1BSLVNGREVFb0tDZWlJc3AxQV9JaklwWEFhZw?oc=5",
+    "publishedAt": "2026-10-16T08:05:00.000Z",
+    "collectedAt": "2026-10-16T08:41:22.055Z"
+  },
+  {
+    "id": "3bc40bf20946f17116205e9a6118f21040c886c9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Brazil consults on sanctions framework for child online protection law - Digital Watch Observatory",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUVFNSzduSU4zTHd4b1FWb1JyQzlTaDYzdEtVNlUwWTc1RUZJWHlMRWkwczU1SWFONUZrWnpwNm5mdHF2b2t0Nm84SnhtQUFCSjhDdDc4VTNtS1l2MkRoRTJObmdzMjU0Qy01UHplak5SWDhQRm5EUERBbVNvUFl3MU1fLTFRM0VhSlFZWjhlVXZOZ1Roa0FKblQzMHYzbDQ?oc=5",
+    "publishedAt": "2026-10-16T08:17:30.000Z",
+    "collectedAt": "2026-10-16T08:41:22.055Z"
+  },
+  {
+    "id": "491c334079ea2306ef90c8716ab99de564544d35",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Twenty-two US lawmakers demand Trump immediately impose Russia sanctions under Graham Act - Українська правда",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CYlRBQ1QyQkVMYXdQUkk3RnhrdGxQVmJmZTdORWpnZzRTcW9VUnBmekN6Z1dhSkVHRkk5TE1LejhkeWJKSGVWdVRvSExha2I1bWU5VWFLNVNWV0FjWDhXcjgtT0PSAXBBVV95cUxNU09ZejlFaGl4NVhrVXFNa0ctX3RYQk40QUx5Y09UX3pXZ1pwajNiRVAxOGp0RmxjUHdJc0VZSkIxcFRRb0V2VmtOY2ZaZXBYbFZmSFlseDgtOXp5a2RBZnlaY2pEcGFaX1pzSXlORDk5?oc=5",
+    "publishedAt": "2026-10-16T03:55:00.000Z",
+    "collectedAt": "2026-10-16T08:41:22.055Z"
+  },
+  {
+    "id": "68144eba12957fc75d092ec936fdc950f3abe5e6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US targets Iran’s shadow fleet in major new sanctions push - Middle East Online",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1dURzN6a2dYekdubnAxTjJtLWhid0l1ZWtmbzdmbFdxZkZUajg1ckxUM0dZUUdQLXpJSGhobWFEb0dzWjgtSEFJaDVwR3BSTE5uYVQtWE9oX0hqN2pzY29Bc1huX0tnM0Fva2lGQ2Z4enVpaC16TlZMc05RNDJTR1FicG45T0cyc2tSa0ZuclN5YnFzUXJZRVlteUpnUQ?oc=5",
+    "publishedAt": "2026-10-16T06:55:10.000Z",
+    "collectedAt": "2026-10-16T08:41:22.055Z"
+  },
+  {
+    "id": "5ee20fc8ef89ec839a1af60a2ee5802d06f77d79",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU announces sanctions on individuals and firms for circumventing EU sanctions - The Sofia Globe",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONWZWbC1qOEROcjNkc0RjTmNlYWtIZFBlVlBHRTBNUEdwVHp0ZHFwMlNhS0lHUkpxX0FUQkU0VzJRdjBwOHF4N3RyRUQ5ajBqdHpqaTdoN21kbFg5M2dsVUpidkNhcnVFallubWJ3YkZ3RDdQeVNCMjFUd0JVdVJDclp0V2ZUdjJOVVlBRWxVTlMzZ25qU3RwV04xUVlib21HQjNlZWtvY3RJWlZqNllBOU5YTQ?oc=5",
+    "publishedAt": "2026-10-16T07:39:06.000Z",
+    "collectedAt": "2026-10-16T08:41:22.055Z"
+  },
+  {
+    "id": "1e32643baff24edb144a59596e39797c6315cee9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "‘CBI’s response to sanctions is to curb inflation acceleration, strengthen economic resilience’ - Tehran Times",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVF3b0RGd0c5dURPb3NGLXdicE14YlVtemtJVU5rbjE0Y0lsRjFlNlRfRHZEM2pGY0paakJTY1RaNDJaUV9PQi1TMFBfWmJmRy1JQXU3OGdsOTNkMVdCbkhpemt4VGRjMXFLSEZjTl9jYy1uajNCRkEwS202T3ZORmNsYVVXMHZVMU5YVkhncm5MREVINE5Oc2I1WEZxb2VwMmpr?oc=5",
+    "publishedAt": "2026-10-16T07:54:42.000Z",
+    "collectedAt": "2026-10-16T08:41:22.055Z"
   }
 ]
