@@ -1,0 +1,903 @@
+[
+  {
+    "id": "52a3f89dfaf75558a6371fa835af0a18647660eb",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "美뱅크오브아메리카, 1.6조원 벌금…\"中 자금세탁 의심 거래 미보고\" - 파이낸셜뉴스",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LLTlDRFlyb2thbTRCa2xkaWoyblpjb0NwUkxScjFTdDBlVnNTbFZRVVhlLUl0TFZuTkZudENhZVRYS0lEX2VzaVdzaWxTekhMbGt2d0ZhOTZqQQ?oc=5",
+    "publishedAt": "2026-10-14T01:33:52.000Z",
+    "collectedAt": "2026-10-17T02:38:06.673Z"
+  },
+  {
+    "id": "b3828ddc5f7f784bbee396cc63102ad519f3ca8d",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AML Penalty Could Be A Game Changer For Bank of America Stock (BAC) - Yahoo Finance",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeXgyUHJxeG10dncyRkVzcnYxc1RpeDAzVXU5amI1cHpBVWdZLVlnZ3RQSTJPR1RJSzhoeVdPV09DYk42b3BqRENyM1UzSl9iSFl6WmtUSkJwdlVMMndQWlRmSDJtYWZMNGY0RnN6OFFmYUtSQ3JSTEFNWTdQbTJMVEVxX01BOGliMFdMVDNkU0dIY2hCSWc0dC1mZw?oc=5",
+    "publishedAt": "2026-10-16T20:14:53.000Z",
+    "collectedAt": "2026-10-17T02:38:06.590Z",
+    "translation": {
+      "titleKo": "AML 벌금은 뱅크오브아메리카 주식(BAC)의 게임 체인저가 될 수 있다 - 야후 파이낸스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8a1441dcecc11831a74d4338d74b3113542819a8",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "First-in-human trial launches in US to test new treatment for AML - Rare Cancer News",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUd2M0x1UG8zVXlCWVFTOXN5d0k5MmFTT2NjZ1h1b1h0OEpUd1BETURaRE9qbjgxN3R0UHFYemJ6NVQ4Z0ItQjZkWTN4ZFY0MFllUVNSVlJ0YW1DSzBIRlFCQ1JPT2FpdThGU3VZNnE4WEt4UnhIbmF6aVBwNjM3VXdkNlNVajlYTURRT0FYdGotSHZGMnlWZUZxVVFuZw?oc=5",
+    "publishedAt": "2026-10-16T17:38:51.000Z",
+    "collectedAt": "2026-10-17T02:38:06.590Z",
+    "translation": {
+      "titleKo": "미국에서 AML(급성 골수성 백혈병)의 새로운 치료법을 시험하기 위한 최초의 인체 대상 임상시험 개시 - 희귀 암 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d0d323539e379bbc4813a46fd02a194169ab75d4",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Venetoclax Combo Extends Life in Bulgarian AML Patients but at a Steep Price, Real-World Model Finds - Bioengineer.org",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjVQdTFfaWxwWHlBcE92Z0hSQUFOeEZmTHF0WU9Nc3g3cGZvV2NZY3BpSjVVYmxZSzJKNjVPUUpPVXVXRTBMVkZwWUlSSEpoUWhfbTZfUS02SXZPcHR0cjcwcmNqdjhzX2s4clVRQkhGa1phOHhJZDFOMk10SXpTcU1faVBUN1o0cVpmSEV1Q1pseTV0Z1BwczI1RVBmSDB5VmlUdEo0OEZWelQ1X1N2S3MtdnJST2lCbER0UFJnYUVtUQ?oc=5",
+    "publishedAt": "2026-10-17T01:41:15.000Z",
+    "collectedAt": "2026-10-17T02:38:06.590Z",
+    "translation": {
+      "titleKo": "베네토클락스 병용 요법이 불가리아 AML 환자의 수명을 연장하지만 가파른 비용이 든다고 실세계 모델이 밝혀내다 - Bioengineer.org",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e8d6704bc1baa6326436d53b6170360f94b4570a",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "LATEST: FATF President suggests ‘two-tier’ STR system - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML",
+      "FATF"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMlItQkhQWkoycGpaVm4wcjFENi0wakNzWVpJUVJoV3ZXT0RyQnlHOVpRMk82M3ROSjRidFRGQy1QcmZmV3lha3dvalVYQVlHLTRKUkZ1LVRmNEdnV1lGaTRicGdQQi1QRDRYM2toR0VYMjRlbmljRzVhcHZSd05DSlJCTVEwZFl2MGdLbWVqVk5CZk1sRGc?oc=5",
+    "publishedAt": "2026-10-17T00:05:15.000Z",
+    "collectedAt": "2026-10-17T02:38:06.590Z",
+    "translation": {
+      "titleKo": "최신: FATF 의장, '2단계' STR 시스템 제안 - AML Intelligence",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "01944ea8284e2b8e19c8bb7e1e10c059549be2ce",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bank Of America Pays $1.2 Billion For Anti-Money Laundering Violations - Forbes",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZTEzREdROEhsdHFSZEFCcE5DY09lcW1fdVJuTGdqTmJmdGRVQ2puTXh1RnhySVdaYmhRYWthbm1jYzZkaXZ1dXlvWjZzVExlSEFTN01UTWl6M1ExdXRZWlIyUXg3b3Z6RWd2aFhOQWdNLXNZTFpuemhFMWpoVDBPWEVqU0RFZ2JQUTdFMG9hSjZldWlFbmVEcnVhN3RhbWVXR21SSFlkZTliRDJ0RTAycXRIV25HR0RTRWtIakNNY28?oc=5",
+    "publishedAt": "2026-10-15T18:50:27.000Z",
+    "collectedAt": "2026-10-17T02:38:06.590Z",
+    "translation": {
+      "titleKo": "뱅크오브아메리카, 자금세탁방지 위반으로 12억 달러 지불 - 포브스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "82a5784bcf95542a4ae49e11072a9e2b012c9914",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FIS and Anthropic Debut Money Laundering Investigation Agent - PYMNTS.com",
+    "snippet": "",
+    "keywords": [
+      "money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQmFmWlBwdEFpRy1sNnl1V1R4WkVVcDdTWHZrZy1WM29tYlh1Tk5oUnNXcS1JWlZQdDFrUHVnc2NxN2VuMDZkNDlCemRUNTIzT1FRUE1wWWtWc2p1RHhMbENrZE13eThTVlVKWkZfMVRSUjZRVkN5TVlnMkFhUlg1Y21UdFZ3dm5WWjFhY1NYVWVwb2l1SVNSLWJKRQ?oc=5",
+    "publishedAt": "2026-10-15T19:19:30.000Z",
+    "collectedAt": "2026-10-17T02:38:06.591Z",
+    "translation": {
+      "titleKo": "FIS와 앤스로픽, 자금세탁 조사 에이전트 첫선 - PYMNTS.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "91e69319bbb3bca9b4f2535e8933335983742b08",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bank of America fined historic $1.2bn over sanctions, AML breaches - Global Investigations Review",
+    "snippet": "",
+    "keywords": [
+      "AML",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjhfWk5QNnRPVGxGRHZnNHFvTS1MV2JQYTR4WEM3ZjZIb2prZzU3ZXhISXRuSlhnZXg3aGU3akhDS1czRzl6akZhWFAyQzVRd0tyR09qV3hKamh6NmhxckNVMnBqcDQ0eDVheHQ4LXRmN01HbkJSQ1gwdXBoSUMyU3ZlUEl3cFVOcTNpQ0NRWWlLRXozWnBWN21qYUpmMzZRclVGU1R4ZUZLYU9OSEgzRVJiVm80dkliLXpXMFM3Yjd6MlU?oc=5",
+    "publishedAt": "2026-10-13T22:29:37.000Z",
+    "collectedAt": "2026-10-17T02:38:06.591Z",
+    "translation": {
+      "titleKo": "뱅크오브아메리카, 제재 및 AML 위반으로 역사적인 12억 달러 벌금 부과받아 - Global Investigations Review",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e15178fd4c5a37fa80c2feb7f452eed91285444e",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BANK SECRECY ACT—FinCEN identifies Iranian charity red flags, requests filing key term (Oct 16, 2026) - VitalLaw.com",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeTRKNGp5ZkFFQ2pDTmQwc3djRk5EZ0dTLTBrUDJpbXZyQUNFUUZWU0F3c2haS3RYMGctdURULTZWQ3hJUzVjOEpMQm1TXzI2STlUOHBBV1FhRER5dGppNl9GYTFnYW5ORlA5V3JFWkNoSFJJRW9iLWpoOUh0a0dXTFJfU1E1Nm1QWUJXN1BvbnVjZFIzQUd0WVI4X1pVNDVncDZqZ21YQTZwdXZURVJNOV8wQ053bDN5UHJuRVFiN1ZKQzVUYVUxMm9aZ3U0Z2hSQVF4eVhSYVpSR1lLX01UX3BLd0JyMVox?oc=5",
+    "publishedAt": "2026-10-16T22:50:23.000Z",
+    "collectedAt": "2026-10-17T02:38:06.660Z",
+    "translation": {
+      "titleKo": "은행비밀법—FinCEN, 이란 자선단체 적색 깃발 식별, 핵심 용어 제출 요청 (2026년 10월 16일) - VitalLaw.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "08daaa3e805d6ecf35182cad91d71d4da7cabf86",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump waives Russia-related sanctions before they even kick in as Ukraine ties worsen - CNN",
+    "snippet": "Trump waives Russia-related sanctions before they even kick in as Ukraine ties worsen CNN Trump Signs Order Exempting Russia From Sanctions Legislation The New York Times Trump waives many Russian sanctions under new law backed by Lindsey Graham Fox Business",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qaWtBMTJUektROUliNk4wT3NfUkp1ZTZSekQ3QVBEeUMxbXR6LVNIdlFLWldRQWdHVDl2dTFMdWtUVnRETklEMFZvckRRUWNmVXV6LVNtUlpoaUduRXlidm9VZFRiZ0VjbGR2d0trTzU3cXl1SXVnZ3BhbzdvaVE?oc=5",
+    "publishedAt": "2026-10-17T02:30:00.000Z",
+    "collectedAt": "2026-10-17T02:38:06.540Z",
+    "translation": {
+      "titleKo": "트럼프, 우크라이나와의 관계가 악화되는 가운데 러시아 관련 제재가 발효되기도 전에 면제 - CNN",
+      "snippetKo": "트럼프, 우크라이나와의 관계가 악화되는 가운데 러시아 관련 제재가 발효되기도 전에 면제 CNN 트럼프, 러시아를 제재 법안에서 면제하는 명령에 서명 더 뉴욕 타임스 트럼프, 린지 그레이엄이 지지하는 새 법안에 따라 많은 러시아 제재 면제 폭스 비즈니스"
+    }
+  },
+  {
+    "id": "5230185c574e7bae92edc099f640357551134666",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Judge threatens Trump with sanctions over BBC case - The Telegraph",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUFpamtjVnVLOFk1NjF2WHBoLUNxc1FFOUFjeVI3aHBXM19KNGhwUXI0X2JGc3B4eWNoZnpaNVhvdHNUSE1Vak5KeDVQUjFBWXRUVEZmSERwN0lHSW5iUEp1N1FPNnFqcWwzRW9uTExJaTlTLWdhaWtON0JmUk5SeTVGVUVKQUlRMWVycEd6SllGQXhETzhrbS16ODd1T3BoVDFXQWVEcHg?oc=5",
+    "publishedAt": "2026-10-16T21:33:00.000Z",
+    "collectedAt": "2026-10-17T02:38:06.540Z",
+    "translation": {
+      "titleKo": "판사, BBC 사건으로 트럼프에 제재 위협 - 더 텔레그래프",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "88d831cd1cc8a65fa05f48cdca37d6bf810989c4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump waives many Russia-related sanctions, tariffs before they were to take effect under new law - Reuters",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5",
+    "publishedAt": "2026-10-17T01:17:00.000Z",
+    "collectedAt": "2026-10-17T02:38:06.541Z",
+    "translation": {
+      "titleKo": "트럼프, 새 법에 따라 발효될 예정이었던 많은 러시아 관련 제재, 관세 면제 - 로이터",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cf19a10a439a0d07bf2bd7997b13ff9f1ab06474",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US national interest - AP News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnJQRmxjVThxTzVHd0pFZ1kwcWtlM0Z1SWUxNVBnRDFFNzBsZmp0TmNFYkEwai0xSW8xcDNvbXpMRU5rU2hoZk1DZ2FuemtfdGVYTlpXN3QwZjV5emVoQlhZa0tDQ0tXM2d1emJRNjJvSHFJYTkwc0pBc1NYc2VyaVVrb2tEb0VEUW9Ka0dhRjM1WER1?oc=5",
+    "publishedAt": "2026-10-17T01:53:00.000Z",
+    "collectedAt": "2026-10-17T02:38:06.541Z",
+    "translation": {
+      "titleKo": "트럼프, 면제가 미국 국가 이익에 부합한다고 말하며 의회를 통과한 새로운 러시아 제재 유예 - AP 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8f4be730f485ea41b442cd746627fddfc9b3d391",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Waives Russia Energy Tariffs, Sanctions in Graham Law - Bloomberg.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjdOTlgtZzZTczBVX3kxZFZGdUhKTFU5blRvREhYVGp6WTRhMEVUdHN0dkg4eHMzOXI1QXFZRVZROVVDejVJT2M0SjRNS3dHTW5ZTHNvaE9zdTlLb1JuTGlQSGx6eGVfTFE2cXBuTE9jbnE1Snd5Y0V2U0FlWkNLanVnWjEybUJpa0tmM2l0OGRyWHFIWW5nNXFGVkF1aDltZnYwR1BFY0RoWHdUR2c?oc=5",
+    "publishedAt": "2026-10-17T01:05:00.000Z",
+    "collectedAt": "2026-10-17T02:38:06.541Z",
+    "translation": {
+      "titleKo": "트럼프, 그레이엄 법안에 따른 러시아 에너지 관세, 제재 면제 - Bloomberg.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cc3eba432d21810a5a917b1dd58e84ab2ac56beb",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump puts new Russia sanctions on hold - DW.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMVGJnRlRYdVVHUmtlMk9ramxUNy1PbGhuNzFvMFdfamFMNkxoMC1OaUhLQ2I4bzFSYVlLdHBkUDVsUUR1Q2kzVUhyeTY0MlV3MXhxbTExWFpOakhUbzRzUnd4ZTJpZFRCbUoyS29CYXVkYlV0YUNLa2p6T27SAXxBVV95cUxQam9QcS1VRFpFeElWbGdsY1N5LXdKZ3lIc1BTd3ZUXzdYWGE0M3gtWnVUazYtb0FVcWhMTDdPbGtpTUNoQ285NGJsUWQwMC1FN0FjbUI0dG1EUThYdVgza0VpMWtuSkxuLVluUlRwaHVfMTJ2UFlJM2N5VzBB?oc=5",
+    "publishedAt": "2026-10-17T02:24:45.000Z",
+    "collectedAt": "2026-10-17T02:38:06.541Z",
+    "translation": {
+      "titleKo": "트럼프, 새로운 러시아 제재 보류 - DW.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "150980a2e88205dffe57465345044056e039e8e7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Paraguay tech minister defies Beijing sanctions, vows to deepen Taiwan ties - South China Morning Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcWFGcWFjSC1EOGxMcC0zbnpCcVRBMkZZcW5lV0U5bm9OZHJzbm02Wm0yZkxrQVB3TkZNd25YMFVvcExzX3dCM2tJOGhncGh3QTY0ejQzeVk1WkVoSGRNWUFGVTNOby1yMTA5Rk5zSlBXTGxrOXhVRWt3Y2lTYzJMR2prQUhwV1d4VXZzNTZWcFJURnFaX0h0RElycEg4OE1tSks4TzM1SEhUQktDUkxyVVVCdzN3UnRxQlVSbmN0YnBMN21OOFFmZNIByAFBVV95cUxOVTkzdVdhSVVBMk9IME1raFNNeDN2TEp2V2N1eG5qTGNyU1VSRzlES1EzU1J2RDFvQW5ZZ2RRazVlQ2JHNUp3Sk9mOTl1TVFoREtlOGlDWGJnbkhJN2V2cThJeGdRcmc1R1JnZTF6ZmNFako0RkhzNzc1RGpXb1B5dXpDN2ZmdENWVFNrWjdMNm9SYXNtRlp6TWo5Z0RRSnlscjd1NjVIUS1yS1VYUHlsck1ELUt0RXBPS0Foem1SU3FNWGZtd0dnRQ?oc=5",
+    "publishedAt": "2026-10-16T21:43:02.000Z",
+    "collectedAt": "2026-10-17T02:38:06.541Z",
+    "translation": {
+      "titleKo": "파라과이 기술부 장관, 베이징의 제재에 반발하며 대만과의 관계 강화 다짐 - 사우스 차이나 모닝 포스트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "82f8333c5dcb1a954f05e0de9e27c6665d6c58c8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest - ClickOnDetroit | WDIV Local 4",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQM3hsbGdRalU0SmNseThwbjNtT1Qtb1B3V1R1Z1VTOWFzZzFTMHhfWEpvZTdmWm9sa21OTVh4X01kVDJvaGEtcnhuTWpZdm5lLTVDb2V1eFBDbHJmSl9LQjRDMWxTZXprZk83ekZ6VTZqeURzQk5fbGw3NklaQnZTODNVbEtOTkJoUWhaOVVINk56MHFpTzZnOTJlSlpBZVEwbzJNNkxXdjlRcVAwUkdEbzFCOFpYSmF2dFB2SndsUWczeGpyY3JWOU5oa0Rzb19NUWlyekRTbUlLcmViVC0zR2llQTF2c0p3UGw5dw?oc=5",
+    "publishedAt": "2026-10-17T02:26:15.000Z",
+    "collectedAt": "2026-10-17T02:38:06.541Z",
+    "translation": {
+      "titleKo": "트럼프, 국가 이익을 이유로 들며 최근 서명하여 법으로 제정된 새로운 러시아 제재 유예 - ClickOnDetroit | WDIV Local 4",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b7e44dde4f4ae118efe4a67f9a3fccf9d07783ea",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US national interest - WKMG",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNTdxdEZ4SnBvUFpHNVZ4aHVtZEQyNG9pM3hqSDcyemdqbDNDZGc0RXY1ckNqZU56QUZTRWFMSzhGM1BDLUVRVjAtUDhGa1BSdGRseHl6UGRxNDFQLXF5Yk9oMTlsLTBLYzZGQXd6V0JYQjhRcC1XMXNiLXd0bGtiNDZMRmF2dmNYck9BWWFINE96cTJXMGFib0FfaG50VElFa2NaS3VrdWpQTmtGT1RobmFBRFpLdXFCc0tBNk41NnJXbVRUams4dzBWVXp6MnV3WFpKLXZGcVFNUmlhOG9PdkQ1bzBiU3VfQXc?oc=5",
+    "publishedAt": "2026-10-17T01:51:31.000Z",
+    "collectedAt": "2026-10-17T02:38:06.541Z",
+    "translation": {
+      "titleKo": "트럼프, 면제가 미국 국가 이익에 부합한다고 말하며 의회를 통과한 새로운 러시아 제재 유예 - WKMG",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f6043238046d7b17060b5786b4ef84c3554c385f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump waives some Moscow sanctions under Graham Russia-Iran Act - Iran International",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfQlctUV9uYzJTQm1vTWpvRWpMVGg0dGQzNDhpR0QxM0NqZXZlckx4UUlrVHlwd1BpckJhb3BMejJDakJKS1lKTWtWME1WOFBndEE?oc=5",
+    "publishedAt": "2026-10-17T01:17:04.000Z",
+    "collectedAt": "2026-10-17T02:38:06.541Z",
+    "translation": {
+      "titleKo": "트럼프, 그레이엄 러시아-이란 법안에 따라 일부 모스크바 제재 면제 - 이란 인터내셔널",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "50f13a11ff953db64ae1963dc784bfd2a3ee088f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Signs Order Exempting Russia From Sanctions Legislation - GV Wire",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYjRyejkzaS14RVdPWkp6RnZEQ1VVU0ZzRXJBQk9oODlnclJJN19GaE81SnQ2MDY0cURWaVV6OUMwekY5U3lEQ0ZCd01nTEhzNzJtS2RiU1JMbTdWYm9ocG5qTlRnOVhCSFh5RnRzdlh6bDhWQnZDVnV0dk96ZGVFbkFuQVB5Uk9nQjVXd2xLS3RmWWE1dlJz?oc=5",
+    "publishedAt": "2026-10-17T02:31:19.000Z",
+    "collectedAt": "2026-10-17T02:38:06.541Z",
+    "translation": {
+      "titleKo": "트럼프, 러시아를 제재 법안에서 면제하는 명령에 서명 - GV Wire",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6eb3c6a00589888be3c2da400016d623b1a2ba3b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump pauses Russian sanctions package after striking diesel deal with Putin - South China Morning Post",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONV8xZ2FHRGIzTzliaW1JNmRtdTVjVmh3WXFhX0FkUjlwbmVGNVRCRXhUeHZXQlVUX2ZqTktGUEdlWUhfMUhsa01nUW82WWFvWVRrYkd2TUdXVkRYZkJmcjVDYXlSQ1lKX010YnJKRXozc0JCRk5iLWtnRUNsMkZUanR3UTF0MHFMTUJrdmF6WC15ZFZaYlRhWEcwdlJJV0lNNzdLMW0tdngwdzR5NlBkcjZDYjhtdzlncjNJWmJ6UGxXa1R3Zk1jN21OeUpuUDhiM3pEVk9Hc9IB1wFBVV95cUxPb1l6cHBkNDhRQW9HaXhnU3UxZXpDbGdMaTlnU0l4dzB2RnVSeEs1c2lFeFdUc0w3WWxaczJzSzBaQnBHb0RReDUzVTVYSEdqTzFUZ0F4R0VMUjI2RjNoMDNvdXNLSGNRQlJZTXQ2dVNwY2l2VFNFX0hrRWFvbHJ2b3o5NTBReHU5dHlhTXZSUnNiNHh3NzlpZ3BEOWhpNGZlUW90OGF3NFB5THM3dnIxZDYzRVVnQVg3TjdmZ1dobUh4MGtFYmF6XzNVSFBxalYwVDhoMDh2Zw?oc=5",
+    "publishedAt": "2026-10-17T02:26:19.000Z",
+    "collectedAt": "2026-10-17T02:38:06.541Z",
+    "translation": {
+      "titleKo": "트럼프, 푸틴과 디젤 협정을 맺은 후 러시아 제재 패키지 일시 중단 - 사우스 차이나 모닝 포스트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7b82c7655ca6717466e60dc9ad2deb5efcbfd93b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US national interest - KTVN",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQXzM3TUF1MVdTRGtLV1NJbkpjZ01JVDQ5NUlqWEFmeC0xOEVEZDFQaDhMdmtCem95Z2JpVjdsNjdGZ2xxNWwzbWZteWp2N3p2S2ZTemgzWGRjRXpXSlBzNzNHWjVaMi1yZk9jQXNYaUEwQUJsZFI1cEJzYldmWHVISkd6SFR0OTh5ZnZ2WFoyNXNlQnNWVkEwMFpLcFRPcWRKVDVWak5wWjJ1Zm1iNlhPV3AtdG1SM25hMjlPaXM4UkRtS09BbWxaVDU0ZmRnbXFUdFYzMWl1WU9oR0VZa3hkU1ZFYlpmOWs2Z0JiM0tLZVEtZjRkRGRqcw?oc=5",
+    "publishedAt": "2026-10-17T01:46:44.000Z",
+    "collectedAt": "2026-10-17T02:38:06.542Z",
+    "translation": {
+      "titleKo": "트럼프, 면제가 미국 국가 이익에 부합한다고 말하며 의회를 통과한 새로운 러시아 제재 유예 - KTVN",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c30075cfb165cfebfeb98cd97f31c75538630f4e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Waives Many Russia-Related Sanctions, Tariffs In Relief For India, China - NDTV",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcXBvU1Y5NlRKWU5ueFo4RGZYLURMRG1wb3FESTZkZXpSQlZlSWl3U19CbWplYkE2RHFQU1k0WGdWTHdaUjA2UGQtdzFOb09mTUNiQlZKTHd4R0x5OE82OW5MMlJHcDVYejFFMm9OcUgzZW5fZk5fNThKS2w5cG5tOUxZb0MwandzTDFLZXhHRVllMWJPanYzQ0ctSnhLZkExa2tCNkxlXy1FZkRtVmlvWHZmS3Z6Undnbm1NUVdYX3FKU1h2cHo5YmJoWHlISFNKbG9pWlVpeEpvTU1kRVZrXzNnblRPbEtPLTZTTDUxcnJ2TGFKVDVjMHR30gGCAkFVX3lxTFAtS1NUUzRQcUg3MnF6bGpqUnpyRlZsTHBRLUpEXzd6STNoYXB3clIxSVNscTRtbXM2VjdkTmNrdV9mRFlFNTFueUM0dTc3bFZHU09pWUNWYzJOWEVld1ZJeF9TanFxRGR4MWt1eW80cEFHTkYyVkZQdmRXaXNWQVliTHlDMWdFT0ptZmlGMFVBWkNteUdNeV9KSnE4MGZ3cUxfNjd1cmJrRGNTLWRRUDdfRTZMZ3N0M3NzcmhwTEJsUjRrVTRrRjNnc0tTM1QxOU5wRUJUc3ZwX29uNEZ0QlJPakJMcUNvRGllU1Z0ejBaaTN5dW1VY0h1MGhnU19aTi1NQQ?oc=5",
+    "publishedAt": "2026-10-17T01:44:03.000Z",
+    "collectedAt": "2026-10-17T02:38:06.542Z",
+    "translation": {
+      "titleKo": "트럼프, 인도와 중국에 대한 완화 조치로 많은 러시아 관련 제재, 관세 면제 - NDTV",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "563270ee76455994b0e8538bea4240dbacd66d65",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Judge threatens Trump with sanctions to testify in BBC lawsuit - Hanford Sentinel",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVVIzcS1MVDdkQ2NUV1Q0UkJoV09FVGFyVkJQdzliamRCRlo0QmJmU20wd2FXR05VcE1wdjVsUzVyS1hGbVZObnkwNGJ4alRsM19pMko5WEVRSnJkd294M3lzMWxIMzV1N2Q1QWIwU2Yza2dva1E0dDRRLWl3ZHZJVklpQmRma3RBV1hvNXRyS04takhJcEFMRjNZU0ZEbVNDUnNydjA2ZlozM3ZzYS1PUGNvNm94X0FVTFJyTEpOTTIydHd2XzVtSTlBdFNSTXBZVTgxTHVuSkhBcFh1VWtFQW44dU0zQm5iU3fSAe8BQVVfeXFMT19RcVo3WE9OT2pQMnJ0Tk91WXRfY2xRYVp4ZjVOTEszM1lUTWI3eWFyU0x5aXlnaXViRTUxUU5PZ3N3NzRtSGk5LXg5VXlkVHhXLXZGTjkyWkFidDhvbkVCWW9kMzVNY2RCSGVWMktfR3AxZ05QM21lLWxBOVNIV2J5R3BXcW1KU1pRQ0lUWXpnNmJrT2I1NEtyU3dBSW1xVmFOeENqTmN2U3BfR2JIemZ1M09PdHJrZTJfLVBCa3pZWWpUcFpydW52UDl5SGRHWHdsX0l5ZVNaNDBTRE9KM2FhZGhXUTNCdFk3OENNUzQ?oc=5",
+    "publishedAt": "2026-10-17T00:18:00.000Z",
+    "collectedAt": "2026-10-17T02:38:06.542Z",
+    "translation": {
+      "titleKo": "판사, BBC 소송에서 증언하도록 트럼프에게 제재 위협 - 핸포드 센티널",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1ff9356fea1afa1a96353ff743a00f721bf637bd",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US national interest - Audacy",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHJRamN1NnFBOW5UTlRKLWE3MC1YbGFrVlVWRjZYUzdsNjJrclkxWEppUTBLaXpFbHdqNU9aN05FTEwtYkhCOFhyTmtxX1hXUmJHQUFkUG5aQTJkT1dsc3kzc01UcGQwdjJ5ckQtZ3E3OEtSekt3R0VtVXluWlJvQUVQS1ZNQXRLR2ZnVzA5ai05RWtWUHlIRWZ1R1ZrTEFha1haVHItOHA?oc=5",
+    "publishedAt": "2026-10-17T01:46:00.000Z",
+    "collectedAt": "2026-10-17T02:38:06.542Z",
+    "translation": {
+      "titleKo": "트럼프, 면제가 미국 국가 이익에 부합한다고 말하며 의회를 통과한 새로운 러시아 제재 유예 - Audacy",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ef7f98877c4833c923905e96f4e87eb71729c0c8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "International legal community condemns US sanctions against the International Criminal Court - l'Observatoire international des avocats en danger",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGFybGw0endXUHJfNGxxbHo2VE56Y0djMUtSVEFBWEFURlRvUVFrLTNZeVVKekFIOGN5NkVGODhNaS1uWkZqb2NzNGtIdThzeFNzanlRUDdzNXFhdTA1ZHJTUDZYUjk2ZWxpR0hRNWVpV0oybUU4WDJQN2VIbXdVd3F1YTNXZFZaUXhWWWlxaDFpUEU3UTRvc0JIaU43NUVZaDRLYjh4cGpDMi13aXNIbURaVk44V0JLNThQaXNLUGotZw?oc=5",
+    "publishedAt": "2026-10-16T10:00:49.000Z",
+    "collectedAt": "2026-10-17T02:38:06.542Z",
+    "translation": {
+      "titleKo": "국제 법조계, 국제형사재판소에 대한 미국의 제재 규탄 - 위험에 처한 변호사를 위한 국제 관측소",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "047c6172e0ea3233d228412cee7323ad6da062ad",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump says he won't impose sanctions on Russia, thwarting Congress - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONWlOQmxVOGdGQjZPSzItaXpsenYwb1FCWl9fQlpKQV9qbWg1Skh6QjZONmZ4RmE0bWFOZXdKLXhKTFVsNUZEOWlJWm8xcWJKMS1sVXdhUWZVNWxHVXVadFBFdDRqelBkejBhWElDSGdUR1A1UTB6STJUR21hOVltZXBHZFdwSnhyb0U0aUVsNU9VTVZ0OVYw?oc=5",
+    "publishedAt": "2026-10-17T02:21:00.000Z",
+    "collectedAt": "2026-10-17T02:38:06.542Z",
+    "translation": {
+      "titleKo": "트럼프, 러시아에 제재를 부과하지 않겠다고 밝혀 의회를 좌절시킴 - 야후",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "769b4ba390f5fcd8af41a690ddc1382cc903b635",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in U.S. national interest - The Seattle Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNEVWVk9uSGFocGFXTEcyUGtkRkpyekdQa3oxNHFBOTM5YmdrZ1l4YUF6UjFiZkdlYUhIek9sX0RfTEhzc0Q5ek5wUy0zVWlrX1Z4enRLSmNtdWtaMm9ydkowMVNUUFB6Qjh0YzBUeDZmbTA3cC03QzdoVG14ajN3cVhScC1CanZaTGZvYmxzY3hKRWcwcFN0MjFVaHN6a292REpqSzdXRnR4TV95WXhualFtajNVcmNJWS1HcjduWEFIZk96ekJHVlBSUXFaSG5tM25feGI0Q0tnWjNtXzdCZjRGdUlrSUpvVTllMVdPMU0?oc=5",
+    "publishedAt": "2026-10-17T02:07:02.000Z",
+    "collectedAt": "2026-10-17T02:38:06.542Z",
+    "translation": {
+      "titleKo": "트럼프, 면제가 미국 국가 이익에 부합한다고 말하며 의회를 통과한 새로운 러시아 제재 유예 - 더 시애틀 타임스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "91594215bed3ddd9ff2f970e543f74f54c314748",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU to Remove Sanctions on Chinese Firm to Save ASML Supplier - Bloomberg.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2lUQllVYjVsZFEtVnBjdHNGYXZxUzhwOTVtNnk5OENHUktsbUFaLVhXMUswYVNKa0dDYmF4a1gyM05MWEgyb3BTLTdJeS1pMXJnZlFIUmozelVVS2ROQTkyNWtCdTQxVXp5bGFKWmVpZU1EN0VyMXZ3TU1aN3puSTc1bTFLdGY2TmxIR0hOY3dCSHRFbVlLVWQ0YnhLbDE2YTdCWHpLamJyeHVUTWpybk5n?oc=5",
+    "publishedAt": "2026-10-14T14:36:43.000Z",
+    "collectedAt": "2026-10-17T02:38:06.542Z",
+    "translation": {
+      "titleKo": "EU, ASML 공급업체를 구하기 위해 중국 기업에 대한 제재 해제 예정 - Bloomberg.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "722a6da5e04d9de51f7b9a455eabae97eded9def",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU leaders regret US decision to temporarily lift sanctions on Russian diesel - A News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZEFrODExUFR3OVBCYnlXZjREMHRzbmdFd0lvakdVSWRTWmQ4VVhRLVN1aXpqY09jY1hMb1g2bFNZZmJVUGh6RHJvNU9KUDZreXNmbGdJSTJUTTBiZGlxTUlvUTBMbmJHR293UHoyUmN1Mlp0dGtIanBYN3Y4NjQ0SXlmX08wR3h5cWdBVVExc2RDdW4xSHVCa3l1bmF0VUJteXB6VDhLVDBzck83MUJrbW11OWFxV3FGTko00gHAAUFVX3lxTE9HZHBaSkh5cngtVFVqTS1HbVJUMGdKQi1UZ0xpWndQOTctcFpjb1pOb0dENmhCSEZEQ1pCRFptdXhWRDFlWE1held0Xy1tWjFRUHBxQU00YWlkdnJnb1ZXZndzRUdFYkhZVGIwSEt6cVhTcTBaUW1OVW1XZmhCYm5La2NrQm9yV01yVk55UDQ4TDlZWHByaHBYbTZXN2VXZkh5QnlJXzY1WVU2RzBDNGIxWmsyMmNvMVg1YUQ3RWNFYg?oc=5",
+    "publishedAt": "2026-10-17T01:56:44.000Z",
+    "collectedAt": "2026-10-17T02:38:06.542Z",
+    "translation": {
+      "titleKo": "EU 지도자들, 러시아산 디젤에 대한 제재를 일시적으로 해제한 미국의 결정에 유감 표명 - A News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "454e1947798c3443fdff2083d9a2dedb5095eb09",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Donald Trump waives sanctions, tariffs on purchase of Russian oil and gas - The Hindu",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEJCSWVBNk5fUVR0NVJDTVNSOG1TYUVWWW9WWTVUVC1OUDBUbGdoZGR0amxSUXozZHQtZHNVZzVmSDJDT3ZoZXB2OEFKbHVxbUl4TmlLQXVVQzhabmptSHk0d1BIcW05SHJtY0pvTmU2V3FUM29WbVlYQ05TTkR4ajVQa2NKXy1ycWhBMlpVdjY2bTZMeFRrVGFaUGgzSDhRQWRxQzFXQmJTSXlSTHE3MDhVLUdXX0dvZTF6TzB4UGgzQXN0YXI2cUVSSmM5djBHWUHSAdgBQVVfeXFMTWhOZUN6QUQ5TC1ESmpjVTdQWE1wTVhQeHZxLWJiMXo2azV6d1Z1OTVQQ19TZjcxQ1lpVXVyS0I5cDZOZTlxNWdEN3JxZlBQdDl5RGRqNkEwV3lVU0dhalpsa05EWDE1VGY5U2ZnbW0zT2Nhdjh4anVoRHhISTRuYU1hb1pxQW4yczlUNTNLQUJGdjZrNzdUaEdzWnlwRjV4TnNfTDItWHRBWkJRTXpHelhHd0xFYVVrcTNsZ1M4QVluOWtocFNDLW5BVDhxR2tBY29uUEctUm5E?oc=5",
+    "publishedAt": "2026-10-17T02:00:15.000Z",
+    "collectedAt": "2026-10-17T02:38:06.542Z",
+    "translation": {
+      "titleKo": "도널드 트럼프, 러시아산 석유 및 가스 구매에 대한 제재, 관세 면제 - 더 힌두",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "03368cba6d1db188ccae5722f211b566169d4e2c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump waives some sanctions, restrictions, duties on Russia in Graham Act - TradingView",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM1BDOF9QcGhRRXk1dldJRkJOVkR2VU1BYlMxLUNQcEgxeTdMdUFBSElzSjdXZ3pvMW9xVG1IaGJGQUJwUWpBWGEzcm1iUjA4NlJqbGd5eXlCbXdBbmpnWmFVMHJzU0lLUHNnWWxwdFV6cnVWaFFxUHlmalVwMGxESnFqUkF3Z3llbzFSWENYZmxQOVJaVEdxZzk4eENuQ3ZPblp1alRXN3F6OTgwUzZ1N2c3R2RPTmE4RG9DSlZkY1ZSc1RMMWZOR3djVVhNbDB0cGtSU0dIV2E?oc=5",
+    "publishedAt": "2026-10-17T00:41:00.000Z",
+    "collectedAt": "2026-10-17T02:38:06.542Z",
+    "translation": {
+      "titleKo": "트럼프, 그레이엄 법안에서 러시아에 대한 일부 제재, 제한, 관세 면제 - TradingView",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6904c180b6a5ec2b25ac4e94e1137cf83b0408c8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US national interest - McAlester News-Capital",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUm03MmozY29sYWhIcF9RRWhFYmRscC1STU1LTmJfZTkzZS1PU1NZTm5GUXpWSi1ySks2eUVkMzVXZFhQcS1ub1lQX09RVEUzZWlLRzliaVE3M1BhTC1sb2M3cmxjci1UUTZIN1BPY1QydFdqQUVleVRQRzlhZG1QeW43THhmeEpmSUhYRThUTGNRS3EyRm55OFBPQVlDWUlyTUxIaW9CNHFBUVl0c0huQVU1N19PYm9teUJCbFFtYWxjdDJnUDFhM3pxc2RVN09sdmJIallqMWMtdGdRMWowSnROazRkNDJQSTV0enZWR1Y0cDRzdWtxTlNCN0I?oc=5",
+    "publishedAt": "2026-10-17T01:46:44.000Z",
+    "collectedAt": "2026-10-17T02:38:06.542Z",
+    "translation": {
+      "titleKo": "트럼프, 면제가 미국 국가 이익에 부합한다고 말하며 의회를 통과한 새로운 러시아 제재 유예 - 맥앨리스터 뉴스-캐피털",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8b8ac5dba09fdd64fb7c467a35292561c0d66675",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US national interest - Toronto Star",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQa2FlUTBwRzVtS1BvWGRndVVzNmJKR3VFaVY5UW1xdE5IbkdPQjRySEtvUHlOaWRoaGtFOHl3bmFjaGtlMnRBNF9jbXNWLU53cFo5NlZ0MUZnMk94RWc3V3BqbWdGb2d1YTNSZEdUbURwaWdvc045TmZCTEd2NjJITVVrcmZ2RzUyV3U3b0hQZXBNclN1UWxwcF9fbGpzWUdiRHd1dUtqekNHQ2ZjSHBmalpySWxsUWJmMWs4MDBOcExmb1Y4MzN5eDZjeVJrajNBY2I0VGJOY2MwTVRZcTBwX1BLRHNvMUpNYjR6Zmx6ak1vUnBMeWJDb280bXJjM29BaXF5a3VQUXRtamxsTWRzQzJCSGxGQXBvOFV6Wk1STEdONVR0?oc=5",
+    "publishedAt": "2026-10-17T01:48:13.000Z",
+    "collectedAt": "2026-10-17T02:38:06.542Z",
+    "translation": {
+      "titleKo": "트럼프, 면제가 미국 국가 이익에 부합한다고 말하며 의회를 통과한 새로운 러시아 제재 유예 - 토론토 스타",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fb15caed0bc36a4f732f7c2743b21aa421e4e1ae",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "ASC sanctions market manipulation - Investment Executive",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVTd2cEVLMHdBTmFhRWdhNUpWRjFEN3BpLW5yQ0U0MHMtc0RFOTlaWFpQdDJZdmFzcy1jSTdDaEJaSUx0WFBoeVl2UGlHQXBuanlJeUFwVWQ4Q2duZVFKdnRtY2JiSWc3OVpNZUxhWDV0Z0xYRXRNU2gtQkFycDdnN1ZmVGR6OThlajk5WWRDcw?oc=5",
+    "publishedAt": "2026-10-17T01:02:46.000Z",
+    "collectedAt": "2026-10-17T02:38:06.543Z",
+    "translation": {
+      "titleKo": "ASC, 시장 교란 행위 제재 - 인베스트먼트 익제큐티브",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9668940e7f0b906ee5f426fc96930e7237f129e9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Judge Threatens Trump With Sanctions for Bailing on $10 Billion BBC Defamation Deposition - Yahoo News Singapore",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYmVFR2txM0xkQ2oxQnROSi1mZ2JwaVlZX1YxYnZ2RTZLT3pZY2ltSGJrNDhrVllSaVhyaEd3eUxTU0JFV0pSNzUtX3FZeDF0eDR4NmI1R0NfX1pZTW53NHgyU25xOUZRVXNZcUF0YXJYNEhkSHE3NlJYTTV4U0hnT0txMExGcW8?oc=5",
+    "publishedAt": "2026-10-17T00:09:00.000Z",
+    "collectedAt": "2026-10-17T02:38:06.543Z",
+    "translation": {
+      "titleKo": "판사, 100억 달러 규모의 BBC 명예훼손 데포지션(증언조사)에 불참한 트럼프에게 제재 위협 - 야후 뉴스 싱가포르",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fb380583385fd25dcd34ef5b8b354f37092b09e4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Judge Threatens Trump With Sanctions for Bailing on $10 Billion BBC Defamation Deposition - TheWrap",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPczdLZDhXMGl1dFB4QUpCSTNJNXpnSldvRXRsY3FGS2pKQTBIeEhiQjhwMm5PX3ROaGI3ZUVRRmdrRW91WHNDS0VrV0dCTmZyWWhWUEI2S29XUGk1TkktSFliSi1iMHI4eUVQVjRDTTZJUVFBc0FpZ20yZ2wzY2VWenRFNEEyNUVwLVZnUFBacnZ6N1A3TExWOEhmLU9YU0YyWjgycnA5UmtpbTdiMnFjdldTMTAtdW8?oc=5",
+    "publishedAt": "2026-10-17T00:09:54.000Z",
+    "collectedAt": "2026-10-17T02:38:06.543Z",
+    "translation": {
+      "titleKo": "판사, 100억 달러 규모의 BBC 명예훼손 데포지션(증언조사)에 불참한 트럼프에게 제재 위협 - TheWrap",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2b7e1162276a1ab6aa2e8edc9c0dabe88dbce28f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Grades rise as US considers removing sanctions on some shadow fleet vessels - TradingView",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb0htam1NQTIySWd2Z05SVnFZcXF6OUdqdHU3cUNMRnNGRmJ1SW9la1FlRVhoYUlsV1Zicm51MFNlRTdxSTJYSVJDdFVOX3ExSmxiVXViMnV0dVl1SnJRTzZyY1VVZksxSGotb3dsaEZyN0gwQThULUZSQ1V3MlFGNWV2ZnFvemxYcXA2M0I3cXRKLTZiOHBhcHEzeVFycy1zMW02ZVdLaEpVMUtHelRYbzAyQmFfUG9IeGxOMUVUcWFobEt2N1pNM3V5QVlfZGc5NTZrcGphN3JHbFp2M0E?oc=5",
+    "publishedAt": "2026-10-16T21:11:06.000Z",
+    "collectedAt": "2026-10-17T02:38:06.543Z",
+    "translation": {
+      "titleKo": "미국이 일부 그림자 선단 선박에 대한 제재 해제를 검토함에 따라 원유 등급 가격 상승 - TradingView",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b8f8341cc752fb6c2a9c9aa71d74a4d90954a1cc",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump says he won't impose sanctions on Russia, thwarting Congress - AOL.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQjFnTkVnckdlSTBMWndudUtBa21WcXpEZUc3OGJGT2lNc1lrLXNlNVRsaHRwYzZRSFBxa0pzNnMzajBYeHF3cHJfUGcyd0dOTFh0REZrZzVvLUJBMk9BNFNKSzVObHdRT05qc3AxZ2hzcmtQNm1WWTZhWEpHXzh0VW13?oc=5",
+    "publishedAt": "2026-10-17T02:21:00.000Z",
+    "collectedAt": "2026-10-17T02:38:06.543Z",
+    "translation": {
+      "titleKo": "트럼프, 러시아에 제재를 부과하지 않겠다고 밝혀 의회를 좌절시킴 - AOL.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "240628e2a121c34eb19f9e283ef2f4366f87c30c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump waives Russia sanctions, restrictions and duties under Graham Act - The Times of India",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSkVTaW8zS0RTcXdnXzJUOTRZU0JwUmhVZTd6bDRrY3NHNzREOFBFVEk5dTlsbkZFeDBmQll1ODNrRDA3STJfMk16NXN5ek1ycVpNUUR0T0pYazM5Sm4yeE1ST1JieGgzVWx4dzZ2WkdwRFdCdEU4c1hGeWNMWGtPNFJKalJLSlNfbWkxUEV5S1BXMWw4U05nSDhua1VQUnJzdi1kbjlEV1pMWTZ1aElkRGFRbjJ3ZVo1MVB4VjJONTZnWG4wZUJLQWE2Szk0T1NiZjFFS3lUUDJVNEdObGMyQzNJRG03MGQzMlF1MG0zWWJkYUNRZUc5ZGpyWVJVSUdYdEpCQkdrNTByTjFqdzVSdNIBlgJBVV95cUxOc2Z0dG1QelBnN2NKYmFrZG13OWFRM0pGcDlNLVFOUTNaX2JOdU5pM3dqdDY1OTd2eDUyTWc0S01KMUJTWG9DeEwzY2Q4bWV2RjQyQTZYT0ktU3B1VTJBaENvTzVZa0s1Y1FCeTVkeFg5NzZnVDBjQXFxQ01xV3FZUVE5b1Z6Z1dqbFpvWWdSRjdYQi1RRkZFTGcxcmJaejQzSmxWNWxvQ0stLUFDM0ZZc1daVTlZZ3hjODREVkViY28xd0o4a0NWMDhzYm9CSHpTOU5YMEZSOHc2WG12Q09yaUF3WklaeXNielJ1WGw5dDlXZXZ0ajExSFdtM0k5TlNuVVA0QzBGLXQ3c2EzUW9DRkFVWlZ5UQ?oc=5",
+    "publishedAt": "2026-10-17T01:25:00.000Z",
+    "collectedAt": "2026-10-17T02:38:06.543Z",
+    "translation": {
+      "titleKo": "트럼프, 그레이엄 법안에 따라 러시아 제재, 제한 및 관세 면제 - 타임스 오브 인디아",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5a280f9de02d027102c47728933d92c11d2e5d13",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Oklahoma senator warns Trump against lifting Russian diesel sanctions - The Oklahoman",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTm1mYnlST2lyM3otTnlXY3RTM19CR0J4WmNiVmd0MjJidVVmaTdJbTI3OGo4cU45NHpkeFd6YWhTMG5jUERFUjVWZTNkaGdsdlhUV3VrZk5yS0I1YjFrcEZHUlNBaXJjU0xIYUVCVG5TS0Q2SDZiLWV3dGNidFFHTFAzWUlyTnVBazJHTTRiZFBuRG9GYWR4VjA1bHc2MUxtaTdXWml3bERwZHRySzhIZGhUOHRxZWRZ?oc=5",
+    "publishedAt": "2026-10-16T20:31:00.000Z",
+    "collectedAt": "2026-10-17T02:38:06.543Z",
+    "translation": {
+      "titleKo": "오클라호마주 상원의원, 트럼프에게 러시아산 디젤 제재 해제에 대해 경고 - 오클라호만",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7f2c7675a769c218830f886d28e87245996cf5c4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest - Goshen News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSElFZjhQbU9BS05TQkVYcFFsTXNHY2VwQVAxbWs2S3FQeVJEc3BwNXN3bkZObHNWQ0N2cGowNWNtbkxXRmRZMnJreFI5TUlma2E3QURwcHluc0pjUDZIbTRCeXlQVTZHdlJ4N0ppMTlYN1cyWlUydWEzTkkwaGhtakswcFI2QWJkY3lNUWhZVl81QkNyUkF5Q25aMFZlc0txeTBiYWlSN29IOXVtVnZqYzFnak1PQjhjUlZYdkNTQThyR0c5M0RwT0xBR2xWNTVrdXVrbUhZaGVhdzdZWG9NeEFQWVJ5Y2FyaDhNTzdXbjF1d1BTRnAzUHlyTUE4ZWxwalNKX3BTZ1hvLUNfR0JJQlRR?oc=5",
+    "publishedAt": "2026-10-17T02:25:32.000Z",
+    "collectedAt": "2026-10-17T02:38:06.543Z",
+    "translation": {
+      "titleKo": "트럼프, 국익을 이유로 자신이 최근 서명하여 법률로 제정한 새로운 대러시아 제재를 보류하다 - 고센 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b1f1624fed2eb314ebd9675e18d8068b58315c6e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US national interest - 巴士的報",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV2lCZjJBbnFNMzluckt5WXFEMURESzFIZ1JSQ3hqSDNUbkJyZjlmLTg2ZGJtRzZLdTFYZnVwWW1PcVpjelRvbjhoMy1KNjZEdTJrMnBsVHRuZTBlSHFPd0lGTVk1b2JQMTJKYnc5eGFKMGQ3dEtVOVN2c2pzTHB5anNYelZYU0puMkxRM1BXQUJoQVJ4b3E2QnFIQ2lqWTUwZHlxYzh3UmZVZVk3bFJGRmc2ejY5ajhpMFFLeXRuNnF5VXM4Tm5vQ0VIYnJERjl3WndvWnZUakF5SHhEenVUTXY5Uk9Udw?oc=5",
+    "publishedAt": "2026-10-17T01:46:44.000Z",
+    "collectedAt": "2026-10-17T02:38:06.543Z",
+    "translation": {
+      "titleKo": "트럼프, 면제가 미국의 국익에 부합한다고 말하며 의회를 통과한 새로운 대러시아 제재를 보류하다 - 바스디보",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "65d5b629b9784f344198a4ed938bb655e5a46323",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump waives some Russia-related sanctions that threatened 100% tariffs on India | World News - Hindustan Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdWN3WDdwTDdJejhETXAyaFNYN3V3Q0hKU1BWcWFIU3BKY00tOTZlQ3pmSzJXNzZKWEgyWHV2S3l6Zlp3UUFyMVNwX2QyX01IRkVKY2c1UzNFV0FBRHplQm9EdllLWUM3QVBBN1gxbkhqZzdmUW5Ca1Nva2ZUaHV3RHFjeHBLOS1jMXJFRW15VG1ROGVHSGZwajVfblo5YWgtMEdNaU9uNTdnQUIwUmVOM1JyMWozWFlxRUNLTV9BbmVsMjJFeDhDMDctTy00c1AxYUM5d0N4My1GbTE3bm8yMUJjN0hwcUFJTVRkVHNvdWlkX05n0gH6AUFVX3lxTE9ZekVBOVdKcDFuYWRQWnk1YWRvZ1F2M2RfdVVxNlNyWC1sUUdZYWlQVTZzVkp0MzBhZFRSaFlUSExZZFltWWk5OU1jVkdBUmUyQ2ZnRXRNbk5CRUIxeHNZcXZtLVh0eDFFc2hEbjBoV1FVUGxoamd0dkRxQzBhbGNITkd6a3F0SzhydjlvWGVWMV9hdjM5Zms1ODhicUtjcE01aGo4SHlKV2FlUkFwM2liWS1aNFN2TXcxRVh5b0dVOUEzM0ZpcUExQ29WSjFKaVNreTF2QnpoTDBvTzNxSlJkTjFwZGQtN3RzUzhuVUh4SWk0cG5Mb3ZvUmc?oc=5",
+    "publishedAt": "2026-10-17T01:53:40.000Z",
+    "collectedAt": "2026-10-17T02:38:06.543Z",
+    "translation": {
+      "titleKo": "트럼프, 인상률 100% 관세로 인도를 위협했던 일부 러시아 관련 제재를 면제하다 | 세계 뉴스 - 힌두스탄 타임스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c5540c10b3db5ca0036fe351cbe9fb65dc0d1cdf",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump issues waiver for some Russia sanctions - Breakingthenews.net",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWTlFX25FSDhCZUtnUEQ0TElsQTl4NnBHa253ZjV4a2VfMjRETW1ZMHRCekNCOWlDSk83N2dnd190d2dhbmQydnlxRXVUb3QwU09nUGJfNFVIblFEX2xPYjlycFpLNVdzSlR4NHd5UjBFa2x5SERKVHZ4UlluSDZ3dmhQLWFEUU43MkdrclJfNDV5QmNs?oc=5",
+    "publishedAt": "2026-10-17T02:03:00.000Z",
+    "collectedAt": "2026-10-17T02:38:06.544Z",
+    "translation": {
+      "titleKo": "트럼프, 일부 러시아 제재에 대한 면제를 발급하다 - 브레이킹더뉴스.넷",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c974fee1fbacf32d0c62e84c1f2743a055fdbf07",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump waives many Russia-related sanctions, tariffs before they were to take effect under new law - The Straits Times",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObGplWUNWWFhSZTFUSURfd0s3SHJCSUtmMjMtOWYzRGRtaE5HNW41WE40dmVIbkZDUmo3clFmaWc5WlVMNm1BaGdhOUtydHI0UzlrRGRHT1FOckpobjcxX2Nac1N5c0dTS0N3NGU5NU9RZjBNbXpaOWRNcGlOOXVKSVlXMnhFWFFJWnRpU1l2a000NVNvOVB2SWxUZHktZVlXVDRWeklLTHFUQVB4a2lRRkpDelJQTFB6djBlZU1mQklETEhOeHNZSnVvRmktQS1wUG5aWWVFLThBRl9zcEE?oc=5",
+    "publishedAt": "2026-10-17T01:20:00.000Z",
+    "collectedAt": "2026-10-17T02:38:06.544Z",
+    "translation": {
+      "titleKo": "트럼프, 새 법에 따라 발효될 예정이었던 많은 러시아 관련 제재 및 관세를 발효 전에 면제하다 - 더 스트레이츠 타임스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "050ac41a5b2d36e202326b172233a65298d1ae6e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU sanctions hit Russia’s nuclear submarine fleet - The Australian Naval Institute",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVmViWUk5Vnl3dnRYb3VaNU9JejdGanQ2dUZoellNRlZiVmZkRjJ2bUJWYjZkTjgzeEZ6c3BLd3Y0a0FPMWhtMVBmbFZpR2xyLV9LdG90UWoxa0tqUWc2YVBheUljQ2t3dWlQMTFtZmpSZjRjV3BvTUVZeWtBMDA4Vmd3cm55dw?oc=5",
+    "publishedAt": "2026-10-16T23:37:10.000Z",
+    "collectedAt": "2026-10-17T02:38:06.544Z",
+    "translation": {
+      "titleKo": "EU 제재, 러시아의 원자력 잠수함 함대를 타격하다 - 호주 해군 연구소",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ec1a521d1b4eefef8869fcd10a83c6b98a79eb3e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump waives many Russia-related sanctions, tariffs before they were to take effect under new law - Internazionale",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSXhlZ0pzYlo3dnlzTDZpNThpbk14WmMxemxGSzFIaXhoOVloaTgtYWVISU90REYwRG9ieC00U191aWc0MkVFWEcxaEdCd2NvRDM5Zk1wX3pIMm5ZSmFlTlpRWVVTWHlyd2h2LTVNWTd1VC1HVGVmcDFKMGx6Qnc0bHRHZlZDM3dfTlo1MHBCRkZnbzczUnh0RkNjYXlLWlVvaGdPeW1OaFJCYjkyR1FRMUZ4S2lnV0NnUUt6NjJ1VkpDVjJfLW51NXZUNWR4dUdEY2xpYnJITlFvUk90NlM1Tmg0eVlhb0FjaE5fOU42WjVUZw?oc=5",
+    "publishedAt": "2026-10-17T01:18:41.000Z",
+    "collectedAt": "2026-10-17T02:38:06.544Z",
+    "translation": {
+      "titleKo": "트럼프, 새 법에 따라 발효될 예정이었던 많은 러시아 관련 제재 및 관세를 발효 전에 면제하다 - 인터나치오날레",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "efecdf7670599a71ab08fd195a35e6edad9bae1c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "Trump Announces Suspension of 'Sanctions Against Russia' Ahead of Midterm Elections - 아시아경제",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xWGsxQVQwZHhXbVF6WEFYSFhVQUNzYVJJN29wSGJSMHB5c3FzdUxXLWxiRlFNLW1rTnFmRGRsNEcyUkx3ckZXUm5WYkg1SWhCQmVGZjJOMVBpMGVXZmNzRzRjOXlQTGJLQkVZUHpWOUtKdEQ2NjJ3?oc=5",
+    "publishedAt": "2026-10-17T02:17:38.000Z",
+    "collectedAt": "2026-10-17T02:38:06.544Z"
+  },
+  {
+    "id": "035064c09bb219b5883c9ac0b05213f5704f858b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump waives many Russia-related sanctions and tariffs - The Canberra Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeWJVTFZWdTVnb3ZDSmZzN1duQWpOcTFGVFJjRTl4OFNwT1JPMzRKTEhTNnVfQUI1LU9TTm5NM0xadzRmRWo1dHl4WERESW45d1M4X3ZTcmI1cmZDMGJFek1XbEpIVEtTdXkwV280WndHVVJRdXRmMXlZMFROVzlhVHlCQmU0TndqVFFuUDJWMXNqNTlLU1YyTnEtalZuNTdoSHdhMg?oc=5",
+    "publishedAt": "2026-10-17T01:57:48.000Z",
+    "collectedAt": "2026-10-17T02:38:06.544Z",
+    "translation": {
+      "titleKo": "트럼프, 많은 러시아 관련 제재 및 관세를 면제하다 - 더 캔버라 타임스",
+      "snippetKo": ""
+    }
+  }
+]
