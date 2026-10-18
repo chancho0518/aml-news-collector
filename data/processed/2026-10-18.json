@@ -846,5 +846,415 @@
       "titleKo": "루비오, 트럼프가 대러시아 제재를 검토하는 데 최대 60일이 걸릴 것이라고 밝혀 (로이터 작성) - 인베스팅닷컴",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "f2b36627d1d4378ca78eb9d7b9eda8aee5f0901e",
+    "source": "파이낸셜뉴스 금융",
+    "category": "domestic",
+    "lang": "ko",
+    "title": "FIU 과태료 불복 검토 나선 수협銀... \"이형주 행장 되면 업무 배제 불가피\"",
+    "snippet": "Sh수협은행이 차기 수협은행장에 도전한 이형주 금융정보분석원(FIU) 원장이 직접 의결한 과태료 처분에 대해 불복소송을 검토 중인 것으로 확인됐다. 특히, 소송이 진행되면 이 원장이 수협은행장에 취임하더라도 관련 업무에서 배제되는 심각한 내부 통제 공백이 생길 수 있다는 대형 로펌의 법률 검토 결과도 나와 논란이 예상된다. 18일 국회 정무위원회 소속 송언석 국민의힘 의원실을 통해 확인한 대형 로펌의 법률 검토 의견서에 따르면 이 원장이 현재 인선 절차가 진행 중인 수협은행장에 선임될 경우 지난 3월 FIU가 처분한 과태료 반환소송",
+    "keywords": [
+      "금융정보분석원",
+      "FIU"
+    ],
+    "link": "https://www.fnnews.com/news/202610181823471240",
+    "publishedAt": "2026-10-18T09:23:48.000Z",
+    "collectedAt": "2026-10-18T15:14:40.565Z"
+  },
+  {
+    "id": "db3d00a228a808f8336fb202bd626a2a128ec673",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "韓, FATF 운영위 참여…AML CFT 증 국제기준 제정에 목소리 낸다 - 조세일보",
+    "snippet": "",
+    "keywords": [
+      "AML",
+      "FATF"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxdFpXR2V4UEhucWRpTnpqMVJUdFRhWVBKNjB5WXhLY3RsWlUzaGZwR2JvTmx5X19ENHcyV21KaEhUMHhJaDltc093X0xKdmMzbjBCaldlSFJuYzdZbXVEQmVlM0t1TDdBd2NJMExPX2g?oc=5",
+    "publishedAt": "2026-10-14T01:00:33.000Z",
+    "collectedAt": "2026-10-18T15:14:41.326Z"
+  },
+  {
+    "id": "3ccda5eb6cfcf0b9ccfab5c29540b3f99014313a",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Debanking, Reputation Risk, AML, Oh My! - Fintech Business Weekly | Jason Mikula",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaDNXLTNEZlVZNkRQcU9NQjI5Vkp1TGp0UVllaExSN2hRclZ6S2EydGRlSXY3Q0h0NFF5QXBnWmktTjI2V01ZYlVubWJuR291bDhjbHh5dmJxU09hMDlLS1p6X1QwUFhyeEdmYU94OXQ2cnd4aXZpNHlJNjZtNGpGcC1Fbw?oc=5",
+    "publishedAt": "2026-10-18T13:59:34.000Z",
+    "collectedAt": "2026-10-18T15:14:41.414Z",
+    "translation": {
+      "titleKo": "디뱅킹, 평판 리스크, AML, 이런! - 핀테크 비즈니스 위클리 | 제이슨 미쿨라",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "77d6a88bf8d8d2a143590895719d9331dc292eb6",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BofA Fined $1.2B By US Treasury For Violating Anti-Money Laundering Laws Ahead Of Earnings - Stocktwits",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd1N2aldFR1NQemVKMl9FWEY3Mk8wVFZoVzRaNGFyMjA1RnlhRDdTMkkxbGdsbzB2ZUx0SXhFLWpZUWNDeF9GVllELUpLcjdfVkFpSmxDUUxac0ZndDF1YkM0aDlLdUtTclg5OEtVNkxqdXlwZVM4ZmR5d3l4NnpuX09rTFJlblFxV01Ya3FMZlJ0c0EteklOV0V6emxOM1U3V0E0dlVJdmVzcDVrel9oaVlCRGo0X0lhZHhhRzhqVFg1MHZCTmFJX2xGSHE4eWs2NnMtWnh1NEV3c1RoZGtueFRqaC1hNHdSZ3RF?oc=5",
+    "publishedAt": "2026-10-15T08:07:09.000Z",
+    "collectedAt": "2026-10-18T15:14:41.415Z",
+    "translation": {
+      "titleKo": "뱅크오브아메리카, 실적 발표를 앞두고 자금세탁방지법 위반으로 미국 재무부로부터 12억 달러 벌금 부과받아 - 스톡트윗츠",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "22cee69da1e614baac4f749e206cc903c17c7a64",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Citi hires away FinCEN chief for compliance role - Yahoo Finance",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU21LeVR2YkU5cUFnWFEzekJvWEwwdWpiS3E1UUZBV2ZxQ0VmalR0TnRyMEd4SFp5aTBsNTBGMDl2UEFfWHV2M1FwQ1c0VGpYaUdfRkctSTRFcTBUYjR1bG4xSi0xSHR3NE9DUjhNQTQxdkhGZ0h4WnZ6QW5aa2JpcjVRbXd4NGFITlJJZ2JVeVdQelhYLXhNaA?oc=5",
+    "publishedAt": "2026-07-31T07:00:00.000Z",
+    "collectedAt": "2026-10-18T15:14:41.348Z",
+    "translation": {
+      "titleKo": "씨티, 준법감시 역할을 위해 핀센(FinCEN) 수장을 영입 - 야후 파이낸스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0446598d8beaaca093657e4959e806dbd1f91110",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelenskyy says ‘it’s a pity’ Trump bypassed sanctions law named for Lindsey Graham - NBC News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUhSQlBNNnViZE9STE5vcVFZelk1bnpPN3lrSmkxQ05yNXZSZV9CUmdpc0FQYl8zZ1I1Y2ZJeS0zdFR4bERpOTRrZ09zWUdUbDFfcWMtYVE0QTdaRzBMUDNjYmhvMnk4d29RandFcVB0REI3dUMtNXJkb1VUM3ZVRVpXS3ZTQ0U3bUxYaGdKOWwyRDVYYzhCNkpHMlpOYzloazhVaXVyclNfazVXUGtfQ3F5eTNQeXhMNlQ3T2UwLVg0d0pJaURCWFdkNGM5TlBWaFd1cQ?oc=5",
+    "publishedAt": "2026-10-18T13:44:09.000Z",
+    "collectedAt": "2026-10-18T15:14:41.375Z",
+    "translation": {
+      "titleKo": "젤렌스키, 트럼프가 린지 그레이엄의 이름을 딴 제재법을 우회한 것에 대해 '안타깝다'고 말해 - NBC 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5503054952c1e7aa403eb5918dc60a300ae83809",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Scott Bessent says ‘no one has been tougher on Russian sanctions’ than Trump: Full interview - NBC News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWmFFTXh3cHZJMmJTanlMT20yZzZOd29FMENoR1JoNkg2b0NDU0x4dmlqSzVtWTJkNVJoWmg2eDY5QlF4VHRpVzBSQ1VjR2JOdElTMW02ekpLRkd3bXBFcnIwWUo1UjZCa0ZHWTgxU2xmazVRMzRVaHVCaGxSU0NGb2M5bmNHOGhadXdFZWtJSFBjUmhmUWNfSFM1cVRpMWJZNXdnLVFjemxVTGo2NnlxdkU5cFgzbkpSNHNhcTRiNzRjTExLZXVENUlkaHItU2g4aElpdnFKdi02TTg0eThjYg?oc=5",
+    "publishedAt": "2026-10-18T14:05:00.000Z",
+    "collectedAt": "2026-10-18T15:14:41.376Z",
+    "translation": {
+      "titleKo": "스콧 베센트, 트럼프보다 '대러시아 제재에 더 강경했던 사람은 없다'고 말해: 인터뷰 전문 - NBC 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e18e3ecf6eb07b7d595b3cb4c35564cf5692dab8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Faces Bipartisan Backlash After Waiving Russia Sanctions - TODAY.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckVzU0RNek9XVDdsd1lPa25TRDZrMGtJR25GT19BMkxmdXN0ZGloR2FkWUozTjBjTy1KUmw4bzhNNzZ5MEIyaTVpZ1lUT2lNZ29XcnB3NjMxdm03M2pJZXVJM3Y3d3Y2Rk50ZlJTVTdJMF8weFFpZG91R3gzZUoweks1WWFuOHlCdG1Ia1lGdVc2YjJzQ0tJQVFFM3FPQV85REUwellB?oc=5",
+    "publishedAt": "2026-10-18T12:46:19.000Z",
+    "collectedAt": "2026-10-18T15:14:41.376Z",
+    "translation": {
+      "titleKo": "트럼프, 대러시아 제재 유예 후 초당적 반발에 직면 - TODAY.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b9e8fd1ba3089de295a330982ad1d24d17b1234c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Ukrainian Officials Slam Trump's Waiver Of Russia Sanctions As Rubio Defends Move - Radio Free Europe/Radio Liberty",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5Y19GNzJNeHk5MFU3SFdubTkxdVVNckw5Xy1Dc3Q0bmtCTTliR0tzNUJxMHdoR3JDTm9iY3VtSHhpclJyZ1pTTk9OZVJWa0FKWHkzVmxvbjhraDFWX29PbFlOeDgxMUJhdWNSWm1JVVg0Rkh6Q2Ffc1FnSdIBfkFVX3lxTFBtaTQ0ckxNS01uazlRMGpRemdWLXBRQ3RYaDFIUWpEbFVZaWRzNU56akd3OVJxQTlxZjFYUVZMWFc3WmIzdV9nNG5ucTMxZ29wTC1DV1VWS2g4b2FabTRrdE16WTFVR3Npd2xUbDg1b3ZvU2RnNWNYc3VHdFVaQQ?oc=5",
+    "publishedAt": "2026-10-18T10:36:13.000Z",
+    "collectedAt": "2026-10-18T15:14:41.376Z",
+    "translation": {
+      "titleKo": "우크라이나 관리들, 루비오가 조치를 옹호하는 가운데 트럼프의 대러시아 제재 면제를 강력 비판 - 자유유럽방송/자유라디오",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d0e07e011947d3a1d1612c9f3f13d663a062bc69",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "RAW: SC: SEN GRAHAM SPEAKS AFTER RUSSIA SANCTIONS WAIVED - Local 3 News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU0dscXFxZEVBd1gzX0JyNnhfckE1VldSSy1FQUNBUE92bUlBSTJqdUgtWFlyT2tpYXRxaFQwOF9OTnF2eXJEak5XbF9RaGZqSkNlU2ZUaW1SRkhkNjJJaVJKb1pVOGozcTZXX05yWFZrNXM3VU5VcEtpd1Q5b2lEUW41NWk4Ylc1OExPV1ZNbEQ1MkwxM3VxZ3JXZFNLQ3NoczhiZFlZM2RyeUt5X29RUkFtcmp0cU9Zc0I4RUQtWnFWMUl1S3l0SV9WRDBZbG5mNElYWW90T0owSmdfOENnag?oc=5",
+    "publishedAt": "2026-10-18T13:33:00.000Z",
+    "collectedAt": "2026-10-18T15:14:41.376Z",
+    "translation": {
+      "titleKo": "무편집 원본: 사우스캐롤라이나: 대러시아 제재 유예 후 그레이엄 상원의원 발언 - 로컬 3 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "221f725ff85652b8db10f5b4d2f69722b8b4c02c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump waives more Russia sanctions - WKYC",
+    "snippet": "",
+    "keywords": [
+      "sanctions",
+      "KYC"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQkoxR01MeFZObnl4STItUDFZN1BiRTQtWFdBQnBnb01US2JkVEdDV0paSkFISzlOSE9iVDRobDkwS3kxVUY0VnpfMlBvSGdCY0dIQkVPOWZvMXBqTGFpWDZfUWRKWEhTT0NMSGZxRWEzMTZEUE1NMG5TSURIZjNuZzdqYWxvT2NUQ1AtY3U3NWRsaU90REIwSEdmd1ZmQURzdXBsQkF4eEs4bms4TlJkZEtVaC1EU3BBdWtF?oc=5",
+    "publishedAt": "2026-10-18T13:11:00.000Z",
+    "collectedAt": "2026-10-18T15:14:41.376Z",
+    "translation": {
+      "titleKo": "트럼프, 더 많은 대러시아 제재 유예 - WKYC",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "681251be67ee6c1a43f490806f837c1d0bd01f79",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Ukraine: Volodymyr Zelensky denounces the lifting of US sanctions against Russia decided by Donald Trump - i24NEWS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQ2ItOFhQMWJKMGFnYkFGbC1KdE1rQ3FVb0NQakhsTWFkUkJsX1h2MkxRbFJzUVM1bVYyem5kTnFHd1VHbHJHclZmeGdHaHVoUFI4dGVJY2F1bVh1SWtEeThJTHQ2WHpNb2NvTzVod01sOVdJS0FDNG0tU01DRTBrNHB2dGhZTGp4SmFGRUIxNkFLN2o5UlVjZlZKbUxud1JIaWpaNDdHeGRzWXU3bUE0bi0zVnFBRVZONXR2QmxUUGhwbzM3RHpjZkR0dzNXNXhuV3NoZ3c0SXNDd2xXNHZCa1l5cGRYU0tOUXBEQjlIQkhzbWRDLUwzMS1KX2h3eEUzS3c?oc=5",
+    "publishedAt": "2026-10-18T09:45:00.000Z",
+    "collectedAt": "2026-10-18T15:14:41.376Z",
+    "translation": {
+      "titleKo": "우크라이나: 볼로디미르 젤렌스키, 도널드 트럼프가 결정한 미국의 대러시아 제재 해제 규탄 - i24NEWS",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fcdaca111befbe17471aabc5021fd63df28705da",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump’s sanctions waiver is about America, not Russia - UnHerd",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbVhLLWtydG9YaUNFdEFZanJ0V2NjSk9wQzlnMGhQbVVjYUU1SDh6OExQREFmZUdER2swRllDelhWV2VpbEhFM2NfcVdkU3lXT01EY2lCZkwtbHVJWFRwaGJsRmczeW42N3JDU1YtNUJUY05DRlRoZ1lWRFVuX1BaaFJXZXo2X0U?oc=5",
+    "publishedAt": "2026-10-18T13:00:50.000Z",
+    "collectedAt": "2026-10-18T15:14:41.376Z",
+    "translation": {
+      "titleKo": "트럼프의 제재 면제는 러시아가 아닌 미국에 관한 것이다 - UnHerd",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d57a0c7de60babc0887f473dbf015f7a8e2079e9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Using 60-Day Pause to Review Russia Sanctions, Rubio Says - Kyiv Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vbEY1WDhkWFU4dkowb3lrT1EtRGNYX21TdmpvcWo3a0NlbDR6aVplcTFZeUl2ZkJmMG9rRWpkb1NSajBTazhVMGtNcw?oc=5",
+    "publishedAt": "2026-10-18T09:11:52.000Z",
+    "collectedAt": "2026-10-18T15:14:41.376Z",
+    "translation": {
+      "titleKo": "트럼프가 대러시아 제재를 재검토하기 위해 60일간의 유예를 사용하고 있다고 루비오가 밝히다 - 키이우 포스트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a6f6693add9137e30983a0def2736b9aea025619",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Suspends Russia Sanctions, Zelensky Says US Disregards Law: 21 outlets compared - NewsCord",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTHZUWElpUndBblg2MWdPTFliQUp2Q0tuNHNXbjV3Qlp4a3kwLUphVlM3TnBqdkx5TmZ5TjBlbDVfTXVwYlhDQ1VaNnR0RzdQeDJtUjJWald5MUJRNk9TSnNyYTZwU1QtTlhIVW4wUnhyaWtuM1F3TVRUeXVEaWszZEhOdlVwa0hPOWR3STdwWHlNVXhHV0JkZVVIU1Z1aHNVQlpfX0lJNFdodEtlUHlqbkw1eWxGTE82WFBZSHZPZnk5R1BqMGlvaHRNeGd5TXE2aXVZ?oc=5",
+    "publishedAt": "2026-10-18T12:01:14.000Z",
+    "collectedAt": "2026-10-18T15:14:41.376Z",
+    "translation": {
+      "titleKo": "트럼프, 대러시아 제재 일시 중단, 젤렌스키는 미국이 법을 무시한다고 밝혀: 21개 언론사 비교 - 뉴스코드",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ef7cbd970c50414f6410d5f02bd8b550e7b0a487",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump waives most Russia sanctions and tariffs days before they were to take effect - KOKI FOX 23",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWU9uTXN5OUxfN0pLVEJ3elIwVnNseXVTOVY1MkE3UVNkSFVvaHFuRTd6MUpsNjBzbDZSWlNqTVFwZGVWcDgtdGZEOVBwMnNFWmJFcGJzODJjZ29nTVlxaUFXUWgwSFN4cTUzVU1YcUNYVXVuWlpkMmFiSnJ3ME1QSHBCYjlERTRIVGxIekZCV2swc1ZtSjg5a2cwQkRtMjhuaGt5dGEtNUpid3NiOVRpMmpxejhIeEdKS2xN?oc=5",
+    "publishedAt": "2026-10-17T21:25:34.000Z",
+    "collectedAt": "2026-10-18T15:14:41.376Z",
+    "translation": {
+      "titleKo": "트럼프, 대러시아 제재 및 관세가 발효되기 며칠 전에 대부분을 유예하다 - KOKI FOX 23",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bf029d692cf254260e4d5c6e6cacaa65e8025ffe",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump pauses Russia sanctions, putting energy costs ahead of economic pressure (CO1:COM:Commodity) - Seeking Alpha",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWJ2c1NZUXZvUWI2STVmRm5CNzFIY2dBalVzMjVfbGp1aHJBNzhTRm50cklCZFEtOExqQWd1bDFxUy11MVJnRGFnNjQzdFJqNTUwMXhra2ZtWUNYU1l5UEFacEN3SktPemgyWmRidzd5bkRmYnFDd1BVV2I0Nzd4bGtMNU44UGRGNUx0Yy01RDhCZXpzSk0xU2R5b3Flb0RmanNnbmx5RFpQcnlqRjF5Y0V3SGg5Zw?oc=5",
+    "publishedAt": "2026-10-18T13:17:48.000Z",
+    "collectedAt": "2026-10-18T15:14:41.376Z",
+    "translation": {
+      "titleKo": "트럼프, 경제적 압박보다 에너지 비용을 우선시하며 대러시아 제재를 일시 중단하다 (CO1:COM:Commodity) - 시킹 알파",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4b01ec9254fd3113489bc7d555faba7ff006e574",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Watch Trump Faces GOP Backlash Over Russia Sanctions - Bloomberg",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNEVJM1YzcjhPN0psZ0dOdV8zY1Y3ZDhBdkd4al9OZWhoSXM2Zm9RcnJucVZDbDRaa2RpUDhfcDI3aW1FX2JUOEx4TDkwY0VoRWdseHVwdUV5ak55aTBWWjVNQkFLcXd4VEZYRldGUHZGVjR4aEJoWHNvWU5HdTExZ2lXUjFKbGNvZWtxazZaQjdpMU1zYWVuY0tIb2NBYjlwSV8w?oc=5",
+    "publishedAt": "2026-10-18T00:00:00.000Z",
+    "collectedAt": "2026-10-18T15:14:41.376Z",
+    "translation": {
+      "titleKo": "영상: 트럼프, 대러시아 제재와 관련해 공화당의 반발에 직면 - 블룸버그",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "597f71fa79117e3cabc2c124a39bc7dc63a15b34",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Waives Graham Act Sanctions on Russia, Faces Bipartisan Backlash From Schumer and Beyer - NewsCord",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYjZUTUVyT19GOTZlbjdtQ1oydXFzSG16cWNhdXJ2TWlPWU5tMjVOaktXZ0VDeWNTVzJtSmVINm4xVFFlcVhYOTVfYWExYjFfRV9xbUk4VWtDZmQ5SUNIMWY5Qk5QZXJ2SXByZjd0Mm5BV0VmaTVhQWYtRVBKLW9HM1M2aWMyMjZJSmxzUHRQMXVxWTRkY1plZkFRc21RdWxjVC01VHUxU2EzYWhsdTlGTkdnNG5ibGdHN29kS2c0dlNpUnNIMHNrd2VNNm5Yby1BelBJbDVLRE1IZ21NQ1RFc054dTVjOGVRYkE?oc=5",
+    "publishedAt": "2026-10-18T12:40:25.000Z",
+    "collectedAt": "2026-10-18T15:14:41.376Z",
+    "translation": {
+      "titleKo": "트럼프, 대러시아 그레이엄 법안 제재 면제, 슈머와 바이어로부터 초당적 반발에 직면 - 뉴스코드",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ff4f18cc8a8f4c3cb3782ee78e1d87b7a4890d84",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "McCormick urges Trump to maintain Russia sanctions amid fuel crisis - Fox News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zMV8ycmdsSHRxQXR0TDJ4NTR5SUsxUl9XMjItSVlOS2JCWWFnWVJoY3pmWUNxczhhNDlRRDgzNkczR3U0Nzg2YlJ3SHdka1NEcEhqem1B?oc=5",
+    "publishedAt": "2026-10-18T14:26:00.000Z",
+    "collectedAt": "2026-10-18T15:14:41.376Z",
+    "translation": {
+      "titleKo": "매코믹, 연료 위기 속에서 트럼프에게 대러시아 제재 유지를 촉구 - 폭스 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b70d240cfc75f55f3ef5fb6f31d6c95fa61ed4ae",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia: US sanctions waiver benefits both sides - VOV World",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUVFyTmQ0cTJUcGp3SXJkeXA2R0xWaWxWNWxlREVmNEZqOTA3ajBZbk5FVHhkTVB6ekN4QmZnNlpiRkJGeEFzekluSE1sT0ZfXzRRbzhkU0UwV1BuSkJJQXlOMk1lM1FkbU8xYUZIa25UeDFlUWMzZC1zamtSbzI5cWJFV2Uwby1HaTFSSA?oc=5",
+    "publishedAt": "2026-10-18T08:53:00.000Z",
+    "collectedAt": "2026-10-18T15:14:41.376Z",
+    "translation": {
+      "titleKo": "러시아: 미국의 제재 면제는 양측 모두에게 이익이 된다 - VOV 월드",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "816ef674332270cfb6eec11f54e6296a379f32c2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Rubio defends Trump's indefinite suspension of Russia sanctions - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUJZbFdCMVloNUVNUVJmZE5obFQ1SXpZb3V5QU1ZSzRmUEMyamwtUW9fQ0JlQXBETS1uN09KTVFoM25LZmJCYVlCNEE4RzcwcVZ5Yk9UNjMxUWlZS0psTU1YS3Znb21ibDBickFJRlBEUGtWMWhGazVrOXhzZHc4d2VIZHJpSFhPSlBtVkVaRmlhVmRVeWhIQUlIdU5VMzhZa3hJYw?oc=5",
+    "publishedAt": "2026-10-18T12:18:35.000Z",
+    "collectedAt": "2026-10-18T15:14:41.377Z",
+    "translation": {
+      "titleKo": "루비오, 트럼프의 무기한 대러시아 제재 일시 중단을 옹호하다 - 야후",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "75cbee5867558407d08910a189b0cea74e4c54e6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US plans 60-day Russia sanctions review after Trump waiver - Nation Thailand",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95NEsyVFAzV0d6cVNkb21KbEd2aEYxZkFscFE5NmlXeFVKYWdxY0h6UVRKVUxiYzRiY295WWM1NGNNZDVqcXN3S2JaU2VqeFlrSU0yUkhEc1E4VjBYWVR3?oc=5",
+    "publishedAt": "2026-10-18T09:26:00.000Z",
+    "collectedAt": "2026-10-18T15:14:41.377Z",
+    "translation": {
+      "titleKo": "미국, 트럼프의 면제 조치 이후 60일간의 대러시아 제재 재검토 계획 - 네이션 타일랜드",
+      "snippetKo": ""
+    }
   }
 ]
