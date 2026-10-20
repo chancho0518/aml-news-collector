@@ -348,5 +348,554 @@
       "titleKo": "트럼프, 러시아 제재 완화, 중간선거 자금, 프랑스에서의 폭력 시위 - NPR",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "3be57c685f4b8777e0fff4179069e2ae6c30e2d9",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "보난자팩토리, 케이뱅크와 블록체인 자금세탁방지 협력 확대 - 팍스경제TV",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uUnk3cjNpVkNFYU1DTVJ6ai1zLXd0OGJWbW1jTnlQQS1sTUZBVi02cXFoeHROUjBGNTFTQkNwOTdXQkZEZ2ZISC1zc0Ixb0lIT0J2S2pFY0FDeEk3MTJ4a3Etc1pJOWc?oc=5",
+    "publishedAt": "2026-10-20T08:40:28.000Z",
+    "collectedAt": "2026-10-20T09:03:42.817Z"
+  },
+  {
+    "id": "db4ee3da5c42bdae2e548086a204d60d6a41e510",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "\"범죄자금 꼼짝마\"…람다256, 블록체인 자금세탁 AI로 잡는다 - 머니투데이 - 머니투데이",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CQkpNRnJrR09kMXJOcE9JVFFmYmlzTU9hSmUtWHAwX1pQbk54NDBoVk5XVnFkREJBVkhQQUlTRHdpbDZjNGl0S1pWXzFGaExkaFg1LVJYYVcwYVU3M1ZtRHgtNHNnUGNjLWfSAW9BVV95cUxQT0Z2aHNmeUJTb2hUWnFqajRPYnYtSkVaS0l2YkRMQnl1NzFsa0hVMFBQMVlqVXY2Rms3dUpDVkpTRHFOYUgzdmhFTFlyeDkyck9qdFM5dEM3b3VjNmY3U01OdU40UGM5LUszamFhVkU?oc=5",
+    "publishedAt": "2026-10-20T04:00:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.817Z"
+  },
+  {
+    "id": "a781aee28c6687deddab40342aabe2d93bece11e",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "FIU, 자금세탁방지 체계 손질…비은행 전담조직·AI 탐지 강화 - 금융소비자뉴스",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBURjl2WExlMDRrN0RCQTdwRmd5bzk0ZTR1eEF1QWlOdldRLUh1TnVpcFU2NlJwR1N1MzVNZnRyWUctTGl1eDFDZEJfcHBoTHZHdDFIY0ZrS2kwUXNJTkw1V3pJNVZxa2hnUnc?oc=5",
+    "publishedAt": "2026-08-27T07:05:17.000Z",
+    "collectedAt": "2026-10-20T09:03:42.657Z"
+  },
+  {
+    "id": "a8bc836a7dadff34a16bdc33088297f135cfdb2e",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Blackbird secures payday at start-up First AML as Five V comes calling - AFR",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE9vSnE1VWViSmhxWGQ2NFYxMHBmRFloZmhZeC0tbXIyRHc0Ri1mRTBsMlRZdFAzbGtuUkQ0R2JGQkdfMDJzYl85QXBXNURqcWl1aGR2V3pudWlpakM2d1lzVy1Od011T1JzTDNscXFnbnBOS2tsc0h6T0hBbG9NcDF0Y2d3Zm1lSjJiZDVSSm1MYlJQVFFRQ25MRU5xRjloV1N6bHdzTlZnUDlTeDhJM0s5SGdzSlpDZXc?oc=5",
+    "publishedAt": "2026-10-20T04:55:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.465Z",
+    "translation": {
+      "titleKo": "Five V가 러브콜을 보냄에 따라 Blackbird가 스타트업 First AML에서 수익을 확보하다 - AFR",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "85bf50c686c5b5af5e71bbd741a65c58a839ee6f",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Firms’ failure to disclose owners threaten AML rating - Business & Financial Times",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOazFXVWM1S3ZnS2ZmMHJ4c05qQzlrTm1CQm5Fc0NJNFJxQmY1SzNna3hoZHhBUnd3VmozNS1BdER0T2N1WU1zdjFMUzl1OVduemU1ZWlTUmluVlItUXNZX0NDMHE2UTdHczlFcGNVR3FvcE9XbHU3c0NiUWV5TUZMWU9CU3dyYkticmRuQzBn?oc=5",
+    "publishedAt": "2026-10-20T05:00:16.000Z",
+    "collectedAt": "2026-10-20T09:03:42.466Z",
+    "translation": {
+      "titleKo": "소유주를 공개하지 않은 기업의 실패가 자금세탁방지(AML) 등급을 위협하다 - Business & Financial Times",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "558d210b17204e87ffe8a18af2443b73086bf658",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Agencies Clarify FinCEN's SAR Confidentiality Rules for Customer Communications - Husch Blackwell",
+    "snippet": "",
+    "keywords": [
+      "FinCEN",
+      "SAR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWFiM3BQRHJBYkdjM1c4Z2JFelhxcnZ4UlhPMld1dWJVQjZmeEZkdzFSVzRDb1lweGNiT1lpUERYYzl3V1RpQ09rNXVJckxsc2FFVzVVNXhwZjlvVHRCdTFKNkVnVFd0eHNyUHBQSXd0eXNfdGlnMV9zelRXQU1kY3VObTZaXzdRUmNWaTF6OUYwY1R6VnpuaWpnUzl1a2FzNF95UzBnNHBKX0RCcFlZc0Jtc0FwU0NTVktGX1dPbmlOaFk?oc=5",
+    "publishedAt": "2026-09-15T07:00:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.454Z",
+    "translation": {
+      "titleKo": "기관들, 고객 소통을 위한 FinCEN의 SAR 비밀유지 규정을 명확히 하다 - Husch Blackwell",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0255a39a7d7f056b6d753c08bd6679aec7d47b03",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Sanctions China’s Y Combinator in Google AI Secrets Case - Bloomberg.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWpoclBQZGh5ZzFZX25ESkYzTy1JV1dTQXhFUkhsODdZZ1VUOUlFaDFjaDBkYlRIeUZEQzJoOXZyTmFkeFNxNkxKQ1l3QmFRRlhkQWM0WnlLOXdySUlwX0t5UHNXZjFzUHhfOWZoam1CWmNjdXNnQ1pMUnZFYUxCenVfd3l4SjNsM1lfTG1jdXkzRkFfdnpSdjVpSk51UnFsQmZMM0xCZmJIcWlPMjMw?oc=5",
+    "publishedAt": "2026-10-20T07:11:11.000Z",
+    "collectedAt": "2026-10-20T09:03:42.580Z",
+    "translation": {
+      "titleKo": "미국, 구글 AI 기밀 사건에서 중국의 Y Combinator를 제재하다 - Bloomberg.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d96f87023fa7199ad1e54eb7993cb7023ec3402c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury’s Operation Economic Outcast Targets A7 Sanctions Evasion Network - The Presidential Prayer Team",
+    "snippet": "",
+    "keywords": [
+      "sanctions",
+      "sanctions evasion"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWG1Kd1daakVvLXJ5NV9ldDBVb3k3MzRCek55THhVSjcwSkZoODBqVGdiVXJXT0VUQ3JfTl90eWJiVF8zN200OF9hTG5YQjFVa2h5Q08tWkR1d1NiVnpHalJiUWFPRUZ5ZUJWb241N0xSTWVGeEVDU0daYlJoT3RoV0dZRWQyR1hUZnJsYTZhdERZQUs5anRNTWlvVU1PN2p4MDMwVjJwT3FxZVFUZWhSVlB1S2NERDZDNWZNaXdvNHQtQQ?oc=5",
+    "publishedAt": "2026-10-20T08:00:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.580Z",
+    "translation": {
+      "titleKo": "재무부의 '이코노믹 아웃캐스트' 작전, A7 제재 회피 네트워크를 겨냥하다 - The Presidential Prayer Team",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a8ce458aeaf6dd70e04126aac1e80eec671ab354",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Imposing Sanctions to Protect Americans from Intellectual Property Theft Fact Sheet - U.S. Department of State (.gov)",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSnZLODNPMmE2cDBOeV9fT0xLRnMyMTFLUVJLYTJSSzlHSVN0MHpqQ3Itc1VLYVc0aEdZakl6d1YwYlBPNVZKLTJGQlhJR2hXQTJHUlRfbmNXNU1QamFQc0gyMEwtZHdNMGhMOFBaVkhLeXU1blg0TUEyTmNfTzdNZkh5X2g1a1JYRFltWWVIdzE1S3MxekNiMXIwY1hpakQ4alpIODNkNF9mVHloX3UzQ090djUxV1N3T0ZUdENHRFhBbHlkZW4ySS1wN2JQUkM0dVZpY1V1ZlBYRUU4cFNn?oc=5",
+    "publishedAt": "2026-10-19T14:54:23.000Z",
+    "collectedAt": "2026-10-20T09:03:42.580Z",
+    "translation": {
+      "titleKo": "지식재산권 절도로부터 미국인을 보호하기 위한 제재 부과 팩트 시트 - 미국 국무부 (.gov)",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "50090be9040790ce12c35f40a315ec3ca6e65385",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - Gray TV",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMF9Sd2lSa0thckRMaGFiV3FlVXpzZm5Ed0dsMElBODlkWDY5VWxLRENYLVZadTJrVmx5VkRuU1lPczhjY0VSMDVHSU4yVkNoNXU2VW55c2VZT3pnVDBBcmV2WFZhUUphemQ0Zkp2NHBEbHNacDlCazJ0VFBvM1ZxTFNSRHdMdXJJVUtXNzlJTW1sRnZUOWc?oc=5",
+    "publishedAt": "2026-10-19T22:12:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.580Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 제재 일시 중단 결정을 옹호하다 - Gray TV",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a1e4c09cf4d19f56081cdb2fd73d4e4ac8716c67",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Connecticut lawmakers challenge Trump’s decision to waive Russia sanctions - Norwalk Hour",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHdmczQ3Q1k2TDFFczU2SWpxSHVqZW5KN1ZkVkFibS1ZME13ZXNSNUxiODQ1NUNrUWdIdENBTjRGbVlDOXFRTUxGNjNKNW4tX2lDWUJ2MWhLMUN5YUFQZi1VZEFGS0JYTHpIVmloZ1pmeHpxUXpZbzVJclpJV0FMdFB5R2QyMUs2T1pUWHBuYm1MZHZQSGszWHRVWlM2RmRX?oc=5",
+    "publishedAt": "2026-10-20T05:30:33.000Z",
+    "collectedAt": "2026-10-20T09:03:42.580Z",
+    "translation": {
+      "titleKo": "코네티컷주 의원들, 러시아 제재를 면제하려는 트럼프의 결정에 이의를 제기하다 - Norwalk Hour",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7b78f18e2d63214525aabb0168b5637207e6c20c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "President Trump waives new Russia sanctions - WBAL-TV",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBleHJWMUFmMXQyZkFCUlF4SlNFZTZCNkM5c0dRNzY5cVBoMWRjSF9tT2pDUEhIT0RCMkVDbEhhbkhaNndjQkZUeHNVUmY4M0NvNGtrRlRBQXlETGplSHNMRThpSzVzeXZndk55ZjhMb1RXUDk0Tl9kb3Z3NHBRUQ?oc=5",
+    "publishedAt": "2026-10-19T11:53:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.580Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 새로운 러시아 제재를 면제하다 - WBAL-TV",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8bb982c82f580aac279d7b8ebcaae3e853829433",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - K8 News | Jonesboro, Arkansas",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOanltZmRpdEtGcVVuSWNhQmFXLXJZQ0x0RkdPcVprMEdIc2hRa0FGeEJQMzUta0tjTnpZY24tVG40YWpyX3VPY0ZPaEpqVDdIZ1cwOUNCcTZIaDRPZVU3dkVYRmp0SVlLb25zQXlBbTFJaXFpUWRCSDIyZTJNNnlSempjRTJvNjVhaTBv?oc=5",
+    "publishedAt": "2026-10-19T22:12:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.580Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 제재 일시 중단 결정을 옹호하다 - K8 News | Jonesboro, Arkansas",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ce93d276f82c4a9ed5fc2153799fc958649418d4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - WAFB",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEN6WDhvWHRuaUlYR1liTkxqSTJUdHBwMjUxVEtHY253d0ZLdVZUTnMzQkpzQk5QTmFlNGl2RmpnSGJIdnc0YkhLTlRnVWdtQWpXZUlNcXhnZVFoREYyYkNoVUJxNS1FdUtTQVUybGNEb1dKc0VMeVpSZU1zWmUxNGFSbzRLMURmdnc?oc=5",
+    "publishedAt": "2026-10-19T22:12:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.580Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 제재 일시 중단 결정을 옹호하다 - WAFB",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5ef150e20fbc9ff06ea990cc6388fedcf2e1be70",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - ABC7 WWSB",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0xBZ0FmWGdLZnFOQXFPZDFabVd3SlNIQnh2eTBsSWxLT2pER2NleDBobE1leEZsaVlJcS1KX1lZMHM1R2hMa1FOSng4T25mTkZQV2c3MjdOcjgyTV9EQklQUy1GMXNWdmpTRFdRQXY1aF8zbUJ3LS1BV291T1E5MkhUdTN6d2tOSGlNZ0ZUQXJMZw?oc=5",
+    "publishedAt": "2026-10-19T22:12:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.580Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 제재 일시 중단 결정을 옹호하다 - ABC7 WWSB",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "31bcb6f1f24cf3cbe8a75864b04f27c98924ccc3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - WSMV",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMy1WbURJTE00SHQyY0M0VWdqM2R4X0Fja25kNzF3cGoteHRmNF9SWUxzZFBwcVVvV3FxSnhoenZTb1FxN08xS3NFLU1OWmJFNFMyV3ppMG1iWUdGa3A2ZV9qbmpmOVBKMFZxV2ZUZ1hmcEtCZzEtbnRCU0RMZy1sTTB6cmsxQzRSb3c?oc=5",
+    "publishedAt": "2026-10-19T22:12:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.580Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 제재 일시 중단 결정을 옹호하다 - WSMV",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "17e430b8b7c4ff3929651ba156772f7ae268d365",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - KFVS12",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUI3b3NLWFlDaFlsYTdGNnFsOVEzZVJqamNVMlp5a3dnenB4TDhKRVNkN09WdkJtZWZLZDlPSnhwUWZoTG5lRW5LdnpqTnZVZGMzakMyQWhaVGdSUjczZkdtNnlTS2RkcDV4YWdfNk02SkRsSWtDV2ZmTnRKLWJFLTZ4NXg2am9kX3dSdg?oc=5",
+    "publishedAt": "2026-10-19T22:12:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.580Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 제재 일시 중단 결정을 옹호하다 - KFVS12",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1a19ca3dd538acf5c5a7d6025bbd0c97850258e6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Sanctions Five Chinese Entities Linked to Google AI Trade Secret Theft - The Information",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDllOWJRbUptRWNad3lpaS00MDRNUGpiUXdVaU8xdWxLeENUUWNERXNySlJRcTZYZU9zdVctZEM1Xy1yOUtJWmNzX2xITEpzY0dHeWJ5dmh5SFdCc21FVWZGX1ZPQjhTSEJ6RUs4Qy1OeFhpWjBHdkxwaFpTVkxKTjZSMnB5MGszMDA5Sm5EOEZvcjZuVGJDM3NiOHFTaWUxUGMwVlBIT2l6eFZYV3hoTUFB?oc=5",
+    "publishedAt": "2026-10-20T05:59:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.580Z",
+    "translation": {
+      "titleKo": "미국, 구글 AI 영업비밀 절도와 관련된 5개 중국 법인을 제재하다 - The Information",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8f9b3d6da583084091cabf55c41e174ba78ddd1e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - WECT",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcF9QOTE1akFFeFAzY2dlR1JPZ0ZoQ2VWcGFuUkstWnZMTXVzYjUyMG1EWTU1eTlEV2NvbTdUbmdrMXpxd0syMV9QMDZ3S054aU8tSUgzMFBIWll2VXVZclhvZVlHSDNUd2tSMkpRT3M2QXowcEl3S0pGUVAxOVpTa050S3dIelRNb2c?oc=5",
+    "publishedAt": "2026-10-19T22:12:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.580Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 제재 일시 중단 결정을 옹호하다 - WECT",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "23fba600a9c6bbf26066d41b9273babba741df26",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - WBRC",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOWsxOWFRWVV2SGpMM2RXRG8tcEdJSlY0eTg5M0RLN3Zxdjh3LTZjOFQ0eUpzeG1GMEhaNDZvTzkyeWlRSWhDOW9oWGZTMzJWaE50QlN1eWs0Wnc4ZlBYRWxvT0NvT2FfcGdPT0RYWWs1aUtraUtQU0QzYkhBUWJkX3hzbTdSeFZfV3c?oc=5",
+    "publishedAt": "2026-10-19T22:12:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.581Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 제재 일시 중단 결정을 옹호하다 - WBRC",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "417c11449a202e80ebd547139c2024669aaeeb6c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - WPTA | 21Alive | Fort Wayne, IN",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQm45UGd4djc0S25GVkFoLU13X0NCN29zOG9ILVhQSkJLVXZocE40RkRHUzhib1BfM3BHckNyWHBrel9MMjlDS1VPamJXMGVIRDRNSV83VG96TEo1VDlDMDJ6T0RFNnpEREFOWnpSMWlwLVBYTUZnQlRmQTEzRjBGdHZrVHF1ZDd2VUd30gGfAUFVX3lxTE5uNUd5WUQxLXVKQnBadUJadGZ4ZHE3M1hNRlR6T1NmdHlnUHY4d01pRUFlV1RlUktpdjc5OUZXZHpOVk94MUdSMzMtVFFUcWpmTTVvM1l4eGxNVlVFaXFzN1l2WWt2bDhFVzM0UnpfMEZyZE05YUllNU1HRFdqdWQ0ZFQ5dmE5UXVHOGtHSVB2Rk5hNV9uMUk1WVN2U3BqUQ?oc=5",
+    "publishedAt": "2026-10-19T22:14:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.581Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 제재 일시 중단 결정을 옹호하다 - WPTA | 21Alive | Fort Wayne, IN",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "22f5acc420c153a55a95708ed87ecb962eab7619",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. sanctions 5 Chinese firms linked to convicted ex-Google engineer - upi",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWnAyQVJjUnd2Q3JGVUFNdlZvam1lbWRVdW5hcU82anB4V2dMT3gzaUFvMDJKM1cyUmotYVBMd0V1am5EQ0pmdngtZmpBRV8yRzFhWUItMmFzSzJPS3hydjZHaW53Ti1tMmIzLXZKTVVBNlRpc0loZUV0TFNXeUpfNEItbjJROXZQWW1Kdjd6WWlJZ9IBlwFBVV95cUxQYm5vZGNPeGVfbGZBZFBpMTFHUDdGMGJITDNoUXBBYnhvSmFEdkdobGE2NXNJNVY0c2pOcHBJa24zVUpOZXRGLU5oTE9oaUUyR1Y3M3R3S2Z1VkRuRDRuYUVoeU1qTTA1a0xGZ0ZTNkEtQzRtbXloWTVLSGpXTmZsVE5PTDRZaldKSndYZmxSaHFzM0Fma0w4?oc=5",
+    "publishedAt": "2026-10-20T06:26:48.000Z",
+    "collectedAt": "2026-10-20T09:03:42.581Z",
+    "translation": {
+      "titleKo": "미국, 유죄 판결을 받은 전 구글 엔지니어와 관련된 5개 중국 기업을 제재하다 - upi",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d57be14b2ca2ade99611e8b4dcf1bc93002bb9e3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - WALB.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFFFeUU2S1hVSGQtU05uTkN4T1lxZERldEVKME1jT0VaQ05xMndVTk5qNFlWYkhVaEVfZUtNbnNyVXpwc1QyQkI2b2pRZm1wS1RESG94N2hpMWpEWmRWTC00aTdwY194Qy0yS05aUG5LTm9fSzFuZHg0U3hicnNOQUl6NzV5OEZrMWc?oc=5",
+    "publishedAt": "2026-10-19T22:12:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.581Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 제재 일시 중단 결정을 옹호하다 - WALB.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "987b9d7b750cdf055e3059f3120f39221d51715c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Amnesty Urges Sanctions Over Colonizer Attacks - - IMEMC News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBraXg4ZGR0a25tNFdzcGllZlA4NUV0OVZzSkNMMk9hZE9kaDFMWHlQNGxkZ0xPdGg5d20wajIxeVlKSUFpUi1NMURwSHFXX2dreWxDRy1YMVpkWnExeEpkOWxvY3VObEhIb3FXMVZvNlY4QWtfRkw2YWhPdXN5dw?oc=5",
+    "publishedAt": "2026-10-20T06:13:04.000Z",
+    "collectedAt": "2026-10-20T09:03:42.581Z",
+    "translation": {
+      "titleKo": "앰네스티, 정착민 공격에 대해 제재 촉구 - IMEMC News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "042c48572ddc62705ea7d4102a4d444fbba238f3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - KOTA Territory News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlVfNjgwcWx2WmJrUTF3QUMtQ0tmQVFsUGZSd2VEajN3bHFmQnp1NVR0ZHBzbUxnNkJ1NnBRbjdxR3F1UFlSYjk3WjdDQ25NNlZEbWhvVHVPcGEwcHF4amJpZldhUDZfVldDM2xlOU05RUVkc2JEbEoxNkc5VHBNejNZZHp5Q1A3OFJBSA?oc=5",
+    "publishedAt": "2026-10-19T22:12:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.581Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 제재 일시 중단 결정을 옹호하다 - KOTA Territory News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bb2e2826bec616cd140745044521a2c1806434a4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - WCJB",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRVJ4ZEhYQkd4cW1COFJPaFFWNkFjaDVDMEtaOG9pVU96NGFkM1ZPWnA3cGU4THZ6NDExMXoxOXBwTnBhQkVUOGRsVE5KT2p0Ymd4T3MtOTItNGctU0dBRjJLNkt1SDhnT2hkaHNBbnQ0aVR1dFFWWGVIYjFhVGNkQkZWNnBEa1I3dWc?oc=5",
+    "publishedAt": "2026-10-19T22:12:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.581Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 제재 일시 중단 결정을 옹호하다 - WCJB",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b1119238ef8f7a3709e0c82898a349d71d5739bc",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Wright: US Sanctions Relief for Shadow Fleet Will Involve S&P Deals - The Maritime Executive",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdEQ3aHFwdUFRTjhoaEkwUTIwU0JIRmY1YlN4c3g0TGZuNzRlcFE0a043SThRaUI4RTltOENwWkdnbmFZMGdHMUh1cE1wRzFiRkRFNlFlakI2Q1RxNUhXZ1VLY1Vfc01Rd0s4Y3o1NlN6VHVVVzF1U1VrYlBERzNIemRsVDNxX3lZUHNLZnNnZ0lReHFBWUlJbmR4Z2p4dVNtdzZmcmgtNU1GOUlZczVyNC1R?oc=5",
+    "publishedAt": "2026-10-20T03:31:28.000Z",
+    "collectedAt": "2026-10-20T09:03:42.581Z",
+    "translation": {
+      "titleKo": "라이트: 그림자 선단에 대한 미국의 제재 완화는 선박 매매(S&P) 거래를 포함할 것 - The Maritime Executive",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "53790b70bc9c1f45206ee34b60f2f1146d89237d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bipartisan backlash from Long Island lawmakers over Trump lifting Russia sanctions - Newsday",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmw2TEJKcXdLdXd6MTY4UXZvN2hLN2lEZVJhTURhbzNkbk1aRnp1amNMTXNlVDd2Zlo1UE5lQ1I0cFRrdEJBdWZaanYwa3VtSmtiQjl0RmxiSnZZaTdXRXQ4SG8yQlBvNm9SendUU2E3dHg5Z3FlT2F2RnR2YnFPUGlnYTdkZw?oc=5",
+    "publishedAt": "2026-10-20T01:34:42.000Z",
+    "collectedAt": "2026-10-20T09:03:42.581Z",
+    "translation": {
+      "titleKo": "트럼프의 러시아 제재 해제에 대한 롱아일랜드 의원들의 초당적 반발 - Newsday",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "852bb7a8b2635e672c25f43396b2ccbc6ef5fd16",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - WFSB",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1NPWjhPUjhVeG9rZ01qVDYyUTl3SU9hWHhhU1VuQ3h2bVp0WlZfcDZvYm9FMFI4RXNHdU1pcTdoYS1IcUk0TmNLM2RmMm15bThCUjBKSVhydTdEN08wb08yUUFSRkxkRTVoSUdjblFPWkE3T3c2TkJ3eERDWUFTM2RNYWF3VGZJdHc?oc=5",
+    "publishedAt": "2026-10-19T22:12:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.581Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 제재 일시 중단 결정을 옹호하다 - WFSB",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ef9e347e311645c878835ab75095938f72d3bb1b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Amnesty International Official Calls for Sanctions Against Israeli Settlers - 8AM Media",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQUU5emgxNEpWZ3p0NjBwNnp2b0d6YjUtalVQZWZ2LUZ3ZUM2NmtWYkxwZFpNZE10NHJwS0kyN0ZCeDRzUVZ2U2p4T2E2MWtzSVhfalI0dWRxZ3E4enBIWlh6X3FYZ0MzRzI0SmRmUHFNdVJzQTl2cVJUME9US1BGOUxCVklGeWY2SHFxNkRBRUpOd3I0SVcxRmh4N0dfc0U?oc=5",
+    "publishedAt": "2026-10-20T06:45:14.000Z",
+    "collectedAt": "2026-10-20T09:03:42.581Z",
+    "translation": {
+      "titleKo": "국제앰네스티 관계자, 이스라엘 정착민에 대한 제재 촉구 - 8AM Media",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "07f80c8d1914d404972a7ce18afab100d2469f8b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - Hawaii News Now",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdW52dXVtRHpGYnhSMWdGZ1Q2eHA3WTdTbk5sanY4X2xhNTZscTlJcS1YTWpldzFQQmVqMWVWdUp2eEc5TXRaZUxXSU9NZkpiNmhRVVZTRk5jWjJXeE51VzJublQ5UzhURC1leEMtNTlTQ0J1Rzk0d05rYVNLMlIxbzk4dUxNR2I1dUVPMmRnemJscURuUGc?oc=5",
+    "publishedAt": "2026-10-19T22:12:00.000Z",
+    "collectedAt": "2026-10-20T09:03:42.581Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 제재 일시 중단 결정을 옹호하다 - Hawaii News Now",
+      "snippetKo": ""
+    }
   }
 ]
