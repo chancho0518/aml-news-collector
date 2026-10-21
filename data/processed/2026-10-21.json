@@ -686,5 +686,530 @@
       "titleKo": "중국, 5개 기업에 대한 미국의 제재에 반대 — ECNS - UA.NEWS",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "2d94a501b0213c9de082a70282547cf6e3ee4e29",
+    "source": "파이낸셜뉴스 금융",
+    "category": "domestic",
+    "lang": "ko",
+    "title": "신한카드, 엔화 스테이블코인 결제 실증",
+    "snippet": "신한카드가 일본 SBI그룹 자회사들과 엔화 스테이블코인 개념검증(PoC)을 공동 추진한다. 21일 카드업계에 따르면 신한카드는 지난 20일 일본 도쿄 SBI그룹 본사에서 'SBI VC Trade', 'SBI XDC Network APAC'와 웹3.0 글로벌 결제 생태계 확장을 위한 업무협약을 체결했다. 이들 3사는 이번 협약을 계기로 웹3.0 결제 서비스 확장을 위한 PoC를 진행한다. 카드에 스테이블코인을 연동하는 방식이다. 주요 협력 과제는 △엔화 스테이블코인 카드 결제 서비스 △엔화 스테이블코인 기반 지갑 간(W2W) 결제 △",
+    "keywords": [
+      "자금세탁",
+      "AML"
+    ],
+    "link": "https://www.fnnews.com/news/202610211807243344",
+    "publishedAt": "2026-10-21T09:07:25.000Z",
+    "collectedAt": "2026-10-21T16:27:58.095Z"
+  },
+  {
+    "id": "e72ff75dc8531997f0ec4c91cf86876954838cd5",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "케이뱅크, 블록체인 거래 분석 솔루션 도입…자금세탁 등 금융범죄 대응 강화 - 비즈월드",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZcWlCWmwwV0ktUFoydWhOUWZKQmpBOW5RaE5EazFQQWp5V2NYMnd4dm5yaVltZXVSUFZPME1WQ1ZUVWlaUEk1TkhmZFM5X21OWURwWTFHeVFHSkFkYzgwZDVsNXZFNWQxSEE?oc=5",
+    "publishedAt": "2026-10-21T11:16:00.000Z",
+    "collectedAt": "2026-10-21T16:27:58.883Z"
+  },
+  {
+    "id": "b6a4726f7f493cb2666fde4db183952edd1ec9ce",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "케이뱅크, 블록체인 거래 분석 솔루션 도입…자금세탁방지 역량 강화 - 아주경제",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwd3FPc20yUlo5TGdMa25TdFNsY21kN1VnMTUzdk1sVGZBLS1uQ1pQdVV0YlpyMTFNVGhCc21Xb2dLeWlGNGMycVVEbk0xcmF3S0ZXZUI2SE9XQdIBWEFVX3lxTFBrOWJINTNmT3o4dUU1dUJ2V1U1SkdNbjJXN3BIZ1JvbkxOLWJkM3p0ZENFUW93N0Z3bUZoNWFYOW9pa0EzZHg1SVU2MktLRDZrYTk0bXl3Zk0?oc=5",
+    "publishedAt": "2026-10-21T04:34:13.000Z",
+    "collectedAt": "2026-10-21T16:27:58.883Z"
+  },
+  {
+    "id": "6bc4e713d56d10d6f1aaf5a44e0ae7a6dcd52812",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융정보분석원, 카지노 업권 대상 자금세탁방지 간담회 개최 - 대한민국 정책브리핑",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "금융정보분석원"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VNXgwclhYbjdrNThabTBHcU5xVjFpaEJGOGpWSjNGQlpicVlQNFRTX0stNlJQTi1JRkdNTGs4U0RJZWVCVERXd1lnRTZGN1REUThPOWxjWkRmZ1RyLUpqS0dIbUtNbWVSSGxJQzdhUW9nOC1E?oc=5",
+    "publishedAt": "2026-02-11T08:00:00.000Z",
+    "collectedAt": "2026-10-21T16:27:59.042Z"
+  },
+  {
+    "id": "083d2686e0b82f65e88f4627b1dd1c7aa03cc68c",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융정보분석원장, 국제자금세탁방지기구 운영위원회 참여 - 파이낸셜뉴스",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "금융정보분석원"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RVHViVTlBT2lUWVR6OUtheG5qVlNFamRWMnc5d0QyYldiUm01bGh1TEhTLXl0end4akJhemZRNG1xM2RPQWFmWVNMbUZuOXY4VVBOX1padVhuQQ?oc=5",
+    "publishedAt": "2026-10-14T00:38:59.000Z",
+    "collectedAt": "2026-10-21T16:27:59.043Z"
+  },
+  {
+    "id": "4a2d64606b02bfa8278a98f8a05ed9fc935887fd",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "FIU \"불법 해외 가상자산사업자 접속 차단 위해 방미심위와 협력 강화\" - 디지털애셋",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYTmZaOUpRUEdONGNHWUhNQzc1MkZPWW9PV1hlV0Rnc045d3FJN2tCM1Z1OFdQZ2c1NHhZcmJrQWtUMXY4RWJFajdtdWIwMFdwaHY5aGJhZkdpbzNCTHBxWWZtYjRjOXk0MTNHVUZuN1Y3dw?oc=5",
+    "publishedAt": "2026-07-21T07:00:00.000Z",
+    "collectedAt": "2026-10-21T16:27:59.043Z"
+  },
+  {
+    "id": "d458434de93d0abf18913889ea920c624fb62372",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EMA Declines Pediatric Extension for AML Drug - Medscape",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHh5c3FMcTVBZjVHSjJpOTlYWnVMcmxDWkNLOHI3eUt5ZGV3ZEJ2VkFmRlNLeUhSeDM1QzNBUTMzeHpIbDhwN3hKSDV3VzBtOFJRWS1UaEVwc3dyRzB0TTlFSWMwME9GYjFDbmh3LTMtcVQ0bXVoY3Zra1ZrVkFnNVdBU2tYUmtoeVgzZTRZdzFERFE3TWc?oc=5",
+    "publishedAt": "2026-10-21T12:53:31.000Z",
+    "collectedAt": "2026-10-21T16:27:59.150Z"
+  },
+  {
+    "id": "667cd9372b4fd97c04cc90b7880fc057b2c86cad",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Clinical Scenario for Choosing a Menin Inhibitor for Relapsed NPM1-Mutated AML - CancerNetwork",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVnpzQlRrRG1NTVR4MTBvRm9aMEEzVzlPb2oyTzBIM1dTRTFTVXpzdFdPbEhvNDFfb2EtbVRsbWdYa2p1YlE0amhRTWFfbFgtUkxvTGlhQkxMWFdta1p1TzJsbkd3N1lwYldvTzcwTGhYNzFUUkpUaHVDWWNDVmFRVmc3aW0wWGk1QXYxNUNpeXI0eUZyV0Izc0FKWjNlYWEyLUQ3SkxyejFOc2RaMmdnd3FRdw?oc=5",
+    "publishedAt": "2026-10-21T12:06:49.000Z",
+    "collectedAt": "2026-10-21T16:27:59.150Z"
+  },
+  {
+    "id": "aa719685c7592eebf0492aa11ae9ca9588584ae3",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Prognostic impact of re-induction chemotherapy and age-adapted consolidation strategy in AML - aml-hub.com",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1duUmhNUWZENWF5UmJBbzBsdnlad09XVWtJUXZtcUFYQkt1NWZvRjh5NE5JNlFCdFdVOGZLT0J6Mk00bWU5LUVSbkQ3N1ZtYUkxLVM1RDFCd19tdVVMeVctVFBTUUJMdU5jVF9CNzZJR0p3YmZUeXU0QjVjdGkxZWMyQTJ2SFF6NzV1UHhDa29ZVGRYVU5DZUZxLXNGSzFlMUV4UlZ4cnVQcmdYMUV2WVJGcEFPZnlfR1pNbHVMVWwyYUJRSHdtbHFsUnM?oc=5",
+    "publishedAt": "2026-10-21T11:36:34.000Z",
+    "collectedAt": "2026-10-21T16:27:59.150Z"
+  },
+  {
+    "id": "9975fa4bdc5df19245c619c686dc4d35cc458379",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Machine Learning Improves AML Relapse Risk Prediction Beyond ELN 2022: HARMONY Study - Oncodaily",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDeXB2RnJlWGdua0Y4SVhTc0JudVZNTUwySWVmVDhmel9BRUxjM2RLQ0JDU1ZFWlFhVlB1elRLTlBSaG1KTllOM3NrMmR2VVZ1OHZKbk92cU5vNjNjZ19UejR0dUtZZzJP?oc=5",
+    "publishedAt": "2026-10-21T10:49:29.000Z",
+    "collectedAt": "2026-10-21T16:27:59.150Z"
+  },
+  {
+    "id": "0c15381643f900ddfa00d79c634fc667e44a4750",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Yachting, AML and anti-terrorist financing – reporting obligations, beneficial ownership transparency and the updated monegasque framework - Stephenson Harwood",
+    "snippet": "",
+    "keywords": [
+      "AML",
+      "terrorist financing",
+      "beneficial ownership"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOLVdVU1ptU3NfSGVJLTZjZWlIdjhvbGkyd2RYaUJlUGdORXlpakwxVzJ1VFRVQll2VmZheHFPNkpKa2doendaak54dXJKWk9zSEdoWXlBU3MybXRJbWRIc2ZvN002dzFzZWh4VDNOT1l4dkp0QjdCR0w2czZac1FFU1hGUGxLUDR3TW1IVXlVaUh6QllIQ3FJcnBWcmRFendKd0tNNEphSDdiMjV5YkJvYTNzWi1VUTgtQjBNX0psN0VyZktkb1J3aXVCNnNQSy1KUmd5Y19FTXpoYjlha29kSTlKS3gxMjJmM2hrdGM0eEQ1Ymt3akVhXzlCZm5hYXJySGxQSkwycFJhQQ?oc=5",
+    "publishedAt": "2026-10-21T11:59:51.000Z",
+    "collectedAt": "2026-10-21T16:27:59.150Z"
+  },
+  {
+    "id": "7bf947392f6f8bbd83ca4c899ec3312697ed24a1",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AML Groupe installs overhead crane with 200kg chain hoist - Hoist",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BaGRMZ1ppUFpwb1dXVVEzd1NTM1BlYmdsWEJpRGltNFFGRFFVMFlQVHNFSDNRelhicGRlY0xrbXpORHZLcU1aSE5TN05mMDFFTGtKSnNBSUJfZDVHczVqNWRMQThaUTZXbVdzYnVhME9PY0xwOUtzM1FB?oc=5",
+    "publishedAt": "2026-10-21T13:41:15.000Z",
+    "collectedAt": "2026-10-21T16:27:59.150Z"
+  },
+  {
+    "id": "961d9457775d13ca5d59f8d81e6cdb4c21ede651",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "NEWS: Former Hungarian central bank chief Gyorgy Matolcsy detained – report - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDBZS0ZYNVFOb2lpVGZTcG01Qm9FNDAxM2NYQ0duVkU5MWxjQ2ZtU2pTS3JjdVZ5a0ExaHBHUmJLbURMYm5HT2RKSEswZGgxMkpNVV9Rc0VRcVZiTUNsc2tpc1hycXhCZGV4emNhakdhUjNrNjJvc2dwRFRZQWNLZWY0b09ldlZ4ZDUzNGtfdzNIY2pHRmhiNHRpSWlqQ2R0ZnRlUF9JbWpoemNaQTF6MTBVcw?oc=5",
+    "publishedAt": "2026-10-21T15:29:37.000Z",
+    "collectedAt": "2026-10-21T16:27:59.150Z"
+  },
+  {
+    "id": "8f6edc4e4dd3d8793f8af4ce189305996dc2f4e4",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "L&L Europe Agrees £900K UKGC Settlement Over Withdrawal Delays and AML Failures - Casino.org",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2EtZktKSUkxRDVtT1cxbVEtTzh5LTh3T19iNmd2X3cxbEZLWHpkSW5adjVlRlI4RWZ0VmZOeFBtZUlSYTdTWk1ENnZ4ZUREbWhndExzLXBSa1RjdzY1eW9ZWTYtcWU2T0QxRjQwRGE4b1g3dmR0NVZHWDVuUGRaZmo1Z1l3VUhkelZUQ3BwNnZ0X2kzTmVhREh0dVJiS1BOOEMwbXVldWdYQQ?oc=5",
+    "publishedAt": "2026-10-21T14:47:26.000Z",
+    "collectedAt": "2026-10-21T16:27:59.150Z"
+  },
+  {
+    "id": "3bbe1107879d60d6c06d5d2472546b39f7274378",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "DataVisor launches Vera Code for fraud and AML setup - The Paypers",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVJSbWQ1OUlsWm4xNjZwRlFEOGFUanpTLWFqa1dGSmIwaGdiVWRNVkQtTnBMU3pmSDlrSDZ0Tzd3RUNEVnVhRmVPU0pJLVhreXRZM0ZjV3ZzeS0xdVBYdHJrYUtJNjQ2MjhUTG9GQ3ZPLVdhbDFfV2Z2bTR0VllJSE42c3NHQWw4MlNLQU5HQlpJLUFEcUcyb2o4SGJiUExLMHgxYVNza0tZMEt1OUtfdlhwR2ZwZw?oc=5",
+    "publishedAt": "2026-10-21T07:56:11.000Z",
+    "collectedAt": "2026-10-21T16:27:59.150Z"
+  },
+  {
+    "id": "83ab44f1f31f41b0d1cd926d5b0983bd5793edb0",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Starling Bank deploys AI agent for AML alerts - The Paypers",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNakFmTHQtdXBSemlteml6TzRkWTdOMWlEQngzMTE4TE53Z3pPSENBZlU0Y2p5dlNyajVYanZOYmJtNVdTcS1uUnI1NVpYNUhQbjFMWm52S1lEWEhkdlpRdlFGT25EM01DRlRSZXFyNlhxNnRuTjJieXdtbGlGRkQ0enB4QkF6N0JSaFVrek5EcThjUmxiOUpHeUlHdzdaZ29TbTRYTjZyWnRFUQ?oc=5",
+    "publishedAt": "2026-10-21T08:46:52.000Z",
+    "collectedAt": "2026-10-21T16:27:59.150Z"
+  },
+  {
+    "id": "b695996bcc51b5f6b4fb34f60793f3ab596d52e2",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Solicitors – return your AML review now - The Law Society of Ireland",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkNnR1B2OWhpcnhMOVhqTDBjSElPVzJuU2YwNFN3TUhQMXlQeTR1MmJTUjk2WVFueTlYSGNwY2dmZXB6R0doZExFQkgwYlVuSVFob195V1dHSkh6dk42cWRPS1R0cWZSTUJrSllHUEhMaXRYNkJ1eXZIelJmRUtRRFNXMWMxOEYydWNuN1I2THZPVXRfc1RNV0VPUU02V2M?oc=5",
+    "publishedAt": "2026-10-21T10:04:54.000Z",
+    "collectedAt": "2026-10-21T16:27:59.151Z"
+  },
+  {
+    "id": "d589c9b050e9d6c74bcad70397ed64516498f1c6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump: Implementing Russia sanctions would have halted Stephen Hubbard release talks - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQam9helZZTXlOaXNJLTVTUjlBenVLdm13djVHYmtoVXU1QmxTU2ZOM0gzRnI5RDNWZk80YUhiajE2X2dUU3czQ29GVVVhTTZLa0M3cDVOWFY1N3pSM05kTHlTR2pBbTJyNjNUeUtLXzNNY21YTWdTNlh2b1huQmNVUGdYeXF1RWZkd2kzOVVZbE53cnZuZE5LVjZDTDJnNmdpeTdQQQ?oc=5",
+    "publishedAt": "2026-10-21T12:51:47.000Z",
+    "collectedAt": "2026-10-21T16:27:59.098Z"
+  },
+  {
+    "id": "c465a7ff0051b8e4212f0d18f71d21c97f251349",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia energy sanctions will stay despite US diesel deal, von der Leyen says - POLITICO.eu",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYjRmWGIwVmdiQ0dEd0o5Y2FNR0pVQVlEV01mS3ZYTEZsd3dQQ1QwdWowRTE1QmpOd2llLS1XcDQ2aEVQRTZ5dTYzVGJ5MjBDN1ozc2RmVUcyekNBcFhsT0xscENOanh3WXVQMFZPX0IyenVVWXNsTl9mQml2RTlKaGpNd3JuTE5WV2ZJVG1BWkxURzdIN3FHV2FnVQ?oc=5",
+    "publishedAt": "2026-10-21T10:31:00.000Z",
+    "collectedAt": "2026-10-21T16:27:59.098Z"
+  },
+  {
+    "id": "4e953176fc6b5082f794858ebb114bf79e718cb6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Collins Calls on Trump to Reverse Waiving of Russian Sanctions - C-SPAN",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3ZNWVBHRTJ2b2pjZmJIUjFwR25td3VRQnJRZEVUUkhrRUdoSDRIWVh3bWo2M0RuaVhtbDBaWWthTFQtMlB2anJXbEZ0djFNWG45RG9iUGM1YWVCOUZnNUlIRU9rUVNyb3NiWlVqZFZXVEVPekt4dzVhLThBV2NJbkE3YVhHLXhJY0s1UHhqQVRSall1MTM3czJVRzR5dEtwbjRGaXFrZmxoZDZ4bXB5RzlB?oc=5",
+    "publishedAt": "2026-10-21T14:27:16.000Z",
+    "collectedAt": "2026-10-21T16:27:59.098Z"
+  },
+  {
+    "id": "0ac11dc23be7ff279dd812c717d5cb1ccae57a11",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Britt reiterates Russia sanctions support but rejects making them mandatory - Alabama Daily News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZERVemF0cXJlRVNGLWVwWDVBZ0tsY0EtYlIwTVA5LUZKRElOak1KOGZ4a180bExpcl8yTUs3QVYtdWVjYWo1VHlxV3diNUVUWGN2RU5IeGR3ZWVSdlJyaXc1N084UTFDczkzZEdGY0dSYVgtNXN4Nk1COURoWUFxTE9iT184dHBhWS1aTWlQc1Jtb1d1ZGZsclpRZEljdk5HMVE?oc=5",
+    "publishedAt": "2026-10-21T12:55:42.000Z",
+    "collectedAt": "2026-10-21T16:27:59.098Z"
+  },
+  {
+    "id": "a0eb5c4e82099c30ea766638dd7da12fadc89253",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump’s pause on Russia sanctions triggers pushback from Pennsylvania - The Center Square",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXRmMWo5dVdMekRXLUtlNnlyX2phcG5PSGJlcm11bnNEcmZYVUo3QWI0LUtNSGU5NDF3NldHaU5rMnMzUHdrdzdDT1hwbktneHBKeDJadjN4cVBYV251VVV1ZVljVnZET1B0cWp1QkdzaGNzaXh0bklSYXg3NHZrU2ZfUFY5S3NNdDJ1MExoOVpEeHZGTU1HMU5R0gGfAUFVX3lxTE1zQ01DZjJUSzV5UjZhSTNCNDMwaURIdkF0ZlVIdUJhNlFkV3duUEp6Y1dvYWk0SGZ0RFJhODZ3a0wtUmNuSENjdExZZjQxX0VYT3FoMERDd1ZzUnJZU0YwR0NLRGw5a1JPcWVOZW16NmJzc2pKeVdFX3J0SXIya1RnRHQxMmNGLVhkQW9pOExueC04dGhUazV3bXBhZ25BYw?oc=5",
+    "publishedAt": "2026-10-21T13:50:00.000Z",
+    "collectedAt": "2026-10-21T16:27:59.098Z"
+  },
+  {
+    "id": "89fbc03319c093edaf77a7669394d97f4796cf47",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Tête à tête - US sanctions on ICC are 'a shock' and 'unacceptable,' Nobel peace laureate Navi Pillay says - France 24",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWW5WdkZjX0NCTmFOVmlzeE9KR1JjZnhpZHc0Vk5WMndDNWNIXzVSV1Z0cFB2ZW82NlU5aXhfajFaeHo2NlZMMDhTLVdDTUVneVZFTjRSSzVXczEwQkN5Y29nRFNwZ0M5VTk2MEZHX25aQkdNWVFVUzFqXzlGNFZkUWxENUFNMWNtR2RVdzc3WkZUNTlnd1BwQnJhWGI4R1g0RGZvcGhxSFpSaUpLUFROYTR6WVZuUWl2YzdzdHgteFBjOHRtT2pRblpub3BGbTVscDdrNG9jYlBQWTd5dVE4OGI2bkxISVFSdlg4eVBISVM?oc=5",
+    "publishedAt": "2026-10-21T13:11:50.000Z",
+    "collectedAt": "2026-10-21T16:27:59.098Z"
+  },
+  {
+    "id": "6c671a1ead3144e401783a0490edcd7a18224d68",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Rep. Rob Wittman disagrees with President Trump on lifting sanctions on Russia, and diesel purchase - WTVR.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05ZDRUY2tOb1FtRERQWGk0WDNVSWVSc1k3eldsbjhqTW1TWXJyQmV3MEltY3QxSU9zSUJYWldVd1RDRVJaUFVnRll5bEJHMlJGVU4yalAxbEVUeERNU3Q4RUFPeTRRc0hyWnI0OHU1WDQwOUlqcmsxcVJibHI0OTQ?oc=5",
+    "publishedAt": "2026-10-21T14:31:42.000Z",
+    "collectedAt": "2026-10-21T16:27:59.098Z"
+  },
+  {
+    "id": "938ffe69bc7c3a5d8f7881605824d096e99b24c9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Canada orders Iranian man deported over role in sanctions evasion - Iran International",
+    "snippet": "",
+    "keywords": [
+      "sanctions",
+      "sanctions evasion"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwalBzeWo4UGhiVmsyQ2tfVjdXWVhMRjlsTGlNMlhILXdOYmN2QUZKUnRraFNuLWRaQlhmN1hxYzJ4QWtTWDVGUkZLWE5QcXFLeWc?oc=5",
+    "publishedAt": "2026-10-21T15:17:38.000Z",
+    "collectedAt": "2026-10-21T16:27:59.098Z"
+  },
+  {
+    "id": "0f3b66001f6f5b5db0d8d91709246117b04f2933",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump: Implementing Russia sanctions would have halted Stephen Hubbard release talks - The Hill",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTNwdHV2QlNlbWFPeTd3cUxqUmFQOFNqT0JuT3ZTeGh3Q0RrRGQxb2NwTU1kWGEyelpOT2xlYXhCa09qUy0td0k1YjdPblluZ0Y5M0hHMmJpT1FRWW1qZzVCeG5HZWlvSzFLczJwT3J1UzQzM182RWIwTWtPQlNkdzRVU2NuZXFUTW1NYnNjSy01WWU2OW5sXzFXRllJeDRiMW5ZOWdWbjTSAa4BQVVfeXFMTkpGMzJOcjhPZko1UXZxR3RrYTdRZVVmcFVKcFBiSFBMSkNRSE1kUnpGSHhiVzI0SmpwZENxQXo5N09WdDQ5LUVHXzV1SUFLSExleHI2blZ1c1VTOFBWTndHVTJ2MS0yQlFrN3ZaUGM4bm5pbk5hV2xjbU1nYjZSVFdNTFc0ZzNYTGRZZjRKeDZvT1lTU2c3ZDlzUGRuNXVzZlN0ZXlmNDR0b2tRejBR?oc=5",
+    "publishedAt": "2026-10-21T12:51:00.000Z",
+    "collectedAt": "2026-10-21T16:27:59.098Z"
+  },
+  {
+    "id": "745aca98298b8906b174be722974d107f4da7095",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia to send off first diesel cargo to US after sanctions relief | Daily Sabah - Daily Sabah",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXpYRVhZbHVFU19YbjBNR20tSnpCbkVaaU9hSTAyMGtZYmdFa0NmallqVFUzQkhxbzNlM0Yzb2Y4ck5GZjVkWmNMM2Z6T2J0YVplaHNhSzZ4bzZYeE5LemRUX2ZFY3llcFVTcFFORm5XVXRVWmtqVFVJblZleDUyMzdWZ3VZV0QyaVZrZkVKajAzM1BHVVpCR19oZmJlMS00aFc1UWhYYjlIMmlhbnfSAbMBQVVfeXFMUFF6aFBWRVZielR2QUZxMjNQb2Q2UXl2N0ZoN1RUUTFhYkVCOThxb0k4NVRBclBvZFh3c3p6TlFSV0xtQW8yYzNMNnl2T2JaaVhtQ2o5YVRKYzFYMm4tQmZvcUZ4Z05DVzVpT0QwbUhaQy1SLVRsek90bk5ra0Y2Q2FvVUd5dWRvNm1JWGFDOU94WWZIRS1OeGFsT3BjRUZxZWFWMVA5WnJyNmpBRldweGJRUmM?oc=5",
+    "publishedAt": "2026-10-21T10:20:00.000Z",
+    "collectedAt": "2026-10-21T16:27:59.099Z"
+  },
+  {
+    "id": "720bf2a452315661933b4a0153afaa57e7189b60",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions put Iraq-Iran travel links under pressure - The New Arab",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOODlscERZY21TMjFiRTdjZGtuUkJNMnd4azk2TjIwN1BoVDRMbWtrOXdwd09pd3Fac3B6ZUFnMkpJdnNEcV9pY2VTaUlSS3VDTENOWGVLSkJMZ0lSWTlidHp1bG9fcHJydmtHSFlzR3NzUjBXcF90ZnBESEM5MTVfc1VLME94N2ZseFp0YlQzd2s?oc=5",
+    "publishedAt": "2026-10-21T11:07:39.000Z",
+    "collectedAt": "2026-10-21T16:27:59.099Z"
+  },
+  {
+    "id": "3ad0ea74c13de7458cca25f40595ddfb5374113a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "New sanctions on Russia is how to end war, says David Kramer - THIRTEEN - New York Public Media",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLTFiaWdpdnRoRk1tQWFKMGtpbVJQLUVfMFhFdkMwa3hmQ3k3aW10T1JITUZITXA5MEdBakJPWmxfVkhtclhudEc1LXlkSmtlQjFHUU1RcjBoVjd6b084V1Q0VWNaQ0lzbXprcm5DaHdqcFZYd0lSaWdNTURxbkMwVjJCZG1yYzJlN1c4bU9Ycw?oc=5",
+    "publishedAt": "2026-10-21T00:03:46.000Z",
+    "collectedAt": "2026-10-21T16:27:59.099Z"
+  },
+  {
+    "id": "f89a9de9920443875a7714e4836ab2ac07a9473e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Waives Russia-Related Tariffs Weeks After Signing Sanctions Bill, Easing Pressure on Putin as Oil Prices Bite Ahead of Midterms - Yahoo Finance",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeFpITE9BUkdVT1k3LWk0V2swTTVTMkptRGc3eHh6MmhHeDRCYWxZQ0x0VEIxOURpY1pFcXFBa3N1WWpPNDU1bFlhTGJKSm9QSURhSXZKY0IwdUhvWDFFdE5yQVV0VHhtazZrSGVhUTY1cmdhN0RwYjF0d2t3R0d3c01xZkFEa1VFVXBpbEl1WHBVUUJPWFBPX3l5SC12RkxfcHc?oc=5",
+    "publishedAt": "2026-10-21T09:45:09.000Z",
+    "collectedAt": "2026-10-21T16:27:59.099Z"
+  },
+  {
+    "id": "ad35af7c4526094cbc82bcee4624d62eb395d01b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Claims Sanctions Delay Helped Secure Stephen Hubbard’s Release - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0lidVI3WlFfMkI2UjVpZDlTN3dfVU1QQ3JxRTc0a29vRXBiR0hCSGJMLVphSjhMUnFReVpMNlM0dmNmNHZEWHpTRnk2aUhrWm94SDVaRHRuTGxINjFkOTdIZFE4SVpwcXNuNHVaZ3RZYVhiMmRJcnZ5VkZQZ3hPYklVZWxlQzB2RTdzaW1SZktmTVFKZ2pPLWJLaw?oc=5",
+    "publishedAt": "2026-10-21T13:52:57.000Z",
+    "collectedAt": "2026-10-21T16:27:59.099Z"
+  },
+  {
+    "id": "8f8ce8d019f04edf3d4f8440038c40b3ed2dc0b7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump’s pause on Russia sanctions triggers pushback from Pennsylvania - Shelby News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeVctYzRucVdoZ0lweThlMzNSb1g4SzFUQnF4T2ZNb1Jmb3g1eWFhSWdJR2lKdW5MNkVGRU5ydjBId0pTbjYyVVZfb3E0TDN1alA5OF9vdzVfT291S2dNbnFQMk9yYlVuMDdZN1dmcWZyQWlGeC12N1B0Wkl4cTRfdXItRVRUeEFqMTc2QkU1dDdJQ1M5VUNoaTdQaE40bUxZcHFGS1ZKNDBUd1dLTlQ4MGRWZmFHWjkwcm1Rd2g2Vld5eGNFTzRoM1NyMlROVHpYZE5vWm0wQ3JSZU1jT3J4V0hzQl9wVm1pTjg4UUstME1kdw?oc=5",
+    "publishedAt": "2026-10-21T13:50:00.000Z",
+    "collectedAt": "2026-10-21T16:27:59.099Z"
+  },
+  {
+    "id": "20179334ea10aeb546ba92df8b7f57588052e833",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - WDAM-TV",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY1RnSEhfNzNVOUtqVW5INlBPM1g5MU9MMGJlaFBXcFdWLVA0YjJid2lVeDFJVkFZR2pkX2dMelFzbkQyVTQ2a0RiUldsMW1mb1pxRWdQZGxYMm9fWDQxbENzbHd3Q0laTjY1eHlpQ3puMy1PVXhlQzZlcnFJYmtpaFhZRHd6WkFyZkE?oc=5",
+    "publishedAt": "2026-10-19T22:12:00.000Z",
+    "collectedAt": "2026-10-21T16:27:59.099Z"
+  },
+  {
+    "id": "4798dd98ff06d5189b7db7f6d9c74a1285e19a25",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Beijing blasts US sanctions on 5 Chinese firms tied to ex-Google engineer - New Castle News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQLXJReG9CUkZPbl9iMFFic2lOVXZ1VFZ6TnBiaW9wVnN3UDFMOVdWWWc0ZmpSRm1ibDNWNHhPNmkwUjg2a2ZzS1VhMEFQUjVscjNVU2pDbmlkZFNTN0JkeXJmQkF3ZEI0b2hOZW5zLXA4dHZqaXNLbmJIbXBORzRvWE96dU82QUhWTUNIcFdtX3dzNE5WMjJPY29WbE8waVdJOS1TOW1RQjFEWEZPa01JVUhsUV9TVDdfZkdHYThvcV9aV0dSSk13RnRYcjV2VHVjLXI0Sm42VmN4dTczSnpCZU1ab19vc2tPWE1XTW1wc1A4M2tfYlBWXzhn?oc=5",
+    "publishedAt": "2026-10-20T22:28:11.000Z",
+    "collectedAt": "2026-10-21T16:27:59.099Z"
+  },
+  {
+    "id": "d7d890df531cce1da56e6eb974db93128fc56a36",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Canada orders deportation of Toronto man who helped Iran evade sanctions - Global News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVWIwOFFZMWIyb0NXcVFHSk0tVWktNVIxNFNHaVM4MjctRGlKcVNfZjhxX25lS3RjaTFfSlI0UW9XZlZ0eXM2LURmeEQ2Zzg3dm03N2FfdHpOM2dSOTVRSFZxVnZPbU54Q0Q3TW12Y0xVWG5Zc3Jiek5LMDlCeWFkSG5aSDBXU0ZT?oc=5",
+    "publishedAt": "2026-10-21T09:00:52.000Z",
+    "collectedAt": "2026-10-21T16:27:59.100Z"
+  },
+  {
+    "id": "05106f49c00e096043b8092e397b13865e8d90e3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The EU is preparing a new package of sanctions against Russian businesspeople and companies - UA.NEWS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdDl5QTlMT2FtdXZhS0h5OHAtOXlweHptVG42TVMwZmVUWndZRFlvb1U3V0o3VzFSVTFPSWtKeFMxVVM3eTVQSFBhU1k2WTNnV2ZOcGY1VlZwQ1VKNmZfU2Q1a1VyaXZUNTJtTFRYUmNNUlI1N2F3QUhERVI1dEJ0YzlfYkNFZE5xVkVwZEp6Zmo4a2VESkJJcE52OEo?oc=5",
+    "publishedAt": "2026-10-21T14:13:52.000Z",
+    "collectedAt": "2026-10-21T16:27:59.100Z"
+  },
+  {
+    "id": "94c42b727192e15235ed5bbc0565ebf70d323baa",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "LNG sanctions to stay until Moscow ends war – von der Leyen - Montel News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0hfQ1ZZSTRheV9QMHh5aVJXNk54Z1pOZDBTaExSdWk2MDVRLU80STMwT0k4eWdRVmVDYVljeXFBdVpEdEFZQ2hyVTJoRkQ0U3kyeDJlVXg5VUw5SFhZT2R6blQxUDUzOE9aYV9hcTZ0ZW1OX1NWMm1hVlFGU1lxenZLbUJsT3FVQlZNUWpGaTN0Y09rbHZ2Z19DYzdwZjBaSFFkQnhDdV9HWnl2eUlmRi1rMUlZY1lodXJkS000OE5QZw?oc=5",
+    "publishedAt": "2026-10-21T09:28:47.000Z",
+    "collectedAt": "2026-10-21T16:27:59.100Z"
   }
 ]
