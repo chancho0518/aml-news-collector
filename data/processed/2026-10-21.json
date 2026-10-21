@@ -351,5 +351,340 @@
       "titleKo": "BCSC, 미국 수형자에 대해 제재를 가하다 - Investment Executive",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "76e925e7ed1daa90a8cea4bb8a513cd0e595fde6",
+    "source": "파이낸셜뉴스 금융",
+    "category": "domestic",
+    "lang": "ko",
+    "title": "케이뱅크, 스테이블코인 시대 대비…\"금융범죄 대응 역량 높인다\"",
+    "snippet": "[파이낸셜뉴스] 케이뱅크가 스테이블코인 등 디지털자산 제도화에 대비해 블록체인 거래 분석 솔루션을 도입했다. 블록체인상 자금 흐름과 거래 위험도를 파악해 자금세탁 등 금융범죄 대응 역량을 높인다는 구상이다. 21일 금융권에 따르면 케이뱅크는 블록체인 컴플라이언스 전문기업 보난자팩토리의 블록체인 거래 분석 솔루션 '트랜사이트(TranSight)'를 도입했다. 트랜사이트는 블록체인상 지갑 주소와 거래 흐름을 분석해 금융범죄 관련 위험도를 파악하는 고객거래확인(KYT) 솔루션이다. 고객확인제도(KYC)가 고객의 신원을 확인하는 절차라면,",
+    "keywords": [
+      "자금세탁",
+      "고객확인제도",
+      "KYC"
+    ],
+    "link": "https://www.fnnews.com/news/202610211436247002",
+    "publishedAt": "2026-10-21T06:07:08.000Z",
+    "collectedAt": "2026-10-21T09:03:25.263Z"
+  },
+  {
+    "id": "01b6e4e4db6f4030c639c5851fb69a0adccc97c4",
+    "source": "파이낸셜뉴스 금융",
+    "category": "domestic",
+    "lang": "ko",
+    "title": "\"경미한 사고는 봐줄 수 있게\"...신용정보법 위반 과징금 기준율 1%까지 인하",
+    "snippet": "[파이낸셜뉴스] 금융위원회는 신용정보법 위반에 대한 과징금 부과기준율을 기존 최저 50%에서 1%로 낮추는 신용정보업감독규정 개정안을 의결했다. 21일 금융위는 정례회의를 열고 신정법 위반 과징금 부과기준율을 고쳤다고 밝혔다. 이번 개정으로 경미한 위반의 경우 과징금 부담이 줄어들게 되며, 반복 위반이나 대규모 신용정보 유출 등에는 가중 제재가 가능하도록 했다. 개정 규정은 23일부터 시행되며, 시행 이후 부과되는 과징금부터 적용된다. 신용정보법상 기본과징금은 전체 매출액의 3%인 법정상한액에 위반행위의 중대성에 따른 부과기준율을 ",
+    "keywords": [
+      "제재"
+    ],
+    "link": "https://www.fnnews.com/news/202610211609479421",
+    "publishedAt": "2026-10-21T07:49:25.000Z",
+    "collectedAt": "2026-10-21T09:03:25.263Z"
+  },
+  {
+    "id": "8f4c45fbf7b36a96303ba0a0996fa0dd893bdea2",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "\"자금세탁 사전 차단\" … 케이뱅크, 스테이블코인 시대 대비 인프라 구축 - 뉴데일리",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX2lydnIzMW4wNkFMQ3N4SVB2a1lVWEdpOC1Qa25IUklZb2ZPVWFDeERzSmg1X0RuekVuUWJTTGt6enBHYTBpaVhaMDhfQ200VUVCdzdEU0duOXNWY1JNVDR5Sk9PY0NBeFhQTmNLMk5KM2toMDdIN0RLMGp3X2tBaNIBgAFBVV95cUxNX2lydnIzMW4wNkFMQ3N4SVB2a1lVWEdpOC1Qa25IUklZb2ZPVWFDeERzSmg1X0RuekVuUWJTTGt6enBHYTBpaVhaMDhfQ200VUVCdzdEU0duOXNWY1JNVDR5Sk9PY0NBeFhQTmNLMk5KM2toMDdIN0RLMGp3X2tBaA?oc=5",
+    "publishedAt": "2026-10-21T04:52:48.000Z",
+    "collectedAt": "2026-10-21T09:03:25.875Z"
+  },
+  {
+    "id": "85804e791570345347e49a9b1df1cbe1d16e632e",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "케이뱅크, 블록체인 자금흐름 분석 도입…자금세탁 감시 강화 - 글로벌이코노믹",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3RqS1dpMlJDWFA1V2Znc3NBXzYydE9YYjdxZG5NakhsY3p2VDlyVzkzeVBzcDBuekR3aGhKQ3RaSWFnOUdYaXRvV05IbkxxVVNLdHNDeG1kdXlIUHVxeHBsMXdkZHl6ZkNtN19YMHhuUER1SkhVVnBsUXV2VW9zak9XU1g?oc=5",
+    "publishedAt": "2026-10-21T07:09:00.000Z",
+    "collectedAt": "2026-10-21T09:03:25.875Z"
+  },
+  {
+    "id": "df25e8778cb956aaec19e36beb5540b4c1fe0bd4",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "케이뱅크, 블록체인 거래 분석 솔루션 도입…자금세탁방지 역량 강화 - 아주경제",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrOWJINTNmT3o4dUU1dUJ2V1U1SkdNbjJXN3BIZ1JvbkxOLWJkM3p0ZENFUW93N0Z3bUZoNWFYOW9pa0EzZHg1SVU2MktLRDZrYTk0bXl3Zk3SAVhBVV95cUxQazliSDUzZk96OHVFNXVCdldVNUpHTW4yVzdwSGdSb25MTi1iZDN6dGRDRVFvdzdGd21GaDVhWDlvaWtBM2R4NUlVNjJLS0Q2a2E5NG15d2ZN?oc=5",
+    "publishedAt": "2026-10-21T04:34:13.000Z",
+    "collectedAt": "2026-10-21T09:03:25.875Z"
+  },
+  {
+    "id": "2631e7451f78f4192c1cf6ad0952ba03f3d07735",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "케이뱅크, 가상자산 자금세탁방지 강화⋯거래 분석 솔루션 도입 - 이투데이",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "가상자산 자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pUExBMUlGVElUT01MbWxuamZFNWI0MEJ0THlGcHBtUFQ1OXhMa3FTNWo3RVV6OFRpVTk0TkVwZEZuSDhsUGVVU3c5dG1sVlJRVE9Kcw?oc=5",
+    "publishedAt": "2026-10-21T01:53:00.000Z",
+    "collectedAt": "2026-10-21T09:03:25.875Z"
+  },
+  {
+    "id": "a958bc003452bf50464c800fff1f9efc73e91bff",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "모네로(XMR) 4.42% 급락…자금세탁 의혹·레버리지 경고 겹쳤다 - 코인리더스",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RLUE4OUMweTlJX0x2SmdIVXJBNUJPQWFDclBTZTRja0hPeUlqdG9JbDFNdWJYcFhvVXhxSlV5Ui1fV3lFU3k4X3FR?oc=5",
+    "publishedAt": "2026-10-21T06:02:20.000Z",
+    "collectedAt": "2026-10-21T09:03:25.875Z"
+  },
+  {
+    "id": "43eca5950ac75242448d24e9536bb365f33fcd1a",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Aston Martin Lagonda Global (LON:AML) Stock Price Breaks Above 200-Day Moving Average - Should You Sell? - MarketBeat",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYlJ5YmtUQ2MwYXZTV1lTaFhGd3d6X0E1UDd0Q1VCZllPdmdwVDhCRS1wbC05cnlHZ3l5R2JpY1hqTDUyNVFCOUs4TUcyaU05T3pma2pleDlCNDEzbWFMSXhQc0d0R0doTDJVOENpVTlVZVBvYmJiQnBvSXlTNFdCZ2FFNUNLYi02VkJxdE5rZnBySjhYTFpVOXJKNFdFM1NVWno0QmYwV2VqUXJYYUxlOUpXZDE5ZTdIMDN3OUtGTmdKNlRlQUx0YmY4NWhwU1ZDUVgxYTJPa2trRTB1UVFKdkZ6eUdxSmk3Z2xOWHBqcEs?oc=5",
+    "publishedAt": "2026-10-21T06:52:06.000Z",
+    "collectedAt": "2026-10-21T09:03:25.947Z",
+    "translation": {
+      "titleKo": "애스턴 마틴 라공다 글로벌 (LON:AML) 주가 200일 이동평균선 상향 돌파 - 매도해야 하는가? - 마켓비트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8cf9099231181a0f6099daceceb6646b261bb06d",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "‘We’re not looking to catch you out’ says FCA in latest update on AML supervision takeover - Today's Family Lawyer",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTM4MUJhazFZWTZ5QlJ0TF9jQUg5OVlreElOQWs4cTdQOTlrdkk1dEdnU09GUGViYUVtaFNmallwZ3dpUXdvVUZoME1waE9OczRrU21maGNqQU10VzNsRExMUV9NVTRjT0VlYndxWkJ0WmhWVGhxaDdQNmIxUzhLeEhFbTZQNTNxWHREUHpRaHgwdHA2MVVIQWxUTTVVcTBNYXNLQUlXeURScDRVRUNxREdIbUtzZnhqbGw4Ukx3?oc=5",
+    "publishedAt": "2026-10-21T04:32:25.000Z",
+    "collectedAt": "2026-10-21T09:03:25.947Z",
+    "translation": {
+      "titleKo": "‘우리는 당신의 트집을 잡으려는 것이 아니다’ FCA, AML 감독 인수에 대한 최신 업데이트에서 밝혀 - 투데이스 패밀리 로이어",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "47d34ceaa100185424f681a0076b39edc9dbd2df",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Expanding Donor Access for ASCT in AML: Karilyn Larkin, MD - The American Journal of Managed Care",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUG5nVVBiSDVmS08zMmszUEFIazlLOVNmN2pDenozZ1VzNFNUdWhINF82cmVxNmkwWWpHcmY5SGlOOExGbk11QkltclFRNnVidjdZdzgxYThNUW40R3lkLXh3NlNZWUlrQmZGNDY3VjdMcU1NcUVOZF9kNXNTbDg3d2FXY0ZhaFAxNWc?oc=5",
+    "publishedAt": "2026-08-05T07:00:00.000Z",
+    "collectedAt": "2026-10-21T09:03:25.948Z",
+    "translation": {
+      "titleKo": "AML에서 ASCT를 위한 기증자 접근성 확장: 카릴린 라킨, 의학박사 - 디 아메리칸 저널 오브 매니지드 케어",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8c5841b8f6b6e3b7f86205bae50eaba25ae01ed6",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Crypto Fraud: 33,904 Filings Explained - CryptoTicker",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqYXdtRzdNOEUxbWg4eTFLemZYUjA3cXludFVRTy1jb2ZES1ZGVmhlZzhrMDJaYkM4RU9tazRnc3dWbktfcWNWY01LSE91VWdVMko5aVNTN05BUzZRR0ljU3FKbVlLMXFnYnZ0YUVDSC1qcE9FckE?oc=5",
+    "publishedAt": "2026-10-21T06:16:48.000Z",
+    "collectedAt": "2026-10-21T09:03:25.935Z",
+    "translation": {
+      "titleKo": "FinCEN 암호화폐 사기: 33,904건의 신고 설명 - 크립토티커",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "aa56d06f46fa3a15916a215f3f2397e96a6da48c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump to campaign for Sen. Darline Graham despite disagreement on Russia sanctions - NPR",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU1lBLXNRRldjQTMtbEFVcDhBd1ZqTjNBVktHZUM0YzVWb2UtRmpRbmI5Mll5OW1TYnRXSVBfSUplRzEwTzBfMHJNMEZURnd5REVYOFg0d094NmtTbk5FWUxmMlg1M2w5Z08zbzBkb1ZRVkdnRURMUkpJYjB2RTI3STFDRWJ6VTJ0NkVoX2JMSTVUNTBTeU8zMm9aM2M0b3Z3R0dzbWQ1RUtJX1BNSzNRNFFENFFwQzNScFNfa2ZjU1FfQTNm?oc=5",
+    "publishedAt": "2026-10-21T08:41:12.000Z",
+    "collectedAt": "2026-10-21T09:03:25.842Z",
+    "translation": {
+      "titleKo": "트럼프, 러시아 제재에 대한 의견 불일치에도 불구하고 달린 그레이엄 상원의원을 위해 선거 운동 지원 예정 - NPR",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7c78dd700c8e7c2fc067ee14b6cd7b400af6e61e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions target Iran's rail sector as Tehran shifts cargo from sea routes to overland corridors - DW.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXhCWlFGRXhoeFNJMW1wS1I3VWNyX3k5OGgxN1RuemtQWnBRQkctcXBjVjc4OVFUdXVaYzR6QnpxQVpyaW5jX0lmTndDTDFNX0JwVGotejZuSVhSanQ2Z3NvQW5IblRldXIyZHpqem5GczFRTm1oZnowRDBKUUR1Rk5RQjEzZksybVlrR3FvZFM0TWYydDZ3YWJGcThPZ0hndmF4UlJrZXYwbDg1UHNRcFVHaXR2MjRqQ0hmdFU4VnFDekhZU2t0RGhCSdIBywFBVV95cUxQNVpPZGhlbU5WaTRGakQ1UGZlS2RHSVJXRXZQYnJvRTJTRk5OWXVYR0dnYS01MFk4VUJYc01DM0xEblRBa0tsY2pKMEdOaXNaalloSUhvaFVWdG9rSG1ZY21XNkdfejd4VE03Sk16UWhIS0NIUmNQSFVpbXV1VHZHcm9fZEU1WTlBZWVDc3VZa2F5R2pkZ2Z5cjgtTTVDNTRycDk3MnBWdmNfbURrc3M3ZUYxUjV4b3hlcndXZ3VHemw5Vmo0RVdNRW9KZw?oc=5",
+    "publishedAt": "2026-10-21T08:48:45.000Z",
+    "collectedAt": "2026-10-21T09:03:25.842Z",
+    "translation": {
+      "titleKo": "테헤란이 해로에서 육상 회랑으로 화물을 전환함에 따라 미국 제재가 이란의 철도 분야를 겨냥하다 - DW.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bf3e880778d25121d912b141e0f035a14972f038",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran sets red lines for US talks: Lift sanctions, end threats — 'not a gram' of uranium leaves - Fox News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNWhDWEhOMGk5UnBGUWRwMW9yeVEwNXZkMEJJSFFuazF4NnV1ZHIyTE1lMFRJSjdZZF9BMGZNci1ROWpyUEtrZl9nVTNzd0ZXMDVvX09jaU1qNHdUYmM4VHhnOVA4am1fR05HbUJwOUpKcHpoUXFsN19FQ0lzd1k4ZHFjUGE?oc=5",
+    "publishedAt": "2026-10-21T01:41:52.000Z",
+    "collectedAt": "2026-10-21T09:03:25.842Z",
+    "translation": {
+      "titleKo": "이란, 미국과의 회담에 레드라인 설정: 제재 해제, 위협 중단 — 우라늄은 '1그램도' 나가지 않는다 - 폭스 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8de94147ec646a46dc4679ec065f6ae939105ee9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "'It's a threat': Whitefish buyers rethink sourcing as EU sanctions uncertainty lingers - IntraFish",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNHlfWDVCcUFDNG83eGhRaUtWOTNhSElLUVB3eWRzemY1VXBZVk01UzZ0OUNYemQzMU1HNElSeXRRZ2RsZ0ZPUDBHZTVJX084VVpUM19qZFF4bDJpWThvWWNMSWxzQVcxbXl4UmNXWFEwTmh6NllYdGdER3JqSXJwbTN6Q2RVQ3F3NjZVSjNsMU9TTkhOaWlPYWIzT1U2TkZ0ZFF4UHkwdFJpYkN5VkZfVUk0QVV0REc0NVBGMFAwN2VLRVAydmc?oc=5",
+    "publishedAt": "2026-10-21T04:43:55.000Z",
+    "collectedAt": "2026-10-21T09:03:25.843Z",
+    "translation": {
+      "titleKo": "'이것은 위협이다': EU 제재 불확실성이 지속됨에 따라 흰살생선 구매자들이 조달을 재검토하다 - 인트라피시",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2b9f62169b670818ec62b0a5e085d62016581f56",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Vučić Rejects Russia Sanctions, Blames Foreign Powers for Protests - Organized Crime and Corruption Reporting Project | OCCRP",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0dRT1FRTzd4dnRWX2RxTmtld0xzdDhxdlA1TkEzRDVPWHZ0dVRwelFkVkNQWEl3YlhFTG8xNFo3ckdNUXRmNERmaDg5QzZYMnd6NXRjd210LTd2MnVFd3RuUTI3TDk2a0syWHdNWWpMXy1HRUhfam1VRmYwdnBxLVNINVNhQ2lNRDQxWWR5bDVGTUtUaVY4N3ZhUQ?oc=5",
+    "publishedAt": "2026-10-20T19:15:43.000Z",
+    "collectedAt": "2026-10-21T09:03:25.843Z",
+    "translation": {
+      "titleKo": "부치치, 러시아 제재 거부, 시위에 대해 외국 세력을 탓하다 - 조직범죄 및 부패 보도 프로젝트 | OCCRP",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "aeb9d6b9f576d0327ef57f73383ccafe6be71093",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "GOP senator: Reagan, Graham would be ‘ashamed’ of Trump waiving Russia sanctions - KARK",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUNjeHh5U3VIVndPZnYzNFZ3RndRdWJPbnBxQURtSGc4d2NBZHRhWGhLVjRJSnJWUktHS2t0UHk2anJnVUZNWWJaSGJ3MEhJMHQwbFJLLWlwa1RkaWxwODdqZUstamViWmdsQTc3MzUyWHJlVGhDeFB1VHdURUFjTVRKQ1VfdXV5cHAtV05xN3N4Y2NGV2I5WUZhcGJVTDY2cWttdUkzSGdWRGZpb3gxQnZR?oc=5",
+    "publishedAt": "2026-10-20T13:30:48.000Z",
+    "collectedAt": "2026-10-21T09:03:25.843Z",
+    "translation": {
+      "titleKo": "공화당 상원의원: 레이건과 그레이엄은 트럼프의 러시아 제재 면제에 대해 ‘부끄러워할’ 것 - KARK",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4c7ee7fd06dd2e6d65f07f7652900005edf2a56b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU is preparing a package of sanctions against Russia for November - report - Українські Національні Новини (УНН)",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSGlqMnBOTWk2RzgyUC1UeWpabm9vQUo4XzNnbGhYclJ5blcxdi1FSk9yUmVEOVppbFhyVm85V1poT1dxc1JCNU1hS2syVldnU0RVREdwX21jVnF0bV9Jd1hvb1pMbkVWVjdkLU1Yd0I1WENveXc3Wkx0dVV4MEdRSnR3OE80ZS1RNkdxQWJBUndYRUxQczViZWJXc2JXNXRp0gGfAUFVX3lxTFBYQUZ6eWNzUFl5cm9XQkRzU3pNbm9KQ3hiWG9KdUVocnFSc0xyNFJUQU9qY2xmMXJUZ0tPOTFIbUVhcEtqREtmU3JlOE9uVUF5bUQ1RWtreVhiV3hTajhCenBQRVBrWjVtc0xldWRCQXJia2lkQl9MWnhtY2lKMGQxN3lNcExTUVozMEVCQ3ktUVpIR1JlSTZiQ3VFNzhHYw?oc=5",
+    "publishedAt": "2026-10-21T08:40:07.000Z",
+    "collectedAt": "2026-10-21T09:03:25.843Z",
+    "translation": {
+      "titleKo": "EU, 11월을 위한 대러시아 제재 패키지 준비 중 - 보도 - 우크라이나 국립 뉴스 (UNN)",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "21f53d85699c891eea6c1b3a8fea6412893c2a83",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pres. Trump defends decision to pause sanctions - KPLC 7 News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNelFZOFQzWkF6NTRPdjZ4aVFMRHNRMmZ2WGE5dWZ2bEVXN0tvZlRIV0s1eklfN2lsTmd1bVhIVVNWQ2NzZUdoOXg3aHFocHJGYVdzcHVGRDhOMFJhY2F2UVA4U2hERkw5MTQwaF9OSHFvYURJQnFVdVlCOWFEUUg2Tk9sblFTcmxXeHh6UQ?oc=5",
+    "publishedAt": "2026-10-19T22:12:00.000Z",
+    "collectedAt": "2026-10-21T09:03:25.844Z",
+    "translation": {
+      "titleKo": "트럼프 대통령, 제재 일시 중단 결정 옹호 - KPLC 7 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f3f037d3614a96216a8da460df17670223bd044d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "China opposes US sanctions against five companies — ECNS - UA.NEWS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVk0ekNKaWlGbnFvU1dCSm1vYzBWdXhPV1h2cVlTN0d6VWt0VWphZTlFS2JlcjBKNnY3WjlDbGtMWlllams0TGIxSm1YYkhoMXFIaXpjcy00MkdPczNlczdIc29KelQ5U0VBY0hLbTJKWVQ2MHFyXy1kd1JGSUxGUUZXTWpHUWJ6QndNVkktNFU?oc=5",
+    "publishedAt": "2026-10-21T08:45:25.000Z",
+    "collectedAt": "2026-10-21T09:03:25.844Z",
+    "translation": {
+      "titleKo": "중국, 5개 기업에 대한 미국의 제재에 반대 — ECNS - UA.NEWS",
+      "snippetKo": ""
+    }
   }
 ]
