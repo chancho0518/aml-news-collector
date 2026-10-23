@@ -182,5 +182,161 @@
       "titleKo": "이란, 제재 타격을 받은 경제 속에서 달러 구매를 하루 1,000달러로 제한 - NDTV",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "fef6a9da4003997b0ae7508215cab1e7c0f47a3d",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "폴란드, 우크라이나인들이 운영하는 자금 세탁 조직 소탕. - Vietnam.vn",
+    "snippet": "",
+    "keywords": [
+      "자금 세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVFc1QW8zUUJyV2c2TDVNQndPQkxWWTFQUERuejQxX3NaM0otaUhrYTZTSms3dDRnNnZPeDNuVk1la25fRjMtQWhLZF9xcEE4eUszQ1ZZYjJjUnc1STBXdXZENG1TNVR4TkVsYnotd0QwcERuMlNCczYzVWFDb2JyNC0tNWRDcW9xYlB2NDNwYTRFZw?oc=5",
+    "publishedAt": "2026-10-20T07:00:00.000Z",
+    "collectedAt": "2026-10-23T09:00:18.528Z"
+  },
+  {
+    "id": "f4f3e381c25f35c574993786a08cee2fc2b8c2a5",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "[행정소송] FIU \"빗썸, 미신고 코인 거래 알고도 그냥 내버려 둔 것 아닌가\" - 디지털애셋",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KYkc0WjcxR1JnRDFZUXc3WlREazhyQVVxel9PVmJ1c0xJeGtManV4VmcyY1BTUFlPOUoyN0hWLXlRZE5YMzdxN1pzaW53MzBxbVhxWDE0UFYzVTFNeEk1LW04N0Nobm9Cc21VcjItY3QwZw?oc=5",
+    "publishedAt": "2026-10-23T06:00:00.000Z",
+    "collectedAt": "2026-10-23T09:00:18.521Z"
+  },
+  {
+    "id": "18953b45d1d7de3985f74aa3a5285747ec76388e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "ANALYSIS: US sanctions push puts European banks back in the firing line as EU looks on - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ1FQQ0tVcEM0YlNNSFZ5NGRFc0JQOXVaZ3U1a2g4TDVMSlRGcld6ZkM1V0xJZGhYY051ZTcwczBEd3FDTVdMVDRrbTBvd0x6Y3k5bGwtd2xWSTU5YVBDUTBXS3lOVXp2VnRCOHpUSUZlLTY5LWxfMGVETkJjVnpRTUxKX2NSMDZnRENqVHZSczFGNzIweXRZNXBxZGRrcWdrc3ZoRU5valFTVzJSOHNHSWFUNV90V01maTZsV1ppSGtwZjZy?oc=5",
+    "publishedAt": "2026-10-23T06:16:24.000Z",
+    "collectedAt": "2026-10-23T09:00:18.536Z",
+    "translation": {
+      "titleKo": "분석: EU가 관망하는 가운데 미국의 제재 추진이 유럽 은행들을 다시 사선에 올리다 - AML 인텔리전스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0278b0a684f8b4534501aef5ff71509b58a2c0fc",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US lifting sanctions on 'dark fleet' not expected to solve tanker crisis - The National",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN0FiMFVQVzY1Z2RjNzdFMU9KMlRHcUhnMlVyZHpKMmdXN19tRmhWQ0lnYTNQV1NpNDNjQTE2LUVJSmlkT1pLTW02WWh1MThJSUQ2bDNCZUpDdi13dG43VWZ0QllNc0Z2cER0Q3lMV0p1Qkg0U01tcm9walYySUxjMExIOEN5RVRTMXR2dnVGSUxtV2hSX2pYTFY3Wm1HR0dabkxxZXM1LVpKN3YtaVNYRTZUOHRNS3pNNnpEdXBjV051Q3pDcGpkbmFB?oc=5",
+    "publishedAt": "2026-10-23T05:48:45.000Z",
+    "collectedAt": "2026-10-23T09:00:18.537Z",
+    "translation": {
+      "titleKo": "미국의 '어둠의 함대'에 대한 제재 해제가 유조선 위기를 해결할 것으로 기대되지 않음 - 더 내셔널",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cc151624e89b0e9444d8db88c1de9948becd6f5e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Democrats plan to investigate U.S. diesel companies involved in easing Russian sanctions - The Washington Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNVQzNTdialg4SXI3UUhJb3dGTnBJS0J3MGlYcDVrNlViMkJqY3NLN09ZSllPVUlzZm0xN2ZTQ1hfT1JnVHVzZ0pGMUhaQzFzd185VHRHdGg3eTVSZFdyeUNhZzJCdVlGaEZZcDhBNHNTR0dBMzJoRTZYS3lBV1FfVGhLQXQ1VC0zMk5CRVNGSTFnU2hBNFpPWEtyckZIaWNldmpYaDZySHVJM1lnQzJmNFZNU1VWa1ZpTERDNDVJT3hTRXYxUXA0YVVUaGk?oc=5",
+    "publishedAt": "2026-10-23T05:00:00.000Z",
+    "collectedAt": "2026-10-23T09:00:18.537Z",
+    "translation": {
+      "titleKo": "민주당, 러시아 제재 완화에 연루된 미국 디젤 기업들을 조사할 계획 - 워싱턴 포스트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f5501f683f83a4e862563635226a48e6f8b342ee",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "‘If We Lift Sanctions, We Make Putin Stronger’: Zelenskyy Warns Against Easing Pressure on Russia - Open Magazine",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWlDUGNYSUk2MGFIWmxOQU9ldl9Cek5SZk1HazNIMDNWTmVrNHdBZUlHazJ1bkF0bS1tT3IwYlh0cDVhSlN3REJSTFRHVUFRUWRwMXc4eUxIY004d25ZOW50eHYxSG1XSk9XOWt6Z3pGMVBHRVZPbTVqaVU4M2phTkNVSVVuamFOVmlKZzRSQVhrd3hhUi1PcXh5b29vWkJUd3hFNjdHT0xodmNmaVp3T3l3Vll3ZmdVVU1PR0V3S1NLYWJ6c1E?oc=5",
+    "publishedAt": "2026-10-23T03:34:37.000Z",
+    "collectedAt": "2026-10-23T09:00:18.537Z",
+    "translation": {
+      "titleKo": "'우리가 제재를 해제하면 푸틴을 더 강하게 만든다': 젤렌스키, 대러시아 압박 완화에 대해 경고 - 오픈 매거진",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2b330acbb20e42ede4f9516306d99b0a7b26ed01",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Sanctions Greece- and Panama-Based Law Firm Over Alleged Iran Shipping Links - GreekReporter.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb28ySnhpZ3F4XzZDeHBFNHAyR3lFNGJrY3NibU03dVRLdzdnVDdnb2JMVURSUk11dWFrWnZlbklob0FzQ0JWQ3BOSEpXYkItOFBscHhyMmFKZmUzNFBCTmFFaVZhTTdrOXZseDlaMlN2dUNTR29KOE9JWVlHdFZyS29jbUdzVWNVYko1UGRHeG8?oc=5",
+    "publishedAt": "2026-10-23T06:28:15.000Z",
+    "collectedAt": "2026-10-23T09:00:18.537Z",
+    "translation": {
+      "titleKo": "미국, 이란 해운 연계 혐의로 그리스 및 파나마 기반 법무법인 제재 - GreekReporter.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c99ae50010b5a1f5c70068c6258bd45bf0cf4a2d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Splash Wrap: Sanctions, spreadsheets and shipyards - Splash247",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kU1c0R29oMHJNbDhnalhUYmR1OFN6aU01bjRNa0Zpem82eVFFUmlyYl9tYUhiSGNhXzJUcVBIOWIxSkpPMWFlbTBfVmpvUlN6TWYtdVdKcGdlN1gwSE9MbmtKdDFaX25mekhpYUIzWjdfc2hFZk1JWlh1bw?oc=5",
+    "publishedAt": "2026-10-23T08:16:15.000Z",
+    "collectedAt": "2026-10-23T09:00:18.537Z",
+    "translation": {
+      "titleKo": "스플래시 랩: 제재, 스프레드시트 및 조선소 - Splash247",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "21c3ec2906c28b4cd7a499d45965208fb427d385",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Australia targets fraudulent North Korean workers propping up nuclear program - ABC News & Headlines – Australian Broadcasting Corporation",
+    "snippet": "",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTzQ2Z09aWG9LeDBENlZwZFo1VWpfQ1JGQy1ZeXdlWVFqaXRpeUtNcGdWRzdzLVVUdHhfQkNheUFENmVvWF9NMWpFUnZXclkwRGNObUZpSUlXMDBUMlA4M1BkRDl2dWtHRmdWYjFwSzJwMHNsZks2LXVMOGZXclpEZld6NHNJWnRhTnpaelViUmRNMWM?oc=5",
+    "publishedAt": "2026-10-23T02:38:36.000Z",
+    "collectedAt": "2026-10-23T09:00:18.537Z",
+    "translation": {
+      "titleKo": "호주, 핵 프로그램을 뒷받침하는 사기적인 북한 노동자들을 겨냥하다 - ABC 뉴스 & 헤드라인 – 호주방송공사",
+      "snippetKo": ""
+    }
   }
 ]
