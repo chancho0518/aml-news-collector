@@ -172,5 +172,172 @@
       "titleKo": "뉴스 콘텐츠 허브 - 제재 면제에 따라 미국으로 향하는 첫 러시아 디젤 수송선 준비 중 - 리비에라 마리타임 미디어",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "851c14358dece46fcbc10234b577f76e6322d4c1",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Firms fined £2.6m for AML breaches - but the worst may be over - The Law Society Gazette",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1REdGktdmpaZkhrU1VaUzZIaHdiV281SFN1VUV3MnU0VHRGVFNYMmRmWUNjeWlPLXIwazBPQWRhUjlRNmdMM0h5R2Z0eU9nYjl2NkdRUUZNTmNhZnN5ZHppdHppcy15dTIwODYwRkNjbG5qUTVmRXR1VjBLQ1plMFhGME5WMWtkdTFoalNsdVhfQkdWaUFMRHpFV05VZWRseWlBcXVfd1ByTFRy?oc=5",
+    "publishedAt": "2026-10-23T09:19:06.000Z",
+    "collectedAt": "2026-10-24T08:34:17.460Z",
+    "translation": {
+      "titleKo": "기업들, 자금세탁방지 위반으로 260만 파운드 벌금 부과 - 하지만 최악은 지났을 수도 - 더 로 소사이어티 가제트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bc006f2128ae8fd2cd4fca74c5a2e240c67efd8b",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Six specialist lenders hit with FCA restrictions over anti-money laundering weaknesses - Mortgage Solutions",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "money laundering",
+      "anti-money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORXBocUtzcWNyNDRMNVdZSURKR0tqZThIZWxBbFZXUHBIbVZpWjZ2M2RYb1RKMEVSaTA2V3RGTU1xaEhFajhWWDA4RjlhaXMzejhRdzBxMTlodlh1cUhHWHZobFR2QU1QX1BfcUJtLWZGTXRkTkwtbW5RZkl1R19meW1udFV2OU1LWHdJWXB1QnVpaENha1hXczJKRWlmX1RzNGQxRDRWdEtRLUJpZS01aFlpQnIzdmNiVS0zQWNvUkxDcl9wdXZJM1V5WHpyakNwLTVUSDNJazBvY0RWSTl5QTYwelNGUGZabm15d0VpbF9jMGlI?oc=5",
+    "publishedAt": "2026-10-23T11:09:13.000Z",
+    "collectedAt": "2026-10-24T08:34:17.461Z",
+    "translation": {
+      "titleKo": "6개 전문 대출 기관, 자금세탁방지 취약점으로 FCA 제한 조치 받아 - 모기지 솔루션스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5fc53ec89ea1238265ef752529569d1d4dc7a9e8",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Customs Inaugurates WCO Mission To Strengthen Anti-Money Laundering Capacity - Independent Newspaper Nigeria",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "money laundering",
+      "anti-money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOejJ0UkNpd3NFTjgzR2xBU3k0LXhJVlowRjdKWTNjRzZ3d2k2TU1mNWxHZlV2b1FwTzVRT2FodmJzcl9PX3dLWmdGVWkwdnRpUjkyUldmVHhHNEQxRXBkNFg0QlJQbUV5LUl2Z3ZycUZfN0NvRnRUQTlWc0tVaFVyMmJTS1RPMHB5ay1ORklNbFo2UmdpckRZVjd2c2o1YUFPQnc?oc=5",
+    "publishedAt": "2026-10-21T12:46:08.000Z",
+    "collectedAt": "2026-10-24T08:34:17.461Z",
+    "translation": {
+      "titleKo": "관세청, 자금세탁방지 역량 강화를 위한 WCO 미션 개시 - 인디펜던트 뉴스 나이지리아",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "17594375c9ead2629ca61415a54cafee932ae9c2",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Banks and Businesses Face Major Anti-Money Laundering Changes - Greek City Times",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX1FORXlmWGFnRFpBdG9lM0pCZHhzTk53SlkzdDY1YVY3Qk1oRHNtVE5IQy1IR05Wb3gzZUd0WUg4QVhlcFZ6NWlYdERuMlBNX0c4LVBnSFJ0RjZYNmJEb3BfNG5iUVNkcS13b1VSbGxzNmZPTWRIN0dkTE5UTXpvSUpsM3Ntc3ljWmpKZndEMXJQVEFpYXJCNE9YaDNmNllScWc?oc=5",
+    "publishedAt": "2026-10-22T07:42:04.000Z",
+    "collectedAt": "2026-10-24T08:34:17.461Z",
+    "translation": {
+      "titleKo": "은행과 기업들, 주요 자금세탁방지 변화에 직면 - 그리크 시티 타임스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9c03c1edc68978b60ec992065c9b6ddb802b2098",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Cash Isn’t Criminal: Challenging FinCEN’s Surveillance Scheme - Pacific Legal Foundation",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcXpWSUowWExicF9iZElUNERlTlhvRzZmLUJQdFZ1RHFLSXZRZDVrZFFGcHlBOWw0dEhmRjR4ZHRvRUNPek5tODlzZUhsbmFobXRRbHQzUGR0a2RNWEl0dE5yOXZTTTBJeXV2QnFYOENpV0pkUmQzUVNfVWh0S1J4dDJWQnQwZHk4X2FfOWVPNEN5bU5uY2c?oc=5",
+    "publishedAt": "2026-10-24T02:16:36.000Z",
+    "collectedAt": "2026-10-24T08:34:17.502Z",
+    "translation": {
+      "titleKo": "현금은 범죄가 아니다: FinCEN의 감시 체계에 대한 이의 제기 - 퍼시픽 리걸 파운데이션",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9fdbf98e765924bc0aec4886f3372abd2b2c622c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Communications Slowdowns, Seven Vivaldi Insights, More Sanctions Relief Possible for Putin, Taiwan’s Joint Command & Control. - Futura Doctrina | Mick Ryan",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hMGplNmJKdWRsci11Z0l0ZHBOVGJ5THhzQ1B6RUNXbEpKeHZnQkNNbnR6ZU4xaGtoOW9LVjczY1RMVlRTRnA2NHFNdWEzQzJWZTVyODY5QWRlakVzS2pDbFdqSzQwMFdKSG1VNHFvR2d3YkFuajZyNUxB?oc=5",
+    "publishedAt": "2026-10-24T04:41:04.000Z",
+    "collectedAt": "2026-10-24T08:34:17.445Z",
+    "translation": {
+      "titleKo": "통신 지연, 7가지 비발디 인사이트, 푸틴에 대한 추가 제재 완화 가능성, 대만의 합동 지휘 및 통제. - 푸투라 독트리나 | 믹 라이언",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "29b9532540c6a02deceb0d28ca77925651349096",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "China’s Sanctions On Taiwan Allies Project Its Power, But With Limited Effect – Analysis - Eurasia Review",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZHdMZGc1WllxZy1HME5OaDJCT3YyS3c1TFVBcmdtbU16QTJNM212ckE0ODdlRzd1eTl2WmxpcFhYYmNzTF9sbFRac0c5ZkpYdWhwMVNqSHZzVVN4MTJTRzhWOFBsUEhCMGhDOF9kTzBWOThPMXJlRHJaOWtRd2cyamFaMmVMejk3eUgyN3diZ0Y0WVhKNW81cEt5RHZWXzQ1T0kwYlBaa1hqcUYtQWltUWNTV0wwOTlwU0t4MzF3OUxnQQ?oc=5",
+    "publishedAt": "2026-10-24T00:46:41.000Z",
+    "collectedAt": "2026-10-24T08:34:17.446Z",
+    "translation": {
+      "titleKo": "대만 우방국들에 대한 중국의 제재는 국력을 투사하지만 제한적인 효과를 가짐 – 분석 - 유라시아 리뷰",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cde7e71987b45a5aea4c83e87d66370ea60eb236",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Ukrainian civilians killed in Russian attacks following Trump’s easing of sanctions - FOX 17 West Michigan News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlduQUliMl84Q0ZINzdJSFB2YXh2R1diRnFyZVZUaXpoai1wWmJsMk02YU5JZnZzVGw1M0g1ZVlaQUdRWkJid2Y2ckkwUzZSYWZVOXNSdTNpc0o2VzNkc3BPdDVlSmQyUVJpU21ocHl2ZER6MDlaYkNOM3ZpVEtWQThnQURENV9ONkJnZUhIMnVIU2syZWpCS2t2dk51S2V4Z2phazJYdDY4M2duZUNrRVZEOGpDSmx0eVIyd0dmZUphRDdZWFJZ?oc=5",
+    "publishedAt": "2026-10-24T07:06:47.000Z",
+    "collectedAt": "2026-10-24T08:34:17.446Z",
+    "translation": {
+      "titleKo": "트럼프의 제재 완화 이후 러시아의 공격으로 사망한 우크라이나 민간인들 - 폭스 17 웨스트 미시간 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7239a49c93d11d91089da8e1b1de915ab7bcca3d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russian Diesel Tanker Heads for New York After US Eases Sanctions - Kurdistan24",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa3haSG5aUEFTTFlRQ3RyMVZIS2tYbWw1djd6bjM2bkk0T21pNUY5WDkyQmxUdG1qSjAtNHpVcGNEM0puQ3NJZWQyMFBPcWhlQlRLYldzUzJMS3FmZ3NrbXN0YTFhdHpES1NOYllUNnNqSFh6N2F3QWdvTk5IcmVGTDl5cy1zT3pjVGFLbEtQVk9PRkI0RWpWZ01qZzVUeTFieXgxOWZienRpTzFtd0E?oc=5",
+    "publishedAt": "2026-10-23T12:25:00.000Z",
+    "collectedAt": "2026-10-24T08:34:17.447Z",
+    "translation": {
+      "titleKo": "미국의 제재 완화 후 뉴욕으로 향하는 러시아 디젤 유조선 - 쿠르디스탄24",
+      "snippetKo": ""
+    }
   }
 ]
