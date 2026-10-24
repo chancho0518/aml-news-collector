@@ -339,5 +339,347 @@
       "titleKo": "미국의 제재 완화 후 뉴욕으로 향하는 러시아 디젤 유조선 - 쿠르디스탄24",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "f30b83067e8c5a0fe71aeddff3ac5ac3b224e2ea",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions - Bloomberg",
+    "snippet": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions Bloomberg Netanyahu: Israel should ready for global sanctions, use blockchain to circumvent them The Times of Israel Analysis • Instead of averting sanctions, Netanyahu offers an Iran-style blockchain economy Haaretz",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5",
+    "publishedAt": "2026-10-24T10:54:35.000Z",
+    "collectedAt": "2026-10-24T15:14:57.892Z",
+    "translation": {
+      "titleKo": "네타냐후, 가능성 있는 제재에 앞서 이스라엘이 암호화폐를 고려하고 있다고 밝혀 - 블룸버그",
+      "snippetKo": "네타냐후, 가능성 있는 제재에 앞서 이스라엘이 암호화폐를 고려하고 있다고 밝혀 블룸버그 네타냐후: 이스라엘은 세계적 제재에 대비해야 하고, 이를 우회하기 위해 블록체인을 사용해야 한다 더 타임스 오브 이스라엘 분석 • 제재를 피하는 대신, 네타냐후는 이란식 블록체인 경제를 제안한다 하아레츠"
+    }
+  },
+  {
+    "id": "0e3f71f401158cb21d2c2947cc6387cdfdc70779",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "ICC prosecutor says court making ‘significant progress’ despite US sanctions - The Guardian",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzZDWVBLT0diMGZ3Ymk4TTRvUFV6SU1BemJNc2k0ODN4OW1lTDhyeTlabXVGQUFvajRhSEF2eWJpMTNUQWphdzZ5dkVQQloxSEl4amR4OHFwYnRuNkZ3WUpHWkE2RHhLbThVN1M0X3E3VldJQzRlT003VDZZOXN6LURJOV93TE9fa0czVnFyUWFET2RYUS1vOXZrdGY1Nmhyc0FTcW4tSzNXMkxiaEhr?oc=5",
+    "publishedAt": "2026-10-24T13:58:00.000Z",
+    "collectedAt": "2026-10-24T15:14:57.892Z",
+    "translation": {
+      "titleKo": "ICC 검사, 미국의 제재에도 불구하고 법원이 '상당한 진전'을 이루고 있다고 밝혀 - 더 가디언",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b3ea03fd42afd4847ea9313137e73d7df28b4fae",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump’s Words Used Against Him in Alaska Lawsuit, DOJ Sanctions Sought - Newsweek",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOckROVHNyZFZMS3JLMFhmeTJhelpzS0F5S2pZLTI1N09tQXctVGI3Znpma1l1Zi12TExaTnUyMFV1SU41YlVHWG9nZ3JRVlRvdGxrZFJiTVRzb0x4MGxncFdaSE1mYkhaVHVnbW9lTENyOXNVVURwMVB3Q0xOME1tMDNTU2ZsdE5aMVRRQ0QwTlB6eVJsQ3h2X2R6M3E4ZWJRcFJUeg?oc=5",
+    "publishedAt": "2026-10-24T12:43:00.000Z",
+    "collectedAt": "2026-10-24T15:14:57.892Z",
+    "translation": {
+      "titleKo": "알래스카 소송에서 트럼프의 발언이 그에게 불리하게 사용됨, 법무부 제재 요청됨 - 뉴스위크",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "47ec21d5ea8b1a0d5d56e5533d64cc053fbabad3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Israeli-born oligarch behind Russia's $14 billion sanctions-evading cash network linked to Iran, Hamas - Ynetnews",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SUFNCZDFxZnI5cXV6SVZtcjc2UFBWdmRvNy1zRFNGRE16VXBzMVNrWTYydGxzanVuWTR0Nm83SUNJVW4wdTlhdkZyZklfaFZiWHY2czZR?oc=5",
+    "publishedAt": "2026-10-24T13:41:54.000Z",
+    "collectedAt": "2026-10-24T15:14:57.892Z",
+    "translation": {
+      "titleKo": "러시아의 140억 달러 규모 제재 회피 현금 네트워크 배후의 이스라엘 출신 올리가르히, 이란 및 하마스와 연계됨 - 와이넷뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fb6e467a43309e7358958ad9e58de4c7a389658c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "KPSC 'scam': D K Shivakumar sanctions prosecution of suspended IAS officer Gyanendra Gangwar - Deccan Herald",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaUVrbmhtODd4QklyQURhWG5RRGlNSmdyMUw1eDhWZDNRVWo5WFZmdWZtNmptNFBDaGZWd0pCSUhoeWhBNnplZ2FqUTktVmF0Mmt4UnBnZWZCTERRSkNhME1RelBRa0J1VTFNSjV6aVYwV3R4TklVUUExMUtaWDU4S21hVmh1UlpFT3FwM1JGd2V1RmdPS1NuWnphV01FS2VzdEc0akRraVc4MGtqVmNuRUdrNy13RkFKSWlQYjRtcWZPelduVGJaYl83T3RvNjlfa2xfLWE0NUg0QQ?oc=5",
+    "publishedAt": "2026-10-24T07:06:32.000Z",
+    "collectedAt": "2026-10-24T15:14:57.892Z",
+    "translation": {
+      "titleKo": "KPSC '스캔들': D K 시바쿠마르, 정직된 IAS 공무원 기아넨드라 강와르의 기소를 승인함 - 데칸 헤럴드",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bbaa6db8430fc01e589a04c3338611e412f15893",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Ukraine sanctions Russian arms suppliers as Moscow ramps up attacks - The Kyiv Independent",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGlTSkYxdVl5WEFhUG5zX0xxU2lFcTZmOVYzbzN3b2QydXZvNTFlVTlGTlJlSXhnVzlJV3FvMGd6OUZady1ZZFE2TzFXck9OTGhPYVpfS3cwYVpBcHlIOVg3Zm55RmxFbU9kVFl3RXRxYUdzWE5XX2Y1Zi1aZU9mMlhBZlJJNW5IbFk2RVJ6MnBpd0gwSlo0TTFhOHA?oc=5",
+    "publishedAt": "2026-10-24T12:12:05.000Z",
+    "collectedAt": "2026-10-24T15:14:57.892Z",
+    "translation": {
+      "titleKo": "모스크바가 공격을 강화함에 따라 우크라이나가 러시아 무기 공급업체를 제재함 - 더 키이우 인디펜던트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2372d111858a50681ff449b4f8cabe6d60f81489",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Discussing Implementation of UN Charter, Sixth Committee Touches on Sanctions, Peaceful Dispute Settlement - UN Meetings Coverage and Press Releases",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04V1lLT3g1dFk5U2Y1M1E1cXkzR19NaGtSYXJtSzl2RkhaUEthMjJKc29rRWVxbm9pLVA3blpraFlDR0JtRnRvX2Q4ckYyR0JnalNFVEtNbw?oc=5",
+    "publishedAt": "2026-10-23T04:00:00.000Z",
+    "collectedAt": "2026-10-24T15:14:57.892Z",
+    "translation": {
+      "titleKo": "유엔 헌장 이행 논의하며, 제6위원회 제재 및 평화적 분쟁 해결 언급 - 유엔 회의 취재 및 보도자료",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cda25947b01f0390700f7847f61351f866bfd942",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelensky Enacts Sanctions Targeting Russian Ballistics and Drones Makers - Kyiv Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LRnlMWkxkc0U0MFQ0Q3EyU3lVRjlTRm9wemtxeXBHbkFFTlhOOV81ZHFnWXdkN25fNG9zQ3hRWmdmQnRYdW9UMUlvNA?oc=5",
+    "publishedAt": "2026-10-24T12:17:20.000Z",
+    "collectedAt": "2026-10-24T15:14:57.892Z",
+    "translation": {
+      "titleKo": "젤렌스키, 러시아 탄도미사일 및 드론 제조업체를 겨냥한 제재 발효 - 키이우 포스트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0e6eec4994f897ff58ac58b05fe3f07e63d933ca",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "How the world's most isolated regimes use crypto to evade sanctions - Ynetnews",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xUWF1eFBkY09XVjdvRFluZnVjei0tNHJvYzBvc1NHWFJMZkhOdnl0RlpHbXh5MlFpeXduT3RGQ2xPOWlHbDdTQzNCZzkzMlNqUmtGMDMyQm1IVHplUlVoc3dzYw?oc=5",
+    "publishedAt": "2026-10-24T10:24:30.000Z",
+    "collectedAt": "2026-10-24T15:14:57.892Z",
+    "translation": {
+      "titleKo": "세계에서 가장 고립된 정권들이 제재를 회피하기 위해 암호화폐를 사용하는 방법 - 와이넷뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "62af4bac6c150fe74274d897307823989da9e064",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "African Union Calls for Immediate Lifting of Sanctions on Zimbabwe - Shabelle Media Network",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0pxUzl6eEpjZ2FJWVRJSmtpQ1N1X25RNEZxNHVqUEo5c05EaVlTRkg0ekFIQ1VUcGRidXQ5aUxfazd6cmJpNXhDR3d5MlBWVExnWTBGd3pEQ0trc3BLVDVCOFZVY3poUTktT2pqLW9jek9uUGloaXRQUWNhRTBIWlhBaVcxNlhkOG9lUE1aeEM1MmtncTVXUg?oc=5",
+    "publishedAt": "2026-10-24T12:03:02.000Z",
+    "collectedAt": "2026-10-24T15:14:57.893Z",
+    "translation": {
+      "titleKo": "아프리카연합, 짐바브웨에 대한 제재의 즉각적인 해제 촉구 - 샤벨레 미디어 네트워크",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9296ae0b2572c02b2e82ec9bd3d32f01fcbae0d1",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Ukraine Imposes Sanctions on Russian Missile Producers and Military Suppliers - Caspian Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZXkzVjQ4U1djcndQMTc1cU1QMWZyaGdqcWlMdkpTZ2hoODlaWGhCU2F1RnhmNURIVmlsTzh2bktnbFl2RnBIWXB6T1VSa0Vtc0xfcURMNUl0b3BxRG9TcXNXaFRkSFM4OEhuTEpLalZYWnBWejlrWU43ajh1NmZTV2sxeDE4NURWaUJadkcxemxvVnk4dlljN2dNTlF2NjQ0aS1MNGxleFJtc2tKZ1E?oc=5",
+    "publishedAt": "2026-10-24T11:29:51.000Z",
+    "collectedAt": "2026-10-24T15:14:57.893Z",
+    "translation": {
+      "titleKo": "우크라이나, 러시아 미사일 생산자 및 군수 공급업체에 제재 부과 - 카스피안 포스트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "03ab41d00edf7ba00f008072538a56522cea5a9c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Netanyahu orders plan to bypass banking sanctions, eyes blockchain as option - Türkiye Today",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaTRwUzkwRTJ1U0tHeVh1WWhmS2dRUFA0cnZoa2dmajgzeWJZNFFDdkQ5ZGZjMFRZS3VyTmJiSjJhVzN4MzhGQ0VJTGN0bm5US3JaYkE2Q0htOUE4WHdjQWs2elR5aEMwSWhOaUhzb2F5OVZiOGdpRWZ5QmJXZVE4bm9jZXB1Tld5RENCYjZkdU5qaWRFUDdZRjQ0NkJfaTVtblRYMmEteGJXR1FkeGhDcXY5U3RkcDY0ZzM4?oc=5",
+    "publishedAt": "2026-10-24T14:10:56.000Z",
+    "collectedAt": "2026-10-24T15:14:57.893Z",
+    "translation": {
+      "titleKo": "네타냐후, 은행 제재를 우회하기 위한 계획 지시, 옵션으로 블록체인 주시 - 튀르키예 투데이",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "20fc1993ed5ce5c7ae89df4b31addacdd0cc145a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Ukrainian civilians killed in Russian attacks following Trump’s easing of sanctions - TMJ4 News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUEdlZHBPVXF1S3JhVHJfc1p2amROZ3BteEgwYUJldFdMWXo2VXNUeXBvdUJpRnF3aTlQejNyTG91SzNqTG5fV2dmOVoxNWJwZHIyQ1pKZ0djMlFxUTVBazh5bVdKYks4MnpkNVk3ZzZUcjc2UGF2RVdhekZTVFJpbVFDNmNNWnpOVmlHZkQ4cmZiekNKUDhzZnZScUlVTXM3cU82WUFKSGpkaWVhTHlYLUNlWFNRMXM?oc=5",
+    "publishedAt": "2026-10-24T11:06:03.000Z",
+    "collectedAt": "2026-10-24T15:14:57.893Z",
+    "translation": {
+      "titleKo": "트럼프의 제재 완화 이후 러시아의 공격으로 우크라이나 민간인 사망 - TMJ4 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8a3573184d9d3b3c5aa9995539573ce6a26f0dc3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions risks reshape commodity trading - Hellenic Shipping News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSjRETlBRRXpMTzJJd3lYNXMtZnExSmNSRVJDaF9KY241MHgxU2tqcU9HMFlwelg1MktlXy1EWGVNaXdGdDFkVUZTWE1QYS1rRnBXYmkwQmlVMXh2V2x5NDlWRWt0WDhyR1NGM1JTTGh3WEJneG55emlLMzV5ZFA3UkFzOHNMUQ?oc=5",
+    "publishedAt": "2026-10-23T21:02:45.000Z",
+    "collectedAt": "2026-10-24T15:14:57.893Z",
+    "translation": {
+      "titleKo": "제재 리스크가 원자재 트레이딩을 재편하다 - 헬레닉 시핑 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3216f8ee83dbc31ddd4f5e1c80c74964d1689abe",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Netanyahu explores crypto to bypass potential sanctions - Investing.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHZqZ1hPSGFqczZpcWIySXA4M0lkRXctUUo2elZCdFJPRFlIQ3d1WFFVWThsenQ5VTJYUzUwZG4xeHE5ZHBWWEh6d1daVXFlQ3lZNW91SzFjZWNOQl90bzBKOGYyVVZ5SzJseDFEeHUzTWpUMFl1em54X19QczhIRXNsYUJ2Mko5SnctN0dwd2NTS19XQ3daS2lmNHRpR09BMmZEZUpqeHVfdm8?oc=5",
+    "publishedAt": "2026-10-24T11:43:46.000Z",
+    "collectedAt": "2026-10-24T15:14:57.893Z",
+    "translation": {
+      "titleKo": "네타냐후, 잠재적 제재를 우회하기 위해 암호화폐 모색 - 인베스팅닷컴",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0d3a41c41987c360ec4207d58533247b1a0c8922",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Ukrainian civilians killed in Russian attacks following Trump’s easing of sanctions - 2 News Oklahoma KJRH Tulsa",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0MxVi0ybFJyOHpjSFpxc0E2V1ljNWdPeDhSM1h4SzdpNW9WTWlxMXB0WnRfelV2bDktdV9yZGZvdHh5bWtrM2FGTlhoSWh6SDFNekJEdmgzSjBtUm1DQ3BSOHJhazNIUm9vMDkyenlzeWEwRlZaVkFQNGk4a0dMUGhwS0FVTVJhR3Q5OU1TQ2ZqSTgtbVREcWd1OXJ6V2hQbFZ0bUVmaUM0ZmRaV3BaUE00UG9BUmc?oc=5",
+    "publishedAt": "2026-10-24T05:49:19.000Z",
+    "collectedAt": "2026-10-24T15:14:57.893Z",
+    "translation": {
+      "titleKo": "트럼프의 제재 완화 이후 러시아의 공격으로 우크라이나 민간인 사망 - 2 뉴스 오클라호마 KJRH 털사",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fbae7f4ef51ebda17d090bdafb241dd516ee3c4b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Netanyahu Orders Blockchain Plan to Prepare for Bank Sanctions, Endorses Cryptocurrency Use - BigGo Finance",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBVmlNSVJULWF0LTd0dVVqYk9iazUzMlJycndSazRYbVctZnhWcmVMY09adEhlSlhfNUFWeHlfeGVXYmxUaFZZZnNqeHlMSFh6TExkXzFPSFd6SUFuZVVrakFJUDE3TF9ycWRaakZlT1JYUXU3cWc?oc=5",
+    "publishedAt": "2026-10-24T01:55:00.000Z",
+    "collectedAt": "2026-10-24T15:14:57.893Z",
+    "translation": {
+      "titleKo": "네타냐후, 은행 제재에 대비하기 위한 블록체인 계획 지시, 암호화폐 사용 지지 - 빅고 파이낸스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fb7ab2d64669606069552c76645bb2749d454b74",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Netanyahu Orders Blockchain Plan to Help Israel Evade Potential Sanctions - Bitcoin News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjMtNDhUeE1aUGR3QkpWdzRhUVBZYVFxVmRPSjBlenFDblRjZ0ZBdjF4Z3gwWmFZU0xKOUpPVUhBU041akNzbS13NUVINnZ6Um9qWjROTFRWcnQxOXpLWG9zRFJpWEktWjFjNUloNmRReWV5aDBqMmp4MDZXeFRBbW1qQVByRjFERWlxdllVX3JiY1RZQjZLNUs3SVUtUnpmYmdSaQ?oc=5",
+    "publishedAt": "2026-10-23T23:15:25.000Z",
+    "collectedAt": "2026-10-24T15:14:57.894Z",
+    "translation": {
+      "titleKo": "네타냐후, 이스라엘이 잠재적 제재를 회피하도록 돕는 블록체인 계획 지시 - 비트코인 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "51fe1412619e044f0133edf22626dff38006a782",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelenskyy imposed sanctions against those involved in the production of Russian ballistic weapons - Українські Національні Новини (УНН)",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2xrVThTaXNPeV9oRm92RXpkcXdoTTZkajdYekg0UVQzeGhTQ2dsSE1yQjc0Z1JtaHhQUHAwdTQ2VzNIaHpoLWVmNzZyTUU4bG5rQnFhZU9XRnNuNV9LREJ5T0VNbVlDR0JFX1NMVks5NDJPbmFnTFhIckZWVG52cnY1Z3lqR3FKaDFjMmxsS01tRTBUY3BOeWk2aVRZOFlRZmpJMWl5VTdmS09BMzlZYzd1amNUUGNvZTl6WdIBuwFBVV95cUxOUGgtS09iaUg3N2xHQ2JCZGQzMGVoT3VzSnA3eEtyZjc2LTlySHN1b1JjZkdwZWR4VVd6RWVhT2g4SlJLTHMwTjhzZkVoRXRNOHpKejROZUsxT2dhYV8xQThzSGtvdWFPSmE2V0ZyM3pyZUhkYkxQeWd4bkwxb1ZGUmtPcnpGcHhvamhkVkhZYk00QTcwczhDY19lUTJ1eWx3eFVRcG1KMHB1d25ibHJGSjhwbEIxd2E1MHNF?oc=5",
+    "publishedAt": "2026-10-24T10:47:22.000Z",
+    "collectedAt": "2026-10-24T15:14:57.894Z",
+    "translation": {
+      "titleKo": "젤렌스키, 러시아 탄도 무기 생산에 관련된 자들에 대한 제재 부과 - 우크라이나 국립 뉴스 (UNN)",
+      "snippetKo": ""
+    }
   }
 ]
