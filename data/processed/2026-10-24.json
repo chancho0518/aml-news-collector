@@ -681,5 +681,370 @@
       "titleKo": "젤렌스키, 러시아 탄도 무기 생산에 관련된 자들에 대한 제재 부과 - 우크라이나 국립 뉴스 (UNN)",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "d8353cd52da40ef1af800f9f0ce40e85e164d21e",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "’북한 자금 세탁 의혹’ 캄보디아 후이원 전 회장, 중국으로 압송 - 연합뉴스TV",
+    "snippet": "",
+    "keywords": [
+      "자금 세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VdTVqTnJCYjlra1ZReW5Vd2dQNHF2WmhCdHhGMTd6aV9qUmpiSjlMVTBVd3pyQkNsTzNFQzZUZUIxdHBlNlpjNWZwWVBzNW10VmRuYXBTVE9COWp6d1d5Qk1ndF9Fc2s?oc=5",
+    "publishedAt": "2026-04-01T07:00:00.000Z",
+    "collectedAt": "2026-10-24T18:32:36.217Z"
+  },
+  {
+    "id": "d772c530e871b675136381b0f48578c9ccaac085",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "빗썸-FIU, 영업정지 취소 소송 첫 재판서 규제 기준 공방 - 뉴시스",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94WC1LWVpLU2lBMFJxVDVwWjFaZXlUZ2NLeDJ6TXpYYXRtdjhkc29DYmVHZFJ6cGh2LWRFZVZTNkZBNUlsaWMtOHlvQ1laVnhiTy1PQy1ydmFsdnY1ODBEckhn?oc=5",
+    "publishedAt": "2026-10-22T12:04:40.000Z",
+    "collectedAt": "2026-10-24T18:32:36.195Z"
+  },
+  {
+    "id": "e9d7ecbd0409f974fbb0d4b90e7b183f14e740c7",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "“기준 없이 사후 제재”, “알고도 차단 미흡”…빗썸·FIU 법정 충돌 - 마켓인",
+    "snippet": "",
+    "keywords": [
+      "FIU",
+      "제재"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pLVVKV281OUdjMUNWeUFpLUFhWnVPZWZGZTVTcUZtVFBWN293Tko4MGFQbFBYUnJfZ2VPU3JiTzEzTEMzakVKT1E2eENVT18yTzhQUE4xZU9ZVXp5Wmd3WG9UeVFzdWhOX1lpZDNKWUNWUFk?oc=5",
+    "publishedAt": "2026-10-22T09:25:49.000Z",
+    "collectedAt": "2026-10-24T18:32:36.195Z"
+  },
+  {
+    "id": "cb07e76df3a488cce05c8a45c6a699a4a3c86ed7",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "빗썸-FIU, 영업정지 취소소송 공방…100만원 미만 거래 쟁점 - MTN 머니투데이방송",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWNE9FNnlzbGZ1UkFNYW5jS24tSkpQY1ltVzNDOEc0QjdTNmVnNHNvaUVHTW4xUTNRbmJPOVp1eHlENUpPbGk4REROc2xjdUg4ZWRCa2dVTzVBWTdFMTNV?oc=5",
+    "publishedAt": "2026-10-22T13:40:27.000Z",
+    "collectedAt": "2026-10-24T18:32:36.195Z"
+  },
+  {
+    "id": "b13dc1693e1997a4f166a5ecff9175ddca82af81",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Midostaurin (Rydapt): Understanding Its Mechanism, Dosing, Clinical Uses, and Role in FLT3-Mutated AML and Advanced Systemic Mastocytosis - Oncodaily",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PTDZSdTR3eGhCM2VLRmw4X2xYMV9LWVRNZXFRWF9aNDVGV0hTWTJVZ0I1dEJQOTFXUXBtZTdHY1hwT3Z3SE1oMnVmX25tUnlsY0t2Y18yWFE4blc1cDBV?oc=5",
+    "publishedAt": "2026-10-24T16:58:50.000Z",
+    "collectedAt": "2026-10-24T18:32:36.236Z",
+    "translation": {
+      "titleKo": "미도스타우린(Rydapt): 작용 기전, 용법, 임상적 용도 및 FLT3 변이 급성골수성백혈병(AML)과 진행성 전신 비만세포증에서의 역할 이해하기 - Oncodaily",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b5b1378f87d8a02ea8a94104da92232c3819eeda",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Hennion & Walsh Asset Management builds confidence among anxious pre-retirement investors with new campaign, created by AML - Marketing Communication News",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSzQ5RFpPekZRcHVCUjQwQ3NEeFpCV1p6RjRyMXhSbmd4dXI3Mks1cV84cVhhMGNpRjlWTmZxSTdIZkFQb09sWmpJcFBwdGp3ak96WDVtZzRUOGdSOERpWVd4bHVydDQ5UjFqYXFfZ0lvM215MUtBS1M5Vk5mVTh6VmZ4VHRDTXFuNGJpZkZ2bFd2em1ORVJGaTVIcVp3RVJkNklaSnd0YWlPeUE4OVBPc2gyMmZXcDQ0R0FrVTBvS2h5cXk5MDJBRWtRYmlXR0ttd0pIX1pFQXFPY2FCNHc?oc=5",
+    "publishedAt": "2026-10-21T10:44:14.000Z",
+    "collectedAt": "2026-10-24T18:32:36.237Z",
+    "translation": {
+      "titleKo": "Hennion & Walsh 자산운용, AML이 제작한 새로운 캠페인으로 불안해하는 은퇴 전 투자자들에게 신뢰 구축 - Marketing Communication News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "99d35193520e62bd04fc32e37124baf4041e700d",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "L & L Europe to pay £900k over withdrawal delays and AML failings - European Gaming",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcm5wVFZnakVRQkkzWHdvTG5PcW45aHRrRGZ4N19SemQzSGNkbnpWTnpDMEVLUTZ1cWdORWhmTkFSTVhMMFY4ZE10OTE3b3RsaHQ5LU1oMVRrVEFTNjBTTk1kZ0puZExXWHdFYWlvNkZ4RTJ1YjA3Qk1yY0R4YVJXcmNZa0k3c2FGZkcwTktoZ2ktNUFyMDJrekw0M3AzV09QckwyTTJYaGVCbU5lS1E?oc=5",
+    "publishedAt": "2026-10-21T11:03:47.000Z",
+    "collectedAt": "2026-10-24T18:32:36.237Z",
+    "translation": {
+      "titleKo": "L & L Europe, 출금 지연 및 자금세탁방지(AML) 결함으로 90만 파운드 지불 예정 - European Gaming",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3c622fd337bd0afabd7c866c54892952a1d312d0",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Why Blockchain Surveillance Needs FinCEN’s PATRIOT Act Ploy - Bitcoin Magazine",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3I0cy1IVUt4eWlmbVBTUTFxZExja1pIQTRCT2dpazdXWWhaZ01rU2U5MFJkdjFwVFBHaVNocTk3dFRCUFI0cW5jTUtramc4SEFyWERFUFdXQjdMNDJuTXl6Zm55OUprcEFwSjNuMUpFak00dUhFUm9hQXVEaGlETlJRbVFibDdNVXFZaTNuOUVneWNBX3NrQlcyLTc?oc=5",
+    "publishedAt": "2023-10-25T07:00:00.000Z",
+    "collectedAt": "2026-10-24T18:32:36.180Z",
+    "translation": {
+      "titleKo": "블록체인 감시에 핀센(FinCEN)의 애국자법 책략이 필요한 이유 - Bitcoin Magazine",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "efb9f9bfc052a51e60b1f64af65ecda3762ca17d",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bank of America Hit With Historic $1.2 Billion Fine After Waving Through Chinese Money Laundering - International Business Times UK",
+    "snippet": "",
+    "keywords": [
+      "money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUjcxZDFzRk5HMlF3RzQ0VzItLWlPUTZFS1Q1Q1dpd19URHhuc3hId1RPVWU2NklaVjJ1cFV2V1lMT1VFQk9xdUhkRDV2bkhxbm5HZHdoQ0VOanlGbDFpNmJhRk5rNjUtaFE0X3pOeWtEb0VzTG42VW9mUDhoZUYyVWdfOFdfVGJNRHNF?oc=5",
+    "publishedAt": "2026-10-14T06:35:28.000Z",
+    "collectedAt": "2026-10-24T18:32:36.182Z",
+    "translation": {
+      "titleKo": "뱅크오브아메리카, 중국의 자금 세탁을 방치한 후 역사적인 12억 달러 벌금 부과받아 - International Business Times UK",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "81eb03947572862a7f48933ac91c3235680ff385",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Netanyahu says he'll consider BoI's criticism of his crypto sanctions plan, but will do what he thinks best - The Times of Israel",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWDUyMnBVbGpnQlVXNkxDOWsyQi1OMTRuYy1ON0pSMEg2dGlmdDBMNTV4d3JQZVNldlp0eUY0ZWNldzBoOUVNblFjZ1FYelhBR1lyUW4xUl9VclRiTUVzcnpOem9Zc1F1dk5rdGlQQ1FEem13eEdnaDVCSjB1alVKUUJ0aGJ0WG11OF9VRnZGMGI4eXQ4SDlEUjFZUlctNGJSSGhsMmQ2MjNacy1YOGd6WVFDQllmN1hVQm1VaXItX1FwSldxaXlGYkVoYUFaanhaNFhwT0MwUGdBenRMbE1wTThueVM?oc=5",
+    "publishedAt": "2026-10-24T18:01:41.000Z",
+    "collectedAt": "2026-10-24T18:32:36.351Z",
+    "translation": {
+      "titleKo": "네타냐후, 자신의 암호화폐 제재 계획에 대한 이스라엘 은행(BoI)의 비판을 고려하겠지만 가장 좋다고 생각하는 바를 실행할 것이라고 말해 - The Times of Israel",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7f9ded2cbbf44d50c548db98d210e7703a224a14",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Netanyahu floats Crypto to bypass sanctions - Al Jazeera",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWW1KZzRVem83NUdpSVFJcm94T2hWc3BJX0Q4VDdXbXNZY1dzaEFfZmtSZzUxT2QtU3MwSmVmOGFTNkxWVVpWQUZ4S3dkbTZ3SzNmUXY5OUFWQnlVVnh6dXpZVi11LXp4NHE0aUNIcjMyaDB2Tk93MG1pOWsxWkdUanJoLXY0S0Y0dTlXQnhMaWpDc0RVZ0U1SnBWSdIBoAFBVV95cUxNMkJNY3RpU19EYWJFbkh4b0ZJMlNoS2ZkUmF0VGljSWZLQm9DQkJWSlJVVm1VbG0zcFJvNzZnWVAwLU4yU2VmbzRpZkIwWlBvSm5PcWtYS1RPaUJYb0lMSWM0YUp0ekZDQXcwUHQ5ZFJUZU1VakRyb21td19tZG9Gd1d4bUR2M1ZpRW5sYkJtdXo5d3pnVE5fSmcwcWpra0Z0?oc=5",
+    "publishedAt": "2026-10-24T13:40:16.000Z",
+    "collectedAt": "2026-10-24T18:32:36.351Z",
+    "translation": {
+      "titleKo": "네타냐후, 제재를 우회하기 위해 암호화폐 구상 제시 - Al Jazeera",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6899ba90725089535ebefcf026c14782ea407be5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Robert Murray, candidate in 4th District race, not convinced sanctions against Russia are effective - WTVR.com",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ2hVTUg0RnJaMVlIS3JGZzNHdUs5NEZJM3VTYjB5ZFlGQ0R2cnQtVGtHQUliRERXanU0RGcwekFTWmJja0pQQUtvVGlqdDk5X013QkczSTRhUUN0aHUtNHZnSW5wVHdwcm5GNjlOUUhhdUl4TW9WRldoN3U3ci1CVENnOTJOaG43emdSRmhlM0VCY0dhakllUG13RXZSVjZpSjNncWo5T19OQQ?oc=5",
+    "publishedAt": "2026-10-24T17:10:15.000Z",
+    "collectedAt": "2026-10-24T18:32:36.351Z",
+    "translation": {
+      "titleKo": "제4선거구 경선 후보인 로버트 머레이, 대러시아 제재가 효과적이라고 확신하지 않아 - WTVR.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "350a840a1639b6501f68bfa4e6cd1acf42a12601",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions - Yahoo Finance UK",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1duN3hVTS1PeWY2MlltaTl3NW5UT2p2T2NValNwSlI4VFczRzdQZHJCOFdBVHpNaE0teVJUNmRVSHFzaUpTYkR6MnlXYWlmcmN2QVpWNUcxSzNueDVUTWVEQlhuV3ZGRlJISHV3RDVnTmlSaHdfU004NXYwa3YwYnhGemNCUktQeklz?oc=5",
+    "publishedAt": "2026-10-24T10:54:35.000Z",
+    "collectedAt": "2026-10-24T18:32:36.352Z",
+    "translation": {
+      "titleKo": "네타냐후, 가능성 있는 제재에 앞서 이스라엘이 암호화폐를 숙고 중이라고 밝혀 - Yahoo Finance UK",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f3d47ce5060008d2ff8cb7ddce77de1de1840aea",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "RIPE NCC Freezes Internet Number Resources Under EU Sanctions, but Routing Remains Unaffected - CircleID",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMDlXVGpqOGVNZVhSaDFCdU9TVlJKWUNhRGI2SGRnaFA0NnIxOGQ2ODJtbkNER0VPZ1RmdzRFTWU4SGc4MEFjNGR0UzFMZUFDYnI4UVRaeHJxQ3g5ZElacDdCb0UxNHgzQlhKSEdOWEFGZEJaSkVjSHJlcVBJWmhrMGdDRUh6RF9MMVBnN2pacDRRUkVJQXBWZ0ZOaEdZa0RBUkowSlotMEVnd0FOTGxLMlNnbXI4Q0F5OHFB?oc=5",
+    "publishedAt": "2026-10-24T16:45:00.000Z",
+    "collectedAt": "2026-10-24T18:32:36.352Z",
+    "translation": {
+      "titleKo": "RIPE NCC, EU 제재에 따라 인터넷 번호 자원 동결하나 라우팅은 영향받지 않고 유지 - CircleID",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "695bc3018e84ac4f1efe0cc1d25886ebf15fe3b2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The Hidden Problem With Western Sanctions - International Policy Digest",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11SGFjSzd5RFZzS2xIV2U5NG14dVBqQUVzeUJIODJsNUNZS1AxWlF5cnNsaVFpU2ZMOUJBVS1JbENycHRwSHMxZ3NjNGJyVGpOTzNDMVQ4WmM4d3JPYVpKNGhrRF9BdlhBWjA3eDVldDQ4dEc2ek1INUVB?oc=5",
+    "publishedAt": "2026-10-24T15:06:48.000Z",
+    "collectedAt": "2026-10-24T18:32:36.352Z",
+    "translation": {
+      "titleKo": "서방 제재의 숨겨진 문제 - International Policy Digest",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cfc1a9575eecb8572848021e0dce9f084b66c21c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bank of Israel rejects Netanyahu's crypto plan: ‘Digital currencies cannot bypass sanctions’ - Ynetnews",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QTnpMS3JOaWl2M3dUcEhLUVktMzN5Nm42bGtuci1mTUJZWDlCRlM0T1dmdUEyc0JkTWx6T3ZVV1FMVzhCMkRRYVpNbkxxTEd0clcwY3VnN3pVcjRpWUlxc3p3?oc=5",
+    "publishedAt": "2026-10-24T16:45:52.000Z",
+    "collectedAt": "2026-10-24T18:32:36.352Z",
+    "translation": {
+      "titleKo": "이스라엘 은행, 네타냐후의 암호화폐 계획 거부: '디지털 통화는 제재를 우회할 수 없다' - Ynetnews",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b96794060cebabe2967b8522292afef953f92d8a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelensky imposes sanctions on Russian ballistic weapons makers and defense industry component suppliers - Ukrinform",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV04yMmFhZ3ExQzhaVzNGMExBTFEyR1RSNGlGY2Q4RHp3SFNhaThiUFFwak5RUFM4VExKU0c1cWxSOTdvV2dRQUxkYmtRUlhRZmJvdDFOVkpYc3pWNUQwSHQ5NUtYX3dla3Q0QlFiaXRWYVh1Q3c4UHY0aVNrV0cwUjk0aW51eE1sVkhfRGlTaXg3MUZfZHR6THRkRzRoVWxFMF9UdDBtS1ZOV0NlRFlzTWprODd4a2JlUlJvcUxCUkdZM2NZemN2bFlNUFFUQlctVllaQk1NTGxJRjljN1VLenVJaHNBcnZuYm1zZmZiNNIB9AFBVV95cUxQWHR4MWVTUzBMVDg2X2o1Rnh4WWxrclBwbXNxLTljNnpRd1dvWER0VjBtZnVYb21hYzlMS3hlVGhySm5LdXlQZnpUdjhFbW5scm5WOXhIbGxuaGJLSDg5ajBZck9kM1JvQ042YXNRaUQwNHBPNHBFczRBY1Vuc3otb2tFU09TeDdmRkdoUWFYVk5QX2xMM09PWjVKd1R1aEo4a1pnSW1VQ1BhMnd1aS1IajI3LWV5WUszeUVTR2liUFQ1aV9uT3o0Q0ZLbTR1a1lxZ2N0d190UWxEeGE3VVFaZlQzQkFDNWprcWlyMGQ2QW16Tzho?oc=5",
+    "publishedAt": "2026-10-24T11:03:00.000Z",
+    "collectedAt": "2026-10-24T18:32:36.352Z",
+    "translation": {
+      "titleKo": "젤렌스키, 러시아 탄도 무기 제조업체 및 방위 산업 부품 공급업체에 제재 부과 - Ukrinform",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3317b7912d0c64e425d0b49ad0d767efa899233b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Rebuking Netanyahu, Bank of Israel says crypto can’t be ‘route for bypassing sanctions’ - The Times of Israel",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc3NtM1M3Vm1RRkw2LU13T0hKRVFRLVoxLWlIekhtUmFMSGsxS2tQN0FDdHhOcmdqclhybUlVRVNZSnNtSk10R2ZieGRSSDZJQnU1elIxQVprMHpQZFJaRGY5cHdha3NuOF85bWVHYUdxc3FtV2pQdVphQU1jdVczT2txY3NKbjNvVDJ5Y3loY2FFREpCdXRUUG82R0twdHdTcTdkckM5T3YwbnQ1aFVueUlmS2RHOU81eFFMLVB3MktuNnVLU2d3SA?oc=5",
+    "publishedAt": "2026-10-24T16:40:04.000Z",
+    "collectedAt": "2026-10-24T18:32:36.352Z",
+    "translation": {
+      "titleKo": "네타냐후를 질책하며 이스라엘 은행은 암호화폐가 '제재 우회 경로'가 될 수 없다고 밝혀 - The Times of Israel",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "22c1d03682026947d50367b38d1eb9fc334389b9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Benjamin Netanyahu Orders Blockchain And Cryptocurrency Plan To Bypass Banking Sanctions - NewsCord",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSF82cjdiX3NCQzlIWk1ISDZGcTMxekRPN3hRaUM3TzlxaGNjZW5vQjIxazlNS2pONThLRjVjV2NraWplaGkzYjhzYV9kVkZJdUwxdHdvQ0pSOUZJQ2tjNjR4aDdhYVpoRGczYlFvZ3ZtQjZEYkk5cnJia3VZck0wY05NVDVYeUZSbXpyYjM4ZGJlTGVOblBacGpMNDBvNmsteV9fUFdfVGVlVVBrZDZhTHl3TWxERjlEdHJPU1JmbTlRNG9HcUxaNjNUbHNtMU5lTGlleC1hOTNKOFJ3STU4SjlleTVNQ2NqRHc?oc=5",
+    "publishedAt": "2026-10-24T17:21:50.000Z",
+    "collectedAt": "2026-10-24T18:32:36.353Z",
+    "translation": {
+      "titleKo": "베냐민 네타냐후, 은행 제재를 우회하기 위한 블록체인 및 암호화폐 계획 지시 - NewsCord",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6a3c811b1c59399eb710ab68b3ab9ee50477a378",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "'Threat to national security': Eisenkot rips Netanyahu for proposing Israel ready its economy to bust sanctions using crypto - The Times of Israel",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPelhoOExScU9VTVRkMWMtMVJNdkYyNTdEekNJUVFiSkdrbnVNLUNNWDdDdV8zb0kxQ2loVE0xajZ1dzJKS1dDSFdOUzVPZnNWVmtwQUFDYV9YcG9zZm4zTmNxdlBCdV9IRG51eW5GWVpuOE02RmhQX2VacEgyd1BXb2tLN3dzQkw5TVIxbUFLWGJnNDhXa1lRbDV2UnVHUnV3akh3ZVI1N0FZak5jcGoyWUJFQURycUxla21GTHRfZE1lLTJYbFdvOVY2QXlRaFB4TVN5M0laUmJlV0FpbXJBVVJuME9SUFFsQm9ONlIzcE5QcnVnTldBSklaUQ?oc=5",
+    "publishedAt": "2026-10-24T16:15:02.000Z",
+    "collectedAt": "2026-10-24T18:32:36.353Z",
+    "translation": {
+      "titleKo": "'국가 안보에 대한 위협': 아이젠코트, 이스라엘이 암호화폐를 사용해 제재를 무력화할 수 있도록 경제를 준비시킬 것을 제안한 네타냐후 비판 - The Times of Israel",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "88885578fd951e4af9730a7226c1410c1553f498",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "\"Amneh’s Golden Blood\" tells story of inhuman US sanctions - Mehr News Agency",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV3l6aE9VRlVJRk41TlZ2MkVyR1o2dm50LTB0dUdKeWI1czQzQlEyX2pfbUFsYTVac25zY0tWc3NGbXVvV216RkMxemZ6alI0UC0xUXViYnBId2xFTUpmb0FCdk5RLXlGbnRwUmtVZVNQeTU2dWcxOWJvS0NVNzZBazhScEhMMFFVaXRhQ3JKRTlxeG9jYjA4?oc=5",
+    "publishedAt": "2026-10-24T15:42:00.000Z",
+    "collectedAt": "2026-10-24T18:32:36.353Z",
+    "translation": {
+      "titleKo": "\"암네의 황금빛 피\", 비인간적인 미국 제재의 이야기를 전하다 - Mehr News Agency",
+      "snippetKo": ""
+    }
   }
 ]
