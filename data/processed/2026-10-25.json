@@ -787,5 +787,110 @@
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDk1SU9FOWJVZ19WTXN3QTdyWktYT1VobWtreGlWYW9kYUd1M0VhUkFZcl96ZV9ESndpc3hSVC0ySDVVZkk4ODJIUm9nUVRwTzk5UWdTUmNjMFVXZUZvMnM0VmhMVmoxT1RFRFdMUTN2THBLcXVhblRySl9iTlpTQVdTSFFCaks5M0NnWURudEpQZ1NBUzFXSTlvTFdodV9UX3V1WTRpRUhWVEk?oc=5",
     "publishedAt": "2026-10-25T09:10:43.000Z",
     "collectedAt": "2026-10-25T18:40:40.736Z"
+  },
+  {
+    "id": "ba44e8f41305e6e452957d0847a5d4d95da1c691",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "버지니아주 민주당 거물 체포…대마 유통·자금세탁 혐의 - 뉴스앤포스트",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92dF9XQklwcENOdjF4X1hWb1htQi1zZ1hPV1lqbGV5a29aTWZ6YUpJNzdJT3p6enBFdHg3cGtaWWtRbGlraUhVSkNQRGdGQkVTbDZpRnc1RzA0WnNQYXBXWnp0UXNZc2cyYy11T1RzOA?oc=5",
+    "publishedAt": "2026-10-22T07:07:25.000Z",
+    "collectedAt": "2026-10-25T22:14:14.679Z"
+  },
+  {
+    "id": "a32f9f761be0770ed7751619cf9336c214ab97f3",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK FCA Seeks Feedback on DeFi AML Guidance and Crypto-Asset Rule Scope: how 8 outlets framed it - NewsCord",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd0JJWHBxc3VnUFFsOXB5ZnBhVEhvLUtiWkM0aXo4LTFnOGhiU2xYZmxpcFdsV0RjVVZaTl9FUFVaZkxTMjVDZFhGNnhJX2ZhSDZQdlBRODNyLXFqNEZSeE4zSGZjRnZaMVhOVEk4QlI3V2REVHVYY2xnVWtTZmpKWVdGQXFYaWlCWXVCOGZjV2lhblRJTFprSFc4VW9ydllaNmUwV19zbS05U1JSdXJCM0ZYSk5WYk5WWWhKTzdtMllzQXJMRWp2Z2p4VjZQaHFJZEVKYXFTTm5zZWEx?oc=5",
+    "publishedAt": "2026-10-22T05:36:31.000Z",
+    "collectedAt": "2026-10-25T22:14:14.751Z",
+    "translation": {
+      "titleKo": "영국 FCA, DeFi 자금세탁방지(AML) 지침 및 암호자산 규정 범위에 대한 피드백 수렴: 8개 언론사가 프레임을 구성한 방식 - NewsCord",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "afd35be51effefb9ae906bfda4eb3c6f53eee343",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "‘Catastrophe’: Former Israeli chief banker slams Netanyahu’s warning about sanctions - The Times of Israel",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWkVMSGVhZzgtcE82LUF3dmtfbWZNTGJOZHlxRkhSc01meXJNaDNuN3lNQW1sY1hVQ25DdXdEdEp1RlUzWFl1bTlQR250Wkh2eUloSm1tUEFGa1N2by1YVjRCT2JHMjFkLTRXNDU2TFBRWm4tUzB2SUhkOFVuNFpVUzRwWWt6S01HTmNLdmRxTE1XYWg1eUliWm5HbnN1ZktPRDRVZDZ3R3pMWUJNNmJMdmZDaHFwb28tNFR1QmZPaHVaSHZo?oc=5",
+    "publishedAt": "2026-10-25T19:58:42.000Z",
+    "collectedAt": "2026-10-25T22:14:14.714Z",
+    "translation": {
+      "titleKo": "'재앙': 전 이스라엘 중앙은행 총재, 제재에 대한 네타냐후의 경고 맹비판 - The Times of Israel",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "172ad327525f52b53032d1d36852bba7a7e53e26",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Most Americans Favor Increasing Sanctions on Russia - Chicago Council on Global Affairs",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd1NPQXhEc20zWGJMaWlQN0tZSjRWeUlKMUFxdmE3cVBOMng3UXhmZlB1Y2h0MW54bENza1dNWXJER3dGbTVaT0txd25tRkY2bzlVZm5OaEZDcFdwX1ZLU3UxX1dtWE9xNVk3elNxazlvcHRmdjhGenpXTnlUVHkta1hWTVl4ZG9pT05CZzY0MENxbmUtX2pIMnpKTWIyQ0tJU2pJZVczT2k?oc=5",
+    "publishedAt": "2026-10-21T05:00:00.000Z",
+    "collectedAt": "2026-10-25T22:14:14.714Z",
+    "translation": {
+      "titleKo": "대부분의 미국인, 대러시아 제재 강화 찬성 - 시카고 국제문제협의회",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3086ec7e3039ae4ab21894e686deaafcbfc729a2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Netanyahu Says Israel Weighs Crypto, Blockchain to Counter Potential International Sanctions - bloomingbit",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uYlhEdDhrcV9KQ2k3d0Q0VHYtcmNEckpMMG0yZzZjUUFlbmNnQURFMGlzRjE5OFdMWWVLa1ptRWZJZ1BQcFhYYXZFcF90aDQwQjJaNg?oc=5",
+    "publishedAt": "2026-10-25T21:39:01.000Z",
+    "collectedAt": "2026-10-25T22:14:14.716Z",
+    "translation": {
+      "titleKo": "네타냐후, 이스라엘이 잠재적인 국제 제재에 대응하기 위해 암호화폐와 블록체인을 검토 중이라고 밝혔다 - bloomingbit",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b222fbf48aa9a2b61fd5e8753cd04e1fce7f196e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Israel's Central Bank Rebuffs Netanyahu's Crypto Sanctions Workaround Days Before Election - BigGo Finance",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxT25WR0U3bXlmel9RTmtBalhxNVMxOHZxdTYtR2h6ZklBMkhVeFNDN0ZPYTNSR3RxclhwdHQ2R2k5MWFiUGVxb2NqMUZuM3YzeXB6cWlHOXRoRm5MSW5razVDdVNqWW1iOEFyTzR2UkFaSERBOXc?oc=5",
+    "publishedAt": "2026-10-25T18:06:00.000Z",
+    "collectedAt": "2026-10-25T22:14:14.716Z",
+    "translation": {
+      "titleKo": "이스라엘 중앙은행, 선거 며칠 전 네타냐후의 암호화폐 제재 우회 방안 일축 - BigGo Finance",
+      "snippetKo": ""
+    }
   }
 ]
