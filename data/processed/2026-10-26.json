@@ -508,5 +508,784 @@
     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBrdmhPOXNFZnJ6S29qMXRTZVZBanFLVE0xcElJZ0RQVVd5MWNONjRKcnhvSUlsSzBkQnRxQmhQSkxZMWlf?oc=5",
     "publishedAt": "2026-10-26T06:39:45.000Z",
     "collectedAt": "2026-10-26T09:35:09.230Z"
+  },
+  {
+    "id": "36c6e9422f5bb69f37f683e5c04a8da1fa9c4ad0",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Fusion-driven AML was flying under the MRD radar - Drug Discovery News",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGlJNTZSX2Nhbk9xaUhDN1VrekgxNkNHSzFpSEJoWDY1ZUQxOExZdXNJVjk1cEJ5QVFXSWJaYVdMWWRWLXkyZ0JHVW90ek5UMkxqWkc0U1JKX2tWUjR5TGNLeU0zRU9YRE01cTM4TXhwWnJJU3RNSmE1YXBMNTkzM1ZBME1rRlI3em1XTlhfM095Zw?oc=5",
+    "publishedAt": "2026-10-26T17:28:19.000Z",
+    "collectedAt": "2026-10-26T18:05:46.106Z",
+    "translation": {
+      "titleKo": "융합 유전자 기반 AML이 MRD 레이더에 포착되지 않고 있었다 - 드럭 디스커버리 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "68265422327ead0c284c66ee6a809efbe54791d9",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Aptevo Reports Mipletamig Combination Therapy Enabled 21% of Frontline AML Patients to Advance to Potentially Curative Stem Cell Transplant - Rutland Herald",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNbm8xRzdoNjhOZ1VOM0o3NDI1Q0haLTBueHF1MnV0NkFFRjBFV1o1Rkg1eV83Wkx2cDJkRUs3NHpoN3ptLUMtVlVRTURIeDl0OFIwUmltZ3BWZmhDR1FGV2xFdTBGczNld21ZdmhqSDByQ1VLV2ZodzFMODhSM3FOYlM3bnBrWFl5UkFDNUNNQ3dHemgxZDVWdWR2WlRHS3VxTklfRGRsUTNfOHdXWUFXZ1A5YzBFRTFxWGNXN3Q4UkMzOW5NbnRTeGQ2TzF1VlBBQlFOVzl5S2dLRjRud1ZZQ0taVkVMT3kzQlZTMEMxdm8yejF1VlRxdEF1VkRqR0RwZ21MS0YyUEJXakJrYkpBTTJtX2hWNkZKS010M0VZMWZlZ2M?oc=5",
+    "publishedAt": "2026-10-26T12:06:11.000Z",
+    "collectedAt": "2026-10-26T18:05:46.107Z",
+    "translation": {
+      "titleKo": "아프테보, 미플레타미그 병용 요법으로 1차 치료 AML 환자의 21%가 잠재적으로 완치 가능한 줄기세포 이식 단계로 진전되었다고 발표 - 러틀랜드 헤럴드",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5daee008799db764aca6993dc5a895ef8d9a4447",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Aptevo Therapeutics Mipletamig Combination Enabled 21% Of Frontline Aml Patients To Advance To Stem Cell Transplant - TradingView",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORFIyWF9WRG9VcGN4RUlGc2cybW1pQkNVOWxGRTdmRDU3dXh5SkhRd0RaUzRQbWNPTFFJbkNXb29oeHVEaUlkVlVPZERmRVVkcmxFMkhVTXdLaTZsSGw3T0NhLXNVcVAtMXp0QllzM1JDS1plVGNzWjJWZ2w5VXFpQkFYQ2dLLU1SOU5vNkpMbzc0OTlyTFdLMUhpekpPT2ZzVE45bl95QVF3RnBXSk82RlE5V0l3dEx5TGF4WnNCSk82S3pNdXFiMm51akRncmc4Tk9lcXYyWnJkcGxlMWk3OGh3d29nWkRUQjY3ZHdTMGhnSURkNW5hdWZobVFtSjN2blpJOGFHYkVoZnBCTkpxYXp3?oc=5",
+    "publishedAt": "2026-10-26T12:19:31.000Z",
+    "collectedAt": "2026-10-26T18:05:46.107Z",
+    "translation": {
+      "titleKo": "아프테보 테라퓨틱스 미플레타미그 병용 요법, 1차 치료 AML 환자의 21%가 줄기세포 이식으로 진전되도록 가능하게 해 - 트레이딩뷰",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5ba4908cd81fcc33ea43b1feb34cf7036b5c7166",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "NEWS: Starling says AI agent cuts AML alert investigations from 30 minutes to 17 seconds - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWs3TTA3bEZqN0huX2VrSk5hT2Z3MjNDWmFfUGNJc05wc3RiczZpUEtGcWZQdTMtaThpSXotcDlCM2c4ZXFnc2JaR3RvSHhORGtyb2h0a2FpNXlaSGNZaUgxb0pBcklOSklJWjNqRmtETWlSUXJhTjd5MFVWeHN5Vzg2WGZsSWxGSFgwYWZDT3JCWXVKZkhsbTA4UEVDelI4OTIzeDN6dmgwNmE2R1BBUWxITUxiMGNlMDg5Rklnak5lVEhFTzAw?oc=5",
+    "publishedAt": "2026-10-26T15:01:33.000Z",
+    "collectedAt": "2026-10-26T18:05:46.107Z",
+    "translation": {
+      "titleKo": "뉴스: 스탈링, AI 에이전트가 자금세탁방지(AML) 경보 조사 시간을 30분에서 17초로 단축한다고 밝혀 - AML 인텔리전스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "430368c732fb1e9a45689a7f25493be643baea12",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "RG24seven launches frontline casino AML training amid heightened regulatory scrutiny - Yogonet",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQemkzRTFDblFhSHRMM3BZemp6ekE1OU93bVNmYXVocUJJaGNtbW5MaE9CdmJpTndJZUJrYlZTMmJuZDN5MGZXMkVSUUNiMHdYZGVqWEpjSzVrMmwySnNZc3IzNTJTWk0wTzVpV0ZxTGxLcElDbkFwSFFBWTlZTWUwcGJCOUJHOUZISFUycnVNQVJJd2JYSTJ1R1lhZEdmR2JCdm9sZm9HVUFnMWdkRnMyT0c3N0hadklySVQxNUM4UFFsY1Vtakk1aVVURXBKSHk2SmZucFBkRnY2Z0R4QXc?oc=5",
+    "publishedAt": "2026-10-26T11:03:24.000Z",
+    "collectedAt": "2026-10-26T18:05:46.107Z",
+    "translation": {
+      "titleKo": "RG24seven, 규제 감시 강화 속 현장 카지노 자금세탁방지(AML) 교육 개시 - 요고넷",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5eb3536ceb2d3e490442dd62fa34907d63c6c840",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Aptevo Reports Mipletamig Combination Therapy Enabled 21% of Frontline AML Patients to Advance to Potentially Curative Stem Cell Transplant - Corsicana Daily Sun",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQLU8wS195V09hMDdkRFZXbEhnUHkwVmp1MUdvQkhkaHBKUFhXaUpvalVXTEwzb1VJeEZORFRLd01LdnRpbVlvU2U5dnZObThxTTdmcFh6c3dyb0lyS0FEYVJGSnNGbENzRWdxZ0tLWFRRNHAxWmhoa1dOc1dyTzhjYkpTVENmUnEwZ3ZyZFFFNmFOb28yajFMenRRVWhBUU96VjhVcVJzdzlHZU5hYXN2cENZSGg0RVhod2Z4c0lhdG5KRm9iRks5S0Q1czFDZzg5TV9pemlQVmlORU9YclpDUnAyQnpaREJOeU9hTXljdDVDUlJfelVxeFU5Ym5ZbWVDTEdsSERtcDcyTjA3c2MyQzlpNHNEbVhzYlJMbHlkNzA2OE9PUFgyWQ?oc=5",
+    "publishedAt": "2026-10-26T12:06:11.000Z",
+    "collectedAt": "2026-10-26T18:05:46.107Z",
+    "translation": {
+      "titleKo": "아프테보, 미플레타미그 병용 요법으로 1차 치료 AML 환자의 21%가 잠재적으로 완치 가능한 줄기세포 이식 단계로 진전되었다고 발표 - 코시카나 데일리 선",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "901642b27955be704f882070994476938e068bf0",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FCA consults on DeFi guidance for resilience and AML - The Paypers",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSUxoaHZmUXdHZ2ZZVldOcjNLQjQyTWxJOENSX2E4TjF4VG1Ed2JfaTltbUhHM25US2dpSy1waWJSMVVpdHM0MV9xTzVLaThHQm9oZy1WRV9RUWNjNDgtOGduVlItWVl0OV9EMW5HMzliMkVnN0d5RXgzV3I1VmlGQVo0YUtvRnBOYWxFdnMydURQMnVqSlpqem1FU2tQNUxCeGpmYms0R3p4NE5vd2F2XzFxWEFwVlk?oc=5",
+    "publishedAt": "2026-10-26T13:25:34.000Z",
+    "collectedAt": "2026-10-26T18:05:46.107Z",
+    "translation": {
+      "titleKo": "FCA, 복원력 및 자금세탁방지(AML)를 위한 탈중앙화 금융(DeFi) 지침에 대해 의견 수렴 - 더 페이퍼스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "03b2aa10cc513d1b5099c6a96420157edfb444c4",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "NEWS: FCA chief calls for the ‘end of tickbox compliance’ - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2hTemJiZXNIeVIzZWhid0hDd2dwOG9OU3RQZFJBQ2p1ZWJpZkZ2T3Z3RWVmYkpuNC1ycE1HUF9ydW1MeFYyNHpydGdUclFnUzBtbS1naGxHRnpwYWJQSkZad2hreHFJNkJITWIxcVhKV2x6blRvUEtUSTY2dURUb2Z0RzdBRUJ5RW8wZ2J4YnJsQTUtQjZsM2djYw?oc=5",
+    "publishedAt": "2026-10-26T16:47:19.000Z",
+    "collectedAt": "2026-10-26T18:05:46.107Z",
+    "translation": {
+      "titleKo": "뉴스: FCA 수장, '체크박스식 준수의 종식' 촉구 - AML 인텔리전스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "34c27de699a4f7d53cb6f17089165e013e185651",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "NEWS: EU bank lobby pitches regular boardroom talks with EU anti-money laundering authority - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSmZiZXFVUjlqc0RYVE9CbHl0eDFEQjJGVDF5T2t3eVRHbmN6YS1mbHdIaVZBdllTYm43dF9aVVJtYTUzS3RLeEZIeV80RUt2VlBvNjZfa2RvNHk1RWN2V2pzOHVkbmwtRWNfZ1U4WHZpbWFpem5zTzFyMm9KWHRSLW9Vems5c3NVc3hyZlVQSDFZS0RrVk51VktSTXQtWWVPcWtsU2YzdGtObVRjMVZsYnVJa0FZalJ5YjdFbU1qYThWMms5NlE0Q3RsTQ?oc=5",
+    "publishedAt": "2026-10-26T13:41:17.000Z",
+    "collectedAt": "2026-10-26T18:05:46.107Z",
+    "translation": {
+      "titleKo": "뉴스: EU 은행 로비 단체, EU 자금세탁방지기구와의 정기적인 이사회 회담 제안 - AML 인텔리전스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d40675995b5acbfa92254f44c57d5a95068e5f1b",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "NEWS: UK’s SRA fines legal firms £2.6m ahead of FCA takeover - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM2Q2Vk15MnpiSThnR1daRnBFWHR3ZXN5SGNocVFZZ3hnYTZGUEdSanEzYzNiZjdBTGhmSUNLd0tXX2o1SHNSYndReFg5RVJFQjBZbjFTTmVzYzBxTmdvcnFrUXFzQ0hhcDdZc3I5eUJqRjljTWhOdHUxZkxEejUwUHZodklLVFRwaFZBUG5RSGE4QWFxcVVCRUVRM2ZsQlk?oc=5",
+    "publishedAt": "2026-10-26T11:35:53.000Z",
+    "collectedAt": "2026-10-26T18:05:46.107Z",
+    "translation": {
+      "titleKo": "뉴스: 영국 SRA, FCA 인수/인계를 앞두고 로펌들에 260만 파운드 과징금 부과 - AML 인텔리전스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6e80c1dbe7b8b78e1819147a7ca8f3b68752b884",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Firms fined £2.6m for AML breaches – but the worst may be over - Inside Conveyancing",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNm11QzgyNndVRXBuVWY0LUtTX2hkNEFKYVREYXNOTlIwNlJ6aVdMMDRuWW1QSExtOHBDdGJOTnFibU1NRmJwVjhKZU1ZRHZYUVFzVFVkYS1aYnQ4OVN0MXZ6cmJsUEFzS2stZzJVWkFVd1JsUjZCTHBSRUVSSDQ0Yi1DNjk0Y1FmY0JfTENXUXkxWTRreFJRZERQc3N0anc?oc=5",
+    "publishedAt": "2026-10-26T16:57:36.000Z",
+    "collectedAt": "2026-10-26T18:05:46.107Z",
+    "translation": {
+      "titleKo": "자금세탁방지(AML) 위반으로 260만 파운드 과징금 부과된 기업들 – 하지만 최악의 상황은 끝났을 수도 - 인사이드 컨베이언싱",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a4a08cbb5ed00cd68b49c13d5227a7afd07cbc14",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Aptevo Therapeutics Reveals 10 Newly Diagnosed AML Patients Progress to Stem Cell Transplant After Mipletamig Combo Therapy - Kalkine Media",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMmFzN2lja1Z3cU9MS1VEaE1XX0t3YXI4NUpnWjJIejJmaUM1bTE0dHduWlNINkthc0hsU2lPU3RGczVHZGN4bVdDSmsxMlFyaDdrRkNIZC14dF9EbHd4TFRZVDRDbTAzOFRpVkU0Zm90LWU2OHRrd01YTUVwRVVfNWFmemlDMVhJVENmcW9BU2ZhdF9hVVJMM0VoczBXbkNZWTJSYklsQ1dwdWM0WEtiVmNhbGstaUpNVzZVT0pJSHBudnIzX3VDV2U5TkRIb0NmZ21LcFFoNkg1NTZCdWRzTEJ5TTc3RVJacTh4SG84NnI3eF9KYVBrVnpYMjNJLUU?oc=5",
+    "publishedAt": "2026-10-26T13:24:32.000Z",
+    "collectedAt": "2026-10-26T18:05:46.107Z",
+    "translation": {
+      "titleKo": "아프테보 테라퓨틱스, 미플레타미그 병용 요법 후 새로 진단된 AML 환자 10명이 줄기세포 이식으로 진행되었다고 공개 - 칼카인 미디어",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "73edd6b2499382418fd82fe0e2cb5f09a4cc9e63",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FCA restricts six Annex 1 lenders over AML control concerns - Bridging & Commercial",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdzJONS1xWkRublRobnpqMDJPelJSTUJURGZ1NVB3enRTdlk2bXBvNGZVMzJKOXRySU1sUjdEc05kUFphc0xDTzJVd253aUZNakJxRF9DbndRRnlBUGpXa2ZEQzllTldiM2R0X3JLbGlaSjQzazNWUlJPWnpXRmJjWUV5a3JHM191bWVyRE5iYnUzWlVBUmJ5dUVDaw?oc=5",
+    "publishedAt": "2026-10-26T08:24:00.000Z",
+    "collectedAt": "2026-10-26T18:05:46.107Z",
+    "translation": {
+      "titleKo": "FCA, 자금세탁방지(AML) 통제 우려로 부속서 1 대출기관 6곳 제재 - 브리징 & 커머셜",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "019d0cee0ae350cf407788d4fb6d545cc9232101",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN issues alert on potential Iranian regime abuse of religious charity networks - JD Supra",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORXZGQmxEUURVTUxlcnJWLTVhdWhqLUd2dWNKc0QwRmpmd2djSGM0TVY5eHByeTJrTHVEQzk1aDVXdjJmelNIMURCZmRFWXFJWE9Vc3ZCX0xqU055WlEyX093N21pOUlGM3pheFVJblBydUlHWV9fVzdCWTdKZHJhZA?oc=5",
+    "publishedAt": "2026-10-26T14:33:17.000Z",
+    "collectedAt": "2026-10-26T18:05:46.138Z",
+    "translation": {
+      "titleKo": "FinCEN, 이란 정권의 종교 자선 네트워크 악용 가능성에 대해 경보 발령 - JD 수프라",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fb8eaec6e5b0fabf58703aa670180d4b623af650",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Britain sanctions Sudanese commanders over weaponised rape - Al Jazeera",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbGpiYWJnaC1WejN6bEpOQXU5eEZIMnZBcDJDVmZOMHJkeS1jUWNIVEdwb04wbVZQMXVkSFZfMUpUcVlGQTF1SlA2bHBaaTZtUUVud1BaeGEyOWRCc0NrNFJWSjk1a3RsMzZsVjh2RzVpU0JUeEFwRC1RRUJhN2RlMWstVHhUVUdXSFY1ejk2cjRDOUJHUlBLOFVUMWJtXzFORlHSAacBQVVfeXFMTWVfd2dlbXdsakhyRE9Hc2ZpRlN5YjY2Ry1COTFtNWh4djN0Q01sd3hEWTNqajhWZ2tGZklMVjVTNVZGZERVeWhCcjVZS2tFYXBiUzctV0ltc3dSVG1aaW04SGs2dEFueU05UGg2TDNpV0RmTV85dV9kNVp1VGZkMHVBS0ZxT29UajZqUzJKcWdmaTZTSVdqYVN4SVE4N25iQVpDTXVYSVE?oc=5",
+    "publishedAt": "2026-10-26T17:37:30.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "영국, 무기화된 강간 행위로 수단 지휘관들 제재 - 알자지라",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8e024a0b6ec6c8e75a4785681803f80a27e9bc62",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’ - The Guardian",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzFZTjVTeEZ2NGxlLTA5OTZNQWtudFh1MmJwR3FvR1hXY0hDQU10a0hldmxXenBaUGlZOUNxTTdZdllEeC1YNlgxVWdGcV9Ddy1GT19TOWF0eGt3WlgwMWZoYi1YaGZLSV8xZEVOZHFIdTFPUzRDTTFQWmFaQzk3dGl1OWVUYlloek1wVkdQUDZQdFYwM2t4VEZsWngyY0ZoX2MtTjFBUS1iWWkzTTVtTEQ1ZV9kcG5CbmhBYmszS3pRQ1pQYTVZdTZfdjJLUQ?oc=5",
+    "publishedAt": "2026-10-26T15:16:00.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "영국, 엘파셰르 '강간 캠페인'에 연루된 수단 군사 지도자들 제재 - 더 가디언",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "047434a62f6e695a729db22bda4fe89a73d9ef62",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Despite U.S. sanctions, Washington quietly allows ICC to use American tech - NL Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeFBIWFNSRmxTQzRWdUYtUHBfRWFpa3VncHBZYWxlLUEwbDlzT1hIUFZuc2d3VnVZTV9yLVphWEoxSGJOX3RYOWJvWTljV205dWN4VnJ2THdFWWQwTE5kTXY0a0EzSTZjVXdwamJ6WWFZQW1qQ0NmNkIyWElMRURMaXRYcnJWX2lZN0JwX0pFUGo0YnB0VFhzdW1idHZaaVU?oc=5",
+    "publishedAt": "2026-10-26T11:50:00.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "미국의 제재에도 불구하고 워싱턴은 국제형사재판소(ICC)가 미국 기술을 사용하도록 조용히 허용 - NL 타임스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "df537feb1b80f432368cbc2873f47ea180d1c1de",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Fake papers & trade contracts: How Myanmar dodged US sanctions to get Iranian jet fuel - report - The Times of India",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcDdFdzFqQ3JBTGQ5MHBHSzJsdG56Q2pjZXJWQ1I1NWNoWDNaeG9MM0VoOTdfZ0lyNXJfRmVjMlNtQ2d6Q0NERzBkN0JfTWoxVFZMSFFmX080WmNtNHhiUENuelJDeG5iMXhYdHIyRjVTTXBKRzhJbEJ2UmE5M2FOYnpETGh4NEVoeV9Ed29xQWREWTVXMnpVSFNKZWNObk9aMFhteS1pbWRJUTc2QUt5NVZIR3U0Rm9rRHMtOHhDUnhaYXRJeV9CTWdOb2VXV0VYYUVibTlHVFFSVG94Z1FZQ2loa3EzX3lnamRyRnk3Z3RsZjRGMzBldFVfekpYSWJYaUHSAYcCQVVfeXFMTVQ0UEVXSXRrQ3dENndwWGNfaGswZ0N2ZzBLdkgwVnBDY3lETDVpYW9PdnA1djNrLWJ4bkV0YkhTcHdLX21OWHZjQ0xHTmFwQl9zTGU2ZUU3NlFvTFJHX3N0N0RrRmk2cGxfRkVacUJ2T0J6Q2piNzYyVkNiZVhyRFNEdkVTZ0hEa3B6N2V2dGVXc21GalVhbDZ4bkNsR1k3eThSUWZkNWx5QlpHQUNHS1Bhc3QzbXhodWFSdHpWXzNQeFJ5eVJLa01sV2U1X3NNMWt0aXRsbUl6VkJic1J1eU5hSGtJM0hudEJwbEJ3NDBKbzdvTVlJZmlROUFqSWtwcXVjdHNZc0E?oc=5",
+    "publishedAt": "2026-10-26T10:12:00.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "위조 서류 및 무역 계약: 미얀마가 이란산 항공유를 확보하기 위해 미국의 제재를 회피한 방법 - 보고서 - 더 타임스 오브 인디아",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9071c771f0b4bc22153359085fd0675b9fa6d8ec",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "As Russia’s War on Ukraine Drags On, Sanctions Remain Essential - Hudson Institute",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUM1X0xKM0dmcjRPVFhnUEhNVWJsRlgyQlVHX2RvZjdTTFpsQnZmbWVJdmJRRU1MeGJGMHNEOUlLa2szQ1ZxTG0wbExvOXZQM0FhbDdHbVBuay1GN25pRnlsOWZDVG5hVHJSRW54UDI1OE9vZWppamg1MnF0dlRQSl9lRG5WTHY0MGU2UC0tc3Z6TXhoLVhBNmE2dk4tTld4Y2ljQUFncDk3Z2Q0?oc=5",
+    "publishedAt": "2026-10-26T14:28:43.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "러시아의 우크라이나 전쟁이 장기화됨에 따라 제재는 여전히 필수적 - 허드슨 연구소",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e853c1b2f7d9711daf1a3e093708c69d7b92af82",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "High Court approves Schleich restructuring despite US sanctions complications - ICLG",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQzR4R2hqeG85SGV1RlBLT3BkY0c3TGR2VXl1VUVBUlFua2RldHpwWTJNdl9mcDdPdnVic1VONHRSclJhZTI5TXFyalpSczNrTHgtMWMweVpsSmRETmRSYldnUHAtNzFXaGU4ZW96bDc4eGp2QlRGUUpNS1lEZFNwdUVKWmg3cmc5Zjg3QVhHMUoyYVJuY1ZQT3hIYlBUUUZMdXc?oc=5",
+    "publishedAt": "2026-10-26T11:28:54.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "고등법원, 미국 제재 복잡성에도 불구하고 슐라이히 구조조정 승인 - ICLG",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "424c6a3ec8a0e90a7e797862188ca61098da247f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions and Cryptocurrency: Exploring what Isolation could mean for Israel - The Times of Israel",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSjRVR2E4dElpY0pnSHcyWnBQUlJtZG5Md2tqYW9NN1gzUC05a3FjZ2VkeDFQdTZrYndRZWRwZFRFWW9odm5ZeW9tQndKOVdCWHYwUFNsV0l4UzE0U1hkcGxSOGJhVVZuS1F5RzFuQjlOdUdCUkR2UHdybHgtTHVHMDUwY28yODBURkVwTVRhVFQzaXNheWJYR0V2NWkydzZEUG5xZ1V5X1BnT0R3?oc=5",
+    "publishedAt": "2026-10-26T11:19:00.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "제재와 암호화폐: 고립이 이스라엘에 무엇을 의미할 수 있는지 탐구 - 더 타임스 오브 이스라엘",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cdca3c943bb6529710072b5ca2c6c18cb3446c52",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK sanctions senior commanders implicated in campaign of rape in Sudan and unveils new support for survivors - GOV.UK",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcmYwUHllRFExX3hDVWtkd1IwVGRmY1VMMVY3RVA0V2tIS1VtZzFqakRhMHgycG1XcVk2cDFPczM5QUZlc0p5dE1nUjRpU0J0d2NfYmpwRHo2Um52Q3pNOVVtUWZ6cnFuODhVNUZzbk85c1RUbDFBZEtoNUtqVF9URFVtSUZKUFlYSnU2c2NrVllVYmRvbkFEWVRiZjNIbzdfaGN0aG5lSHpWcXEwbk4xdlM4TjlZOGNpb0dPQTN3MFhJbXAyZGNRT3JteXdCSVpUOFlPMUotNlRFc0k?oc=5",
+    "publishedAt": "2026-10-26T10:19:23.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "영국, 수단 내 강간 캠페인에 연루된 고위 지휘관들을 제재하고 생존자를 위한 새로운 지원책 발표 - GOV.UK",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ad03e80e900c41a88b19ee8948bc6a33ccfbd91b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russian diesel tankers head for US after Washington issues sanctions waiver - Lloyd's List",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGhxTVRwdUZrWS03TGpSamJkUk1CN1N0N3lKLWU4WWlRWE1WUXdWZS1idnI1VzNVMmRWak85N3dPcGpkTFNYSHNRY3FoeUU2LU02ZXpMVnQzU1BYVjhUSEI3Nk51OUhkNE11RU1MQW9YOXN5MDQ2cDBhY3VjOWZJZU1YeG5BNC1NSUxBUlpseXlVbmdKOHFNVlBaWG54Z2ZBYnUzUHYtVFp4WXJrcHFWNmp3?oc=5",
+    "publishedAt": "2026-10-26T10:49:34.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "워싱턴이 제재 면제를 발급한 후 미국으로 향하는 러시아 디젤 유조선들 - 로이즈 리스트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "75edb1f7ed91cfcd73fa88fb27dd04d473d94986",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran Seeks to Curb Inflation, Expand Food Subsidies Amid US Sanctions - Caspian Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjlJUnpLWUl6aHlOLUdlTVFFYVZtLV9yQklUNThzaWdpWVEycjlzQU5GUnQ5c0xmc2lJSTRMQnZiVVh3MURqUko4RFlsSGl2RzZMaW9mTVEtTXM2d2lkYXNfS2ZwSXFGaVlUX3lScDRfX2tZSUlQX1dOUlMwRWNZRDBoWUIwRGhSaW05V0lsdXE3T2dmalFtbTV1QTA1UQ?oc=5",
+    "publishedAt": "2026-10-26T16:50:07.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "이란, 미국의 제재 속에서 인플레이션 억제 및 식량 보조금 확대 추진 - 카스피안 포스트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9e92985ab3178cb2faf9055844a25154d5dcf7d8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Israeli Regime’s Sanctions Fears Deepen As Netanyahu Faces Backlash over Crypto Plan - تسنیم",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdFlQRnZJUmlEN05UdlFGcW42T3NOLXdSVWhKVEpuczBYelhCWE1SejgwTEFPSDhIRnpGd1kwcUREd1MwR0J2cVZzZzByVUF5VnZJbUh6aS1wZDlCYW5xWnRNZVM5aVdLU004OFJ6UldJU2hyOGNtcklaY3d5OTUzcVRmaDJnRHFuWXB2dm9BN3JWLVBEVjQwQkJwUV9nN2h3M25XNGZ5V3kyVmFzVENwVENIbU9naEZrbENFSmxuYi1BOEMxbjNaM2tJRkE1OVVhcmpV0gHYAUFVX3lxTE1ISGNMS0hua29TaVBQdmNrTTFoSGtIZ3pYUVhZUHc5WkxOM0FndXNOZWZrYmF4bnNBcEpoaFd2RkUwV1d3Z01va1YyMk5OdkpzS3JBVXRGZlNESEktREVKWTlFampmNFhDdTlTb2I5S2s3STdzdHItSFplcWUzSVdraFFfS0c4MGItd3ktMkhBcjRoaDVTWWlmcWpuM0d4V2dSLXNHNGUteDVUVjBoejBuOFhHYXVlR3llWDdOY0pUcVhwa0RBTlRaTmhLbmtnRGsweG1WOVpuMw?oc=5",
+    "publishedAt": "2026-10-26T11:59:37.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "네타냐후가 암호화폐 계획으로 반발에 직면함에 따라 이스라엘 정권의 제재 우려 심화 - 타스님",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0878889587e0e50e15c49ae702b54717e37df3be",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU adopts its largest-ever package of sanctions listings, targeting the industry behind Russia’s war - EEAS",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMXljYmxkSnlrN21wcERuZ3I5RVc4TS1uYmNyQU9pN1A3dVBBZUdVLVFidmhSU29RbDdCeHRZWEtMb3JiV0RuYVFZQ2d6aHp2NVhQZV96TXZHSVB2c1VSMUg5S1I3U0xvM0xDa29DbWVhclBRVjVLNFV3XzZhTXlraFRKQzBrMnRVTGk5cm45MVdMeE45dEliR2lySzlvMFdRaVMtYmdlQW9SWUNFZEQ5QTUyYWNmdk1ud29oNWY3dnFpekMx?oc=5",
+    "publishedAt": "2026-10-19T13:27:19.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "EU, 러시아 전쟁의 배후 산업을 겨냥하여 역대 최대 규모의 제재 대상 지정 패키지 채택 - EEAS",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f593c0936fd321f5b3afba2c735fe71aebf61f38",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelenskiy warns US against lifting Russia sanctions before peace summit - IntelliNews",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXRKVE1XaWhhYjRlcXNaVjVhdVp2R0Rrc1ZlNmk0TmxoWEEyX3pmUzRaeUFzZ0Zkc2RUbTM5RV9mVnhpaERhdlFGVGpUOFBPMG1HTkVlQkZ2Ums2M0RRYy04WXkyOHpwWnRiR0tHZC1GTUNIV09HUHFOS1Z2SlV4RWp0R1huTFY0OC16dzYza1BJdlNOVDllR3c2MWVCdmNudjB0NHUtTE4wZDdoeFY4VlFCLUJrSk9iVEpvVGdn?oc=5",
+    "publishedAt": "2026-10-26T10:17:42.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "젤렌스키, 평화 정상회의 전에 대러시아 제재를 해제하지 말라고 미국에 경고 - 인텔리뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1bf13f6f39ef4c042ca7f7284be9e174e40ed09a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Slovakia to work with Russia in areas ‘not affected by sanctions’ - TVP World",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWh5dlh3VFZBdGNsWGFQLTI5eHRSZ0VmZjQxdERRbC1YWEtBWjN3b1dqX25aaXB6WEdPbkdGVzVkZU5VNmw5Wk5Bc2ctMEdRMl9ZemJPYkNRWUk1eWRGR2N0cTFyN1pMMmtTemUzb0ZHMHJBNTNYbWViRFFIRDBhWDdPUVd5bUVRV3VMUFcyTURSVU54VGJqRnZn?oc=5",
+    "publishedAt": "2026-10-26T17:18:00.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "슬로바키아, '제재 영향 받지 않는' 분야에서 러시아와 협력할 예정 - TVP 월드",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "204e638f5f031150f1d16a17fa4650d84c1e4e0c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Britain sanctions warlords accused of rape in Sudan - The Telegraph",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHZ0b1ZRYk1IeUk1cGRDSkVOTnNjYm1zNFFIZXUxS2g2eG05dGJKZUtWc0JmZnFZQldOMmVYRXZCUUxhVDBKVXQ3SGFoeEY0XzhZYVBCaXRYMy1hcFpHQzdydkNRenNNdEZmU2JVdDVWbWtCVW1xczJ4OUxnTVFGZXZFRmFic0thR2p6Z0ZGNGpzREhyME1oQVcyZE41c2VReGFyS0ZIQTZBZW84N1ZGYmZJeUc?oc=5",
+    "publishedAt": "2026-10-26T13:30:00.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "영국, 수단에서 강간 혐의를 받는 군벌들 제재 - 더 텔레그래프",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "de191fdc79f10b60c263a063b2eab63da6283ac2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Netanyahu Floats Blockchain as a Sanctions Workaround; Israel’s Central Bank Objects - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWotSVB4dTBkeTFSczJiYzlyNGJEM0dFcnJ3cnAwNEtYUmtGVjVuNDN1LUQtM2RGTzd3ZmYtMWdjc2x5VTRxMkpRTmZYbE9yR1BfNHQ0QkY3ZkliYjg2MXFoVGtNeHUxLUFSYUFJZnZlcmZFMFFWWHlSUWM4U21XR3R2NktzMHBwanBHRGJtbFpCMEJmMHRmU3dqRjZ0dmR0aFNqSlVUVGx0U1dK?oc=5",
+    "publishedAt": "2026-10-26T11:00:26.000Z",
+    "collectedAt": "2026-10-26T18:05:46.010Z",
+    "translation": {
+      "titleKo": "네타냐후, 제재 회피책으로 블록체인 제시; 이스라엘 중앙은행은 반대 - 야후",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "213af489120086ca85adf60495600f3ebd05b9c7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Israel's Central Bank Rebukes Netanyahu Plan to Use Crypto to Dodge Sanctions - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd2QwRVBlOGpsSEN0bTR0blNsRzN0Zkp6RkVKcDRMNHV0Z1FvWGx3RC1kQXlPZjdxWFJ6T3RCMXgyTHRIdVctZzJpRWo3SURWTUF3Q0ZHOE9uUW5VMU1rUUl6VEpsYUpSS0NzeWFpUHdQU2ZCNWk0OGNSQnc5YWZKUEZmdmVrTjRHaEZfTGkteENKNHlMWDBodzJIanJTNXM?oc=5",
+    "publishedAt": "2026-10-26T11:34:08.000Z",
+    "collectedAt": "2026-10-26T18:05:46.011Z",
+    "translation": {
+      "titleKo": "이스라엘 중앙은행, 제재 회피 위해 암호화폐 사용하려는 네타냐후 계획 질책 - 야후",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8c9c85ee95cfba466aee9d530ce8e828f695fb66",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US lifts sanctions on Belarus potash chief as Minsk seeks help with EU - IntelliNews",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNckZMVWpydmppd1BjWkR4aE1xZFR5LWFQTW9TbEhKTGZuWXNBb0RGZE9CZFFkaS1MMXJ4N0dUVnBDVjZpMzhibDZNM09RUnEyVGpsNzQydUY2Uko3cEliTzlsRWttLVRDSHI5SkxrX0ZRWktYTG5IRnBGTE9udHV4Q0Zmb1VqZlEwb3ZPVkVCWlpCQ2NmTy0tRFRDVWFsMHpzbjVMQjdSUUFmLWFrUmZhZHlic3I3UFFWaDlNWmVB?oc=5",
+    "publishedAt": "2026-10-26T14:05:31.000Z",
+    "collectedAt": "2026-10-26T18:05:46.011Z",
+    "translation": {
+      "titleKo": "민스크가 EU 관련 도움을 요청함에 따라 미국, 벨라루스 포타시 수장에 대한 제재 해제 - 인텔리뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b4ccb512f8213b5d7e23becf64e3c6bb32f1510a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU Council prolongs autonomous sanctions against ISIL/Da'esh, Al-Qaeda & associated persons, groups & entities until 31 Oct. 2027. - CGTN",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZX1g3ZmZIdnpieXV5d1ExUzlwU0toSlF6OHVsSXhCQ18tOG5jNHJpS1ZrSllDU3FZUkplMHJmam52aXB6cU1OdWJzYV9EdXJsWEg1R1JPWHNJZVRuMTZrd2s2MnktRFpfcU82UmFn?oc=5",
+    "publishedAt": "2026-10-26T10:11:54.000Z",
+    "collectedAt": "2026-10-26T18:05:46.011Z",
+    "translation": {
+      "titleKo": "EU 이사회, ISIL/다에시, 알카에다 및 관련 개인, 단체 및 엔티티에 대한 자율 제재를 2027년 10월 31일까지 연장 - CGTN",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b0e61e56ea8a7080c073a940b76ed1deb807b78a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK issues fresh sanctions against rival Sudanese commanders - The National",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZjkzSjN4RmVzSGgzMmVtNHYxUXJjUHZJN25aNmlBZWdqaElIUjViLWw4MkFYWDZHQkVjelhjOS0wTWx3SU9aaFN3WENMQnV4Z1NVVGJ3ZGJxUm91Z3hDeGZXT2ZQblA4WjJOSjdzUFRrbnRxeEtFOXFBQ254dDVaNEp1ekdJR0VwRnNKdmZoQU11Zl9fT2s0N182R1J3Z18wNEkxY0RVTzYxeVpQOVdILQ?oc=5",
+    "publishedAt": "2026-10-26T15:52:28.000Z",
+    "collectedAt": "2026-10-26T18:05:46.011Z",
+    "translation": {
+      "titleKo": "영국, 적대 관계인 수단 지휘관들에 대한 신규 제재 발표 - 더 내셔널",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "091f3f444eb3e470508f125836da7a7864669acb",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The party that won the election in Serbia will not impose sanctions against Russia - UA.NEWS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkRnWVVPWVdnamh2V2NzYTVfTm9ZMzE3c2pEWUJVSW80ck0tTDNYR2ZCcndyYnlxMDhrUTVaWGxHRW9tWlUxUmItbXYwQjFycXlrdV9uRnpKdS1lTFBxanJCQ2FQTjQ3aWd0VTI5enk3QnIxQnd6WV9XWUhYS0RJb05DT2JmdzMwZ016em93bEVIMnZibzVFSkNsYjVoQnoyc05NQ0N1SzMxQkt6Vmc?oc=5",
+    "publishedAt": "2026-10-26T16:04:40.000Z",
+    "collectedAt": "2026-10-26T18:05:46.011Z",
+    "translation": {
+      "titleKo": "세르비아 선거에서 승리한 정당, 대러시아 제재를 부과하지 않을 것 - UA.NEWS",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "77bf85095ca7cf0600c8305c46f8ccc2cabed139",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia’s Sberbank links the crypto networks used by Moscow and Tehran to evade sanctions, Middle East Forum says - https://theins.press/en",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MV3V6dzJlWjhDc21neU8tQXdJWjhua2Q1NXgwTkVmSGZ0SWFZdS0tWTJzQ1hQSGxWNW9FUUtOWWFtallPcGhsTTNxVQ?oc=5",
+    "publishedAt": "2026-10-26T17:17:02.000Z",
+    "collectedAt": "2026-10-26T18:05:46.011Z",
+    "translation": {
+      "titleKo": "러시아 스베르방크가 모스크바와 테헤란이 제재를 회피하기 위해 사용하는 암호화폐 네트워크를 연결한다고 중동 포럼이 밝혀 - https://theins.press/en",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8f9ef8bcd4be26c3da38d384534270a1aa0dbf06",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bar of Northern Ireland joins in condemnation of US sanctions against ICC - Irish Legal News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZFhmVkdkM1BOZ2NrZHA1SFFJRjhSc25NNFZvRmljdGlBSG9Va0lCYTZ3OXh5Q1FhbE9ULWxpQTVPWEQ3ZnRXNmI5cjVNb1h4S19vU1lHRzF3TTV4a0dmOFBRVndpd0wyZHhpVDZIbWtWM25rMTlVME42MV9nZ0x1NXVEa2s0VWRteTJxT0lRbXVhSDRvbnRPUTlURHk3UXRGVW1nMEh3YzAzVFhXd0g2NTdOWDVyYkloMWxTWDF3?oc=5",
+    "publishedAt": "2026-10-26T09:55:56.000Z",
+    "collectedAt": "2026-10-26T18:05:46.011Z",
+    "translation": {
+      "titleKo": "북아일랜드 변호사회, 국제형사재판소(ICC)에 대한 미국의 제재 규탄에 동참 - 아이리시 리갈 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a42009ee38cf27b10c29179c4d320b08b4268d9d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "🇷🇺🇺🇦 Zelensky on his belief that lifting sanctions on Russia is nothing less than siding with the enemy: \"It doesn't matter whether lifting sanctions is economically beneficial to America, Russia, Asia, Africa, Europe, or Ukraine. Sanctions were imposed because - X",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByV1ZsQTlJbmlZVGhlLWhtU2NGbmtaQ3JUOEEwU0Ewek1wUFBXVzlYdXlnYnpNQVUwVTBWeGJXbXp1Y29kcm1tWFVLY3ZJMGtPa05wTzNaanR2NHRzcG5IX2tjOGtBYWRSVVQ2Yw?oc=5",
+    "publishedAt": "2026-10-26T10:45:00.000Z",
+    "collectedAt": "2026-10-26T18:05:46.011Z",
+    "translation": {
+      "titleKo": "🇷🇺🇺🇦 러시아 제재 해제가 적의 편을 드는 것과 다름없다는 신념에 대한 젤렌스키: \"제재 해제가 미국, 러시아, 아시아, 아프리카, 유럽 또는 우크라이나에 경제적으로 이익이 되는지 여부는 중요하지 않습니다. 제재가 부과된 이유는 - X",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c35a324336a4a65c7b695492b0886f16d1d2b2fe",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK sanctions 15 Sudan commanders over El Fasher atrocities, unveils aid - Sudan Tribune",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwWU1GR0RDX2JGZGdmai1UQ0xwYzU5Wml2bHZwd2U2dC1uTUxYZHkwbWFUb3JxQlh4MTNScTNRZ0F6ejlLZ0ZRT3hqODktRWVt?oc=5",
+    "publishedAt": "2026-10-26T14:02:05.000Z",
+    "collectedAt": "2026-10-26T18:05:46.011Z",
+    "translation": {
+      "titleKo": "영국, 엘파셰르 만행과 관련해 수단 지휘관 15명 제재 및 구호 지원 발표 - 수단 트리뷴",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b5323b63d1b07f15d694d8e2a84c9b25d0b48d91",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Everything Changes but Sanctions: Serbia’s Students Still Say No to Russian Sanctions - Kyiv Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JakJOTnNwVXlveTFWYWxiUE4zVjVWMDd2UmZQZTFzbVJiX1JCT1o2dzFIZDZGcHhfMHhDb2RpYm5LTk1FUHIwSzR6SQ?oc=5",
+    "publishedAt": "2026-10-26T16:57:47.000Z",
+    "collectedAt": "2026-10-26T18:05:46.011Z",
+    "translation": {
+      "titleKo": "제재 외에는 모든 것이 변한다: 세르비아 학생들은 여전히 대러시아 제재에 반대한다 - 키이우 포스트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3b4ab65229c88ad509ea71d5e971a0eabe60b97a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Regime Disguises Military Jet Fuel as Diesel to Evade Sanctions: JFM - The Irrawaddy",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONnd5MTNwZDN5eHJYR3N1LWxPX29qdGRqbk5meXFFeEFMTDdnalo5U3I1MXRKQ1VDMVJ4alJXd1FGZWtkaXd0V2w0ZG85STFoRnNyYURoSzZ5cmJuU1k2SFY4eXpCT0ZZaFpNcW5JdFhRMTFvVDExMDI0dHJUVjQxWGFKX1Rvc1l0eTlHdENMQlJucVBTOEFEZE1mcmNpQ28wQlNvSEwzNGZnT1NOV3NuWndFWXpIUGxaU3FBRTRIOF91M2JyeUVJZA?oc=5",
+    "publishedAt": "2026-10-26T13:26:03.000Z",
+    "collectedAt": "2026-10-26T18:05:46.011Z",
+    "translation": {
+      "titleKo": "정권이 제재를 회피하기 위해 군용 제트 연료를 디젤로 위장: JFM - 더 이라와디",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8e8f21a41145ca594dd87b58a2e640de69ef4edf",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UNSC Removes Three Entries From ISIL, Al-Qaida Sanctions List - Mirage News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOTVkQW5LUWRFVWdObV9tUTU3NFlUdjNmei1KS2FhU2xiYnI0VGFYUjVSQjY5cTVzakNCUVVWWHptWUU4MHNwZE9sclZISl85eWxFTWZWdTlHS3BldkRJWGRQSDlwVkk4elc0VUNJbVV2VmxiUFlLTjNnUGRoTXlQNllIV0JrM2RJ?oc=5",
+    "publishedAt": "2026-10-26T16:37:00.000Z",
+    "collectedAt": "2026-10-26T18:05:46.011Z",
+    "translation": {
+      "titleKo": "유엔 안보리, ISIL 및 알카에다 제재 목록에서 3개 항목 삭제 - 미라주 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "481c48e04ba0c94dade88cc275479d71bfdaf90e",
+    "source": "OFAC (Email)",
+    "category": "investigative",
+    "lang": "en",
+    "title": "Issuance of Amended Frequently Asked Questions Regarding Blocking and Rejecting Transactions and Filing Reports with OFAC",
+    "snippet": "[ http://www.treasury.gov/resource-center/sanctions/Pages/default.aspx ] * Search OFAC's Sanctions Lists [ https://sanctionssearch.ofac.treas.gov/ ] * Sanctions List Service [ https://ofac.treasury.gov/sanctions-list-service ] * OFAC Recent Actions [ https://ofac.treasury.gov/recent-actions ] * OFAC",
+    "keywords": [
+      "OFAC"
+    ],
+    "link": "https://links-2.govdelivery.com/CL0/http:%2F%2Fwww.treasury.gov%2Fresource-center%2Fsanctions%2FPages%2Fdefault.aspx/1/010101a178a1eb0a-46bcfb4e-150e-42d8-8106-337019a7b387-000000/Cf0LxkjRw8IkeRQOYro6UVzUZQ_n4JKCkazWKHnn5a0=452",
+    "publishedAt": "2026-10-26T14:33:59.000Z",
+    "collectedAt": "2026-10-26T18:06:58.777Z",
+    "translation": {
+      "titleKo": "거래 차단 및 거부, 그리고 OFAC 보고서 제출에 관한 개정된 자주 묻는 질문(FAQ) 발행",
+      "snippetKo": "[ http://www.treasury.gov/resource-center/sanctions/Pages/default.aspx ] * OFAC의 제재 목록 검색 [ https://sanctionssearch.ofac.treas.gov/ ] * 제재 목록 서비스 [ https://ofac.treasury.gov/sanctions-list-service ] * OFAC 최근 조치 [ https://ofac.treasury.gov/recent-actions ] * OFAC"
+    }
   }
 ]
