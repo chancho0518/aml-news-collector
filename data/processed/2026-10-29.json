@@ -1115,5 +1115,931 @@
       "titleKo": "정권의 겉모습: 제재에도 불구하고 러시아는 군사 용도의 양자 및 레이저 기술을 발전시키고 있다 - https://theins.press/en",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "621c0c2b585685a0d43c90a0ec35cd4496380d42",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "‘수사기관인 척’ 1억 뜯고 자금세탁한 일당 덜미 - 대구신문",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95YV9zTVpEWHk5dk94ZzAwaXlNVGxZUU1RenkyaTRnNGZsUGE3Nll4SHU4NUJaalhFZWJKTjlLaXU2bkh6YlZQcGktTDZUUEJEOHFJOVk3U1Vkbk1OcGZYVDVuRGM4NVgzcGlr?oc=5",
+    "publishedAt": "2026-10-29T11:48:00.000Z",
+    "collectedAt": "2026-10-29T17:55:01.916Z"
+  },
+  {
+    "id": "4771f97cdfd0568f829d8ba8aaf8fca683e4ea8a",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융위 출신 이형주 FIU 원장, 수협은행장 도전…첫 '모피아 행장' 나오나 - www.ebn.co.kr",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXcGxGMk84eXNfUDdrczBpajhnenRyNlVSWkNJakZ2N2d1d0ZUTTFteW4tbmpaU2ktVXd2R3o3MDlVTlJrRlZMUXFmLWVOX2RqdE16YWVNeW5RVkFqTjM0MHI5bEJOYllK?oc=5",
+    "publishedAt": "2026-10-29T00:00:26.000Z",
+    "collectedAt": "2026-10-29T17:55:01.824Z"
+  },
+  {
+    "id": "a7b1ebfa9eddc1ca42045b96f83cb5daa434152e",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Covalent backs AML Analytics as AI widens crime risk - FinTech Global",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaFMtREZqemYwaWR2UW1tbnBKMllnNkM4UlcxdkJMb09MZndoei1JR0N4T21qMXlOdmktaVZmcUkxcUxpYXJkbDZmN096UE1SdmNjMnZfV20tLVItdGZLa2UyeDdscFlYMHhKamExbWNRNmhuOTNjSmZxMzN6Zmk1RHprTkZkUlRicUZ6UDVob2I?oc=5",
+    "publishedAt": "2026-10-29T10:41:04.000Z",
+    "collectedAt": "2026-10-29T17:55:01.905Z",
+    "translation": {
+      "titleKo": "AI가 범죄 리스크를 확대함에 따라 코발렌트, AML 애널리틱스 지원 - 핀테크 글로벌",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "23aa045081b0dcdaa78290c46056998be6ed29da",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trybit Announces Pre-Credit AML Screening for Businesses Accepting Crypto Payments By Chainwire - Investing.com",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOHZTalE3enRTeFZCQmR3N1BVeWFodFVLdmVZMXBpUE1zaDA1TUNxb0gxbm9UZFA4T3hHbk9tMXdZOFUzVnd6a1FmbTJZS1ltT1NLWUtUV1h0NXVHTFllTG9RVDFLVUlDWDg4c2ttaDAzWGxHYmhwYmxVRWZ6SUFoRlFxQXhRdnBpT3piaVBHSHh5ejZUdFl0Ri1JaVFLaEtpZlRDQTN0LU85cFFWck1tckJWWlpneE9JRUNISXRGRmVxU1p5ZlRYWnRaZWU0QQ?oc=5",
+    "publishedAt": "2026-10-29T15:13:23.000Z",
+    "collectedAt": "2026-10-29T17:55:01.905Z",
+    "translation": {
+      "titleKo": "트라이비트, 암호화폐 결제를 수용하는 기업을 위한 신용 전 AML 스크리닝 발표 By 체인와이어 - 인베스팅닷컴",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "36907d7289324a65d04d8ece8e0bba832b881f47",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "NEWS: 81% of suspected digital fraud targets existing customers — report - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOUloQ2tTNzZtTFRxUXR6anBuX1lGN21qLXRrYjNHWV9FX29OSGVwU0xJaUlBeDJWbXo4MERONm1JbjhqUWsxQ0JIbk9xWG1zR0M4eU1uLXlCSS1SeFdZSUJmd0lja3I0NV8zTkNUd3pZbGs5WGotUzhrdl90blZ4Vms1LU5xeVhvUl9TV3ppV0stZGprLTZibEFmaG40TGNNd3h4eDN1OU82VnR4Smc?oc=5",
+    "publishedAt": "2026-10-29T13:45:28.000Z",
+    "collectedAt": "2026-10-29T17:55:01.905Z",
+    "translation": {
+      "titleKo": "뉴스: 의심되는 디지털 사기의 81%가 기존 고객을 대상으로 함 — 보고서 - AML 인텔리전스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "86ebd52d049f953c1ce9631bc65e96c64a991bca",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "NEWS: Fraudsters ‘swatted’ Canadian woman after she rejected scam attempt - AML Intelligence",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1NVME1vSGVLMXZsX1ZJNWtsU0tsdmZSWjZFUnExMlZlMU5oc1c3M3ZoY09uNkZ2OW12a2loeGxBQVctN01TVTlNYm9zNGJqT200NTMzbXc5c1lSOFFrNVQ2d0Rnd3Q5Z25qYWtMUDRLTzgxM1lwZExlc0NfWXVPR3hVRU5zQlRxVWEyRWhaRk1UNzg0NTdSOEtHaU04a25wUDczZGw4em8xUW9EWGxhNg?oc=5",
+    "publishedAt": "2026-10-29T14:10:45.000Z",
+    "collectedAt": "2026-10-29T17:55:01.905Z",
+    "translation": {
+      "titleKo": "뉴스: 사기꾼들이 스캠 시도를 거절한 캐나다 여성을 ‘스왓’함 - AML 인텔리전스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "19dd2d2beee4fb3159e4079f88caac2d879e3321",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Six-gene scoring system could help predict AML survival - healthcare-in-europe.com",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSXlxOVM3U2FPN19zWTUyRmRMQ1dnaXZNRnVUTG4xcWpYaVNUeUFGdTFXdHQ3Vzc4X25aVVBnQVdhWXN3dEV1bWxUNUdTNzhiT0lVOElJWGRzVm9FRDEtZE1VRndicFRwdUxoRG5OWGFoUjNSbFJ2c1FRMjdfTUxuaWdxZm5QZ0I1?oc=5",
+    "publishedAt": "2026-10-24T06:04:49.000Z",
+    "collectedAt": "2026-10-29T17:55:01.905Z",
+    "translation": {
+      "titleKo": "6개 유전자 점수 측정 시스템, AML 생존 예측에 도움 될 수 있어 - 헬스케어-인-유럽닷컴",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "91587c0232552be5e3fad2a2d3479572fe040102",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The Star Fined A$260 Million for Serious Casino AML Failures - Fincrime Central",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OYzRXbEhTUXdoT0drWW05cktmSUEzQXZmQVA3ci1YVTM3YXh0LWdVbEhtRERNcDVqRTIxVHhFQ0s1TVVMZF9oZG5vVlBvVnlmR0hPUzZVWE40c0ROZElmM0hJa0FQVFk4WG8xN0I4Q05DOHdneWxYamxVNGJJZw?oc=5",
+    "publishedAt": "2026-10-28T23:29:53.000Z",
+    "collectedAt": "2026-10-29T17:55:01.906Z",
+    "translation": {
+      "titleKo": "더 스타, 심각한 카지노 AML 위반으로 2억 6,000만 호주 달러 벌금 부과받아 - 핀크라임 센트럴",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b85cd25299c330c92c643776ca0afe8627a14b5b",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Australia's Star Entertainment fined $183 million for anti-money laundering law breaches - Reuters",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "money laundering",
+      "anti-money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdDEzR2l3NGVCMzJiSjBNdGx1NGE1eGN6LUczbUNBb241T0FCU2hKU2FvMDZUbmdMdEVrLXViTzBzWE5udE1TMWkzZjQ0T1JIRmc4Wjh1YURLeW16eE1pX3gwdlhCSkJmRFUtd2Jhd0h3d0R2Sm1VZ3hSWW9CTTl1SDRfbWt2ZnNwcEwtazZCTjZUSEN1a1JJZk5DdElhNlptM3dSa0xZWUQ1eGotcEVtckd6c1dGVXp2LVVyWWM4azRpZnBX?oc=5",
+    "publishedAt": "2026-10-28T03:26:00.000Z",
+    "collectedAt": "2026-10-29T17:55:01.906Z",
+    "translation": {
+      "titleKo": "호주 스타 엔터테인먼트, 자금세탁방지법 위반으로 1억 8,300만 달러 벌금 부과받아 - 로이터",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6d79c0ef0587ffc2de44700aca3378593524f07b",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Australia Slams Star Entertainment Group with AUD 260M AML Penalty - Gambling News",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlFDeGxQclk2c3dvUEpsMWl2eUJnNEtXVEo3aGZVS0RKTFg4R2I3SXdUbEpoZDFaM0FBWVNCWm84ZzktazhvaEpQSDg1ZmVBd29sNGZseUpUSVMzRWNTb0dCRkdYZ2NndGVmVElUV2luWV9IcFdaR204dU9oVzkyX1dvcTZfekwzU3BGT3M2TUQySVNHTC0zLU95Q1l1Qnl2QzNN?oc=5",
+    "publishedAt": "2026-10-29T13:48:41.000Z",
+    "collectedAt": "2026-10-29T17:55:01.906Z",
+    "translation": {
+      "titleKo": "호주, 스타 엔터테인먼트 그룹에 2억 6,000만 호주 달러 AML 과징금 부과 - 갤블링 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "15ece2e3143f0a548b1de5200617d538a00467c6",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "SLS Stock Gets A BlackRock Spotlight Ahead Of Phase 3 AML Data — Bulls Spot 2027 European GPS Approval Forecast - Stocktwits",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeUFEa2xZUG9QSndZcW9TZlByaVFpX0xhRU8wdVk2Q2Z5QXFSUWpPS2ViSmZIOWM1eU1PUEZIb19RVWhyV3Y0aXdLSUxpWkswVmN6NzNsa2Q2Q19NYnNoUFFGTHBtaEhseGlIVXN2OGtSZGliRm93SjlVRjVDWXFCX1o4LXQyR3Bqamc0aExfVWZyNUEtVGR1UHhzUTN0SFRhYkVwRWptWHBxTjNTZ0VTelV3SUd2bHcxR2pNTjROTVY2UTNYNlV6RXNtWElMdERnTVdv?oc=5",
+    "publishedAt": "2026-10-27T18:37:41.000Z",
+    "collectedAt": "2026-10-29T17:55:01.906Z",
+    "translation": {
+      "titleKo": "SLS 주식, 3상 AML 데이터에 앞서 블랙록의 주목 받아 — 강세론자들 2027년 유럽 GPS 승인 전망 포착 - 스톡트윗츠",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "986785dd906d55f00f39af6d919f9aab02d823b5",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Aston Martin Lagonda Global's (AML) \"Hold\" Rating Reiterated at Jefferies Financial Group - MarketBeat",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0JaRVl5WjZWbS1La1JlRk9uWVJMczhKVmwxNHBZU2Jkb3hNVXhId3ltdXhMOTNJUFd0NHdMTnkzZ1hKZHB6QlF6dUM2a09RN3IwaVhaTHo1bTF1ZVBrTjhiTGRwOVU4eXRRSGdfbl9NY1VzeWstSldQYmNmZ1c0cHhodHBZWTVLNW5ZMlRsSEt0TXJEZzBCc0YwRVdydV9OVk5RRWx0dXFFQ09EQkhWWkFfOUZiTkhQUUM3R0xqT1hPdm9FOHFlRGVXMXZJUF9kMXYxMmh3Skw2VEp3WDZR?oc=5",
+    "publishedAt": "2026-10-29T12:09:01.000Z",
+    "collectedAt": "2026-10-29T17:55:01.906Z",
+    "translation": {
+      "titleKo": "애스턴 마틴 라곤다 글로벌(AML)의 \"보유\" 투자의견, 제프리스 파이낸셜 그룹에서 재확인 - 마켓비트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ea29b4d982c1d8337e4ff92db9884417e57bd1ef",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN rule \"essentially dead\" for U.S. firms, compliance experts warn - InvestmentNews",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFhUUzFyQ010eGRjcFRGb185Y204WDlNWmJua0Q0d1J1NFNUME9mdkVfS1VGdEltbG43NkVZT2UtRkp1ZUZyZk55aDlpMDJobUQ2ZnludDl1ZmhDMkVCdTZBcExkM3VKQ1hFbXZYanRkUU5leWJldjBBaVFHWGZwbUloVHQxZUFBVkNxeDlUNFVTMDBkOFJkSHdhR2xRdzFfSWZ0NkR3UG5OOHR0MlB1RXdtNFlsckRRdTIwTG05akRkM0NZa3ZvWTZDbw?oc=5",
+    "publishedAt": "2026-10-28T22:54:14.000Z",
+    "collectedAt": "2026-10-29T17:55:02.087Z",
+    "translation": {
+      "titleKo": "미국 기업들에 대한 핀센(FinCEN) 규정 \"사실상 무력화\", 준법감시 전문가 경고 - 인베스트먼트뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "128094225b85c5c35fbc1f27c46277d1dc5a5c84",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump administration sanctions North Korean network accused of infiltrating US companies - Fox Business",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSFBwd05zdzczbzhraDVqaWc4ZTI1SWtvSFo0ZUpMS3VjUno4NTNDbUJpdUp5aF9TR01RN0xCSWpEMGFQaTJVZ1dxRkFZYWx0bDRYYzh3Q2VHUUR6X2lVeTJjRzFsYnhieG53NlBrUVdfOXVtMGxtZEJrejlCUURYUlRUTE85ZnhXY1FjclpQRElmb3B0dkFTM3VibFFXWXRCMEc2eGR5cGRZVHZJTHM3X3BWS0ZudTdZOWkxbUNZUWkxQQ?oc=5",
+    "publishedAt": "2026-10-29T02:09:00.000Z",
+    "collectedAt": "2026-10-29T17:55:02.021Z",
+    "translation": {
+      "titleKo": "트럼프 행정부, 미국 기업에 침투한 혐의를 받는 북한 네트워크 제재 - 폭스 비즈니스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f92dc3d50c975164b2e5ae10b25b0705feb4a696",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTgzWHdEZzNOMGdQUnV4el9WZXd4TklLWVFrcXU5SVF0cWVBU19PcnA5OEg1MHV2QkthcFpOeXdiaWZSNnJTT2Q2bGV1enZ6Wm9Xc0oyUnpMcTFsSDlXR0FzcFFnYUkweWNVTWdrbXcyXzlTb3N0M01KWnZQNWhHVTNOdU5ldy1UYVpFeGhvTQ?oc=5",
+    "publishedAt": "2026-10-29T11:32:51.000Z",
+    "collectedAt": "2026-10-29T17:55:02.021Z",
+    "translation": {
+      "titleKo": "재무부, 수백만 달러의 암호화폐를 이동시킨 북한 IT 노동자 수법과 관련해 11명 제재 - 야후",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5da7e428c1580a883cf6100fdd6de163a039e4e8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Joint Statement on Democratic People’s Republic of Korea (DPRK) Sanctions - U.S. Department of State (.gov)",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS3M2TzJqWUp4RE9IcXFQaFoycE1SVTJMdzRxR3lDSFdhaktyWE9Ga0xYQ0JwbEI5cU44V3NwX2x1NmFUdWtCbXEzNjc0SUV4UGJDQVliZGlsVmphU0ZzSndtRnJLY1RfcGQtNHlqY1N0TVJqUGpsMjBackpBbVViREFiMGdOMmJvZjhSUUREd1R0QlFnaF90X2dVdTFoY00zdHBYU1VoQ1dCeDJqbkNiTlNDYWtwQ2dicHczOHl5NjdoNmZONFMyaVRrYVlJZw?oc=5",
+    "publishedAt": "2026-10-28T17:24:51.000Z",
+    "collectedAt": "2026-10-29T17:55:02.021Z",
+    "translation": {
+      "titleKo": "조선민주주의인민공화국(DPRK) 제재에 관한 공동성명 - 미국 국무부 (.gov)",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "379fc9b038346710a1188660c867d6bbc056180f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Treasury Secretary Says Sanctions Forced Iran to Cut Proxy Group Funding - IranWire",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGF3dkgwY005VV9rb0d5enRTOEVleURJbjltWkRQOEdtS1c5ZUdvMUtWS05Lb1dXcWx1UzBZU0FKS0t3UTBTSEktTzh4YmFURkdKZHJIQzEtdVBndncwMVE2TW01VU5xdUNyZ1FBVVFoX1lYZTdtTmJ5Tm92MVdXWjBJMHNaUHp0RkRVbjZMallkRVpzT0ZZYjJGRndlOUtKSXlYU3N3X2JJaTBOQUNVdG1n?oc=5",
+    "publishedAt": "2026-10-29T11:55:50.000Z",
+    "collectedAt": "2026-10-29T17:55:02.021Z",
+    "translation": {
+      "titleKo": "미 재무장관, 제재로 인해 이란이 대리 단체 자금 지원을 줄일 수밖에 없었다고 밝혀 - 이란와이어",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ee607ed73f0a48f37b726dd40a72c311e5bef797",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia's shadow fleet: Can the EU act even if the US eases sanctions on these ships? - DW.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkpSeGgzNjlRbXJsbi02S2R1dTNrSGM5T3RPUVFMV2xKWXB3Uzc3ZUNpWTZkLUI3NlktMVVLOEVsTXBuZHczTlhtajBfUHZqbmozNGQzRTQ0TkdrajhWd1ZNbnZSOGJCRmg4YWZQeUhHb2liZlN3M0JjOTNfc0RwendocGM3VEtFTGVtY2Z1SUJFYzJDN3fSAZYBQVVfeXFMUHdsWk0tM0VqSzlDTXFaQ3BJWGpnWk5mUjZBRW5ocm1UV0lwckVkV3pxQUstZFNqbXJ2dVEwX0txN25WZW0yV0N0TXlDZHd1RkZhU1ZRNzRuMUNuS2IwaFlKUTBXRnRtbzJBZ3Q3bGFSMjZ6RG9UV2FReGRVbWxYNnNmSF85cG9uQVY1NHRzRzNlNFg5bHBB?oc=5",
+    "publishedAt": "2026-10-29T12:06:44.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "러시아의 그림자 선단: 미국이 이들 선박에 대한 제재를 완화하더라도 EU가 대응할 수 있을까? - DW.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "783f6b0b56e826e0b191184da640be40d304d571",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Treasury Sanctions Crypto Launderers Behind North Korea’s Fake Workers - Bitcoin Magazine",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTVlSekYzUnBwdC1Ja1JIRFZNaVRQY1ZjOWtfN192TEtpNmtBZTdCc0VsNzlJUnFtNXgySE5WS2tYOUJ3N1dBbFVHN0gwLWRVR3dnRUhuNVlDYXNxc0ktdWlqNTBEZnR5M2gwY19FakhIR2NTRGo0emZERW9yVnBZTQ?oc=5",
+    "publishedAt": "2026-10-29T14:37:46.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "미 재무부, 북한의 가짜 노동자들 배후에 있는 암호화폐 세탁업자들 제재 - 비트코인 매거진",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0be014404c82750bb064dd4a4ef8dd9060024d32",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions, Strategy, and Middle East Logistics Advances - Inbound Logistics",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTVHZy1NUThVZ0hRWHhPLU1ieHJTcGFPb2YyaEMySGVkZVgwX3R5WEJWdFVsVm1ULXlOMFdjUVhWMFA0bGcwcGtENE5QdmZMeFNzN2xfNldpME5KMnpDTUJlWjhac0RMT1RjeWRFWlVkcHNKVDgwRkhvYmxFUDRDOGF3VENNNlJ5UWl2eTR0MTZLclAxclpCTFFpWG8?oc=5",
+    "publishedAt": "2026-10-29T12:14:53.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "제재, 전략, 그리고 중동 물류 발전 - 인바운드 로지스틱스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ac3473b760d54d29b52fe5cd767cd7d5f35c4e13",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "How US sanctions are threatening political dissent in Europe - The New Arab",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW9tbkZpbkZxSEFTczVUdGliTS1paGI0MktTV2hMQTYxT3VDcWlPd2JxR2lTQjd4YVVpSXpMZVhscThLTkxIXzRtWVpPd0hRTEp2X0h0QlcxZURZd0U3STNubjRDalpDdkVrSXRsdDUwd25maDdTOGhrNUtIbGs4S1V2dUNlenZyQkpCNGJjUmdtNHM?oc=5",
+    "publishedAt": "2026-10-29T16:25:52.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "미국의 제재가 유럽 내 정치적 반대 의견을 위협하는 방식 - 더 뉴 아랍",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e89ed75f1c569c9965e4178f03e95994602a590c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Sanctions Hit Two Russians Over Alleged $5.5M Crypto Conversions for North Korea - Bitcoin Foundation",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObGNtaHdiZG1mb3BOdXd1ZWZMcjMyOXB1UERPcnFBX2RsV2F5NFhrS2dMbFdJNjV2TmtuaV9OcXZIUkVocW8tSjBEUG9Rb21VcDlTRHFBQ3dfV1lTdUZlZnFmNlVVTDVZNXYzbnVpaHpnUEczY2VqTDQ3bmRES3BIU3lfU0cxV0NaUFlqRmV1enVKdmFTQk9QRENXMFpGcHNVR0g5cnNVaGFHZnBXWDlQZ2hBUVgzMzZXUEpoREJKbXBNYU5obV94aQ?oc=5",
+    "publishedAt": "2026-10-29T15:26:46.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "미국 제재, 북한을 위한 550만 달러 상당의 암호화폐 환전 혐의로 러시아인 2명 타격 - 비트코인 파운데이션",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4fa7d09599cb1d90ef90d0904ad722a36fa532f5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers - CoinDesk",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDdCbVVROXRBQUFvNWg4dGY5ZGZqYXF4bFhWU2pUSTdzdnh5LTJFUDBrX3Y3SHVlcGN5UXVtQXZWU210aGlWOGdJZ3BMQ3Y1WTRPZTE5RW5Ca21OWEZVX2tQMnR5anhVN04xWjZXUDZVbGtBTmMxSU5La1cwdVFRQWkwWWRkNUhzMmtTR0FaMDk0MmhpSHQzLWYtV2lJUjRHaWNfSnAxM0JOeDF1bHpCckRSUHp1SnNGR2VmSg?oc=5",
+    "publishedAt": "2026-10-29T12:18:20.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "미국, 북한 IT 노동자들을 위해 수백만 달러의 암호화폐를 세탁한 러시아 국적자들 제재 - 코인데스크",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a607b1732d5e63f960a497be5150c136f3c524b6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Putin Says Sanctions Make Moving Production to Africa Attractive - Kyiv Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aQWszd1I0eXJUTFhDUnVNWjhGMjNQYmJiNkp6OXU4X2QyTXBQZUUxSzJtOEZ0Vi1UN0MzTVJ2Mk9jMl85SS1DVGNkSQ?oc=5",
+    "publishedAt": "2026-10-29T15:52:03.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "푸틴, 제재로 인해 아프리카로의 생산 기지 이전이 매력적이게 되었다고 밝혀 - 키이우 포스트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2b8f7a815f21f8e960ce066cd0876392c522b08f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "USDA imposes sanctions on PACA violators - FreshPlaza",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOEFRRzFHRFVxRlNHX3FMWWRzZjFSNVJ1MW55NWdydXJWd3piODM4T2NVdkJ0em9CcEo1T0tQWnJhcktNeFhuRWUyRnBUekM3emdVRDJ0elBNOTN5b1VfVDdBRkd6bFZfUlhlMUwwdElaRm5oY0p0R2N2MEZ6T1hyVFFDVW53eDRjMmZyYzZoTjlFXzFQbURLa2p4X1pnMlU?oc=5",
+    "publishedAt": "2026-10-29T13:21:48.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "미 농무부, PACA 위반자들에 제재 부과 - 프레시플라자",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1e42785e1ab787d528258e79780dea5dac3cb3c0",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Under Sanctions, Russia Turns to Africa With Plans to Relocate Industrial Production - UNITED24 Media",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRVpWenFEZ1BKeW5UVUJlUHZlY1d0YkoyVElGSkZJcUdkVkNQQUd5QUdyN0ZRNnJqNkI5NzNyZDh0N2tCeHZiekVJdkZIWW1hRnVraXIyc3NFcXVubEFoZ2tCallRQ3NndmFOY0hZSlh2bjZId3l6Nmp1MGdpNUtGLUEtX3VGMS15YUkwYThPMzdwLUlra2JOS0VwNFJvbEZQV2NFWEk0bDFwME0yMmVoUVlVQmE1aVA4Ums3bXdB?oc=5",
+    "publishedAt": "2026-10-29T11:40:57.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "제재 하에서 러시아, 산업 생산 이전 계획과 함께 아프리카로 눈 돌려 - 유나이티드24 미디어",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6e273faf70412acefb2c672231d08903675a63d1",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Could your external counsel be a sanctions risk? - Lexology",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ0YyRjJ6dWFmZXpYakFRWXZlVlprMnRjOFdydk1QNjBKbnV5YUltOE5zUmlVdUp5aGwtdTNBLWYtTXFRcUQ5eFJ3c2swRUpwQXozU19JNzBWbV9hSGtiNDFHUE9tSVhzWWZlTzg4TXUtSHk4UURXTGwxejUtel9paXJYMjVmd3FIWlE?oc=5",
+    "publishedAt": "2026-10-29T15:50:19.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "당신의 외부 법률 자문이 제재 리스크가 될 수 있을까? - 렉솔로지",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "faab1422e0e41e0e6bc916c4aa8b8d65bc5c6971",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions for freedom? Why open letter from ex-political prisoners sparked scandal - Belsat",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUlpwTWtpbERTcWRlaWhxd09XcTdSRFBycF9oOXNGYlpOUWNqOVM5RWFXS3pCZnp6X29TYVJpTFFvNWlIVGNuYkNveFdKdmVaLTI3SVBrQUNNLUo0dUpZWWU3N29LUlhISklpa3RUSVc4akZHNlZNLTdQVXZvTEVUV0Z5LUZYbGt0UmZlV0ZTcGdCVWhOVmRrTFhJVDd1RGxZb3FJWHlyRTlvWTItTHFJVw?oc=5",
+    "publishedAt": "2026-10-29T10:51:00.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "자유를 위한 제재? 전 정치범들의 공개 서한이 논란을 일으킨 이유 - 벨삿",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7bef3b1392760ef209cef014fd8d9b2393140af4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanction Rwanda: United States sanction Rwanda defence ministry ova M23 rebels in DR Congo - BBC",
+    "snippet": "",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfb2tENi0ybW1icG5yNEJnVUtfRVItTUZ3VzItOXBQSXBMekVrMjFaYmlVRUhNM1lEWWt1U3FRZUdKWjJNTlJSMHd4QjRSdWdadklDcVR1Qk5ON3p5enfSAWNBVV95cUxQem8zMFBuVVdCV3EtMDdMekhmQUI5YzRJZlFHQmRxc3JvTkhwaml4ZUtQSEtPVVhEeVRfeUZFeUlUc3ppV1BTSmZtdHNtX2p5U3BRS05jVXQ2aGFpTEJXWGVYQVk?oc=5",
+    "publishedAt": "2026-10-29T13:12:03.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "미국, 르완다 제재: 미국, 콩고민주공화국 내 M23 반군 문제로 르완다 국방부 제재 - BBC",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "448fc6367c752cf1a7dc208c9ea2503a7fb8544e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia's sanctioned top diplomat heads to the US to campaign against the sanctions on its war - Euromaidan Press",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZDV5SWNMenBiTTdGaU90ZU03eWROSnBzWndXT3N6a2ZtbmpXVXVveHVVal9PV2pGcmFZZ1NsczRpNUg2dGczQ2lGXzBwMHphMWlFUjNXdkdMVXJFdExtT1BOY3RaeUVqMEdBdjdzdWN4WVB4aDhnQU95UzRpV0xxMHFuNm5KcW5RRTF2cjRWOHpYZUo3Vk9GS2pWVVNXYjBaTW9LbmJKY0U1bzM0NVljS3RpYVVZUVJZMHNyOGZIc1JBS3R4VTJlRmsxR0s?oc=5",
+    "publishedAt": "2026-10-29T14:07:50.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "제재를 받은 러시아의 최고 외교관, 자국의 전쟁에 대한 제재에 반대하는 운동을 벌이기 위해 미국으로 향해 - 유로마이단 프레스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d8a1eddc18adf1f88198ee6fc9401c606422a2e3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Most Americans Believe Putin Is Stalling Ukraine Peace Talks, Back More Weapons and Sanctions, Poll Finds - UNITED24 Media",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdEFDMUtEbjU1T1JSdlpmbmdtUVYyRUpUQjkyVENwQ1Y1Znd4OWF0OGduNFpxeVJEYjd2bjFCVnh0X2RWWXhlaU4wM1RWUU92QTlJdUh2cXBfMWN4b3hZSC1vYWRNejVLcEZTaThyQk1LaDR4dUVRa201WkVXeFRPcVNDekJVZFF2OFRzVGdfSFFPZGZTa0hJZGE3cGNTaVBJU0pIQWNlVkVNN0RLUGpaQ2ZJLUN3VE0zd1UxOTdsV21mVzJsd1RQcG9PRjFXQ09GZzFKQ2NNOGo?oc=5",
+    "publishedAt": "2026-10-29T11:03:34.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "미국인 과반수, 푸틴이 우크라이나 평화 회담을 지연시키고 있다고 믿으며 더 많은 무기와 제재를 지지한다는 여론조사 결과 나와 - 유나이티드24 미디어",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c60265799af9b25c9b2a233d3dc932c667c60928",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions-waived tankers could head to inefficient Middle East trading - TradeWinds News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUo5WDVMOXNiTW54VTlNbmlPNURKdm5uU1FrdFNmejF3SnhSLTlYNXVrUVN6LS1Wd3NIeGtkQXVSME1wSnc3Wjg1eFl4amNnWmYtY0MySWNIakxDUzhsbkpXUXV3Wml2aGVyTWFreW9Jam9CaG10ZGZmSm9IQktYTGhyZ1ZZM0h6R0pRUWJDTUU0THRrc3d0RFFTY2NIRWUxVmxUMWRWNDFNWmF3YUFEb25pWk5wd2Q2ZDlrWWdB?oc=5",
+    "publishedAt": "2026-10-29T14:54:39.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "제재 면제 유조선들, 비효율적인 중동 무역으로 향할 수 있어 - 트레이드윈즈 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ea89d6222c8c248b7e78bd78bec2cfce08b3ce22",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "China once again urges US to lift Cuba blockade, sanctions immediately - CGTN",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSFl5WWRoVmVSMFB1YW85X05aaEVhOHhSX0RLX0czSjM0OFp2TzlCZFVnNDR4Wm0tc1NfcVIycnM4NDZ3RnJFVk1XZGUxM2hiaUh6UFhoZVFjNnEyM3JWUFpPZHQyM0N0NU1BNTBnSHdJM2xFWGNRNWNVMXNVNDNaMUFwUnpYNkVCN1pVUjRUM1JCY05LSTBuam1PbWItSUZYTXZrSXJUbjBUenpvUjdiRDRtLVNySF9EaEZZeldMZ2dkU0JB?oc=5",
+    "publishedAt": "2026-10-29T13:21:21.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "중국, 미국에 쿠바 봉쇄 및 제재를 즉각 해제할 것을 다시 한번 촉구 - CGTN",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "88872d92a4a04d59f9ad65db6f4f00bc62769994",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions in Exchange for Russian Diesel: Why Restoring the Kremlin’s Access to the U.S. Financial System Could Create Strategic Risks - Robert Lansing Institute",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMkJEa3o4d3hESjBvTUdNdUlLOENnSXVZY1NFLTc1Uk8wclFrUVZtMmxZaXM4bFl0dUp0SHg5cks2YnVVRUthOUd2cXlRTHVOa2lJSllmTzBGd3o0aFdDVjNhR1c3OUZJSkd5cmJfLXJKTVp3LUtIbzBrODRKaFNaWllfMDhZbWFJVXl6aGMtdEx2UlRSVThjcjN3dzF6MkRMOWZpeTk5SFQxa0Z1bUZGdjJQQTJpcmdrT0EzM3hHMTE3bFFnczBhNTZSemRUci1WRnEzTkRpaENLZnV3QnQ4cHNla3I4SFR5V0VnT1dONmp3dEhtTHFWd0RrdkN4Tk1GVUE?oc=5",
+    "publishedAt": "2026-10-29T15:50:30.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "러시아산 디젤과 맞바꾸는 제재: 크렘린의 미국 금융 시스템 접근 권한 복구가 전략적 리스크를 초래할 수 있는 이유 - 로버트 랜싱 인스티튜트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9a24c6e53c24d524f60c460bc2e2f1a421a89b34",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FM Sybiha: Russia’s deliberate attacks on civilians are Putin’s real response to easing sanctions - Ukrinform",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcEoyTDZ4akp2cDdOWk9Eel9lNnYyLWxIZzA4R0FkdG9NcmJIT0dzeGZUMjBxSWR6bFpucDFKeml5a2ZabFVaVC1CdHoyUjZaYWluR0Y3bFhBNmZKSTZ2bHI5a3l0cVkxVmgwVExlX0pvWFc0M2JoX1phZUhBdzlsY0ViMnpVaG1NN09LUkxGVVk5REI3UWtTdnpwQ0tVZUktX0NqUXJydmdfVUQ0Z1RMWThJd1FUMTVlazd3bEJtd1NrYXh5M05qM0pLZUFRelJBLXl2ZXJfZDBqMnljbmtPX3VtWdIB6AFBVV95cUxPS2ZYX0REcFFReHh3V2VjUEp2MTNIZV8yNWJvSGVESS1sLUlTZ0poWE9SRTkyZ012S3NSbUdLRTNIOEUwS2FjMS0zMTVrdklnZjBCTHRhZHdYN2RrTV9ENHlDRHVsakFkemZGdS1GekQ0MTVmZzFCcHctZ3VPMWEwdWwtYjItdnIwYXY4UG9zN0VRRllZdjNwR3YxclkySFdrY19zTWdPeGktZ0V2UmlnZmJ0ZWZaOFZLR2s2UUY1ZWNXaXU0azdUMGZIOHZRb3kta0hnSURKTmtTWFhFNmdwWHE5LVVfRmFw?oc=5",
+    "publishedAt": "2026-10-29T15:32:00.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "시비하 외교장관: 민간인에 대한 러시아의 의도적인 공격은 제재 완화에 대한 푸틴의 진짜 응답이다 - 우크린포름",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4c0245712bf378150229463476270122de37edfb",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Economic sanctions linked to worse health outcomes in scoping review of 32 studies - Bioengineer.org",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2pOU2MzaGV1NDlSWm9pTjNyY3hoU1RsUVBtN1c4SzBCalRsN3VUdHBNSGlSdTM5SlgyRlRoSC1wWi1QcXN5Qklyel8zUTl4a2MtTlFmck9VSGEwckJyQUt3OExzT0J2aTlGdWFIc3p3Z2tJcWM3RjU2aF9JR2dDaFNfWENZaHZzdlk4Sk9XLWN6NmJPZDI1SXJISWxiMmhGOTlCOFVYcFRmb0E?oc=5",
+    "publishedAt": "2026-10-29T14:43:42.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "32개 연구에 대한 주제범위 문헌고찰 결과, 경제 제재가 악화된 건강 결과와 연관되어 있어 - 바이오엔지니어닷오르그",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5ca1aa9d3016bb95d4839601c29e43b7ece75d96",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "China's Sanctions Warning Puts U.S. Soybean Sales in the Firing Line - StoneX",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY19WaVBjLTRSc3lyRzBnYzFieWlWbUU2TzRzNExGVHhocV93U3RSM2gxUy1ZWXdiM3pNVExraGVndFg3Mi1rMlZGeXhJWVJGM1RJV0dQMlJIY1gyY0NaM1g4ZkgwVnFBMjE0X0Q0RDF4VkhrMElMOU5wajVfc25kdEpXSk1FVTl4TVdTeUN4dUhCMm8tNzFzczk2b2s1aDl6c0ozNXpDQ2E0UQ?oc=5",
+    "publishedAt": "2026-10-28T21:53:58.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "중국의 제재 경고, 미국의 대두 판매를 도마 위에 올려놓아 - 스톤엑스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "09b4b4ddd8efc17cdb4b493278fc79c9e1bcc2aa",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "KuCoin Discontinues Services in Russia and Belarus, Citing Compliance and Sanctions Pressure: 7 outlets compared - NewsCord",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWW94QmJvZ2oxVnFZX1pRTkhkMWs2YklTSHhzcDNZa1pvdndsM0NzbzRrZm5XeVZrcEVrR2hPNUZiSUxBMnhQOUlLakNEdnFQR2E2N3FORnRJNkpjZXg0a1NReFd5WEdLRjV0WWNJOTdaR1AtYmlnQlRiamdERHpNT055YXBJdi05MWluNHR5WVp1SW5oNnZqcHdXbTNhU0JvMjQ5YXBqTlQ5c0RwQlRWWmtId1kxWGl4NWJuekR0a2JLTDF5R0VIQWZ0QmxIdFFsdlpQQzhQeHluQlNvNXY5TDM5VnJsODd4Tnc?oc=5",
+    "publishedAt": "2026-10-29T17:19:35.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "쿠코인, 준법감시 및 제재 압박을 이유로 러시아와 벨라루스에서 서비스 중단: 7개 언론사 비교 - 뉴스코드",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9c8d822e2c62493038d3912cd2acbfcf48aef656",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran’s $2 billion military procurement network slips past sanctions - Middle East Online",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWNJQTdRVkI5Y1p5a3hOdW9NOXRQZlpIUkl3cDh6U3RQbzFTbHp1eW4xSzBaZDVjZy0wUDBVLWM5SlB5dTNJOE9XQ2JzOU05dUEyUW1NNEg5NFRnbFc4VHFISlBNcE5DalF4MHFxZWpvMWVDbXJ1d0lGd2lpdGI1bFkybnMzbmRCQ1ZwR1VpalYxY0hHcHdQdnh4WXA2VUE4ME9pdWdDS0tFVkxj?oc=5",
+    "publishedAt": "2026-10-29T11:57:34.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "이란의 20억 달러 규모 군수 조달 네트워크, 제재를 빠져나가 - 미들 이스트 온라인",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b8f26f71196fd598a77525f09d9a65bbea21ce4c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Pro-Palestine MPs call for more sanctions against Israel over ‘Gaza aid restrictions’ - The Jewish Chronicle",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQXhzdnIyZGc0UjBfcHJENUNOaVV5cEJxZG9RN2lkN3FReVNjU0NYM1dBYlRhdTRQMkxKYlFxaUs3RG9jV3UtbTcyNTZTVk43WGJIRE5tMld6dnJubjFzTEFsMks3UEdTaU1hcTBkN0tiYW5xRTNoa3lhYU0wQVZxXzQtVlpaX19MUWVNYnBtbXVqODZ6ajBGakpLUzlBZlpQR3NEZUFzSnU4T1VVUVo4OEh4LWZSNW1wZmxxcXBjMkZ0YlgzR0Fv?oc=5",
+    "publishedAt": "2026-10-29T13:29:51.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "친팔레스타인 의원들, ‘가자지구 구호 제한’을 이유로 이스라엘에 대한 추가 제재 촉구 - 더 주이시 크로니클",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b29cd437751cc92b494adae0c48b262670e66e88",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FICE Welcomes U.S. Sanctions on Rwanda, Challenges C64 Investment Assurances and Urges Citizenship Reform - EIN Presswire",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWXhsc1FqZzZhTXh1OTdiZ25hWW5ZbFpuc2h5cXJGTmJMa1JiYTJzRXJzWGtHdmhzMVI5Qi1SUHlmOGFMYkRhQnpnbkFyN3o1S0tkYWJZUXY3MEdmQl9YSUZVRHpGT3F3Q1JwODgzYmFGTGJwOFZSSmpSWk5Kd094S3RIeC1XNFZnUm1aRTdDbm1xeTlkRnFvYWQ4ZjNtR3plMFp4SGZVVVVsa2VFNVk0aklDYXg5MUNidVpOQnRBVlpFa1huTlUzZzNxZkZxSHI2VE9DaUxlQXl1TDNFT2ZoMElmYmw?oc=5",
+    "publishedAt": "2026-10-29T16:35:00.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "FICE, 미국의 르완다 제재 환영하며 C64 투자 보증에 이의 제기하고 시민권 개혁 촉구 - EIN 프레스와이어",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "369a1521e3bd1303c3de531b447ca2cd190ce985",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Sanctions Two Russians Accused of Converting $5.5M in Crypto for North Korea - BeInCrypto",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SUWViTXUwNGN3ODJQdU9LaHFuR1hUcnVtNWhLcVk1MmZ5WHNWUjNnSkZWUktfQ1k4VnhXWEZBSzlBSUNCM1RxQk5jckhZaFpIY0hJVldxdm82QmdUdnRORnRGTkRvYkVhZHhZMjdQaGlacE5Sb0ZXSC1kaw?oc=5",
+    "publishedAt": "2026-10-29T13:27:00.000Z",
+    "collectedAt": "2026-10-29T17:55:02.022Z",
+    "translation": {
+      "titleKo": "미국, 북한을 위해 550만 달러의 암호화폐를 환전한 혐의를 받는 러시아인 2명 제재 - 비인크립토",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5b0e589ae525b775d79cf2af58edf15465de966d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russian FM Lavrov to take anti-sanctions message to G20 meeting in US - A News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbDBPZGxCQVktZENyZlFpYk9DOFNpejMzTU9wTU90a09uU3RPU1dGM2NITS1xVGtpbXg1N3ZOb3JJcWNuN2JaQ0N0QThVZWVtLU1HdUV4eVdySkxsNVZ4RHlkMDVGdndfX2RZMlJ3N2l6cGQzYUJ5SDJHenYtcU44V05OVUo1R0xFbzV2UU44WWFRZGhzV2Q1TWRvTVZ0UjF2VkRYSzhGZ0hQU013WVZKOdIBtgFBVV95cUxOc0hqWWYwd0VjbkNycnFKS0ZRRWtyalJ5WVJDT2lJbDVrX09Ga0steWNsUk1TbE84aDlkWnBkVXdDbXI0TmxPb3IyYW9hVkRFQk81c2Q0d3pqNVdJMHRVZGVtNS04d2VSbFI2RjJVRVgydDV2dGpaSGxZWHl0U0FmWmxhTU1hLUpyRnJmNVR1M0w1X1hOU2pQN0VsRGhxWjFUUTdwQkNlaGJKQjhVbkthdnRyeG91UQ?oc=5",
+    "publishedAt": "2026-10-29T12:11:56.000Z",
+    "collectedAt": "2026-10-29T17:55:02.023Z"
+  },
+  {
+    "id": "a8fb23d41955b59ff10a044e7db8a5583dad4810",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Diverging sanctions regimes require a collective response - Trade Finance Global",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkFYRUFIM3hoUGpTeXM2RGYteEg2aENreWJaMFIzSUJNSDF3MTdja2hsU3dVYkZWcTFYWHNjLVl0MnpqRnE0SXdpN015SHFjWWhvWDZUQjNaZWRxNFBDYld6ZGRGdnp3bHFkdmdfMlZoM3Y0V1luSms0dGFFVkZDRWYwWHNaR2kyaG1BdWIwamg5SUtPTWQ4WjV2eWttTlRU?oc=5",
+    "publishedAt": "2026-10-29T14:35:33.000Z",
+    "collectedAt": "2026-10-29T17:55:02.023Z"
+  },
+  {
+    "id": "78ba731ac4ee7c60a80975a375adc0f8a9869b10",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto - Decrypt",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEVRTTloa2NzcDFTTEJ4cmZLTnVjTHo2V3JNWFVqM3lnclhyaFUweVpBT1Z1UjRXV0FLazhsTTBFQWUyUmw5TGpvVXhLWFZTZFFTdWtVQUp5bnFFUWVHbVhkY1I1Z09TWWY2blFBRlBDb0dhakZJUElBalNCS1JLOWZqbWtWci1semVyN0ZYbW1TNFdzMGRVZnZ5MkhEV1E3aTVDY1VvV1pxZTctTUdVdmJ3?oc=5",
+    "publishedAt": "2026-10-29T11:32:51.000Z",
+    "collectedAt": "2026-10-29T17:55:02.023Z"
+  },
+  {
+    "id": "c66267306177556d076387175319bf86f6de7cfe",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "75 British parliamentarians call for stronger sanctions against Israel — The National - UA.NEWS",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWFRQkFFOVMxSVRLM1hya3B4QWdqV2pnTjFENVl3ckxoYlE2YURacEhabksxZ1NLOVFiUm96Rlk0dTNfR2NISlJleDdXT3BudnprUVVzSHpCaXlDdGFqUENOcFpQdkZyZFFodjFZZ1pINl9hTFoxS29Ec3dpR3FyLUVIVnItaFR3Ym9XWUc4R1laa2FSX0dWb1ZfOWU4MWZEeFJOczlTOXdnWkx2V0E?oc=5",
+    "publishedAt": "2026-10-29T16:42:14.000Z",
+    "collectedAt": "2026-10-29T17:55:02.023Z"
+  },
+  {
+    "id": "3f08c9c52e31a1464cdac10bbd5176285bd7e9b4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "KuCoin Exits Russia and Belarus as EU Crypto Sanctions Tighten - BeInCrypto",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vTjNKaXhfX1YxU3BwNGFrN3lKU2lodVJtWWZvcmx5eWpVUnJrQzM2RWxDbEJKMHE5WXpJanVna2wtVm9Ib3BLeHdoRDZHeGZBZGszYzdaOENXUGE1UWdkeEhUZ0xHMmx5ZGVla0dn?oc=5",
+    "publishedAt": "2026-10-29T14:37:00.000Z",
+    "collectedAt": "2026-10-29T17:55:02.023Z"
+  },
+  {
+    "id": "9d80912776dc4d35f5c8df1e75610d80d0f71dab",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Lavrov, subject to sanctions, will lead russian delegation at G20 meeting in US – Bloomberg - Ukrainian News Agency",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX3RYOEtPZ3ZQQzBBbUFETVBDV0pqQnNlTHp1WVdoRURQa1pnRGJpN2dFdVIxc202SzZZX0QyaVEwVUd2YjVJLW9FWGhjUkZzV2czZEhnOC1fWDNEUkRWRGlsTzBReU0tRXg2cFY3QkozYnI1czljYmduRlc0MnRvc2pSSG9sWlpnY2VLREZLa184aXozMGk3NlU1UHdyWHJTLV8zT3U3UlhkeEhDSFhPUktiQThLLXNfeUV6cEFvelNyajRfd3QyaVdIRUxQY1nSAdQBQVVfeXFMTXg3WnBTNGxSUkVPV0JLcFI4b2F3ZEtTN0ZvemlieVd4bkVqR0ltTDBCbkZJdjJCZ3h5bjd0cGVOeTMwSjJRYW5UaVBiaDRmU3pFdDBlVlpEajRzRFlrWWhqVUVTRElXcEN6ZDRSQWRxYkJ3UWlNWDlSV2ZidG40ZXBkczVGdDRFanpHZ05rdTlic0lpdE5tb09tM3pYUzdfbklORmItdGEwSFRDenI3VG1CemhlMGFZRXR2SmlwUnhMcWtheWczWk1HeUpvZGVHS2RtX3o?oc=5",
+    "publishedAt": "2026-10-29T15:29:38.000Z",
+    "collectedAt": "2026-10-29T17:55:02.023Z"
+  },
+  {
+    "id": "0b595ad1559e1eb009a723177bbea8205e62c8a5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "GSS uses AI cloud tool to speed sanctions screening - IT Brief UK",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHVXbGhwWGlXNmZDNmRRTnU0aGdPYzQ1VjNCQS1PTFZPaDV5dmRJS1MwcFY2RHRmUjhBa1VrdmFPLUhfVzRGTTB0SmRBWHo0SnhNSVdSV2NlOXNDalpqSW43aGh6dFlESzR5c0tfZFB6MW1mOGdxWmNILUFrZE82c1Y2UDA0QQ?oc=5",
+    "publishedAt": "2026-10-29T16:49:20.000Z",
+    "collectedAt": "2026-10-29T17:55:02.023Z"
+  },
+  {
+    "id": "fe095363c392ba03cf5104b747cc7a27d68e9256",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Eases Russia Sanctions For Diesel Deal As Obama Accuses Him Of Handing Putin A Lifeline - The Times of India",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTUxucGVkSXB1c04tQlY5bzhzdFE0dE9XYlQwSU8tSzhqRzhvUHR0U292N0hsV1ZzRjZmUHZ1WmgwNWctM2RVVUIyZloxSlhUSGhIUS1UajM2a2dyUGhWTk85QjUxOV9LWVRrb0xYQ1RRb3F5aUxSNVQwZkFUOFY5VVdrb2J1Q21vUmZ6ekd0SXkzb2phVlpZX0Y5ZUpOX1dhWmVRSFhnbmFYbW16NnNtOUlHMVlDWi1mWjJILXJtN1JlckdiM1BxRG9SZTVBU1R1aHlLYzR5U2lCRTZGZUNVWWhRaXhGUnZiNGs2UGJYUXFmRlRGcnNkTzVEcjlxRnl5STRN0gGIAkFVX3lxTFBQMXNxX0FoaVJMOWVrelZUTEZaakhVQThUNlVUMW1KOFhHdHpNUmN1MHZWczlCZjlZV2M0OFRjV1UzTXV4T1didHQxRmRDWllEem8ySGNEb0EtUHR0WGc2V0NmYTJmUHBBRWdRZ3VKWVBNZFh3aVlxY3M5TEFESUItanc0WU1xUFBLaUUycnJJRHgxSWxWT1BwOXhfS3FiNmtGanJZNzJibFhJakFadzh6SDJFTUFzUXVpbTlqVGx2MDE4d3ZlUS1JaVY2dnkyUDRUQmstX3RpN0tRc1Awc3pIdWtRampxOTlfZG56cENFY21CRjNOdkVYM3BJU2FvRXZfaEt0YnNpQw?oc=5",
+    "publishedAt": "2026-10-29T16:49:36.000Z",
+    "collectedAt": "2026-10-29T17:55:02.023Z"
+  },
+  {
+    "id": "2c6e600eaa562a5a0ca6ed55c34dbe6de8ad3110",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US imposes sanctions on Rwandan defence ministry over links to Congo rebels - Africanews",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRG1BdkxQWWUxN2tkU1VaVE1mNnFUNzhoV05nUlp1VXV1cXVzR2swTkpUWGxHMlhDWEZWWmFFM3p0QVJObkJHME5ReldTRFg4VVBGZFRrQTdXeGJockpHNkhud2dWX1FVbWZsMzhBZHdtUUhwQzRaRzF5MXdvY1hZMmdLdDdnTXBFRTdqVEI1RTF1b1M4M1cyLWZySjdnMkNXeXJkdHpaUHFVZk5tMlZmamNLZmzSAboBQVVfeXFMTWVOcjVzNEtPcjQxYy01blJLRTk1SV9TckVBeE5RRnpCSXJHMlV5RGk0a1ZiMzRLZ1dZM2Ixb2w0VXBxeDlGVFpBVWRCbnZNb1A4S24yaWQxRS1KWmlfb0Z0b1VFR1EzZkxBQkZQMkIwdHcxRFR6QVRZWjBCRDNLd1dCZi0yRkdWQlJCcmZKbmZqb09aUEVjdkhmZE5KVlFxQ2QtVzV0cExsZVdpeFVaU1FpTXBxVFZsNXpB?oc=5",
+    "publishedAt": "2026-10-29T07:42:26.000Z",
+    "collectedAt": "2026-10-29T17:55:02.023Z"
+  },
+  {
+    "id": "39ac883e0c7ef9700158122e0a0e643fb849a6bf",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "China once again urges US to lift Cuba blockade, sanctions immediately #worldnow - Modern Ghana",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tNEtUSDBmZV9Ud1V3NDNIZHNHaVJPZmZKVTFmNVQ0RzdJaFhsemlmZ3BxSWVxeF9yVmNfUnZMRzhmN1lPSmw2YUhxcnhNdjJqU00xcUlxNm5QdXV5QjNObdIBXEFVX3lxTFBnRmprbklaSURGOWFwTnhsYlc5c2oxQ2ZYblRzczU5VTRBRnRqZUt6dHZsT1NRcjVYdmk2QVdHQ0ZuV1pYeDVNNk1UTHQ4V3NfME0zd1pIZGpyYVlf?oc=5",
+    "publishedAt": "2026-10-29T13:40:00.000Z",
+    "collectedAt": "2026-10-29T17:55:02.023Z"
+  },
+  {
+    "id": "4d4fade017d335b4ff9ced61a82f0b9aa301803f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Zelenskyy calls for tougher sanctions after Russian attack on Dnipro - Європейська правда",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NbTZIekpsQlZHbVkyQWdWbi1sVjdOM3BESl9TRkpxS0ZQb1JRbUh1dURtZkFTZE1iUWpKVDhZNmc3cms2dWJWbmlsMUhySlhRRXh4bVFScDFZX0wxZ0FkLV9zcXdRY3BEcVhKd3V1RHE?oc=5",
+    "publishedAt": "2026-10-29T11:57:34.000Z",
+    "collectedAt": "2026-10-29T17:55:02.023Z"
+  },
+  {
+    "id": "1dcd3d6b2940a578fa96c3b1e82b94feab56e923",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK government urged to expand Israel sanctions to cover Gaza aid blockade - www.thenationalnews.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUGI3ME1aaV85VU9uZHJ0em8zWk5jbmh5VklFRFNXaVVuS05nTjJQaDg3dG1vckJrVVNVV0RGOVQ2bmJtbW9Yc1dndXo3WUl4WTRCNEg3djI3M1pfVU55TTFTM3ZHTktxOXZIRGo5ckpTRUNLbkg0ZUVEdV9SdUZIcmh1SVJYSzUwNUdBbXR6TWs5V0RaZlNPbV8zaFlVUGliQmxZdVdIZHFxaVRGREtTS2c0QURKbkJoLVM4cE9rakpnZ28?oc=5",
+    "publishedAt": "2026-10-29T16:30:13.000Z",
+    "collectedAt": "2026-10-29T17:55:02.023Z"
   }
 ]
