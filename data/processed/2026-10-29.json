@@ -469,5 +469,651 @@
       "titleKo": "미국, 콩고 동부 분쟁 개입을 이유로 르완다 국방부에 제재 부과 - 템플 데일리 텔레그램",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "1718ab0576b7df60aee15a8c5ce55a5891ca4e21",
+    "source": "ICIJ",
+    "category": "investigative",
+    "lang": "en",
+    "title": "New evidence links Singapore palm oil giant to Indonesian deforesters, despite denials",
+    "snippet": "Two environmental groups have uncovered operational, commercial, personnel and logistical links between First Resources and Indonesian suppliers accused of forest destruction. It’s not the first time the company has obscured its supply chain.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.icij.org/investigations/deforestation-inc/new-evidence-links-singapore-palm-oil-giant-to-indonesian-deforesters-despite-denials/",
+    "publishedAt": "2026-10-29T09:20:14.000Z",
+    "collectedAt": "2026-10-29T10:45:06.914Z",
+    "translation": {
+      "titleKo": "부인에도 불구하고 싱가포르 팜유 거인을 인도네시아 산림 파괴자들과 연결짓는 새로운 증거",
+      "snippetKo": "두 환경 단체가 산림 파괴 혐의로 고발된 인도네시아 공급업체들과 퍼스트 리소스(First Resources) 간의 운영, 상업, 인적 및 물류적 연관성을 밝혀냈습니다. 이 회사가 공급망을 모호하게 만든 것은 이번이 처음이 아닙니다."
+    }
+  },
+  {
+    "id": "ec0c4a3ebf5eaa1b9cb11ea0d7ec4e93de0ff335",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융사 86%, 사기·자금세탁 연관성 놓쳐...탐지 기술 통합에도 정보 공유 미흡 - 지티티코리아",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xX3JsdG8ydFNvZ194dXhNam13aWFEXzl4ODlwRHc5WUZJdDk5QmJ5ZkNORFFhS25EVVZlQmVMeGxxV2F5QUhxOVhUeFVMWlpaMWRuZ1luV1NQYnYzcmNuNGg1c3YzMGdNU3c?oc=5",
+    "publishedAt": "2026-10-28T21:00:00.000Z",
+    "collectedAt": "2026-10-29T10:45:07.171Z"
+  },
+  {
+    "id": "c7c06f1bbe0130480d1da623000caa6c397101fd",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "대구 성서경찰서, 보이스피싱·자금세탁 조직 15명 검거...10명 구속 - 프레시안",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xQ3RIZXpHa2ItSnBEaUtoa1dPSHNqREo4QzR1Q3lvakd6ZHBVemxJQkpiRURJdmwyamJ6TDlMOWNJYWR5ZUJNMkplcGFwVVFZT2N6a2dwYUd3NTBnQmU1MXdSRERKeFZPNzVV?oc=5",
+    "publishedAt": "2026-10-29T06:25:52.000Z",
+    "collectedAt": "2026-10-29T10:45:07.171Z"
+  },
+  {
+    "id": "8c702399399744bd08f6b0f37193997c704baea4",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "해외 거점 보이스피싱·자금세탁 조직 15명 검거…10명 구속 - 경북매일",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wZHhjMzhQcXlOeG9FRUp1NUFoV2NIcHN3V0tSQjRfcmo0dmRTZ21jOFF0Sy1IR19WNEVYNjMzWmZhTGlMUHdoUUJYNmkyVlVrR2ZNbVAydlJOUQ?oc=5",
+    "publishedAt": "2026-10-29T00:32:00.000Z",
+    "collectedAt": "2026-10-29T10:45:07.171Z"
+  },
+  {
+    "id": "1a8484310af1d886b7675ba9431ab8d4ddcd01e2",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "엄마가 판매 총책, 아들은 자금세탁...355억원대 ‘짝퉁 조직’ 적발 - 포커스타임즈",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41QXlKREpWeVNXOUhpcHJQRkdlai1tVG1EbVlMU3BLZXVhc2tXb2FaSWp6N2VGbGZaRmZMX25nTHZkOE1NYnFFeDJxbmhCT3JQOUJlZnlkcmQ?oc=5",
+    "publishedAt": "2026-10-29T06:16:51.000Z",
+    "collectedAt": "2026-10-29T10:45:07.171Z"
+  },
+  {
+    "id": "9914635e00e6d3879300a1cf61684a5694c8a3b9",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "한국의 자금세탁 방지: 금융 모니터링을 통해 불법 도박 거래를 적발하는 방법 - Outlook India",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOUVkxTDJTZ1NmcDJXNUNZYXpmVThkdU5TZUhTZ2NaaWlEb19GR1JISEhPY0YxZ29VRmIzanBRZWpWZDZTcS1aRWlncUhzeUV6eEtYUC1BdjZjdFNBdXZPOUtkNW1DSGowRFRpdlpsRUQzMTZpZDJYYlpjdTFOejZreFBYSllmUW5IdHQ2UDBYLWVITkdKNVBzLWhGNWhpclVZWDc1TXBQTmZLaWU3WGc3MUVYa25lM3lFUVBzTEM3OHQ3dE1ndW45dHoxVndYYmNmX1ZvRFZxZVdSRWpXcWJuVko2d1dHUW5VME53WUVVNXlpMURIU0N6Z0c0UEg5LUYxUmhnTVJqdVRjc1Q3a0pPQVdPVWRzS1ZRU0RWUy1YNDlKa0xZNldhNVlmRTBtaFNzRXRiOEk3cWtTUGpYV2N2N2lOQmJveHZKR3hZY281eGQ0eVRDQ0VLU1NGSl9jV21adk5KUWJBcVA5XzNYMmlTZWgxUWRjWDNBQjNUQ0Z4cnF4c0M2VktNZUxxUmNsNzU1NFZmQ3k3VFpuTHdnb3ZjdGwtLWJtTnE3STNlVnVtVkw3d0dvVjdZZ3RiRS11U3M4RkRYdTJKbGRBWHdHM1ljdzhBVi1FQzg?oc=5",
+    "publishedAt": "2026-10-29T08:49:36.000Z",
+    "collectedAt": "2026-10-29T10:45:07.172Z"
+  },
+  {
+    "id": "828bb2aba3f9f427a3174cc9381abbffb8f64c97",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "FIU·두나무 항소심 첫 변론기일…\"조치 소홀\"vs\"중과실 인정 안돼\" - 비즈워치",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vWUNPQ1puc0lsUFJ2X3ZrZVdhdlJENENmZ1Q4VU4yYlJWYnZvYlVkUW9XQ0tlRnhVQXVMM0tNNWpWTS1DLURJVDgwQXpGZGtqSm1mVzJBTFd4SWJ1WXVVaHMtSF8yS2M1YUE?oc=5",
+    "publishedAt": "2026-10-29T08:53:03.000Z",
+    "collectedAt": "2026-10-29T10:45:07.420Z"
+  },
+  {
+    "id": "ba98eaa6eb431bd6557104ed4c6e0a442345d668",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "FIU 수사의뢰 미신고 가상자산사업자 25곳 중 23곳 수사중지 - 조세금융신문",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oU1dBT0pKVmdLY2c1VHJLekxSUk42a01UNnFtZ2hiVmVacms3WjBGV3NLVEVybkNBVjRlM3N4V1NsSlNwWUZXWUU3WjlZb2U3ZGZRWEphQjcwVDRRUDBCeTdvSQ?oc=5",
+    "publishedAt": "2026-07-01T07:00:00.000Z",
+    "collectedAt": "2026-10-29T10:45:07.421Z"
+  },
+  {
+    "id": "ad18daa3bd52f3e2e1c905e3b4f1008666c8cfbb",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "tRF Fragment Drives AML Cell Growth by Suppressing AGGF1, Study Finds - Bioengineer.org",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWG9hSG1Xc3JmYnlPQzkxbXVuNExzbHAySVpMYmYzNlBJTDlGU2NDS2l6a3E1OWlNZmYwc0o1SjFxeEpVczZjckx1al82bUZwQnRJMHlZQnIweElrU2R6YlVtemJrYzhYTnJ6ZFVrbnpCNGZJWVVqQzhaOVBtMXZHZlZldl9tVVh5VjA5SzZzaWR0MElGSnVNZQ?oc=5",
+    "publishedAt": "2026-10-29T09:37:56.000Z",
+    "collectedAt": "2026-10-29T10:45:07.226Z",
+    "translation": {
+      "titleKo": "tRF 단편이 AGGF1을 억제함으로써 급성 골수성 백혈병(AML) 세포 성장을 촉진하는 것으로 연구 결과 밝혀짐 - Bioengineer.org",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8930580b3163ac3ee5a80fcdf8322a7b56eb0b3f",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Acute Myeloid Leukemia Market Outlook Report Including Segment Analysis and Key Industry Insights - EIN News",
+    "snippet": "",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSWFRblZscnNTZ01OSmJMcWVWR3dib1hHbElVSXVCT3puakJKSVNZd0ZWc21jUXJVQ0hjZVowb0tVSHFNRFJXZlFpaWJKWm5WVUlZY1lHU3FBN2hLeXJvRlRkRjVIa3k4SllOUm4xZ0JWZkZyWDlXSEpnNUJuR0RXUmMxRnpRcUpkYmI0TmVLWmMzQ1ltWkc3dThObkx2Q19CWmhIeXhuUXpHRFJpQ3ZNY3lfWV9rZE8yTmZad1lXS2lzbVlKajh6ZnM0WFBGdVczMWRaOXJ3?oc=5",
+    "publishedAt": "2026-10-29T08:20:00.000Z",
+    "collectedAt": "2026-10-29T10:45:07.226Z",
+    "translation": {
+      "titleKo": "세그먼트 분석 및 핵심 산업 통찰력을 포함한 급성 골수성 백혈병 시장 전망 보고서 - EIN News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "797685da333ecfb376d7820af0030c21b74714e0",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Star ordered to pay $260m over anti-money laundering failures - NEXT.io",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeC1GanZheEV2dGJEbFNPTU9VbF9DVzJZR285LWc1RlV6LWh6bC1CZFhqNWlzazhCOTNnZEpmbWYzVTZkb0cwVzJwNXZGMFFBaWFVVXNWWU95UEstUmJob0Z1QnYtSlpTV0NLdUdUZzltelYxSGU2ZGI1OEhsbnZ0Rw?oc=5",
+    "publishedAt": "2026-10-29T09:19:40.000Z",
+    "collectedAt": "2026-10-29T10:45:07.227Z",
+    "translation": {
+      "titleKo": "스타, 자금세탁방지 위반으로 2억 6천만 달러 지불 명령 받아 - NEXT.io",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4398719185d368066eaa90f1376545293d273ad3",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Acute Myeloid Leukemia Pipeline 2026: How New Mechanisms and Late-Stage Trials Are Reshaping the Treatment Paradigm | Novartis AG, Genmab, Sanofi, Teva Pharma, Pfizer, Roche, Sunesis Pharma, Otsuka - StreetInsider",
+    "snippet": "",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPaW55Zm9GdG9KeGMzU05UV3VxNVNqTndRS19aYUQ5NTQzdVY4NDM1Nk5NTVBRa0J6UnphSHFpc0haOW52OHM1enpURlJrUE5rTHo4cGVYRzI1QWhrREFpTGxydzNDRzYzSUJNcDNnTEcyU1B0MFlnWTMtNklUM05UenpoWGw1NzhCQ0ZMVW9mU285Ty1VZU1SRHc3VEdWZ1FvZ2ZJRk5la1Z3V2NRTDFwS1JINUM0cHgyc3ZzXzl0VDZjWUdwZXp5V21KTnExVlRqT19wT200bjA0eFE1cDlZWjdyalRoTjZ6ZFVIZEl6MGMwTUo2ck53UDdQZVJ1bTBFUE5PbzRSbXpVU3I4UmZ0RUNlMXZCZjJta203WXNkakQzVzlWRkZsOV9lOFFnQTNJU1JYaXAyR2M4WE5RVjVxZy1tTkVuVUhKOE1lV04zY2VCbVJsajdZaEFzQzE1bXl4RjVDTk9YbURvUXVjejJ6MkxTUktWZmRNajJ6dFpEWlg?oc=5",
+    "publishedAt": "2026-10-26T12:56:33.000Z",
+    "collectedAt": "2026-10-29T10:45:07.228Z",
+    "translation": {
+      "titleKo": "급성 골수성 백혈병 파이프라인 2026: 새로운 메커니즘과 후기 임상시험이 치료 패러다임을 재편하는 방법 | 노바티스, 젠맵, 사노피, 테바 제약, 화이자, 로슈, 수네시스 제약, 오츠카 - StreetInsider",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6d794cfaa0f227d1e6940a82659f23b4a3a715a7",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Malaysia Fines Four Firms RM673,500 for AML Breaches - Fincrime Central",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkotZk1aSU45ZmhUR25JX0ZycVhmTUlYSmROaTduaG43TlptTkpVbS0wMWlmYjNxc3ZQYkkwYU5sbVNzcjhSOXBaQ2dIUGQyOEpCSGVOQkNReXB5LWtMdVdhNTJ1MF9rRzdCdC1GbU9uNEh4VlZMTjUxZXRpMEFwbA?oc=5",
+    "publishedAt": "2026-10-28T23:42:27.000Z",
+    "collectedAt": "2026-10-29T10:45:07.228Z",
+    "translation": {
+      "titleKo": "말레이시아, 자금세탁방지 위반으로 4개 기업에 673,500 링깃 벌금 부과 - Fincrime Central",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "26ee3fc4fd26d8b9f75cc5bfcfae4865565b7543",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Webinar | Responding to the AI Identity Risks Flagged by FinCEN - BankInfoSecurity",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaHBqOFMySHR3VU9YVG43d0J1LU9Dd0FfaDF0RWNPb05YNFU2bVFoRFdTTWJhTEFFclpqVW9vZXN3ZUR2d3hhWXhRY1VlOGhua19QcklwbG93Q3YwYndERkQzeDI4VVl4bUpyWFFWU1BkUTFDWWtmQ2xkZngzOC1yVGtmLWNxdVJoSTFpVFJQTGZOOUgwOTNTbElPUnk4ZVlUQ1YwOFFrUmluQQ?oc=5",
+    "publishedAt": "2026-10-27T03:19:48.000Z",
+    "collectedAt": "2026-10-29T10:45:07.180Z",
+    "translation": {
+      "titleKo": "웨비나 | FinCEN이 경고한 AI 신원 위험에 대응하기 - BankInfoSecurity",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "41aef36863f151fcebb246a505825d88e7cbfae4",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "California Attorney General Bonta Joined a Coalition of 21 Attorneys General Suing Trump-Vance Administration for Rolling Back Financial Crime Enforcement - Sierra Sun Times",
+    "snippet": "",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQVGc0djhta0xhdzdRaFktcXpyZkpoUy10WHBzX1ZNM0oyN2hrMktGUGFfSXRWT0lQaG5pa0xHMmZNbmpFTzlhcjBFTlVCZjYtRmVTZjlfMjladU1jRGU0VEtYZGgtTkZEQ3BFc3hZcjlMRTYtR0VZcTV6SWRuV1Axcl9BOXFwYzlQemxVczFmVjU1dWVXZWdfU3Y5OW5aMk5xSmUtRnFmNzdsNkJ0WTBlYWl6WlVoeVJveVl1aHllQlNiUlRkSXdGVkFBNG9RcUFEdFBfenpoYUUxMUhPZnVqVVE4dHdZXzhXZnVLZXhzSGQzOHZUT3JGNGF5ZjZOUGZTcDUwdUNUNnNHNVFFdWtRdjlPVEVfR3pGa1RXcldtZVdtTDJoeTN2ZGRYTWlwUFZCcGNjNW5hWE8wU0liNmpiLU14Rkk5N2M1?oc=5",
+    "publishedAt": "2026-10-28T13:39:51.000Z",
+    "collectedAt": "2026-10-29T10:45:07.180Z",
+    "translation": {
+      "titleKo": "캘리포니아주 검찰총장 본타, 금융범죄 집행 축소로 트럼프-밴스 행정부를 고소하는 21개 주 검찰총장 연합에 합류 - Sierra Sun Times",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0fbd15a9d04527588233e6e6de50812a310fa525",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S., South Korea, partners back North Korea sanctions enforcement - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZC1HN0hRaTQ5LVVwR0tPa3hXQ3FfMW9iUVdWM0dmZXRkYXJfYjI1MU1pMVlpaWg0NGZiU0tSYU0ycWo4cW1KSHB6QVF4UHpUTmpoT1dYemswUjdVSld4Ym1mOEJzSklHSHVZalQ1V19EV1BpeGJBcnRGSHRicDdqdHBUOFRtX0lFMXF5RGRVWDg?oc=5",
+    "publishedAt": "2026-10-29T09:41:47.000Z",
+    "collectedAt": "2026-10-29T10:45:07.402Z",
+    "translation": {
+      "titleKo": "미국, 한국 및 파트너국들, 대북 제재 이행 지지 - Yahoo",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f43b943601a2cfb0a897fd45f852fb03b7900c96",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia and US discussing sanctions relief for Moscow’s sovereign wealth fund, Kremlin aide says - CNN",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX3RtTjdiTklWeVlfbTUwdFowWHJBZzl4dG43UEd3c0RVLUpNYk05RG41SlNtUVdMNFR3bHg4MTlNS3BEeDdiSXVuZnNwcUZ2RGFFYWxFYXFFLTBDUE5rbkthaldwMVotX21WWk45YWhZQ3ZSTHY0ZFpvcWxueTBqcThxWlBDZHBFaGc?oc=5",
+    "publishedAt": "2026-10-29T06:26:29.000Z",
+    "collectedAt": "2026-10-29T10:45:07.402Z",
+    "translation": {
+      "titleKo": "러시아와 미국이 모스크바 국부펀드에 대한 제재 완화를 논의 중이라고 크렘린 보좌관이 밝힘 - CNN",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f50e7a3a5710f7ce94c0dbc52a739f92cc198b2f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia seeks US sanctions relief for Putin envoy's investment fund - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeFQ0Q3NhSEkwS2JxM1ZxYXYyQVgxY0s2eGRWMlJCcl9tcTVCYTV3US1DWVZpQ29MWE9FVlBtdzhuNWNJeE9rcDZ2cHhzN01lTTg0Umw3UWdORWhkdWFmazVnX0hjNlQwTHdRMnRodFhGUGhXdWZBeURqY005YmVCdXh0bXJYbFZWVlRTUkpFUjZRc2M1ZTA4?oc=5",
+    "publishedAt": "2026-10-29T08:36:00.000Z",
+    "collectedAt": "2026-10-29T10:45:07.403Z",
+    "translation": {
+      "titleKo": "러시아, 푸틴 특사의 투자펀드에 대한 미국의 제재 완화 모색 - Yahoo",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "62c92b3685060eed54f62628f587a24e118fea71",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US imposes sanctions on Rwandan defense ministry over involvement in eastern Congo conflict - AP News",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa0trcVBSVDlNenJEM014OWE0UkdUVzJtQzZhdEFBMGQwbndheHc0SVBfbkpaNkFQeENqb0djTzBQbVEzWGxORXFtWFI2THpZa2dVVFcyekoyRnUtN05veTg2YVh6RmtIbjh2dDgwaTF1Rk95NS1XT1BWNnlxdk5nWHlaTDUyQQ?oc=5",
+    "publishedAt": "2026-10-28T19:28:00.000Z",
+    "collectedAt": "2026-10-29T10:45:07.403Z",
+    "translation": {
+      "titleKo": "미국, 동부 콩고 분쟁 개입을 이유로 르완다 국방부에 제재 부과 - AP News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "97afffe20ac76c66d6c3814a6eaa94e75b6459a4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "M23 Rebels: US sanctions Rwanda's defence ministry over Congo war - BBC",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GY3Y4czlDTlI5MjdiMTFzQTk3eHRLTDBBWnZtS2EtUFctZU5scFhuTUFqSmNZTmJIZENSUE9KSmg3TEU2ODNNRkFfUXdpOEJqQk0wcVJkejR2YTQ?oc=5",
+    "publishedAt": "2026-10-29T07:16:00.000Z",
+    "collectedAt": "2026-10-29T10:45:07.403Z",
+    "translation": {
+      "titleKo": "M23 반군: 미국, 콩고 전쟁과 관련해 르완다 국방부 제재 - BBC",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e1fe5c44e29b2b09458d6de1fbb6d9f0e7aaf6d8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S., South Korea, partners back North Korea sanctions enforcement - upi",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVy1nZ2FGa0dIWXBBOUFYT3hSbDVBTGlTbHU3Wk96VUFtbTAtVWdVbU9xNURpWjk1SjZkbG5sUzdxLWRpOGlmNmNJWE1hVkZ1WUx6Tk5sRkVBODFSLV9pYmhnSlNjRHFpNXpVMW4tX1ktbzc5U2lxSENnX0Z4UlYxOHRJNkx3VlItSGdIY0VpbHdNWVpPbTBOd0RFRUx0c2QtcnBzTG9GU0F1NGduSHZSMVc1YS1nZ3BRdmJNZFJPMnNIOUl40gHKAUFVX3lxTFBHTE9taDJLX1RkMVpkNkxjZkdKRW5hMkJKdWZsSE9mTjhsdlZFdXJOOVVObmwzX0xzdGlNelBzMkQ4eDlLVzlFQmF5R0dycUJDbElYSzVUVW03US1SNXQxUkdJdm9pM2RtTnQzVm9mNm8tbjRkZEVkSy1HYnZFWHJKVFFBR2NkV1U3QnAwckpabFFfRW5lQnB2bk4wQldZSWNWcXNFNjBMSXk0VWVRS1UwRDNWdHZhY3hUZFRJU0h5TFR5d0RFT0xRYXc?oc=5",
+    "publishedAt": "2026-10-29T09:41:47.000Z",
+    "collectedAt": "2026-10-29T10:45:07.403Z",
+    "translation": {
+      "titleKo": "미국, 한국 및 파트너국들, 대북 제재 이행 지지 - upi",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6eba81c6e2e70fc98dcee1529352c7bb3b6ddf9b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The U.S. called it Putin’s ‘slush fund.’ Now Trump may drop sanctions on it. - The Japan Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZU1ad0VvYVBGVldnUUlZTHcxVTB1c19CdGltWnVOYWJDMzIxYjdmME9INVNDUDcyNFotQnljbzJUZmkyWll1ZWF0SlRPQUxxNXJEcE10YTZXT01hWEViUDYtWUJySEE3WEpCS1RNcEE1OHEzVi1rR1dTNTFVeWdmal9pdERmSGRGMUFqbG01MHl3ZGxPbmN3YlBGei0?oc=5",
+    "publishedAt": "2026-10-29T03:35:00.000Z",
+    "collectedAt": "2026-10-29T10:45:07.403Z",
+    "translation": {
+      "titleKo": "미국은 이를 푸틴의 '비자금'이라 불렀다. 이제 트럼프는 이에 대한 제재를 해제할 수도 있다. - The Japan Times",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5405eb71787f0e45e47784ad8b9545bac6f8deea",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US imposes sanctions on Rwandan defense ministry over involvement in eastern Congo conflict - The Washington Post",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRDZzOUVtM2NMaExvWjV0aVNjam51ZmVVVmEyM1RmVm1ROTFoSFUzQk91OGJqUW90QzIyT3V6SUx2V0RXZXotOURZc05rNDc0RFJHcFJyNkcyU2lhMkwtRU1fd0c5ZFRuUEg3WExRaFo5REthcFFac01namE3MVhpMWRSVEY2Mjh1RGsyUVJyR3FGc3U0TUF3OXp1ZXA0ejdvUmp5TUJjZFFTb05fLUxtZWo2SzBEUQ?oc=5",
+    "publishedAt": "2026-10-29T02:28:44.000Z",
+    "collectedAt": "2026-10-29T10:45:07.403Z",
+    "translation": {
+      "titleKo": "미국, 동부 콩고 분쟁 개입을 이유로 르완다 국방부에 제재 부과 - The Washington Post",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3e87bbb59fe99b9de63ec37c6505a8d0753bc1ea",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "List matching is failing sanctions teams as rules shift fast - FinTech Global",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMDdMc1pQYjZzQUVjeXR3QWdzVnlzaTV1eTg3am5HZmJqUmlweVhtaUM4TGlneVNnSlh5R1U5d1EzblB1cE44anYxRG4zd2xVUTl1SkUtZWd6QmJ0b2FEbTlxb05xNEZ5S0htVEEtZzlsVnRCMi1WSVp0RVprdF9zdks5QnJjMjNieXIzWU1NRm5lYVRlWGhBRENDaw?oc=5",
+    "publishedAt": "2026-10-29T09:47:52.000Z",
+    "collectedAt": "2026-10-29T10:45:07.403Z",
+    "translation": {
+      "titleKo": "규정이 빠르게 변화함에 따라 리스트 매칭이 제재 대응 팀에 실패를 안겨주고 있다 - FinTech Global",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "93cbb597c234d0fff4ce4bbfb175df1f12ab0105",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions 10 North Korean and Russian nationals for role in IT worker fraud - NK News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjFlV0p3SnM1cF81TFFnZkIzRGNxTThJdmtha19ITnFLTFlmWlNZX1JOMXp6TEJ2a1llS053STRWT2twdjhWVzNabEJKZVNsODFDTDNjRkN3Mk00cnV0QUZnel9IZWk1WFdlQmI2QzhPTWl4QmJlcXMzQi1GT3F2OUZXNGxrcGxHeklzUmxpMW5sRGRWX3dDd0FRQmptMmUtZHljZ3h1aG1RRXZGbVZF?oc=5",
+    "publishedAt": "2026-10-29T07:57:30.000Z",
+    "collectedAt": "2026-10-29T10:45:07.403Z",
+    "translation": {
+      "titleKo": "미국, IT 기술자 사기 사건 역할 관련 북한 및 러시아 국적자 10명 제재 - NK News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7d817ba18db9d43728b50426a3536a8167bbcf84",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Sanctions 10 Individuals and Entity Over North Korean IT Fraud Networks - Kurdistan24",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaElzZ090bVBsc3lCQmNrNFltbmtHeTZWXzJRZmFZa1JGaTZwWGJiczZhNlFPT0NtLWdUS0pZOG9iZTV0cmFSZzR1MUdta2UyQW1NdjlVM1ZCOElwbDQydnF3U1gwM29ac2t0akNoTmUzalBsZ20wTzV4Z2wxUjB1X19EM1ZiWDUzZVZHRWVxbE4xMmJwMXdUVWRSTnRuVXJKM01JTnI1X3F3VzE0LVk0UHFWZzF0alE2OWc?oc=5",
+    "publishedAt": "2026-10-29T05:35:00.000Z",
+    "collectedAt": "2026-10-29T10:45:07.403Z",
+    "translation": {
+      "titleKo": "미국, 북한 IT 사기 네트워크 관련 개인 10명 및 단체 제재 - Kurdistan24",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7447da32877a09e134227b81045f505dfdb9c8fd",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Yango, Rosatom, Nordgold: The Russian firms thriving in Africa despite sanctions - The Africa Report",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLWpHaXpnd3BRTFBPWVZmSWlyZ3ltcmNTQnBJOGRRNVdXLWpTS2N5ak50V0M4SlV3ekpmQURqVWdOWnRGZEd1QUdxeEVIRjBsaUVoMVZPRlZ1ak0zWk1QSHZhVkNEdkp3dmduc01OZzY0MUk4cTluRDEtdnFndHFRZTg5TE5NbXp5TV9xbGhzMDdQenVHdUNIQzhQb0gtaURWR0s2YkV4RTBnZGltczBlcUtfbGpuRzZf?oc=5",
+    "publishedAt": "2026-10-29T05:37:23.000Z",
+    "collectedAt": "2026-10-29T10:45:07.403Z",
+    "translation": {
+      "titleKo": "얀고, 로사톰, 노드골드: 제재에도 불구하고 아프리카에서 번창하는 러시아 기업들 - The Africa Report",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5a51d493e0ef1a4984ed8a905b73614a3fef48b3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia Is Discussing the Lifting of Sanctions with the U.S. — Ushakov - UA.NEWS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnQ2dC1Xck9kbE5tLVJ5ZUhvcTBvbTM5YlRrVklpcEpncm5xNlZDSmxFdExKbnd4MGlNYVRNMml1ZkZOaDVkbGs5MmNFdFlYOENpNmFQYzdKQTZTalJWRmNlR0tnMUh0QmNzdk0xTlFicUxmNEFUcjhfTGJxZGhCbGtZV1htaEU?oc=5",
+    "publishedAt": "2026-10-29T07:07:38.000Z",
+    "collectedAt": "2026-10-29T10:45:07.403Z",
+    "translation": {
+      "titleKo": "러시아, 미국과 제재 해제 논의 중 — 우샤코프 - UA.NEWS",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0f95c6b5290920747289463b8224199c2304930c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Treasury Sanctions Rwandan Ministry Of Defence And Financial Institution Supporting M23 - Eurasia Review",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXkyZXJ1LXhVOTM0ZjJiY3kxa0QwSEk1NmFEbktDVmYtT3ZmR1BDOVdMLVhIeEJqUHg2N1JvSVFESGpmSFQzQTR0a1cwT1lXNHhMbFBNUEtsTU9qRHlrNWNKOTFZd1Z6R0VOVjlNVmpwbkJROFY1SWRLdnZJREhjLXhSQm95MmhQUWVJVTktcGFHTEpCOTFYNkhPSF9FT3c5Q3FkNmVYVFFJa1VvU0kwOFVNN2NFNjhOdDd5VUZ4bjhDejkzNHdBTjBR?oc=5",
+    "publishedAt": "2026-10-29T02:26:10.000Z",
+    "collectedAt": "2026-10-29T10:45:07.403Z",
+    "translation": {
+      "titleKo": "미국 재무부, M23을 지원하는 르완다 국방부 및 금융기관 제재 - Eurasia Review",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9d4a9735b9bfacf61f8529fe2491d4c996483694",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury Sanctions North Korean IT Worker Network - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0lpcGxaZV9POFRoZVNLNTE3amVGRWtwRUJDTVRWMWhxSTBGT3JjcnRRZWlnTDBPaTNvTmNXR1lmU3cxRk5MRGw3bDFHNmtYWkRYZlRlR0daMGVudFl0eUJ4NmZNbmZGZC1hcE5hc1E1MVptLTc2V0ZaUlc0LWVtN3g3ZGxYZFJObW16aGNPRUpoVnNIVG53?oc=5",
+    "publishedAt": "2026-10-28T18:04:29.000Z",
+    "collectedAt": "2026-10-29T10:45:07.404Z",
+    "translation": {
+      "titleKo": "재무부, 북한 IT 노동자 네트워크 제재 - Yahoo",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "16a557cf95b2beaa30fc73bfd6af5972e23c379f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions Rwanda's defence ministry over DR Congo conflict - BBC",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EaHZTX29uTy12a2ZMYmxqQk1NMmpLY0lDQW5uTm9ReFVlQ1I0bTVjUnkzdmhfejBZWkhQMFk5aFZHTTVQcHMzVTh3Vkh6UExRcDZpYUJ6eTBySTVxd0E?oc=5",
+    "publishedAt": "2026-10-29T07:16:00.000Z",
+    "collectedAt": "2026-10-29T10:45:07.404Z",
+    "translation": {
+      "titleKo": "미국, 민주콩고 분쟁 관련 르완다 국방부 제재 - BBC",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "50be036f2713bd996ea620f5426fe4549e6de268",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury Sanctions 10 in North Korean IT Worker Scheme That Funneled Wages to Weapons Programs - BigGo Finance",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Rb0hJbEJub0pROE85VFBFSUQtdlUxc0RzWlpVV0lUekpQQVI1SkpxMnVsUkVmbVBpRmNHaTlPZkFwc2tPVVI4U1dualNSb0pmT0xDblY3Z0RWQjR2ZHU4QUFoSEJPUTIya2doS1VXYlNET1RncEE?oc=5",
+    "publishedAt": "2026-10-29T05:56:00.000Z",
+    "collectedAt": "2026-10-29T10:45:07.404Z",
+    "translation": {
+      "titleKo": "재무부, 무기 프로그램으로 임금을 빼돌린 북한 IT 노동자 수법과 관련된 10명 제재 - BigGo Finance",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "17dfb8e09083e20a8b9879fdedba93dddfb56c18",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Qatar said to float deal trading UN inspectors’ access to Iran nuclear sites for sanctions relief - The Times of Israel",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM3pJVGxsbHFKTEpVQXdldkFMaEg4TFd3Z19lWnVrZld0R3NFSmpsSjExRGRPemVmb3FUUUI1ZzNieExKd0lHVFZiZGVIbExRMmdPS3hzcWZsLTc4MlkyRVpkTDhlb2dSNjBPT1BtN1picjBsZ1BsU3FzMVVMd3FWME9lMnVNMFM4NkhvUWZvMFV5NUJqYjl2My1ObHdqZXV2d0xGTy1sZE0wRDFqQXI3bGdOWjFsUjBpM01ka2NqTUJXcWxkaHQ2T2ROdzZ1Mi1ad0JMcUVXOGc?oc=5",
+    "publishedAt": "2026-10-28T19:10:13.000Z",
+    "collectedAt": "2026-10-29T10:45:07.404Z",
+    "translation": {
+      "titleKo": "카타르, 유엔 사찰단의 이란 핵시설 접근권과 제재 완화를 맞바꾸는 거래 제안한 것으로 알려져 - The Times of Israel",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "72543db8d9fab348134b259cd31d910695c6e381",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Scott Bessent Sanctions Pyongyang's Overseas IT Workers as Trump Unsure About Another Meeting Kim Jong Un - Benzinga",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRllPR2UwckNQT3N4eUowNVcxWXJWamd1UUUxQzBZMWNFTXBQbm1FbmJ4SkgwU05VNlRUdENXMFp2MG1sdDc4a28wd2VfbWxPckdNUkdEWXhpelBCY2lGcWpsZFNfb2M3emFYR0NrV3EtRTVRZzVtVjdyc1VIejJydG5NRm13aU5DbkwwUjZDWHJ1QVZVLV9aM2FmU1hoRHZJ?oc=5",
+    "publishedAt": "2026-10-29T05:21:32.000Z",
+    "collectedAt": "2026-10-29T10:45:07.404Z",
+    "translation": {
+      "titleKo": "스콧 베센트, 평양의 해외 IT 노동자 제재… 트럼프는 김정은과의 또 다른 회담에 대해 확신하지 못함 - Benzinga",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "aad5f7792d63c17889c5f1a69f617382b7799d8b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US imposes sanctions on Rwandan defense ministry over involvement in eastern Congo conflict - Bozeman Daily Chronicle",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQdUlPU1pMTmU1VlhVd2tsc1FNRFJjYm5IRklHM2VWVzF0dC1sM2QtWS00NGhLeXpua3puVjdVNjh5djZmbmNzWEs1YTVjUUNWRWRGckN5eXR1NWFrQnBPQkhKT0hETzZQclduRWZnSDczRklzNGtOdWszVWJZMFl4dnU2YVJkSWx6QUdjOHBBWDNuM19vaXlrcnFPaDkzMmE4OGZrT0ItZlpseHZ0bm1KeFVfU25PemhnZ3JPR0steFpKajVmZXE0RktIUldVZXhIenh3eG1IM1VVYXdFSjFKR1gxUnJmdFQtSnlaeFhaQ0ZXaU9EUU5pcmthcVB0cjVrSlNFN2l6dW0zaGI3cnluV21BeUU4VnN0WTJ3V3kxZ0MyOW1Z?oc=5",
+    "publishedAt": "2026-10-28T17:47:11.000Z",
+    "collectedAt": "2026-10-29T10:45:07.404Z",
+    "translation": {
+      "titleKo": "미국, 동부 콩고 분쟁 개입을 이유로 르완다 국방부에 제재 부과 - Bozeman Daily Chronicle",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "25ab85e02550fd3c18c29f751ce399ea538f05b9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "OFAC Sanctions Two Russians Tied to DPRK Crypto Cash-Out - Cryptonews.net",
+    "snippet": "",
+    "keywords": [
+      "OFAC",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mUF9TZmREV0NGd3FlZ1FLVjBmSDA5eW03azB2ZThqaGN6REYwR1MycmhGeTJSNGZRRnQ1cy1xdWh2WEhhWFpQTjdDZUtPOUdaS3c0OXJR?oc=5",
+    "publishedAt": "2026-10-28T21:12:38.000Z",
+    "collectedAt": "2026-10-29T10:45:07.404Z",
+    "translation": {
+      "titleKo": "해외자산통제국(OFAC), 북한의 암호화폐 현금화와 관련된 러시아인 2명 제재 - Cryptonews.net",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fe6c34062652c613fea483b043761391d97ef4ba",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The regime’s optics: Despite sanctions, Russia is advancing quantum and laser technologies for military use - https://theins.press/en",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HM3lyX01oYldHZzFoZFl2Qk4tWlEzRFU4enVPN3JmdXdBRGMzZFpTbkRKQmVRdHI4c3FOdVhsOUFERnNnaTJ1aEh3?oc=5",
+    "publishedAt": "2026-10-29T08:59:03.000Z",
+    "collectedAt": "2026-10-29T10:45:07.404Z",
+    "translation": {
+      "titleKo": "정권의 겉모습: 제재에도 불구하고 러시아는 군사 용도의 양자 및 레이저 기술을 발전시키고 있다 - https://theins.press/en",
+      "snippetKo": ""
+    }
   }
 ]
