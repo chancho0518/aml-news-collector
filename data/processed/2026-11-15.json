@@ -1,0 +1,70 @@
+[
+  {
+    "id": "626c2033326d96059f1ee96c81f47ffcf5ca9fbc",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "퇴출 코인이 범죄자금 세탁 수단으로…장외거래 '사각지대' - 코인리더스",
+    "snippet": "",
+    "keywords": [
+      "자금 세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wQS0xN1FfOFFjT2xUTlFTclcxdlhmT2UxWENLT2d5dUp3S2EzcFp3T09tLTR5TWhqRzVyT0tmOEtJZE1kaFhoTTBn?oc=5",
+    "publishedAt": "2026-11-08T21:00:01.000Z",
+    "collectedAt": "2026-11-15T04:25:37.133Z"
+  },
+  {
+    "id": "0c088216d8b8e837f12321c6385b5770077d2c06",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Gen Jack Keane warns sanctions alone might not collapse Iran’s regime - Fox News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IUnhDZm50X1FtTzF6T1ItTDhyUW9oQmJBOU5oTmJac1Jlbm96RmpFVGlmSE1wdnlpN19FVEFpVDEyUjNhUGFEbFkwOUxKY0hvMjcwZ0lR?oc=5",
+    "publishedAt": "2026-11-15T02:17:56.000Z",
+    "collectedAt": "2026-11-15T04:25:37.372Z",
+    "translation": {
+      "titleKo": "잭 킨 장군, 제재만으로는 이란 정권을 붕괴시키지 못할 수 있다고 경고 - 폭스 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "375db1b8e32c02d6f6672baf2286b8d1b545f921",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Gen Jack Keane warns sanctions alone might not collapse Iran’s regime - Fox News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wd3lxcGxvRVNGTTFHeDg1V2VzeHFCcHBmS1EtdXB4U0p4Wk9oZEZsSDRydzhmUVFKRnFkRzJJaFRsUGp6OTJVSXJmdWVxOVAwNTVtdWhR?oc=5",
+    "publishedAt": "2026-11-15T02:16:52.000Z",
+    "collectedAt": "2026-11-15T04:25:37.373Z",
+    "translation": {
+      "titleKo": "잭 킨 장군, 제재만으로는 이란 정권을 붕괴시키지 못할 수 있다고 경고 - 폭스 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f692babecbeace483780f9a20e8f18f66d830cb6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "North Shore Man Sentenced to Two Years in Prison for Sending Money to Iran in Violation of U.S. Sanctions - Hawaii Free Press",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcE5ac013d3VZSWpJd1M2TlBNTjltS3M2VzRkWGx3M1gway1ZQ3lqMy1UOWplRlJyYm1fUHlpQlc1S1JfakJ5VFQyblRKcTFCcjF1Wk5CNUlLOGVvN2tNdm9DLXVhcWtNREh5cFZZLUJlNmdOdFNjUXJTR1RlNGNWNVJBLVRFRUF1c3FFMGdEWXVQeWJyenBKN0VFN1RqQkRzMGhqblBCcFZqUUI0S0NjUVhXRERwY3FJdkx4WHNRZ1NqM1JVajBGM1k2SGZvTDNPS08wSXlIbmZwQUozUDdfSUJqTV9zeVVxYktOdTMzNA?oc=5",
+    "publishedAt": "2026-11-14T22:03:25.000Z",
+    "collectedAt": "2026-11-15T04:25:37.373Z",
+    "translation": {
+      "titleKo": "노스쇼어 남성, 미국 제재를 위반하여 이란으로 돈을 보낸 혐의로 징역 2년형 선고받아 - 하와이 프리 프레스",
+      "snippetKo": ""
+    }
+  }
+]
