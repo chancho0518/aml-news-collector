@@ -1,0 +1,690 @@
+[
+  {
+    "id": "0d4dc7b4879a103e0a3817b44d843ed3a5df7a31",
+    "source": "한국경제 증권",
+    "category": "domestic",
+    "lang": "ko",
+    "title": "\"LIG D&A, 입찰제한 제재 불확실성 해소 필요…목표가↓\"-한국",
+    "snippet": "",
+    "keywords": [
+      "제재"
+    ],
+    "link": "https://www.hankyung.com/article/2026111834286",
+    "publishedAt": "2026-11-17T23:02:38.000Z",
+    "collectedAt": "2026-11-18T05:35:55.351Z"
+  },
+  {
+    "id": "04570f21b44c146e4939c71080efe240082b2171",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "베트남 중앙은행은 자금세탁 방지 및 퇴치를 위한 법적 장벽에 대한 입장을 확고히 유지하고 있습니다. - Vietnam.vn",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSERrcHVRR1JwY1NkUElGeFdlTk9ZNkQ1N0FkTGZPRGxqNUtDMVEtN3Q3RG9jQno3Mk11QTcyaWlTcmRoUVNqSm5odUJ6OHZDN1hyanBxdWdqbElLOXprTndKTjNGVDk0dU5uX1VqQURBMkxxVkFjNnp6S3JVNWpSTG9rTlZnb3F6WjQ0cEJzUzJ5bG9MVTZ4Zl9YR05od3NGOFNtWEVxTEQ?oc=5",
+    "publishedAt": "2026-11-18T04:48:13.000Z",
+    "collectedAt": "2026-11-18T05:35:56.106Z"
+  },
+  {
+    "id": "17aa389436cd4b94b12ff43a9ebd714f0cf5d80c",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "One Rulebook, One Supervisor: How the EU's New AML Regime Will Reshape Compliance for Firms - International Banker",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZDhTb2l6WTZ4NWFCYW9VM2h5NHJDQzZDM2ZLV1dPTmxkVm0zRTFPY0U1TmFzYmFGbFFlLWdOdndRNjZ6a2pzaThNQlhhaldGeFVDOEMyYjFUcWdLSWZ4dWxSZkRySXN6dWhwc3Y1cHdyUUJVRHlZYmtUZ1NkU19YVmw4VTJJcWRMR1ViaXRreWk4dG5FVURHeThwRUg3SzE1aTNLWm5yVmZhMU8ybU14X01nSG5abF9qUXdvVTRBRXJ1UkE2SmRGdA?oc=5",
+    "publishedAt": "2026-11-18T04:30:56.000Z",
+    "collectedAt": "2026-11-18T05:35:56.315Z",
+    "translation": {
+      "titleKo": "하나의 룰북, 하나의 감독기관: EU의 새로운 AML 체계가 기업의 컴플라이언스를 어떻게 재편할 것인가 - 인터내셔널 뱅커",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d0ee5f8af6a0df4cf2bddd3b59a676ada646d4e8",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Automated Screening Satisfies CNBV AML/CFT Rules for SOFOMs - Mexico Business News",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzhMRWFjaGMzQUNnXzFPX1gxZERrekNqVU9tZF9wVXdNR1RfS0xiNkFfWUZ5WHdGZzFVMVZ2OGFhU1kwdmFsWko3VW9SdnFmQk4tX3FhbDh3MjZjRHo4bTBFYnVCSmlHdVo2NU8yR0J3ZzNsTXAzU1ZfMUN5a0UtLVNrdDRFUU5hNjhGa1l6X044NTJMRy1OOG5aRQ?oc=5",
+    "publishedAt": "2026-11-17T22:22:50.000Z",
+    "collectedAt": "2026-11-18T05:35:56.316Z",
+    "translation": {
+      "titleKo": "자동화된 스크리닝이 SOFOM을 위한 CNBV AML/CFT 규정을 충족하다 - 멕시코 비즈니스 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7c657ba479020c32634ac9220f56b0da7abe5ad3",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Senate Democrats Demand SEC Explain How Tokenized Shares Escape AML Oversight - BigGo Finance",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04U1FwOWcybUhIa1NubFF4RExpT1kxNlBycWVaaW1KM2N0RlRvRWd6eGRtSUhsZ2dCZWdnZldPT1hzMVFQT2JwbS1mOGRzaHN0Z044eUFfZzZmUjlvV2dHNVlKWVptNjU1T0Z3WFZpVFJLV0NoS0E?oc=5",
+    "publishedAt": "2026-11-18T02:45:00.000Z",
+    "collectedAt": "2026-11-18T05:35:56.316Z",
+    "translation": {
+      "titleKo": "상원 민주당 의원들, 토큰화된 주식이 AML 감시를 회피하는 방법에 대해 SEC의 설명을 요구 - 빅고 파이낸스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "97849b02b2cd9b8937d105a714dda5cb1525fd1b",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Hong Kong Report Puts Agentic AI and AML Governance in Focus - Fincrime Central",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR1o5cFY2OTRPeXhucXJ2WmtFeGp3MW02OTRrUS1nQW1hWU5rbWNoRW5zcnZrU0Rja3lRV3I2TW9ZbFRFaEpxcmxYVG5mNlFvLVU1ZzJqYVJUWjd6bEV2eFBuOE82N3h5d3V2YzVqU2Njd1UyTFh2aUFtVExvZk8xUw?oc=5",
+    "publishedAt": "2026-11-17T19:27:43.000Z",
+    "collectedAt": "2026-11-18T05:35:56.316Z",
+    "translation": {
+      "titleKo": "홍콩 보고서, 에이전틱 AI와 AML 거버넌스에 주목 - 핀크라임 센트럴",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fe7939b430e5a4eb90623eb4f151f9031fd53abd",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "SELLAS Life Sciences Announces Positive Pivotal Phase 3 REGAL Trial Data Showing Immunotherapeutic Cancer Vaccine, Galinpepimut-S (GPS), Demonstrated a Statistically Significant and Clinically Meaningful Improvement in Overall Survival in Patients - Yahoo! Finance Canada",
+    "snippet": "",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdHpXclpEWEFvTmlrRTZ6bnBHYkRzNXpVNkVmRjVyY0xnVTBiRXRPeExOYXVZVEdxWElTY0VYenRXaVVFcVl3N2lMb2U1Vm1Wa0FuMGE1Vzd3THlReVlNSTBzOVRIYnhTck8zQVdMc21YNGxTbjJadGlQUHBSU2Rpdjg4SzJJVlZrc0ZXNzZJdEJjZw?oc=5",
+    "publishedAt": "2026-11-17T12:00:00.000Z",
+    "collectedAt": "2026-11-18T05:35:56.316Z",
+    "translation": {
+      "titleKo": "셀라스 라이프 사이언시스, 면역치료 암 백신 가린페피무트-S(GPS)가 환자의 전체 생존율에서 통계적으로 유의미하고 임상적으로 의미 있는 개선을 나타냈음을 보여주는 긍정적인 핵심 임상 3상 REGAL 시험 데이터 발표 - 야후! 파이낸스 캐나다",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "78812e5b90e47437e11620fb94416287c7e8be8e",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Free AML teach-in for agents, coming soon - Letting Agent Today",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSmZBUFJlSldFTUM5MnNoWGFDQjRySXZrQUV3M0YtZTA4b3BCczNBUEFLZjRoUkFiVHM1VEk5UEFzaXkyakg1cW5JRlozM08wbFk2QkU3WVpfNnF1bGdrRGJCc1dUemsxVXJLRVNyQ25DV2d5QUF1NVd0aG5uc1BvaThzcVBDeks5aGJCaHlxRWNaY01sU1RmZWd3N2p6Q0F1?oc=5",
+    "publishedAt": "2026-11-18T00:13:47.000Z",
+    "collectedAt": "2026-11-18T05:35:56.316Z",
+    "translation": {
+      "titleKo": "중개인을 위한 무료 AML 강연, 곧 개최 예정 - 레팅 에이전트 투데이",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f04ff34b250779eb1317aedf36b675e65a5c8ead",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Racura Oncology Receives Sheba Medical Center Ethics Approval for EMILI Phase 2b/3 AML Trial - Kalkine",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORzlTY3hxbzNrUkdWcGx6djJ1LVJNVGRXSXl4WnpvbzF1aU14OHA5Ymo5b2xmYW14Z0RGdTVzMEYzSzU0MDVqQlBCUGIyV1Y0S0hFdzk1SFE2NnFITVhKNWNweWR5T3U1RDRLY1l4bWdFekpBVW5LVUF4QkFXUi1LMUczZ0d4a2FoNTc1a2VPenB1YlNaVEotOHA5bUdfTnk5X0pxUlZIazRpYUFRUERQTWs5SV9aRU4tZ0xHTGFSdjhhbDY0ZW04aE1sQmdSQQ?oc=5",
+    "publishedAt": "2026-11-17T23:15:02.000Z",
+    "collectedAt": "2026-11-18T05:35:56.316Z",
+    "translation": {
+      "titleKo": "라쿠라 온콜로지, EMILI 임상 2b/3상 AML 시험에 대해 쉬바 메디컬 센터 윤리 승인 획득 - 칼카인",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "43a1cf5c8a561b5a36a2661aa93f91e045182abe",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Racura granted first site for leukaemia trial - The Australian",
+    "snippet": "",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOY0ZycVJOdjBvd2xpM0Uxc280V3hUNlpJRC1oQWJSb3BlODZybk1pYjJNMTVnU0F4X1RRNThFWGdSODlXYzFaYnhrdW9IcmtkdGwwai1abV9OOXY2M1Z6aF9jTy1nZm1wamtueXNnenA3SEJab2RVdjc0dEVUOVJlQmkxR0VUTThWVU1TYXRZMXRwWUlWUlJBZTVPMjRKRWJrV0lfQlJBYXhCZy1xeWxZOTBwMWc1NU5wMnpWckNzWUlwakdBT2E4Si1kMEsxdlV0T2ZRSUM5N1FrUlI2c3dla1NWR2k2ZVhEUFZXTFdsc3FyOW9kTmwxWHJJT2Y3TDRBYzRJZFJEQTk2WjVQTnFPN1ZUSQ?oc=5",
+    "publishedAt": "2026-11-18T03:50:42.000Z",
+    "collectedAt": "2026-11-18T05:35:56.316Z",
+    "translation": {
+      "titleKo": "라쿠라, 백혈병 임상시험을 위한 첫 번째 기관 승인받아 - 디 오스트레일리아",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e7e3575573d77ded24e719eb9e202412fb46ac03",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FCS Compliance to host free property AML webinar in December - The Intermediary",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0dVQ01NVEhzQmQxSkhrYUlzVE9FWUlpLXFfVVNhczh0R3FobWFoS3YtbW9HVG82Ni1EcS1DeXUtcEpBdUtneVZyRG94SHc4b2c1VGljVzlqTno2X3RDeFBud1JTNkJUNXZyclpMQ3hucllTd0V5ajh4dW9SREhXT1VhRldQcUVoVVdURDY2bjA3Z1ltYmhUWmhSLUFLSjZw?oc=5",
+    "publishedAt": "2026-11-17T13:14:05.000Z",
+    "collectedAt": "2026-11-18T05:35:56.316Z",
+    "translation": {
+      "titleKo": "FCS 컴플라이언스, 12월에 무료 부동산 AML 웨비나 개최 예정 - 디 인터미디어리",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0f220cf716f138d15cd106465c0dc8c6e1dae5b9",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Does this even apply to me? Five months into Australia’s new compliance laws, scope is still the biggest question - Medianet News Hub",
+    "snippet": "",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWFZrS29Ld0VUeC1kWjg4VTROclFmbDJYYkdqOVQwM1g2Z3RwUU4xalZ2Wk0xcDJleE5NNGoyc0xLVTlVZjE0U19McllmTzRsZGt2YkF5Ri1uaVFGRDJ2TzFhVFA2R19hWkpfeWFoeDNDTkVnQ3hvUlN2RWdkX2I4WWNESHdpWFJjblRWc3RlcENtUlZSak5wR0RpMUpJcnFMNDMyOHkta1VqMEdBMkVFbVlFclVVMnZ0R3NwZGVOSXoyaUlNaWFqWXhZbFNuTVp4NVRicVdrSHBlamdiQ1dXaDR5VFl1SlRXWk1RRTg4NA?oc=5",
+    "publishedAt": "2026-11-17T20:15:10.000Z",
+    "collectedAt": "2026-11-18T05:35:56.316Z",
+    "translation": {
+      "titleKo": "이것이 나에게도 적용되는가? 호주의 새로운 컴플라이언스 법 시행 5개월째, 범위가 여전히 가장 큰 질문이다 - 미디어넷 뉴스 허브",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bec89f9640e63765a476013d97dc1ee205d2b3ce",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Kenya addresses over 90% of internationally agreed anti-money laundering actions - KBC Digital",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb0JTRDdsdGJmSlFVdkh1eXZsVFJBXy1ORGNvRmc3OWpFRkRMWGVuYjJ0eVhadUIzbUhzb25OdjdDUnR3bjlaWjdNQW9FSkhHcHJXcTFzNW5XWkhfU0FOZzRtcVBFamFBMjdJWEg1S09lX2prZjVBV0gxem9COTQxZjBSa2FiRFlFRmhFeEd0RUQ0UG1XUkpCbklQeC1ZSkxnQ3haWg?oc=5",
+    "publishedAt": "2026-11-17T19:07:56.000Z",
+    "collectedAt": "2026-11-18T05:35:56.316Z",
+    "translation": {
+      "titleKo": "케냐, 국제적으로 합의된 자금세탁방지 조치의 90% 이상을 이행 - KBC 디지털",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b40c0d9fb4e44aa626a08922579ec36f061bb85f",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Replacing a Legacy AML Transaction Monitoring System Without Losing Alert History - FinanceFeeds",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUGJEMV9UUEpocGQwcko4WWplQVNDdGNkNnhLWjRHc2dDT05ITjZCLXZyWlcxeW5kRTYtWHY5Qm5SSFBzODFrOXNialdJMUYtV0luX21tcG9BNWNfY1ZIWHdEbkNLemN4OFVOLWFKVmNEMWJqeEFpOXFuWS0zV3JETVgwcFVVOEdwdU5MR0JLX3RDTnFO?oc=5",
+    "publishedAt": "2026-11-17T17:51:15.000Z",
+    "collectedAt": "2026-11-18T05:35:56.316Z",
+    "translation": {
+      "titleKo": "경보 이력을 잃지 않고 레거시 AML 거래 모니터링 시스템 교체하기 - 파이낸스피즈",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "73ad32bf18dbe4d9ca93226be211012bbfabcf19",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bessent Says Proposed FinCEN Rule Cuts Bank Red Tape to Fight Crime - PYMNTS.com",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTzBiOTNNamJ1STBRUVhMbzZRQmFvU1VFODJrMVhIN0hNZjVfd1lLcXpBOTltMzNCRFhJajV5TmUwTHY0MVNsdnoyN1lrSUU3RTNrNUFDN1VuOFg2MVhhVFFUZUN6dm13MmVjN0xIS3BxMUxsWlcxVkhkTzBBWlVXbEZVQWdvdzRYTk5UbUpMV2M2Q3hCdGtGaE9XYkVjSTB2dmFSRUhEZkFKYnNFeV90dFlrejR5cXNOQUE?oc=5",
+    "publishedAt": "2026-11-17T23:41:47.000Z",
+    "collectedAt": "2026-11-18T05:35:56.120Z",
+    "translation": {
+      "titleKo": "베센트, 제안된 FinCEN 규칙이 범죄 퇴치를 위해 은행의 불필요한 관료적 절차를 줄인다고 밝혀 - PYMNTS.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2428ca8068f6a0c6e840051b47f67d85c2d17f20",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Proposes New Rules for Beneficial Owner Checks - Fincrime Central",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONVIxZUVMTmkxU25UNjEweWRfQlRWZVJnMXZEdWNiQ1BUNFVBRzRHVlJjTHN1TUhXQzJEMHNXcXVWd09OVTFtN2VmNEVodGxscWNPcGtzSlBsNHB5MDhycDBOcjgzemxydnk0ZElLNFQ2dWZWOE5wS1JsUFMtYnk3Yw?oc=5",
+    "publishedAt": "2026-11-17T18:36:16.000Z",
+    "collectedAt": "2026-11-18T05:35:56.120Z",
+    "translation": {
+      "titleKo": "FinCEN, 실소유자 확인에 대한 새로운 규칙 제안 - 핀크라임 센트럴",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9afe15b5e9a8318c419c85e88e40bc30414ce4a4",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN proposes dropping ITINs as beneficial-owner IDs at banks - Cryptopolitan",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQajBBY20wY3pXWG9mb3BjTkJnU2dBMjdkLTA2Zk5aN0V2M1VOWlUxdEIwSF9TV1QzemJGSDYtTkVnQTFialhVajZYRHZERTRobVIxTHVLZ1RaVktDdmxBWHhlZ3N5RlJvOHhYOTZBNmUzaE0yek1BVnJ5R2JmOFJHN05FaURSdlhiQXcwdm5kT1RYYWNmSjhtSzNn?oc=5",
+    "publishedAt": "2026-11-18T04:21:23.000Z",
+    "collectedAt": "2026-11-18T05:35:56.120Z",
+    "translation": {
+      "titleKo": "FinCEN, 은행에서 실소유자 신원 확인 수단으로 ITIN 제외 제안 - 크립토폴리탄",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ba0e62c2bc5cd9e88384df075af2e40af515fbf6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Britain sanctions Israeli aid-blocking group and settlement construction companies - Jewish Telegraphic Agency",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdGxZOW1MUTRoYjFhUklDWkRCcjFfRFJoUnNpLXdicE5DSzNQRVkxalZPM19acDBqZGlSR3FoRE12MVVUSTUzZzlJRDRVVE5IakZCVzRkZGRyZGtUZWd0Z0llR2Z3bkp2b0FKOTlaQmdPd0VFT3RBUUVrdFpYWTBhRVJlaXdvc0YzcDNRVUFfd0ZxRzB6TnE5bnNuczBtWHlwWXFZRDB2dXRVUllaazR0VGltSVlNT255RFBReQ?oc=5",
+    "publishedAt": "2026-11-17T23:21:03.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "영국, 이스라엘의 구호품 차단 단체 및 정착촌 건설 회사들 제재 - 유대인 텔레그래픽 에이전시",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fb491bb35fc1906fac5d64afcff5d43a3ab73541",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "West Bank settler sanctions - Australian Minister for Foreign Affairs",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUTMxM2pFa3JIeGp1WHZOTFNOMGd0U2Z3UHMzY0RUUlZjV2s1YVp5Wm9IQTFhc2hscHJhaFBfbDI2SzA2SlNNRE5OOGhMMDFWRmZvT3hJd0pRSlBmRkRRVjhua0RZaUIyNG55YU1CWHBrc2hfajRtQXZFUjFWVm5HSEJHMmZkV3BQR1lzOFhJU29xbFhzSkItV2pBa2k?oc=5",
+    "publishedAt": "2026-11-17T18:41:29.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "서안지구 정착민 제재 - 호주 외교부 장관",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4472d456cf0b617b859c8ea863dd74f234e89580",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Meta Faces Possible Sanctions for 'Actively Manipulating the Evidentiary Record' in Addiction Lawsuits - Law.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdnktVGNqaHkybkYteEltbVc3RUlfSHE1OTRDUGtwTWRjSTY3UXhVczZaVzN0clhRelVEQ19QX1hVNXRLX3VPWXkwUDF5dW55SkJ4cGk4NVkyUVRSbjR4WXJ6UHpKTlM2ZTF1NFNHdXZJclUyWDRmaWwzR3BtdzFSNFlyc0pYSENiVTJ1NC1FS3Q0UDNRLXVBQldYOU5yMjVyVUsxN3RtUzFBNEJYTVFTMlJIOGttUENVQXZsaXp0LWhwbVhmS3ZmQWV6ZlI?oc=5",
+    "publishedAt": "2026-11-18T02:50:08.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "메타, 중독 관련 소송에서 '증거 기록을 적극적으로 조작'한 혐의로 제재 가능성에 직면 - Law.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2ab483739da6f5d6512a6f1ec4a8cfbcdbf23147",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Australia sanctions three Israelis and four organizations over West Bank settlements, following UK sanctions - i24NEWS",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUXdGSlNYVExyZm9NLW9BS2d0N3VFbExZcENRZXVSYUpuUmt6SWtsbUZ5QVBiRmRzWUtPOGJCbFJtQXF4anNMcElIbVBabGJPUXl4a3oxd0lCOUU5X2FGYUFBdkhzOGcxV0hMeXpmN203UmowQzRFTzgzekdKVjY3OWVodHZBUERoVHdnS1NUSmVVdW1wNnVtWWJ0ZVFmUVNXY1pzbkVwTHRpcEtYclVkMHd4elotVW1KMHpZcmhmdUgxZHhnelMzeFdtOGhFN21hQzR6NkxFS0xfY1RfLTVKTFJ0VUk?oc=5",
+    "publishedAt": "2026-11-18T05:03:00.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "호주, 영국의 제재에 이어 서안지구 정착촌과 관련해 이스라엘인 3명과 4개 단체 제재 - i24NEWS",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "efa81f296c08ff37ce5481e8ed7108247215cdb1",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Australia sanctions Israeli settlers, organisations over West Bank expansion - Reuters",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVlFrYWNBX1NLTHhNc00ycmhVV0dFNlRNX0xOcGFKcUhaYmNSU093YzlyTm9xOVlGRGlxblJhajk5ME5HMy0zeXFHc2FQUGFBd3lvUGtaNENWMTB2YVV6eHJ4NzZ1N3pHcjJqam9sQ2kxRk4wNUU4Z1NLbDA4bWQyUVpMakxVa0Q3S2UxeUE1Nm92RmhKUFVHMVl3UUVETHQxMVk4QlYwS0ZhNXRPSGVsUGRQX0F6OFJiZ1N5WGIyb1l5TkliTkhwT2NB?oc=5",
+    "publishedAt": "2026-11-17T23:56:00.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "호주, 서안지구 확장에 대해 이스라엘 정착민과 단체들 제재 - 로이터",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7216b371c3921e5ca599bc2ffa4db187127fe5f9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK sanctions Israeli settlement firms to protect two-state solution - Al Jazeera",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnBBRms4TXpNMFdJMDdnR0c2OG5EaVpfYnVETkxGUFVISUx4QXY4WkMxRkhOSFdHSVJhd3B0LU9YNEJOSFkwQ2dFbFAzUTlFckFsSWtPQS1seGJEbzIwNl8xZEdEaGRjMVQyNlZ2UWJoLTlfMDZVZktpbFlRdFc0TUpIaUxhNUgydVdid2VaOWJSYi1XZzBWLUNSRTdnZkl5c2pYM0xoUEpSUXBzUHFIUmx0MNIBuAFBVV95cUxPcUVSUmEwcWREbGRnMnhobXEydjQ3dUJpVi1LaUZybGdJazNOVEFGd1dWbV9YcFExd3JsbDZqRFduTGd3TERpNkVVVnlyYk9reGo1bll3Zkp1eFV2RmhUYXVnOTRtXzJnbDdPRHZSWFJhRm9DUFVCOFNoNXZsRFZ6VlhrZUo4ZkotSjdXNUR2MWVpY3NBN1kxdG11LTk0WjhOTm0zLTdZTV90Q2dsRG9SOHhTYXFDOFV6?oc=5",
+    "publishedAt": "2026-11-17T21:38:41.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "영국, 2개 국가 해법 보호를 위해 이스라엘 정착촌 건설 기업들 제재 - 알자지라",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8c75083ea7e233d8a4c673a0c81617891bd2ecb3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Australia sanctions individuals, organizations tied to West Bank settlements, settler violence - The Jerusalem Post",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52NWlGNWdDTjNuYkxjd210b3ZBdUpOX2w0RWVyVU1fZVViZ3pGS1B3eDdGcVFRcGNvQVM3M3l2QUw2WDlnMFNuakkyUk0wdHo5ZmNWcGlrNE04TmlJZmNn?oc=5",
+    "publishedAt": "2026-11-18T00:26:41.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "호주, 서안지구 정착촌 및 정착민 폭력과 관련된 개인 및 단체 제재 - 예루살렘 포스트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4459237d0079741c5f6c4e8dc7e36615c9f47223",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FINRA sanctions brokers’ best interest failings - Investment Executive",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPME9CYjJPcU1SZDRaVXBGWXhWa2IyMTIySDc2Ujk2T1N0TXJxN0lVb3c3N0hVT3pNOUU4VVFHTkwweGM2UGF5S0dkRTdHclJ3LW1DcU01Q005UkRRLTRhX0VTcnVDcklfdUZEYmlhTEYxVXA2blFZNHI5UnR4OHV6aXdfdXlTXzZqRUpTWE15MUZ0WmZDREhTTkRtdk9PSDBv?oc=5",
+    "publishedAt": "2026-11-17T19:28:52.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "FINRA, 중개인의 최선의 이익 의무 위반에 대해 제재 - 인베스트먼트 이그제큐티브",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3f6b44c759d0565b3c5646449c7b2daf7580f8a2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sa’ar vows countermeasures over new British sanctions - JNS.org",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUJmWGFnUk9DV3A1VTBtc2dQbldNS1laU0UxelQzNTNXR2dWR1JMdDBNams2dXdPdVFheC1naHlKLW9pNU1zUk9ldXljMDNraldJcHNQMFExcE9aWGRPeTJvUlU5M0cxYldQMUxESk5rQTBrREFDYnZjS2dFVjgxVEk2WG1OQnp2dTJnc2NHMWRHLWM?oc=5",
+    "publishedAt": "2026-11-17T20:41:32.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "사아르, 영국의 새로운 제재에 대해 대응 조치 다짐 - JNS.org",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d167722cc7827b1d651b15b4644e6688a4c939fd",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Britain Sanctions Israeli Construction Firms Involved in Building Settlements - Algemeiner.com",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3lpN2xZLTk1cURJbnNaN2lKY2FNOXZuTnZKVWh0a0xreDRfeVFkQ2ZnX09YUXRzcVk0a1V1MEVJRVkya1lvbi1kR011eDZCR0dKRzBDWDYtYjEwOUkydnBWOUtYOTVMVXhfOUNtYjRyOXNJVWN0YVkwRDRZeVVVbVJiWWFpU1VlNmpscTV2dFItdmxBb19DcUwzanlBMGRSNlFxdXl1NHNYdlg1M3VVOWtTYw?oc=5",
+    "publishedAt": "2026-11-17T18:57:00.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "영국, 정착촌 건설에 참여한 이스라엘 건설 회사들 제재 - 알게마이너닷컴",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "33db537236fe5d8bdb9db4967a598e2e3b63b304",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Australia Sanctions Three Individuals and Four Organizations Over West Bank Settlements: 5 outlets compared - NewsCord",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLUtHS0wtS2dTQmVOZXg1RlVhNXk3NHJxb1hQMHNySlNrR25aemRYT2wxTEFzUXRXSnVqT1BRQmpZU2JIakd0Q0diSVk4dXZlSjNOamFvYkxKNFFMVERMR0g1S2NmQlQtQUNqc0NpeTJQbWM0ZXpXNGtlX2RBTFdrRHdOQkJNN3VHZDltZHNwa2IyMkVYTTVuNFhEV3Z6RXRxZm9QbDlJdV8xR3JWdC1MNGYySHN6eTEyN1pKYTVkYXh4d1RjM24ybFdhSHo2cnM0WHRLR0ctV05Ib0ZBcUNoaXplNEtZaGRZOVE?oc=5",
+    "publishedAt": "2026-11-17T23:31:39.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "호주, 서안지구 정착촌과 관련해 개인 3명 및 단체 4개 제재: 5개 언론사 비교 - 뉴스코드",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "57b4f5e387e85064ac4117b42c97fe3bd967c4fd",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Australia sanctions Israeli settlement figures in West Bank - Israel Hayom",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmhVV05rNzdoQlduZzlCM084VzNZbjMxdDdXeS1INHlYdGVReXQwQW1QY1JBQU5jXzFsdFByYTM5c0plNVV2aGdqbHhTSHNmVGdTZWZraWdaVWZfZnFhbEt3UEx4dkxoeG5BMWk4VXdycEZnenZuUzY1V3JsaFFMcDBldjJiNmNNWWtDdFZzcw?oc=5",
+    "publishedAt": "2026-11-18T05:01:42.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "호주, 서안지구의 이스라엘 정착촌 주요 인물들 제재 - 이스라엘 하욤",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "17a87098f2e2f18ed1ba313a443c49c6ce5a4110",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Settler leaders denounce UK sanctions, call measures ‘antisemitic’ - The Times of Israel",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSlhrcmR0OUFES29ERElQZUdiemRYMVEzeTFWb3dJT2hra3FXU1g0RUlMcmhiNlQ4U1dyNmJCSFpMMlVPSG40WUM5Vmd1M3d5MnpTelYwSW1LUE9jLVFZN290Q081ZFNwMXE5b1NOeloyczZxOU5UM1A3QUI0T0tIVUluV21iSkZrXzVEcndsRkdON2NZeUxXczRvaW43ekIxVTljY3FFaU8wZ25TSGc?oc=5",
+    "publishedAt": "2026-11-18T00:36:21.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "정착민 지도자들, 영국의 제재 비난하며 해당 조치를 '반유대주의적'이라고 규정 - 더 타임스 오브 이스라엘",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "526263712b0f7757f3f1502ca83f634f281a4788",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Australia unveils new sanctions against Israeli activists and entities over 'illegal settlement expansion' - The Times of Israel",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcU84WnZ3QUpTQVpMZllqOXJsdkZGb3dCOEJLV3l3ZkwyODFNTzBpZGpzVmlYSmN3MDVla0p5RnNzaDFwejlvdmh2cEtYSXNiWEtIUnZVazl0ajFXTEJWbTZiRnM5c19zcUh6cThtZGV2MHI5OVVJSXpRbzhsTHFkUE53a0tOalU2blhvUGNhMnRlZjhYMnlOWmwtWDBIbjNmX2UxMHExeGJacEl0S2NiSWplZE80b0UyWUFPT21IQUZSNzZBS0IzbHJ2Wll0YnJqb0tNMndiclhSRWpIdHhWalJDa1Y?oc=5",
+    "publishedAt": "2026-11-18T04:48:42.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "호주, '불법 정착촌 확장'과 관련해 이스라엘 활동가 및 단체들에 대한 새로운 제재 발표 - 더 타임스 오브 이스라엘",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b444186b0d3fc1648f4df596bddecba9c4e53bce",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU forces board tanker in Med, expose fake flag as new sanctions loom - Shipping Telegraph",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmNhMHMtT3FwTy14NGNQdURwSHI1UjEzWjlYUy0xZnhwWVpzaHlvTzc0VjFWa01aazJ0SEFxUlRMYUlhSl9qOHMya0lTZHZ1a2Z0aDNHSll4UEh0X1BMeHNMR0xMVGZUN3lpQmhKVkh3cExWdnhtanhkRklac2VVdEpWTXhpSGM4ZWlRc3pZQjEtMGIyTXJyend1a1djbmlWMGhVMGpaVFU2dkE?oc=5",
+    "publishedAt": "2026-11-18T01:56:43.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "새로운 제재가 다가오는 가운데 EU 군, 지중해에서 유조선에 승선하여 위조 국기 적발 - 시핑 텔레그래프",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9b13fc4b4bbea2f1627759c45e1d820bb92cabcf",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK sanctions Israeli companies building West Bank settlements - Bozeman Daily Chronicle",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMWxtcHVlV1VBNmtuOUY1ZHlkM292ZFhCdndFb09MeFhVRDNqV1psWndZVUlRaXpFeUxnMktfSEllRC1JWFZ3cWNaLVpqcXR0cTRTZ0d2dENCZWh0MzAxMG9TN1FxZFJUOWpNVXlXaVF6aVBHd3FYTUZLWEJtN3M2YmROa0RNQlRELVVyN3JXd1JxQ2xHdzZWRmw3amF2SnlZYVZZUkpHd0tGd1c2MldyMnp5T0FSTWh5WW1Vdm9wWG5iUUtlNExwMFZoR3ZhNzc5OHVid0NMd094MER4WmNJM2FHNGhJM3FkVW5vZnE1R1FLTnV5UUE?oc=5",
+    "publishedAt": "2026-11-17T14:00:14.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "영국, 서안지구 정착촌을 건설하는 이스라엘 기업들 제재 - 보즈먼 데일리 크로니클",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d03d08dda41c5c352a63fb779db71f5940362f05",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Australia sanctions Israeli settlers, organisations over occupied West Bank illegal settlements - TRT World",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBESTEyX0pXY3c0VFJCR19qaG95RmtkTGNqaDRDSWIyaE5lZEpfN2ZXZkhiNllTTGtWeC1zR1owc1Vfc2FQUGs4NmluRzB2RUJ5Z284QTlLSHg?oc=5",
+    "publishedAt": "2026-11-18T02:27:17.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "호주, 점령된 서안지구의 불법 정착촌과 관련해 이스라엘 정착민 및 단체들 제재 - TRT 월드",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8a280ac58ca0531ba62d5d0631252993d4cafb2b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Australia’s West Bank sanctions welcome, but Israeli leaders responsible for ethnic cleansing must be held accountable - Amnesty International Australia",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNejhfUkxKZTlpdDMxNjJZd0FJNmVBOE93cW8zR2Jwd1BrT09hdWMyX3g4cG9GS0Noa0ZhSjhMUlFMSW84Xy1Bc00xWTUxOGJ5VDRoMndEV3Z5bmdtVFpYUm9oaUVSMEN1a203TnptRnI2bmdkNTRXT1pSS3R5M2hPOUVlYUswWTMzZ1hTMmNOZFM1emZreU90TkYzZzJHQmtxbnBWRHc3STJXNURUSVM5UHI2dEk1TVdpdkJrYlExSzZUMlQ4Yy1jdTNyYkc2azJIWmFkdFlxT2p5ZERz?oc=5",
+    "publishedAt": "2026-11-18T02:15:58.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "호주의 서안지구 제재는 환영받지만, 인종청소에 책임이 있는 이스라엘 지도자들에게 책임을 물어야 한다 - 국제앰네스티 호주",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f50d7cff01e16dbdc709bd255ca99ac275996a83",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Israel vows retaliation over UK sanctions on settlement firms - A News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaDRXSXktNW50MFVEaEFuaVZ1WmM5UVBZbjBVOXVmU1JQNEtIZ2lGdjhpMmNEV1dFamhjUm0yV1A1UWhCeWl0dHpRU016RHF6WkN0UW9NWjNLN2VfbF9YdTVPN0QyVndqMmNnM0NfYl9CVlFhNV9XeEZ6YVBNMjQ3cllFalBQbnFlVFRpUEtjNVBYME11Zm4zWDRpNmh3b2pfUnI2dGRCOER4OVYtbEHSAbMBQVVfeXFMTnJ0SVdhZDhHMElvUEY2VEpMUTdOT0Jyc0ZlZWNnQnN4LURHWGlyMHdjNUtTMXZ1WnBYRVBnU3QxMllKZWliNmoxYnhLSHEzRjdLT3VfQk01NG5WM1Exd1NkcFNfbXhodktSXzV5bDV3TGVheDlmWi1uU2lNLTV0VDhEdzBzYzRScDZFblRNWG10dVJDaHdUelFrQ3hIQUR3WDdncnE1OW5acGhrY1UxUGE0aWc?oc=5",
+    "publishedAt": "2026-11-18T03:35:36.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "이스라엘, 정착촌 기업에 대한 영국의 제재에 대해 보복 다짐 - A 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "29c207f5d69644cff4c29cef60fcda69624f68a3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK sanctions 8 companies involved in West Bank settlements expansion - CGTN",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRVNnTm91aG9ZQnU3ZFpXeE44UzNub3hRMUZ5UGk5b010VnA0dW5rc0RBa1dJb2s2STJMVnhGMzNfMi0tTUpwWW9UN3FhQWNRd3ZTVlRFQ2tySkRmdTQ4aWRnMTV0ZEx5ZU5OeGxaRWxtWG5ZNmc0UlN6cTNNSU1lLUxNNC1QNEd2UXBobGl3enlYYjFibm4yUGNvdklWZlVYUld6OWlMdTJXa2IycDRVRmtkRTFSdnhMRDFxNDdtbzRwRGs?oc=5",
+    "publishedAt": "2026-11-18T00:39:25.000Z",
+    "collectedAt": "2026-11-18T05:35:56.254Z",
+    "translation": {
+      "titleKo": "영국, 서안지구 정착촌 확장에 관여한 8개 기업 제재 - CGTN",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b11f0b13748d11d6f3be2d3a12c7397a0973104c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "🇷🇺🇨🇳 Putin told business leaders in China that sanctions PUSHED Russia toward SELF-RELIANCE, claiming the economy grew more than 10% in 3 years Speaking in Shenzhen, he cited 2.3% unemployment, exports to over 160 countries, and new 2027 inv - X",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTFFwZlJqUUxHc1dRZnl2OFZYdW1td21SelFuZ0ZGa2NyZnVMRUZEa1RHT1FNRzRiVnBWOGlLS2Q2RFNzU01OTWR0UENBQTRwYW1XcF9tUXh1ZVFEdERHVWFsbVQxazRmMTZFcQ?oc=5",
+    "publishedAt": "2026-11-18T05:03:51.000Z",
+    "collectedAt": "2026-11-18T05:35:56.255Z",
+    "translation": {
+      "titleKo": "🇷🇺🇨🇳 푸틴, 중국 비즈니스 리더들에게 제재가 러시아를 자립으로 떠밀었다고 말하며 3년 동안 경제가 10% 이상 성장했다고 주장, 선전에서 연설하며 2.3%의 실업률, 160개국 이상으로의 수출 및 새로운 2027년 투자를 언급 - X",
+      "snippetKo": ""
+    }
+  }
+]
