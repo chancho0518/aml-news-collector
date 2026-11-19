@@ -1626,5 +1626,716 @@
       "titleKo": "미국 재무부, 헤즈볼라 연계 개인 및 단체에 새로운 제재 부과 - 카바르 뉴스 통신사",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "e4d0f22064cc273e75fdee6c87488dd4d239e135",
+    "source": "ICIJ",
+    "category": "investigative",
+    "lang": "en",
+    "title": "Anatomy of a Chinese loanbook",
+    "snippet": "What ICIJ learned when we analyzed hundreds of Industrial and Commercial Bank of China’s loan commitments.",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://www.icij.org/investigations/china-capital/anatomy-of-a-chinese-loanbook/",
+    "publishedAt": "2026-11-19T21:10:12.000Z",
+    "collectedAt": "2026-11-19T22:51:54.467Z",
+    "translation": {
+      "titleKo": "중국 대출 장부의 해부 - ICIJ",
+      "snippetKo": "ICIJ가 중국공상은행의 대출 약정 수백 건을 분석했을 때 알게 된 사실."
+    }
+  },
+  {
+    "id": "20db3fb30074080a8f410384877a5a4d4c084584",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "케냐, ‘북한 만수대 자산 동결’ 지시…유엔, 제재 명단서 알제리 삭제 - VOA 한국어 홈페이지",
+    "snippet": "",
+    "keywords": [
+      "제재"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZVXc1Z1B4OFpSZUkzQ1hrdWlqeVNPZnFiNktYcWV0LUpXRklRTnJQT0ZGUnNNNGZwdHhGa1VHQU9MWDhwbFlET3IzaTI1Mng5UjV6NW1ZenRDcXRzXzlsWkpYZDVhcENUS2xYU05HUEpXMFFsQ3fSAXhBVV95cUxQZjQ0RVlHdXFyWWNZV2Qwb2N1RmpDc0RPWVJYM1ZXNEt6NUlQRU8wTkpFa1FuU09ocUMtWVNqUDZHLTE0VmJWaDZmY3VhTFdKRUJZRm0yNl9mOXRGR1V1LUwxUWdSU25tTXM4XzBoTjRDRFd2Ny1NTzM?oc=5",
+    "publishedAt": "2026-11-19T16:44:27.000Z",
+    "collectedAt": "2026-11-19T22:51:54.924Z"
+  },
+  {
+    "id": "b04bb4207d2c37c634a0cb3b0735155f899e05c6",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "In France, Non-Financial AML Enforcement Reaches New Heights - ACAMS",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0ZMVHZBMzR5SlFtRm1EMVJXblh0R1Njem9NUHc1R3pFYUhBV3F6cWJGTE5rNGFRa1Z5eWdoMlpOTGxWTmotbFNEUU84QjdtOTdCLXVwM2NZUTNLRWpRWnRhcjFGeFhLOGNQTG1CN29nWEhoZXg4clVmTFlpQ3IyWFc3NEdQeXd4X3k1UjZDOA?oc=5",
+    "publishedAt": "2026-11-19T21:37:25.000Z",
+    "collectedAt": "2026-11-19T22:51:55.020Z"
+  },
+  {
+    "id": "6336016a6f76de5bd354fe53b21c098d4aa5476e",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Multihit TP53 Mutations Independently Predict Sepsis in MDS and AML - Bioengineer.org",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSk9nWlN3d0pud0pHa1BzaHRYdnctRGZGcnFOWDFUWG9DNjFxZUMzcHJvVFAySU0wZl9aTzIyczEwMFVUU0lhNi1nOFlzZjh6S0RQLXlJM0dJeEg5WER4SElQVDhGYjFmSEhQcUVaRlVqMzVNUXQxOVM5bFZ5bmFVRkpEeDdSaHpSX3NNUGFwcEFhMF9icXBj?oc=5",
+    "publishedAt": "2026-11-19T20:05:31.000Z",
+    "collectedAt": "2026-11-19T22:51:55.020Z"
+  },
+  {
+    "id": "3c36ffd817e65545ec47b9ca6820592646470a58",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Shufti Highlights Fraud and AML Integration Through Webinar Series Featuring Industry Experts - The Detroit News",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNenVuaTk0UU1xVzZzbkZHNzRubFpsVnI3X1hSem9pSEtNU1pfMWItNmdXTjZwTDl1UkJaWWN3QkRDR1FPc2tmVnkzNVp0VFlsNkFZemRDSnpodDB0TThfdFpnSUdLUElKU2ZNTDQ0enoxQmh6d0lDQUFSZ0dNVDR5VllSWnJMY0JxVW93SHhmUDIwRXFSVXVpbEdJeUdzS2JGRDhMa205dlNxNXVMdUk1dnlZcEt4WkNkTk9jR0tDcUUxcnZ5YWN2N1JONWo0WEhEcXhRQmFzMFV0YnZaMkVtZ01aQQ?oc=5",
+    "publishedAt": "2026-11-19T12:02:10.000Z",
+    "collectedAt": "2026-11-19T22:51:55.020Z"
+  },
+  {
+    "id": "9acc21c31a139b64cc12eb58903f279754451952",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "E9PAY launches IPO amid scrutiny of family ties and pending AML review - Chosunbiz",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmIwdU5hRzFQU3VScmhiXzdSZTRxRUlNd213TUlWYkpSallEMFdlX1BXZEZLT2pfenJfWG5UOWZuM2l5cXRUSFBXNzlNNFNxM2hua0FMYlQyeWZseGQyaTlDMV92X3FXaHluOTB0ZGc1R2xlX3NaTm9TU1FXMk5vY9IBlAFBVV95cUxQdk5oeUJueS1OdGtiVEw2TmN6OE9PR05TMTNqRTZnVllrSy13d2d5bDNQS3Fxa0hLM3Exb24xVE5qOW9ETjFhUnBpb3Z2dW5Gc2xkaGpwSkFhdHJnVHR3aHdNSUI0X21UUF9kU1RLNk9xYXlhR2RDdk83T0pzbWpSQlhETmI0U2FRU2g1NkFVaklWbGlL?oc=5",
+    "publishedAt": "2026-11-19T21:00:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.021Z"
+  },
+  {
+    "id": "fe8537c90c26efef7ddf73628f0877173bfb8ac1",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sweden Fines Northmill Bank SEK 20 Million for AML Failures - Fincrime Central",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUU1cWMzU0xHQzJ4aE5iMThEVER3NDY4Nmo3cW1sb1plZklSSldWLVFJVV8ta0FKQk5tdkdHc1UzUzBFYVhuVzFZaFM1MVNrT0FiNzd2dzdWVk04d0JkRGpSY1dvTld5WnVaSnFuXzJwWF8tdTQxOE0xX1Y1eXpZSA?oc=5",
+    "publishedAt": "2026-11-19T08:02:01.000Z",
+    "collectedAt": "2026-11-19T22:51:55.021Z"
+  },
+  {
+    "id": "8f0977efa54230934019ec54ae114e5edf9b3052",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Webull (BULL) Hit With FINRA AML Fine, Stock Slides Again; Securities Class Action Pending - PR Newswire",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT2RuSU5xcXQ3Y0k5REwtdW84b1dXNlVMVmhwdXRreHhLSVJMQkVMejNaTFpkbk5Tc3FlWmJxZEpsaGlWWjNBMXZKTllXZGdDT1Y5M25jRFg2YlpXZFZIMUVXb0dfcGd1MWFHWGRtb0l0MXVTT3NBQ21xa2F0bFdOendnOVFUV2NMbzIwYzV6T3J4Q29tSDk4U1ZnZFNMaWRuQ0E5WnVZNV9Vc1pBallFNkQ2anJ2anNhNmRKZkxkSUZzRXZtX0J5aFR2ZEpoN1pGcEdnLXNueEYwQQ?oc=5",
+    "publishedAt": "2026-11-19T16:45:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.021Z"
+  },
+  {
+    "id": "07ecb9a227f43b469dd7969584a44e3470d311a5",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "MFS bKash hosts workshop on AML, CFT governance - New Age BD",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2pwNGVYVGFLUUpRakk0RUxZOHRkMUNuS18yQlk0ZkRQaVgwdjBFdExPb3pTOEdRTVc3Vy1nRXYwU2tTTHRmdHFLX2o2QmxnZDZkbHFVMXZ5WWo3YS14QzNIdDloQUpmSHk0Q2t5MkdsUFlVZW5fY1pkUEo2VVJaS3pPem9HQVY2dnJXU1VlcjJkX255ZmdmbVV0MGZsY2FUZG1NcUVn?oc=5",
+    "publishedAt": "2026-11-19T17:22:47.000Z",
+    "collectedAt": "2026-11-19T22:51:55.021Z"
+  },
+  {
+    "id": "23b9f587501830f0759c7e35c405c42fa63a60dd",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BaFin Fines KT Bank €140,000 for AML Failures and Orders Data Refresh - Fincrime Central",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EdHA5TkZKREdiN2FBLUJhRkVmOHBXRVMtXzlHbjRYM0ZLWkRQNmJoRV83R19Ic2xJeXVWMGo5VTRYWEw0c1c2RG5NUEhfd2FiazdabWpiTEpTeHNWU000M1NMa0pXMk5vUkhnQy1QVU5nZ0pkNTBBUE1SYmJ2Zw?oc=5",
+    "publishedAt": "2026-11-19T07:54:39.000Z",
+    "collectedAt": "2026-11-19T22:51:55.021Z"
+  },
+  {
+    "id": "98bc69c41bf4e24c53d736ba401eedc6edfa4c90",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Defense, prosecution clash over AML expert’s testimony on 44th day of impeachment trial - BusinessMirror",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSEtXSzdNXzZ2TVo4ZmMxWkFTTFI1dzF6TWI4LXpHRk9hcEJuV3RXS1dfQzdoaFc3QlJwR3d4V1pYbUIwZXVxdlNvNVV1b2laV2FpSEV2RXNoWTVBbmY4V0VsVW5jemNROXZmbk43TEs4S0hkWlpZRVV4OUVBRUlrUWI0bkQyQ0ZoUFhqZUxDOVY0N2YycUhNa0otZnJQcnhMRWo1NkVOMXlpM3BRV0tpbkVmUFg0d2EyQVFNbGN5QUE3aFJvX2c?oc=5",
+    "publishedAt": "2026-11-19T13:13:49.000Z",
+    "collectedAt": "2026-11-19T22:51:55.021Z"
+  },
+  {
+    "id": "21ecebf3d546b10d642d19478dea9a589e02bd84",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "bKash organises workshop on AML-CFT governance - Amader Barta",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORWcwNERqa2tTTTVjOTJjWXlEM3RLblN5YU5lY1ZjSFp5WFBneUZMWFFQSENLLXFGdDJUMkc3U3pyblV4U0JteWltQmIyTkJLMlhIQ012TG90X3owQXB3ZFV5TUc2UnRvVjRoU05oWTlxLXJJSWFfcHEtSF9paVUzelVKcXBKR3V6eUJRWk1Sdkt2alE?oc=5",
+    "publishedAt": "2026-11-19T12:29:22.000Z",
+    "collectedAt": "2026-11-19T22:51:55.022Z"
+  },
+  {
+    "id": "c7a908e92a51432d44927794f7349879660d07a2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Treasury sanctions three people linked to Southeast Asia scam centers - Reuters",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2M1YkZjRnJxTXVxYUdsSkdqaEV6X25QLWNsQ1dhQk1TeG50dlluelNFVk1Ra1VrMjNXUlV6WHJDSWdOY1ZsT3FXOFBlY2Zvb3N4UmhxNlhsdlMzaV9mN1ZneEd4NVpsN2g1ZlEyQ2txSmU1RzNOVWlKcGdaMWNhMW0xOG9XMUo1MUZ1UUZiazRGSS1qWXZSX25HMDFwd1JtYllFbTVXZU50YVBjVVE4Sg?oc=5",
+    "publishedAt": "2026-11-19T17:38:21.000Z",
+    "collectedAt": "2026-11-19T22:51:55.136Z"
+  },
+  {
+    "id": "ffadfd88b3b1a5d53be30b722c47b183b9a67767",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Settler leader says municipality’s foreign currency accounts frozen due to UK sanctions - The Times of Israel",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSk1ZOW1oU3BnWkhhR1hmNXNkaEFINkxTd1hxb2ZkS3ZTQ2VTZmRST3dYMUFJZU1zWkQtN1lkRVhqZGdqQk5jcXJRTklScXpMTFlTYjFUVFBKRUYyUzBocU1qYVFoRktLNEQ2WGRsSUxlaTNYODVnQ0dFT05qQ21DSklJcHNTa1JmWlFxTUxJS0VSRXY1RE5PTUlrOUVBa1dETkZoR2p6UU1VN1hJbFRpd0tVRzZSZy1JZFhqZzdZV2xkRjQ4MHFJc0x6RzM?oc=5",
+    "publishedAt": "2026-11-19T19:19:03.000Z",
+    "collectedAt": "2026-11-19T22:51:55.136Z"
+  },
+  {
+    "id": "4cd6234626ff9af8b2ed960388f5fbddf2731325",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Analysis • Britain's sanctions are hitting Israeli settlements where it hurts - Haaretz",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQeFFIR2tCRW1rX1NtMFRjNEZNWWttTUJYWmhkVzdBT1dGdFN6dHVEZnlfazFHVlZoM08tRmpCX2xRcFhzOW5ITzdjTkFOVm9FdFpqX3FMOXRZUmkxd3BzdS1YeUppeERmSDlwX1Q4bmRaTFQ0TmV2eXpJTG5NUDFlZ3NraDlTQWZZWXZ2UHBVUU5DbDVUNHotdmY5WmE5Tk10Z0VIV0VLZldpZ3ZVM1VrSlhVdmd4ZFRramk1cFlvMlRFcUNvYXEtcVEtZ1FxTzNteVRENHNKaTBiX0NJUDNaQlV6UWQ3ZUlkTVZPNGxENGZZdlR2WVZhMkJydm5XNEtXd1duN2RoV3JrS3VuZmt4OW5XVQ?oc=5",
+    "publishedAt": "2026-11-19T15:24:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.136Z"
+  },
+  {
+    "id": "1f5e5f91139b37a4717c012b26f6c77b705b4d8d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Report: Aoun's remarks anger Hezbollah as US, KSA threaten sanctions - Naharnet",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUNzMEx0TnRITE15TUpfQllBaHdPandMUG5rSi1ucWdYLUhFcWJZbGZSRkRGXzFhUTdpLVFvdFRzam83S3NoSV9IQko3b01aMzBuUzRMVVNPa1NMYThicmg5UEdVRUs0c3ptaGpMZGowd0twTExYVzZ0dkRtVkZOMGhhUzZaSmRHemYwM3VEdkxfbG83YWR5MDBqOVNjeXVTRkhYdG5ncTNLenFaYVE?oc=5",
+    "publishedAt": "2026-11-19T14:04:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "f33ffa1a004369d4b68a995479f8de7aff0beb02",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU Creates Sanctions Office, Names Swedish Diplomat as Envoy - WSJ",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZEVzZ0Fjdkd2QVFYd19jWFBacTczbUQwbGhIVWR1eDJWejF6dFBkamNKZ1JkWllxMWVuLUlRZFV2TDNFTGJQTFA0LVU4R0t6YUo3SWVVeG9iV2tmZWY3VmtSLWdhdGNTM3NFNEFULXUwSzc2eTFYampFbWViZ2lvNzVjemRfVXdwSEdkZEJNN2d5eFRDVVJfeUN1dzQ?oc=5",
+    "publishedAt": "2026-11-19T13:51:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "deee227449358bd665a3485f97a2dda3d540d537",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The Sanctions Puzzle: 10 Key Areas to Watch in 2027 and Beyond - JD Supra",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbmpZVVY2MEdjVG5pTGJqeHExNHV2LVJLUFdld2huQVhmN1YwTW15d1Q0aXMxT3ZiclRFTWN3VzFrN25WbVBCc1gwREdIeXFBeVVaWm5wNGJvUE5VNHR6SDNpY0FxZnc5QUREU3RxM1M0LUJneUZuMVVFLWJ5Mjh0MTV6VlJNdw?oc=5",
+    "publishedAt": "2026-11-19T21:11:28.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "cce6ad8945295b8fe15bc061c929618a0c8fab0e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "INPEX sanctions Ichthys LNG expansion project, awards contract - Oil & Gas Journal",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczk0bzczaVZPUnBIZXozVGxqUjJYd3ZaanRmX3JmNHVDaHk2MlNnbjVuVVpsNDZaRjdjbERmWlB3RXB2RFFwemZmZnB3azEtNU5UZURvVUdaWXRTUmlNeUR0ZncyNHV5M3FXRVRLaHRDc3VZOUI5eWpmRjdja3BDS1BJc0lOeVFiOFZ1T2F0dDdieldRaWw4blY2SURCQjU5QWtabURDN3duOG9hUzUydWtB?oc=5",
+    "publishedAt": "2026-11-19T19:24:12.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "3131fab4829c54c82211ac00a144bc177ed9d885",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions Italy’s ’Ndrangheta, targeting its global drug trafficking network - Decode39",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2tKRjZhbUZlQXpKYnppSG5YYXRVekpXazFpU0dyc3VEaHNOX2NYNHlXeUhVVHJVbHRDVUQxYVE0aGFoUDBoX3k5ZV9lazZBUWdIUDVpSkdLUEduVzk0ZDdYZm05cXQtODVuUExRak5XQjlxQnFhUHBWQ2lOaGZsSnUyNm95VHRVUGxXaTUtcXJHQWpWWWtVWGx4ZEFERmNZYTd2cTV3bw?oc=5",
+    "publishedAt": "2026-11-19T16:41:47.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "667397877c2d2f908b8010396c6a7cdf7c1b5bac",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions alleged drug trafficking groups and Canadian-based mafia leaders - Anadolu Ajansı",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb1lOMWpCcGozSi1ENTBtV3Z4X19XT0p4aUJPTnlyUVI5cHJaNktwMHhQN2xxeXktRll1TzlIbHFPN0plZ0k0VVhjUTJHeFpYZzFaQkg1em9kanpXQmVzLXpMUGJSMktUeEllVkNwM3FOUTIwSmZnYkZHdC1KYU1qZlBrdGNxU0FQSWpaY2FJV25TVGFGNUhSOG9KaWlOQTNrMXItN2hWOHJGWEVlaFA1R09PX3hadw?oc=5",
+    "publishedAt": "2026-11-19T21:45:04.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "72b3db4248992066bc0791096cfa8bb89377348e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Actualite.CD: RDC: l’administration Biden réactive les sanctions contre Dan Gertler - thesentry.org",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFRsYUR2elRmWEZ2ZjZiV2FLdTAwZlVMQ0NlaHVnTTd1OVRfZFBUM0JTanZqb0V3R1YwZFVRaHZmQzZBMEtkS0JoVUJ3RWNmWVFCbnRKSms3S3hBS2xnVklrMHZsOUx1a3hUNkY0dGpHWVBDSjBOYkZZTk80QVlvdzJMUEVtNUt2elQwZ1ktaW9JdG1LNmg4NW1iTGNHNjZLTE01MUxSbURjZk56?oc=5",
+    "publishedAt": "2026-11-19T15:30:24.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "5b2d71d510a2bab43750b41703649561b9d77350",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "National Rulings Nov. 12 – 19; Banned Trainer Corrales Facing Additional Sanctions - Thoroughbred Daily News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYlF3S1VOdHh3bUV1bl9xNTNvMmxEeHIzZ0JRU1QxRElLNUNHV243WXM0Z3lacHR2XzlkYTdscGU5bEVWbkdGcGVxU3Y3aUE3a3JlSjItSjJGeDUyYlF6NlZiT3lVbzg2NnJjbjlWWVZoWW1Ma1d4QUMwdVoxS0VheExjaHAzY21yWG1ST1hUcnpobWtyUlhvNVNDVDdpYVcweWUwWGs0alEwSG5Pb3NXSHVoTXp2WE9t?oc=5",
+    "publishedAt": "2026-11-19T21:55:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "33f19a938fe996f6379b8f4d814e39827727d794",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "OFAC Sanctions Comancheros Leader, Lists Tron Address - The Defiant",
+    "snippet": "",
+    "keywords": [
+      "OFAC",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVB0bDBZZ2d0YXBqblJCbEpwV0h1UUhFa0o0Wkdqd3hyRno4UlBwOTBGb2NiMk5EVU9tcm1LWEZVN1BQUGZDaERzQTRYVGVjUWdYb2J4VnBXMXVaVnhScS11eGlpNkdydlF5WFdOcVV4aXkwNHM0YnFmbVFDdjAydjVDeE43cmE3c1ZibHBHVW45eEhr?oc=5",
+    "publishedAt": "2026-11-19T20:28:28.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "8fc0fbeefd7f0b7c31e85160635319f87aa24d80",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Can Hezbollah’s shadow financial network survive fresh US sanctions? - Arab News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHM4dU5laW9WenJ0VGNhTTQtYW03eGIxSWs2OVVreTVlR0pTMF91WVdycnUzQTNDYjB1WS1meWV2NUw4akNfbC1aaHdOTEN2Z25DVjdBMlRiOVhabjlwZmZxZlRTbHZnSWJKdXJvZm5MdzNpZTZ0MFAwdl9GSFJUT2FWM08xbE1YZllTanNhVDlTcklhaXdNbVUzWnlHQWNlU25Gc2ZJYmNZU0ZIc1M4Rg?oc=5",
+    "publishedAt": "2026-11-19T20:13:01.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "0782f7941210e89cc9ee92a425a5028cc915a320",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Fifteen countries welcome British, Australian sanctions over Israeli settlement activities - Middle East Eye",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzRZM19pYVBTOGRKRHYxN0tKT3M0YkNsM3d0RnhZQ3l5SjdUVW8zQndPb0dRcHktZVZsdVBhbko0SlIybVp4dmY1SXIzMDQ4OTVuZ3JmV1l2angyMjh5RFRDZUxmV28zbWxsRjlrcnJrektEbXA0Uk5IUDNPYUxDcEZVazA4ZFRaUFZNLW53TmZQcTBoc1pOLUUtcl96Z2ZHeEpPSF94VDBPVmdyRWx1X0hXY0lfRWVtVElF?oc=5",
+    "publishedAt": "2026-11-19T19:56:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "5cb72dd6b05c48238d3e7fb203b3d5666c5446e0",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions Hezbollah-linked entities inhibiting terror group’s removal from Southern Lebanon - JNS.org",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3NmZGZjcVd6QzdNNXdtUlRxb0U2dTFFQVVNc2Z4TDR5T29aZTRxQ2tWaWtiS3p5ZUdYa05zc0E3dUtqaEt3MmVJTy1KMTQtOURLNUNiLWhWZnNaZ1JPWTNNVGJBd0dmR19sd0Eyb25tQzBQZzluWEdzdGRUdDl5OUtUYjg1ZTlDeDNfaDFEZEdGc3lDU1dEbF9NeWQ1dGJqZ1ZmMFA5OWQ5Mmw5N2xEdDRmZ0F6aVZFVkdlWGlJZjF3VVM3SHc?oc=5",
+    "publishedAt": "2026-11-19T17:00:51.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "48687e43adccd3d9937573269003e8f7ae5d2ebf",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "How British sanctions are already having a material impact in the West Bank - Middle East Eye",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYjlTMWZtRDAyVGlSYlAzeTgzMXEwc1B4aWJKMEY2NmF6WjA2eXFDNGZScEJpNW9yT1NwVHV1Rl9SOXRWQ3hvVFRTRjBDSUdJX2o0dzJzRjZ5ejE4bU9MMFMtb0RQS3lKWkhOSTAzV0lMUkN2Y0hHbVdyd0FpSXVqa0JMNGtacFVMUXBnNVZ6ZXVURXgyeGxCWi1JYTBtTGlzQ0tv?oc=5",
+    "publishedAt": "2026-11-19T14:36:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "19d512636f1cf88dd013653d03c32d015f2d76be",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK Man To Drop Case Against Tax Atty Following AI Sanctions - Law360",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcDhhT0hER3phQlllYVpld2JYSjgyb01sTEpkUmNRMmNYTnRTbFZSSVRidWtwakhWUnliRDNYS084RGtGOGxGdHpMakt0eEJFN1FEcXppVFNqRkRfMGVTbWxSS3VMaXl3cV9UY3BCcGRvN0FlZlNoX2pDMV9PWWFiXzRUQmtUNlhJOExWaDJfRnpUTll5V0ZKTzlEejk4UUnSAWhBVV95cUxOZU9MSy1vd3lhR0UwVFM1dG0zR2ZzLXRJckRNOGVCaGJMeHI3MHBZSzdjRmlmSFFIdURFaWgtb1E1WmwxQW56dTlGQ3p4MmhYOUd6elBuUHpwOUd1akYzcU9jdnc3cGIwYg?oc=5",
+    "publishedAt": "2026-11-19T19:52:45.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "1444d3b7f22f40bb1218fa4898c33368b458f052",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "How British sanctions are already having a material impact in the West Bank - Middle East Eye",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcTVqUzh4cTFJRUQ5NDlOaVNiajhVbmtXSWZTRFdFV3Q1SzZPM1YxU1FzdEdhLUsxU2diRU1sU0VrUGg2ZWczVGVodkdhMFFJejlUM3l4cWxXOHdjNU1hN3k4QzJGandudFlMV0VDdmNnYklmeDlqbU5zbjhmUVBSSWF5dGVfX3RLaG1ZRnM2Z2pMWlRobXloT1lOS1NpSlBEOE9ETHZDZTF6SnpyeE8xWmtpcEg1WHcxXzBIY0QyLXA?oc=5",
+    "publishedAt": "2026-11-19T16:07:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "9c18434fe6f7f4d5368b3ef5ca3cce26004378e2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "British sanctions already impacting banks, companies in West Bank, Mount Hebron council head says - The Jerusalem Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIamlRdDFpZTFYNUlDZ2VfUkpMVlR6cG5FOVNpX3NOR05FTTZiQ0ZGUUQzZHZmckFTbnRLTGhLR3FFS1l1N0JscXRld3BUakNKRjlvQXM3VmtmVXRz?oc=5",
+    "publishedAt": "2026-11-19T16:45:42.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "21c23cfc084d4a1bb564dce8f7a27702dd3ae4a5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Joseph Aoun Tells Hezbollah To Hand Over Weapons Amid U.S. Sanctions Pressure: how 12 outlets framed it - NewsCord",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNemVSWFVlaHk2TmdCa0xmOVBYQklhSGZMY1NsdXpoeW9iU0NSUnNXUzlINTNmbi16RzR1NXE1MEs4cTNlcXluZkd3eHhva0wyS1A3OTVpVngzdkY2X0R1ZlZSMzdKRU1kbXltcDZyN3ZmNHlZNHFTMXVTckRscVJ2VTRPdDgzTFhPRHQ1bmx2ZjhVbjRsclVCQW1YWWNCU2UyVmF2VC1kbjF4VWhzaUoyVWFMcUtpOU04cTNHUm8ydGNsZzd3V3duSWVRcTZvWl9VZUs5TEN3a0JXWWE2VV8ySTRsUQ?oc=5",
+    "publishedAt": "2026-11-19T17:27:59.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "d2531422dee228d2357fb86b4cd23ac40145cb09",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "OFAC sanctions Comancheros commander, lists Tron address - Crypto News",
+    "snippet": "",
+    "keywords": [
+      "OFAC",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tVE1CVU5Hd25pekprdEY2OGFrMUlTNUFYMTFCTklMcWhxTmwwYTZGVzhROGc2RVgwZGtKV3NweVpiNjZVNG84a2xJSWhVLXVNTk9PS0lGdmZrSVZ0eWlOaTRn?oc=5",
+    "publishedAt": "2026-11-19T21:00:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "97f742e9566717ec11a93495b8529f737218be2f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Incoming House Oversight Chair Garcia touts settlement sanctions bill - Jewish Insider",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMzZ3NVh3Tkw0ZlVKN29PaUxzRnc0UG14Z3NIaUpyYW81WWc2MWlDUUZSUk4teEpTcWJTSDlSbWprLXhOQlB1TDN4YlBnbm5qdVlrbllsanFKN2VhVHRLcTJvemxHeFJsZTBwR2FjRk5ndHBtSmxETGRyRVJwa2dKZXoxWmh1UXR2ajdqVXNHMnJTaDkyM3N4czV0XzE?oc=5",
+    "publishedAt": "2026-11-19T12:52:07.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "9a4bf93309479669c6acb004e2eec784f12d97d7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions are preserving the colonial enterprise - Middle East Monitor",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObWE5M01SX1dfSUlsUnlyM2VsRVcya1pjbUdOWEc5TnY5WXlETWhoX1MxM3N2RWNmcy1sdkZVVjFpWTVUcVpMYTJRemZJaENfaHozOXRXYnQ4RjM4dWtTN1N6d3I0ZDhHcTJaY3JmcDVmSTdUTFZhQ05ieS1iZGNDdHRMV2Q2aGpjT3Y1TWZWVzhscTlYdVJv0gGcAUFVX3lxTFBBRW1iUTBkQmNkWVQzbHFRbm1lWW5Yeko4cEhuUnpDSGJEdTNTWXo0N1R4NlZDbGN1SlhlcEQ3SlJLM1gyT1BWVWhObGQ2VkxUS1ZTUm41TWxESElrNXNlZ3ZWVlpDS2V5MW91R0NPVzlNRnZIYkphdkNiUzZ2Rkd0WTd5YUZTM3IwSDFOUXBXOHpEaHdZT3pKSE9hTg?oc=5",
+    "publishedAt": "2026-11-19T13:50:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "c1c926151959866a684a9cdd8980fcf31d4bf644",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The Blogs: Britain says its sanctions will spare trade with Israel. Will they? | Trevor Asserson - The Times of Israel",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb2ZwWl9QU0llWVBuSUx3WGpUaS1PbFphUjE3d0REMGZlUXp3VWFmVklwMnE1Uy1XcTdfeTFpM2NDNV9wcTZxV01PeVliS1p2dHNScnRYcHFXWWJWVVdmcDlJbzczVmxiSzI2aGhkQXAxTUtUYWJfNHJwQnFkTlJFVlhqVGpXaWN0eU9WOUhMRi1WVVRhZ2dPSVpuSVl6ZVk?oc=5",
+    "publishedAt": "2026-11-19T13:03:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.137Z"
+  },
+  {
+    "id": "9626b9a769414b7b301febb3cbbcf821a8321a16",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia’s FIMI and malicious cyber activities: Council imposes sanctions on 30 individuals and two entities - Council, European Union",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcHpfYVMxYmVKQmZRZTY1R2Uzc2hlaWYzZTRGQkJfbzJlN3ZVV3R4WnFhelRlbnlhbDFVWkUxNmdUb21Wc1JvcnRtY2V5amNySmgyd2VCZGFfWkZsR3AtQUdicjJGam00M09jakRvUVpSbHFWVXlXbzFoWEVlY2M1cy1tb3E1VjNiWnljR1RuU05iN0pCa3RWamlzblhZWlRzTU54RVdWWWJRa3gzTzkwTEt5U3ZvS0xBMnZ6UjY1MlpHQkZ3OTZoVEVwc0I2dWlSWFMwRnVaUnE5LUYzZXFyZHcxRDIzMDNaNzFzbFBkWlZUdTJsU2xmWENuNklOSkkyVWZV?oc=5",
+    "publishedAt": "2026-11-16T11:13:14.000Z",
+    "collectedAt": "2026-11-19T22:51:55.138Z"
+  },
+  {
+    "id": "05a654559f9daec93bc411c923c012e041b8398f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The Blogs: UK sanctions Israel. Israel sanctions UK - The Times of Israel",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DMUI1M0N0cWw4NjdLaGp0dE5EaEpaVHM1Q050NjJSZ1lFVUttc2hjVm11VnhHMDVwVjNLYnRuV2NtSC04aWtTU3pnYTI4ZTlab25MS2hLNzRHdUNfUTdZSkpuaGR1aHAzTFRUa2F3NGc2NGRrZVg4WFB6MzQ?oc=5",
+    "publishedAt": "2026-11-19T20:20:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.138Z"
+  },
+  {
+    "id": "621cdd5ba52b29140543556fca215704150cf1da",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Saudi, Arab and Islamic FMs welcome UK, Australia sanctions over Israeli settlements - Al Arabiya English",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVNpRXA1YnpoWkpTcGd3Nlp0VzRWeVo5TmFoOUthRG1hTGhWSXYybEhpVDVycjRKdUpFV0tHbnA4SXdialNTRV9yeUxFSF9KdERqSHVqcjVUR1YxS295OTNCM1AyT3VtaV9hSkJVNk1UOVdKMWF6d3JPd19LTFoxR3J4TnhwNl9HMlI3OUxzckVqM1FXa0tOeVRkLXZzV0pER2QxdlVVV2ttVjZ3dWpZcmFwYTh1UklKRUVBQUNHcjFVYmdtRmZ6a3lmSy1mcmo4YkppX2I2VdIB3AFBVV95cUxQRXpBSEtQeG8xMFY4TFRfRHpyNHRhSjUwZWYzUGEtazBTamlBRjJYVmp6N1NORzk5NHlLa2hpQ3lXczRuc2NNTlVuNWZ6SGRCVW15UF9UUUJZMVRNbTQ2bWI2enFXSEdORmppSFBBbmRhdE80WEVqZFhsVzZUZlVSZnREeGl3ZkNjeHRPUTNPaVFocXAyMVRTQjZRVGNrclNMS3ZpYXJTbVZXSmY2dDJzdHFpU3JNYUVCRjN5NEVGZTdfdHNRb0FFNUtQMzBtWEdDS1BrRkFOWVctd0dy?oc=5",
+    "publishedAt": "2026-11-19T20:30:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.138Z"
+  },
+  {
+    "id": "61b4192d2638f7de624ec0214aabb5ede3f2b517",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Treasury sanctions three people linked to Southeast Asia scam centers - TradingView",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEZNbnJVZWpDZ3VqSlJfVHEtU2tXZmdLU2JPdWx3QmF5Qm1kQmRiWmI0cGJ4bmNCUnJLeHVvMUxlYkp1emlFWGhCSnlRNWdVWE1TSUtwdjUtQkRia3paQUdONjFKbmRpSXNVMFowTFR3ZGtLaEU2aXFGRDdWWXBhVzhXNTVtTUlBUUE3elVIXzdJSm1DaWpXN2xTdjdaX2NmcEpqYll6d3BZcDN3WFpQYzdlZ19oUXVsLTRybWdMRWtjOWFwOHZ4UHZoTXJ0anZXVXFxMXVaMjh3dw?oc=5",
+    "publishedAt": "2026-11-19T16:01:26.000Z",
+    "collectedAt": "2026-11-19T22:51:55.138Z"
+  },
+  {
+    "id": "d033d6a99f626a98d618e0895f48fbf66881d81e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Comanchero OMCG Targeted By US Financial Sanctions - Mirage News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRLM0hJWHJnSFlwV29aNEJsejFHNEx0VjJ3bEtoTDlUM200UFFXWE1qX0ZBQ2EwMHFMYVY4Tjc1cmNaX1ZfVVFKNDNST0lKdmV6ajQyTVpycHpnOWpuSkNyc3E4QjJ5WGVYV3lKWm9pekN1SEE0M1FhRUp0bmhXSTNB?oc=5",
+    "publishedAt": "2026-11-19T18:20:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.138Z"
+  },
+  {
+    "id": "d7e64f9fb8b7a6bf160db96d3a2208faf912a565",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Police Welcome Sanctions Against Comancheros - Mirage News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmhyeHB4eWg2Tk5OZmVQSk0yampFUk5kQTNCekFjWGdQSXFBV0VDdHNFQXUtUTMweG1RcjBEbG9DSDZfOGI3RVN2dEkxYXFSVmpiVEE3ME1yTEwyYjR1VmRSdFo2WTlOSzFHbENJMDdoMWN2am9sY1JnZk1scUttWTd3VHV0Rk0?oc=5",
+    "publishedAt": "2026-11-19T21:06:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.138Z",
+    "translation": {
+      "titleKo": "경찰, 코만체로스 대상 제재 환영 - 미라주 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9590419ed19c6e74d8e07a371141aee5beabb8d4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Saudi Arabia among 16 countries backing UK and Australian sanctions on Israeli settlement expansion - Arab News",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ1JudWNTOFZEeXJZdVVKUWp5Z2l2bmQ4RkkxaDRpTUFrM2g5YzhYZ040N1RJcG42R0VWYzI3eEd4Qm9zUmNjUzJBaXBRT0JEXzBfU2pUTkt6cElkTUR3Unpaa2pwY1ZZQ1FtX1MzTGtWSWUyOERnZFJsQnZuZ0xmRDExVEdnaDVvbmxJcnpyLUF4bk5uT1FBY041aTVJRXZsZDUwR0ppVHJORkVmMVBtMEVlODFCWUNBenJDeEZjcEdPalV3Uk9rX2l5THBNUkk5ZFdtRE1HTTFYSGd3UVE?oc=5",
+    "publishedAt": "2026-11-19T20:30:55.000Z",
+    "collectedAt": "2026-11-19T22:51:55.138Z",
+    "translation": {
+      "titleKo": "사우디아라비아, 이스라엘 정착촌 확장에 대한 영국 및 호주의 제재를 지지하는 16개국에 포함 - 아랍 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "041b3211e3159a2e119ca40332430725f7a16bab",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Treasury sanctions three people linked to Southeast Asia scam centers - marketscreener.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVhNN2hCZ3RieWx5bFdrdmE4WG5rX2JLamVhX2JhT3E2bm5VWm42RkpuWWVTaUdsVjBIcFFvZnFBSkJ2d1JmSzdSaDNBRmJBOEtMenVORmE4ZEpBV3Z1QW8tQlZNVnEzZ2tBeXQxTnlTM3lKLVRXejdHYlFMMVExdjA3LUFQZ3NPQU4yTjFfYTFwVnlhNjQyd3BPSGZYVy1hLWVKQWJNajJqTjAwS1lCVnVRSVFacVdEc0xPREpIdXZwR1k?oc=5",
+    "publishedAt": "2026-11-19T20:19:41.000Z",
+    "collectedAt": "2026-11-19T22:51:55.138Z",
+    "translation": {
+      "titleKo": "미 재무부, 동남아시아 사기 센터와 관련된 3명 제재 - 마켓스크리너닷컴",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9afcf7319b673dd44d44f241c0793d4cc4aa3ed4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Progress in Ukraine talks, sanctions against Russia eased - TodayPress.tv",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOam1oZUQ5Rm96dWNaM2RKUzZsa1dPMGJnekR6TzRMQmdmdjZQSTI5dzk3WDlYZUFYSmhWWHBtUWFwZmlFa1ZpMThZaWhQems4R1RKSWhHR0lpUjZiVEo2bEM5NmRVZGVuYXRRUlpUd1F5cm1YM3J3cTg5aTVEVWRHeVZCV2RvX3NkdkxLSUlWLWM?oc=5",
+    "publishedAt": "2026-11-19T18:52:07.000Z",
+    "collectedAt": "2026-11-19T22:51:55.138Z",
+    "translation": {
+      "titleKo": "우크라이나 회담 진전, 대러시아 제재 완화 - 투데이프레스.tv",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3795967aaf48cdf000838c4b04af155f2f0ac8d6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Kim Davis still owes more than $565,000 for denying a gay couple a marriage license. Now she faces sanctions - Advocate.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lX0VSbnNDTmJvb1lYQm1hdzBCN1A1ZWowYm9UODBDMGUwT19MczNxaV8tUFlRT1REdnF0QWVZdlVTTVZITDRaT0pTUm01TjYwVmJYVzh5Y3lBZy1wcmRndVBGeHRhVVcyZFJPaVFVb1Q1S1BVNEE?oc=5",
+    "publishedAt": "2026-11-18T19:03:20.000Z",
+    "collectedAt": "2026-11-19T22:51:55.138Z",
+    "translation": {
+      "titleKo": "킴 데이비스는 동성 커플의 결혼 허가증 발급을 거부한 이유로 여전히 565,000달러 이상을 지불해야 함. 이제 그녀는 제재에 직면 - 애드보케이트닷컴",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "620d2c0aa2b66e449ea416ddfc93dc9d0f050150",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "VDL: 22nd package of Russia sanctions on the way - Breakingthenews.net",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUHVpLUttbjlvVHY2VzZfUU5lLUg0QV9iMnZ2cGFVVmdVMlVSal9tdGIxUXpkXzdpRVN1RmVqbU13czNtbFNJRW5kb0xraWNYa004QWxva3lycml0SUNGUEp2ampsMDczaXd3SjMxZXNEMkhfck5vV2hsalBtUU9zV2tHTjVIaE9ESmFMUnlFYk56STBuS3F2TQ?oc=5",
+    "publishedAt": "2026-11-19T18:07:00.000Z",
+    "collectedAt": "2026-11-19T22:51:55.139Z",
+    "translation": {
+      "titleKo": "VDL: 22번째 대러시아 제재 패키지 추진 중 - 브레이킹더뉴스닷넷",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0903780865a06e0024dcfc9bb77d843487079a17",
+    "source": "OFAC (Email)",
+    "category": "investigative",
+    "lang": "en",
+    "title": "OFAC SDN List Update: Counter Narcotics Designations; Cyber-related Designations; Issuance of Illicit Drugs General License; Issuance of Amended Russia-related General License and Frequently Asked Questions",
+    "snippet": "[ http://www.treasury.gov/resource-center/sanctions/Pages/default.aspx ] * Search OFAC's Sanctions Lists [ https://sanctionssearch.ofac.treas.gov/ ] * Sanctions List Service [ https://ofac.treasury.gov/sanctions-list-service ] * OFAC Recent Actions [ https://ofac.treasury.gov/recent-actions ] * OFAC",
+    "keywords": [
+      "OFAC"
+    ],
+    "link": "https://links-2.govdelivery.com/CL0/http:%2F%2Fwww.treasury.gov%2Fresource-center%2Fsanctions%2FPages%2Fdefault.aspx/1/010101a1f45850be-29edb74f-359d-45ac-bef7-d259eb2840d7-000000/IrbLmHASYeHfwRB8OK1u_jzeT6NWUXrQvN2vkxUAojc=452",
+    "publishedAt": "2026-11-19T15:06:30.000Z",
+    "collectedAt": "2026-11-19T22:51:58.219Z",
+    "translation": {
+      "titleKo": "OFAC SDN 목록 업데이트: 마약 퇴치 지정; 사이버 관련 지정; 불법 마약 일반 라이선스 발급; 개정된 러시아 관련 일반 라이선스 및 자주 묻는 질문 발급",
+      "snippetKo": "[ http://www.treasury.gov/resource-center/sanctions/Pages/default.aspx ] * OFAC 제재 목록 검색 [ https://sanctionssearch.ofac.treas.gov/ ] * 제재 목록 서비스 [ https://ofac.treasury.gov/sanctions-list-service ] * OFAC 최근 조치 [ https://ofac.treasury.gov/recent-actions ] * OFAC"
+    }
   }
 ]
