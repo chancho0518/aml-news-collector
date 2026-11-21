@@ -729,5 +729,667 @@
       "titleKo": "OFAC SDN 목록 업데이트: 이란 지정; 쿠바 자주 묻는 질문(FAQ) 발행",
       "snippetKo": "[ http://www.treasury.gov/resource-center/sanctions/Pages/default.aspx ] * OFAC의 제재 목록 검색 [ https://sanctionssearch.ofac.treas.gov/ ] * 제재 목록 서비스 [ https://ofac.treasury.gov/sanctions-list-service ] * OFAC 최근 조치 [ https://ofac.treasury.gov/recent-actions ] * OFAC"
     }
+  },
+  {
+    "id": "92c4b33c0a466e376760b2133fa26852f8f162cf",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "의회는 부패나 자금 세탁에 대한 유죄 판결 없이도 자산을 회수할 수 있도록 허용하고 있습니다. - Vietnam.vn",
+    "snippet": "",
+    "keywords": [
+      "자금 세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVkF5V1o5N21UVFRQU05McmgyYmRvbmo1aF9xRF9COUZORk9yb0hEUXpzZlhKaS16eDJ5YTgzRmpPamlYRXdYd2R0anB3YU5xSnpVd203cllxOWdqalJnc0pZMWQ0ZmtSaVNib3BkWnlsbmV3dnZfRjRFODl2OVczNlI2WTBWZDRMR25DWGE2YnhMVFJtSmtxaWRrQ1JEanZjOEtV?oc=5",
+    "publishedAt": "2026-11-21T05:20:44.000Z",
+    "collectedAt": "2026-11-21T11:59:11.577Z"
+  },
+  {
+    "id": "d72b5dfcda5e7d6ac7ddd533b3f1ff60c20f19fc",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "일본 정부, 자금세탁 대응 방침에 가상자산 거래 ‘취약점’ 명시 - 이코노미블록",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1odGIzaGxramdZeTQxb0dNNk9XSzNXVWhIQnNJSjBMTEFfU1B0ZlZrZ3BOeUlhOGF2X3J0S1dIUDdscUhaZy1HTk1JTzc?oc=5",
+    "publishedAt": "2026-11-20T22:02:00.000Z",
+    "collectedAt": "2026-11-21T11:59:11.578Z"
+  },
+  {
+    "id": "b0db379e0e9ebf52107b899c763c1e321fed51a3",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Financial firms failing to prove that AML and CTF controls can keep pace with cross-border expansion and increasing complexity - Compliance Week",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMHNINTlkTDBsaHI0cFBKSHNBMk9kcGN6cHhHdFFvdm9HT0EwVzMxTEhncWdvNEx0OWFKd05LT3l2VkUyTnFxUHJqUndseWVIajl0Nm5oQzFUNFlYOXJ2WlJpYy16RmozQWRPZjVPUlQ5YzlidTc3VGdrYlloUmlGSEU4WHh6cEV0WGJoNjF6OVRzYWFjVDBXYS1JRVlRbUR2M25IN0F4NURHVzliaUVsVHM1VGszaVV5bW5hUmE2ZDVqaEt4bExNUlZrSS1DQWR3NkJPVjAzcC1ITlZJcXpER2wyR2dDSjlPcV9KMjh4QWdGbDFB?oc=5",
+    "publishedAt": "2026-11-21T04:34:49.000Z",
+    "collectedAt": "2026-11-21T11:59:11.682Z",
+    "translation": {
+      "titleKo": "금융 기관들, AML 및 CTF 통제가 국경 간 확장과 증가하는 복잡성에 발맞출 수 있음을 증명하지 못해 - Compliance Week",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6b6ed64258a05c786cab1479dcdd3968168305a4",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Japan's government revises AML policy, rates crypto asset abuse risk as \"considerable\" - BigGo Finance",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sZVJpendkanZqbXJ1WUJ4SXpGV0gxTnJPR1pFbHFENWNpbUJ0clQwRXM3WTVaMGFEQUlEdUF1RVBpTHRKRWYyTEFNcTAzVGFFczhqYTZIeTR2cVpyMlM5cklPdW15QnVoOVBTbnJ2NjRhMjBCM0E?oc=5",
+    "publishedAt": "2026-11-20T22:25:00.000Z",
+    "collectedAt": "2026-11-21T11:59:11.682Z",
+    "translation": {
+      "titleKo": "일본 정부, AML 정책 개정, 가상자산 악용 위험을 \"상당함\"으로 평가 - BigGo Finance",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "35792f51488619b962fc28129a73acb86c6608bd",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Tracking Macau’s quarter-century AML efforts - Macau Business",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ocGtfTlhONDdTUUszUWJkTmktd1k0WWQyWjhCM3VVQ2ZwbjFkUk1YRnJSTkduZV9NTmtxMWRKY3lLOTJLUklkSUthYWN3MnVnUkZfbHdqdWFDRklsdUllRk9RRlYza1VGdThsYklILVJIQXlNbzBTamdR?oc=5",
+    "publishedAt": "2026-11-21T05:07:03.000Z",
+    "collectedAt": "2026-11-21T11:59:11.682Z",
+    "translation": {
+      "titleKo": "마카오의 4분의 1세기 동안의 AML 노력 추적 - Macau Business",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "61f3b390c8e4ce9513660b11a9a62c3645cd0859",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Anti-money laundering authority warns of fraudsters posing as its inspectors - eKathimerini.com",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTExyUGpCbXl3a2pkUGVlYWU1NFJWTVJ1UGhpeFRlR095N0V0MmljSXJvYXc5QkJVT0F0cXdtbUthb01tQlZTUG85X1diSVVlNUpuTmFzbEFoS3lJQ0cwbWVNS2Q1WjFDUUdPc0JXZlgtUFktTnF6SnhxMWQ4NnlkbDJDZVhVWWdSai11WUNlbWx5bEJIVFFOT2FGNmZZR0tUMVJLRktFXzMxSWw3OWVUcnEyLVJ0ZDg?oc=5",
+    "publishedAt": "2026-11-20T19:07:45.000Z",
+    "collectedAt": "2026-11-21T11:59:11.683Z",
+    "translation": {
+      "titleKo": "자금세탁방지 당국, 자사 검사관을 사칭하는 사기꾼들에 대해 경고 - eKathimerini.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3e22f65bcb7e97208922ea12ebe61d26c5969186",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AML Releases the PDX50 Enterprise Touch Mobile Computer for Industrial and Retail Applications - PRWeb",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ19QM194ZThTU2hrcnZja1lMRGVOMEhPaGkydDcyS2JBQWFSYjZEREFmaEtYamd5YzlIZGVSXzJYVG5MbGF0T3NVdUhQY3VQRDhzeWRsRzI5UkxmT2JlTmFwLUNudXRSSW9wVGxVc2M2QzVDS2dNMUExREIwcEpLUUs1d2pnR0dPdENLdGExcGJCd1RHS1FtY2VpSW9ZZ3hHSVZDblJLcDdDNlhuRjVwV3RZdmFRYmZvQWphanFjNjhlZFRzd2xuTWdqWEpoUEVKX3ZsdmU5bw?oc=5",
+    "publishedAt": "2026-11-20T17:13:00.000Z",
+    "collectedAt": "2026-11-21T11:59:11.683Z",
+    "translation": {
+      "titleKo": "AML, 산업 및 소매 용도를 위한 PDX50 엔터프라이즈 터치 모바일 컴퓨터 출시 - PRWeb",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "eeb0c746c24e434d3b4113082a771d69da932a09",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Customer Due Diligence: FinCEN Proposed Rule - kpmg.com",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEltWnVZQjRWYWFlOEZnbUYyTTdSVVp4bUNBeDRCbTlKWjNIY05PeDJOeXM5NnNSZlFpRHVmbEpENjdtM1h6RXd3Smo4VzhoeTJ4NmoyQUlRZ0hHa2JHSWtlVFBUaHpEd0dEQXhzUURlY2RKWmUyVEFCdW5iVW5iZlZrUU5veE5MOFAtQWtDU0c3dno4SHEwTkpYMA?oc=5",
+    "publishedAt": "2026-11-21T09:29:12.000Z",
+    "collectedAt": "2026-11-21T11:59:11.609Z",
+    "translation": {
+      "titleKo": "고객 확인 의무(CDD): FinCEN 제안 규칙 - kpmg.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6e91a3ac51155a0f9cecde461f74ff97f79d1cd8",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bitbank MEXC Restrictions: Japan Exchange Two Transfer Cutoff Dates - Coin Gabbar",
+    "snippet": "",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU2JZVTh2OW5ZSjd3MlF2LUg2ZHowdmxacHFlX1E0OUF3b3dmNUJPcWNZOFpWZFJpTFgyOGRxOUtqZGpBX3Fic3NSd1NTS1N0Z214c3p4WTBjb1NCRXBjX2RkX3NaSUJmSThxdFlrS3Znb3Vob3FOdzhQdlc0U3VWSjRIbS1VcTBfUndvNEV2QV9JeUdZU1E?oc=5",
+    "publishedAt": "2026-11-21T10:00:00.000Z",
+    "collectedAt": "2026-11-21T11:59:11.610Z",
+    "translation": {
+      "titleKo": "비트뱅크 MEXC 제한 사항: 일본 거래소의 두 가지 송금 중단 일자 - Coin Gabbar",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "19873e09ee8c0e626aea8054f11140f22d5d5030",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya - PBS",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHFRd2lyTUVtY3UtZ0o0MUtLNF9BTEtPd0R5NFJiT3JMUDhTRm1QMWlLa2oyaHJ1ZTBuZmtLTnAzdmEzd1ExR2ZRNFliQ3AzUWczTktZME8xTTZ1Uy1LYjR3bnVGVXRnZ3N6XzZjb0QzSUhndVBuNmx3bTRFWVR2cWhTUVBwZVNrM0RTMXlGT3JiS3BtcnUwQ0YtU3VxMndTU2FuZDlEZHFVTGd6TXBoY0pzQ0xndHZnSFItTF92T0fSAcYBQVVfeXFMTlZQMjJNTmdZam10REtzMEVTQXF3dm8zX18wM2RCalFfTXpIY0tOUmNQRUhFTE5HbUw2NWJuSkdDNnV3STNjRVVLVzY1S0FLb3hvbHY4Y3EyUEh4VUpXRHlSZlhDbGJmLThGa2JidzN4VFdYRm5yajR5Z2pNMTZxNHZhdTZJNG1xMjNXUkduME9lN2NJTE1wZjFFRTdmRGJ4RUlpMjlxUlFSSXVQQ1M4bl9vazZVVkZtU3N1Z3VmZjd5Q0xhYmdB?oc=5",
+    "publishedAt": "2026-11-21T00:28:54.000Z",
+    "collectedAt": "2026-11-21T11:59:11.694Z",
+    "translation": {
+      "titleKo": "인권 단체들, ICJ가 미얀마의 로힝야족 대상 집단학살(제노사이드) 유죄를 인정한 후 제재 촉구 - PBS",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "437237e67df842a44964cac285f08fe07efe18dd",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Treasury sanctions Iranian 'trustees' collecting oil revenues - Reuters",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3NtX0JqMFVBeHBVcTdlV1ZTaXRRMUhnLV9YWmR3VEZqUHVwbFlnOTlFTlZtTTExbUhTNzBsWXR6YTNYQmdMdVg4VGJuTTRYR19wSHhSZUJaTlRxWWpFT0o3SGgzb2JrOXY4b2xMd3cxQ2VlbGZPUzFGU2hJNFJLLTV6YlZLdmlGbUNaY19jMDdMLXVLTGRiT2ZfR2dMY0JuNzc0UzE0akxlelRNNl9sYzhLMkFwczA?oc=5",
+    "publishedAt": "2026-11-20T21:53:07.000Z",
+    "collectedAt": "2026-11-21T11:59:11.694Z",
+    "translation": {
+      "titleKo": "미 재무부, 석유 수입을 회수하는 이란의 '수탁자'들 제재 - Reuters",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a561f470f73e8e43455bd530fb4d7ac762063e10",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia's Wildberries CEO Steps Down Days After EU Sanctions, Media Report - U.S. News & World Report",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUElGaGNGLXRmRWhKemJQSy1kZXhuZ1M2dTZ4Tmh2QmxTSVdxTVVZR2VmYThhLVRzZi1TejR3S0g5dnJmRTdncTN0WmFsdU5FaThSQlJEUmZjZjNlQ0RaYnpFYkFLS1dsNTBZdDljYlRiTVpkZW52bURzR2ZmaGdPNUgxMEZ3QW9RQ0NwaEhhOEJXM3NrU25PaVJfalRUZTBVZW43YkxPekdfbGlqTTJUZWNBMm5lSjlFVkxhWVFQTng2VmM?oc=5",
+    "publishedAt": "2026-11-21T11:09:00.000Z",
+    "collectedAt": "2026-11-21T11:59:11.694Z",
+    "translation": {
+      "titleKo": "러시아 와일드베리스 CEO, EU 제재 며칠 후 사임, 언론 보도 - U.S. News & World Report",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7a8fbba8f3f877ea05c396501166f33e0b673d9c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia's Wildberries CEO steps down days after EU sanctions, media report - Reuters",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHlnc2RFZFltcC0zMXMtb1VfaEx6VFhrWVJfS2tpaHF2Vm4yMnRDYjVLX3FSTWNHaDJKdUYwZ3o5SUJfNVpvRERfcEladlQ2RkRCaFhxaEVZRGdwUTAwOVdSRDZDWjlSYXVucW83NS1aMVN0QzFKbFhVXzhBSEZtUmxKdHpYT3gwNXdCUWZxbU9MbVh3bEU3Ul9ZcXQxZTI5QjlyTHgtTUNDdWVINk9qbUwwNmo1eUt3aFFsaWlTNEJfQnZYNkVOMlVDRkY?oc=5",
+    "publishedAt": "2026-11-21T11:20:43.000Z",
+    "collectedAt": "2026-11-21T11:59:11.695Z",
+    "translation": {
+      "titleKo": "러시아 와일드베리스 CEO, EU 제재 며칠 후 사임, 언론 보도 - Reuters",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3eef9469fc4e7fda8e5755094b61cb0ee529d466",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia’s FIMI and malicious cyber activities: Council imposes sanctions on 30 individuals and two entities - Council, European Union",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPa0YtUEJlXzVzM2F5aUlGOWc3bTAzSzRuVXBKdFNkWVMxZkZPM3EydlhCbTczRFhMNENDS0ZDelVKQ1NOTzhlVlZhdjl0QnZDWGU1UzhrR0hJNk00TnAzdjJPeURRNzNJS09JMTRGdlZoN2JkSG1DbGpkbEtsZkhhZlhVMlhpX284a1hUMWxqRldyUzM1RmdPWnV4S18yZDd1bnFUT1JtOTEySHNGRmF0WHpGbWZmdTlZc0ZOTUd5N3Z6TWNucHVLUldIaEwteExTWE44Nk12TE9qOXRKd25vM1BaekU4b0hacjdhVVB0Q2hPdnlBN2d3c0lhOEpzbzg2MlFF?oc=5",
+    "publishedAt": "2026-11-16T11:10:58.000Z",
+    "collectedAt": "2026-11-21T11:59:11.695Z",
+    "translation": {
+      "titleKo": "러시아의 FIMI 및 악성 사이버 활동: 이사회, 개인 30명 및 단체 2곳에 제재 부과 - Council, European Union",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bdf5441c30b3b8cf7b06cd77459cec9564f564bc",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Israeli banks fear sanctions are closing in. Netanyahu looks away - Haaretz",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQaFJILThZc25WS0xvZmgyUk1xZjVMVGtkem5mcGdjTV9LVXlUeENxRU1ZaVYxdnVtdVcwb1N5UFg4dmM0bkMwSzVnQ2haYnMwbVVFT0N3VEYzNzgzVGV0VkFjMWp6Sk9pRS1HVFNaWGNBcTNZcUhnUEliUFduQUFWYlJMTm85ZTVXVTY5Tk9vTzgwUXZNMkxnT1VURXRoWHY1R2QwU1pFdGpuQkhVLTNDbzJjTnJfdzdGTUROQVpuQ2ZxVlZkc3Jxb2lOZ3F4MDJZV2tEeFd3MmFkRW1oZVdRaXAyNjctYlVyQkFFdmdhRFctaW0yTHJZLXNuR0x5OFNRTzFFdGpXcEJJMzhObEFnRVFKdXAzNWs3Z0RISlNn?oc=5",
+    "publishedAt": "2026-11-21T09:01:00.000Z",
+    "collectedAt": "2026-11-21T11:59:11.695Z",
+    "translation": {
+      "titleKo": "이스라엘 은행들, 제재가 조여오는 것을 우려, 네타냐후는 외면 - Haaretz",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "40c3a80a645a02c0cb772be4f2de5be7f350fb94",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Spanish Fort lawyer drops appeal of sanctions over AI-generated fake case citations - fox10tv.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdExWWWtGcG9jMWxJOU0wQ0loMVF5ank5R0QtUDFfR2JjMk8zMUFFUmxjbVFRcHJhd09pWmFiNEdoSExBVTJ0Nk1YRjNWNGV2SFJQU0ExU19udlpBanRHVkRzaEh6d3h2TmtqSUFOMkU2TElIdWFrRS1RTi1rdGF6eVlPbDBEcGxZVERIdkFEUWJpOGlmQndCeHF1R2pHZnhxR2pxLUdQZWhPRmRHbGEyNWRvX00zS1VxNm84bFM2QQ?oc=5",
+    "publishedAt": "2026-11-21T03:26:00.000Z",
+    "collectedAt": "2026-11-21T11:59:11.695Z",
+    "translation": {
+      "titleKo": "스패니시포트 변호사, AI가 생성한 가짜 판례 인용에 대한 제재 항소 철회 - fox10tv.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6fb4b469f2d6f47315d036be8a99ec6acbda08f0",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions Iranian oil traders, government insiders over alleged oil revenue scheme - Anadolu Ajansı",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHlrN2UzN0EwMHhlN3g5eExyVTdiZTZZR3QtSlEwa1NOMEdMR1lZUjdSREx0dmp6aTVvT0lqbkVfMWc3Smc5VFNzb2ZKTzFQWEZ0T3lQZHMwU1RPNjRDamFrR1N3T2pOaXpOeDFZOW5zdEljeFBFS0RCWDdMLUFWbTJtYlhRbHRWc3hjendVZzhUdUM0TVJTWG5zVkRxUzdFQ3lscVVJLXdxV2JRQmdhTWVIUkpHMm82S2dhSW5nek41RDhH?oc=5",
+    "publishedAt": "2026-11-20T22:59:11.000Z",
+    "collectedAt": "2026-11-21T11:59:11.695Z",
+    "translation": {
+      "titleKo": "미국, 석유 수입 음모 혐의로 이란 석유 무역상 및 정부 관계자 제재 - Anadolu Ajansı",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "dced66da58a687229ca55513dedcfd88c4f5ccc6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Treasury sanctions Iranian ‘oil trustees’ allegedly tasked with recouping billions - The New Region",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wZ3FXWHZydzI1elRmaXNlVTU0N0lGVEZHbDU5WVowQXUyLV96TFlwRkdCSGRGS3pjQ0lpam5pZHROUS1kZzAwYVctcw?oc=5",
+    "publishedAt": "2026-11-21T08:02:48.000Z",
+    "collectedAt": "2026-11-21T11:59:11.695Z",
+    "translation": {
+      "titleKo": "미 재무부, 수십억 달러를 회수하는 임무를 맡은 것으로 알려진 이란의 '석유 수탁자'들 제재 - The New Region",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a3b02fb668c0612d77be7b11fc542a10a0b57521",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Sanctions Four Iranian Nationals Over Oil Revenue Transfers - WANA News Agency",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRFh0UFI2TVY2dG1iRlNtNXZfVi1Ibld1aFF4WmZIX3JNUWVnTENHX2ZKbnpSU0k1RWRYMVNQWnFZZ1pkeGp5WEs5anljSzl0X3ZORnJBWUR0VGdRUmFCVjVPWGVBWGFnTTA1UVB3ZDNqNWM1TFF2QWs3S25vSm9WR0E4aUx0cUFKY0E?oc=5",
+    "publishedAt": "2026-11-21T07:21:07.000Z",
+    "collectedAt": "2026-11-21T11:59:11.695Z",
+    "translation": {
+      "titleKo": "미국, 석유 수입 송금과 관련해 이란 국적자 4명 제재 - WANA News Agency",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bd20ea14a4f68d172d953bfbd11de2773d3c2604",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Sanctions and Colonialism in Israel/Palestine - Informed Comment",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYeV8tdTFpTUFFLXd2cmx4dUZIQ1V6VUJGaHlWaXFiWktFQWV5eUFKbFRtbVFSV3Z4bzZucUxmY2dUUUsycFBEWTZibU94UXRJVW5QdTk3ekpCOEF6WVlRb1hiVWlSRm5lWFlIWk9KWE13YndNTEEwUg?oc=5",
+    "publishedAt": "2026-11-21T05:08:10.000Z",
+    "collectedAt": "2026-11-21T11:59:11.695Z",
+    "translation": {
+      "titleKo": "이스라엘/팔레스타인의 제재와 식민주의 - Informed Comment",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "aa6950330a163ad929c7ec7b4a1b77e3be3e5f35",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The United States has imposed sanctions on four Iranian oil brokers - Українські Національні Новини (УНН)",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMng2cjNwWEh2SnJqZzM4RFNCekRLNk9hUzZtZS1xNGcyMWc4SHJFQ09TSnIzb0k4SzhVQ1JjTmw5cllhS2NYSDRKU2gwWU1vaDFGNEVzSWN3VFVDWFBsXzJmT2daem1TZ0FNVXJWZFVJTVJ5LV92QThfeW15cDVzR0xvMVRBblFXLTV6SHROcTJYMDVq0gGTAUFVX3lxTE1LRHJLRnVjWnBzd0xDMTQ3STJnRHJZVWNBbnQxcXgyMUFGOWliNC1VNEJDTG1qaXRGcWVxdEVpWUhUdzJDS2phUzNjdl9MR1BUazVSOFMwcVIyNlptaEd4YWJHck9qT0U3T2Y3TThiQldRRzZtWXF6X29fY09PQ3p4REp5VU5GZFZTZHB1ZzFTQWVWdw?oc=5",
+    "publishedAt": "2026-11-21T10:11:13.000Z",
+    "collectedAt": "2026-11-21T11:59:11.695Z",
+    "translation": {
+      "titleKo": "미국, 이란 석유 중개인 4명에게 제재 부과 - Українські Національні Новини (УНН)",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a0e000cfebfb43e96e28fa6a0c1f16e2e508f20c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russia's Wildberries CEO Steps Down Days After EU Sanctions, Media Report - The Moscow Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSWg4ZF9sNEt2X2pNU3diUzRuVjNUSjJRYVNjblpDSjJ4UFJ6d3Z2THRtdkt2WGc3YUYxZ0tWX1FJdm8xVHF4TElhRUlYMEw3QWd3b1VSQkVfU05GV3BUeE5lYVFxT0dlZlFpMW1TeW9rRUxidEg4MXQ0QUhmOFZvY2k2Vmh2QnFjNU9mZ2dSVkk2ckJMY0xJT1RkQUlxNUxVbnRZV1dHRGVpQzZYczlCZFpLNktrWGQ1UG1sMA?oc=5",
+    "publishedAt": "2026-11-21T11:42:53.000Z",
+    "collectedAt": "2026-11-21T11:59:11.696Z",
+    "translation": {
+      "titleKo": "러시아 와일드베리스 CEO, EU 제재 며칠 후 사임, 언론 보도 - The Moscow Times",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "81aef64cac55323a25209c60fcc752b77561aa97",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "In Syria, Sanctions Relief Meets Deep Structural Challenges - RANE Worldview",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLWQzSUNKS1RwcHE4U3JsOWtQMjJSNzFqTHUzaUFxR3M4azFqOUJYQkZNRWJwWTNWX09ZNEJBTDQtN2piSFVlTVBTWXRkX244ZzVVOVNhM1VtZFkyZ0VQWlhkai05ekFadkU1SzZzZGhSN1NmQmNvUVl2X25aRFJRRmZYZFZuVVphckoxcXRDR2FnLW52TWg0Ui1uLVpSWmJJX2Ric2U3dktJY3BSODBBcHk3WnhTODNjTExwakFydzYzNDZEWjZ0WGJfZ21xRDY0Ql9n?oc=5",
+    "publishedAt": "2026-11-20T18:16:00.000Z",
+    "collectedAt": "2026-11-21T11:59:11.696Z",
+    "translation": {
+      "titleKo": "시리아에서 제재 완화가 깊은 구조적 과제에 직면하다 - RANE Worldview",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9a2259af4dde752a8c1171b4f1074158795bc779",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Indonesia's OJK fines and sanctions firms for stock manipulation, disclosure failures - TradingView",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORldxeEplQURQRXlIRHRwWlZuSjNxYjZtUGRFaDdCWExXOE5BaTlodVQ4d0w4ZXVYbkpsNmRlSkhVMGpFaERyR25KbjY1dFFnLXlzVkJITkJyWFMzTjlCb0VfTFg4NjJkYmRHV2I0LTduamt2aFlpblhmZUZfVmp0X2Z0RkdocEZNWlJJVDg5Z2wzVHlKTzhBQnA0MVVSSS1ubUp6T19yakozQnB6N0ZlTW5UYmtnblhlTkJhM1FCX3VKUlpLWmw4MEFaU1JGWGFmclRkdzRmdm1jNXIydDZnLXdDMzNoUzI5Rnc?oc=5",
+    "publishedAt": "2026-11-21T06:30:53.000Z",
+    "collectedAt": "2026-11-21T11:59:11.696Z",
+    "translation": {
+      "titleKo": "인도네시아 금융감독청(OJK), 주가 조작 및 공시 위반으로 기업들에 벌금 및 제재 부과 - TradingView",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fba4173a5cab541cb07522e9a17d3d90642404c6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US escalates its sanctions against Iran, targets four nationals - IranOilGas",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTkxOa2VDbnVWTzd0QmF4cENyRzB6SV9CNkdpMjB5cEhubVhTNmpQT3NNV3dLcFBWdEhQaG1TWjJNUzVKUUtjR2VJTlNqcjN4UF9fMHdPcmZCc1c3cFIyZXVZelIwZWdXSll3V21sdmNJOFp1VmQ2dWp0UlRIeDh6dG1QaUhYZzM4SFV2Yl9VVm41VlQtOGxyRFU1SFZiQzlqOElpaDFySm8xZTZmbG1VQm5wRGhxa0lVdFNjN1lGRjkwSkxl?oc=5",
+    "publishedAt": "2026-11-21T07:33:53.000Z",
+    "collectedAt": "2026-11-21T11:59:11.696Z",
+    "translation": {
+      "titleKo": "미국, 이란에 대한 제재를 강화하며 이란 국적자 4명을 겨냥 - IranOilGas",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0a742818d25f48d4c3c07ba69124480db45db88a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. sanctions four Iranians over proceeds from overseas oil sales - سانا",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QbUpBdjBrVHRCQmFOR2tOS0hQalBYMTVwck5Weno2TjNaYXJXU1dmbklCRWtQaE9pejYzUURWVXlWTExDRUZPdC1keG5PdU8zQ044?oc=5",
+    "publishedAt": "2026-11-21T07:24:54.000Z",
+    "collectedAt": "2026-11-21T11:59:11.696Z",
+    "translation": {
+      "titleKo": "미국, 해외 석유 판매 수익금과 관련해 이란인 4명 제재 - سانا",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "30ac2e4578eac8eded7f11206c0a4013e58c1df7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "JPMorgan's Bias Suit Sanctions Bid Premature, Judge Says - Law360",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNREt4clBoa1hQdFptbTlIYVNYT0lIbEU2UTJtakZYNmVlSmlPT1FaampnSk1vc2JmRHJmNkJITklKQzlCS29KbjFrZmhNR1pZNmduVi04Y1BUTzk4cW1aOS1TU1UyQXdhX0U5SG40R2pLaHJoOUJSTVAxVHgzSHpfczVEWFd1T3d0TWZtTUctZEdLMEdIUXJvVXRmeDAtbXlIT2NqMVR5Nm5tRVkwd3VVT2ZDa0RlWnfSAXJBVV95cUxPZ0U5TjB6QmdYZHkyTXl4ekthdlN6OGNMUnhnbDFGU0RJNC1QY1ZFVkFHZThUY2NUSE1iLXdDUUh3Y3ZGSUc1V2JMS3o1QTVmU3QtYWh4VWw5TTFTSTU0T3d3VUxhRWVyWGxDZHJLeFlRd2c?oc=5",
+    "publishedAt": "2026-11-19T18:50:41.000Z",
+    "collectedAt": "2026-11-21T11:59:11.696Z",
+    "translation": {
+      "titleKo": "JP모건의 편향 소송 제재 요청은 시기상조라고 판사 말해 - Law360",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4119c2d682db13dcf078fa5cea1bc8c7439792e3",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The U.S. imposed sanctions on four Iranians over oil sales - Mezha.net",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTmw4ODJvZ3hHeUhrMkVnS3BrWmE4YTRiYTNzTnNQbkxTVUNOaDhQd0huZDJsQmJnWUpmaWZIRWxBZEpKeWprQWR4RVVVaGttck5xMTdvLXUzT3pQWDFGblJZOUR6M1lHNWwtWlltR2V6X3RwZGk3bVhmOVdlM3JwLQ?oc=5",
+    "publishedAt": "2026-11-21T07:14:14.000Z",
+    "collectedAt": "2026-11-21T11:59:11.696Z",
+    "translation": {
+      "titleKo": "미국, 석유 판매와 관련해 이란인 4명에게 제재 부과 - Mezha.net",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "df1012a47ba1626639119690c1db98e4c1c80c6e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Rights groups urge sanctions after top UN court finds Myanmar committed genocide against Rohingya - The Killeen Daily Herald",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdHJGWmlfczFsYk5aZ0d3ODdBSkJCb3lVZlZfbTN6LXV5RHBVUHZPaHhKOGhnUFBGdmg3MG9RN1JIRWhERHBDZS1kVXFKMTNqQlA4SWtqbDZSemRXRXFyemVDWFBheXAzN3VPbjFGSXdRX1FpUmNGcUFMRlBSS19Qd3Z5cDNROXlhb1JkMlBlXzhCQkhEV1p0T25YY0oyUXhjekUyUEVPenhIM0RDUkJKcDUwa3JSUXdOa3NMTjgtbHU4Sko1YUxZQUlmenVqU3J3eV9KWUdKckVUb3QxYkJVUVd2T1dYbklZeEctOGtZRGVVSnltTnBaWjNOeHZtbU43Y240Z0phb1UzQQ?oc=5",
+    "publishedAt": "2026-11-20T16:15:07.000Z",
+    "collectedAt": "2026-11-21T11:59:11.696Z",
+    "translation": {
+      "titleKo": "인권 단체들, UN 최고법원이 미얀마의 로힝야족 대상 집단학살(제노사이드) 자행을 인정한 후 제재 촉구 - The Killeen Daily Herald",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "80b5d39264187b6d0e7dfec134fa00e768df04bc",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Judge orders rare sanctions hearing for Washington prosecutors after rape trial collapses - Yahoo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM2FLZklSYmo3cU5zVVg1Z1ZCWlNqd0d1N3RNb2hQOGFnSmYyTV9SZHlPaWVaWHk1a1V3NDNMSTJnM3F2eS1BTGxMUm1SRXRHY0ZwLWs4azRSZHd0bmNtQ1FoejNrSkdUQ2pqa1lrZEh5RGpQZkNxaWxjUDJtMkhsem41NjF6UktNTG1VUzhrV0h2VnM?oc=5",
+    "publishedAt": "2026-11-20T20:19:18.000Z",
+    "collectedAt": "2026-11-21T11:59:11.696Z",
+    "translation": {
+      "titleKo": "강간 재판 무산 후 판사, 워싱턴 검사들에 대한 이례적인 제재 청문회 명령 - Yahoo",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8fc7474cd9804fe130f03d62c40b00200ef6ced6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Indonesia regulator fines and sanctions firms for stock manipulation, disclosure failures - The Business Times",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQclBYbnZxMWt4a2ZlY0x5aEZvVzJFRXptSThDbTByem1XTEUzcDlhNHoyZlRLRkpTeHhSNUdCNG5oSmVaNmpqb2VNbzRVa2trXzlBVU9pWkU5SDFfNnViSkg4aUt0Q3NZaHR1OUVwX0ZpWnl4ZUpWQ2VSXzFUUmlhYnlrQlFnVU5vaGZZX0pQYXIwYVNrSUlxMWx0dHhqZm5Sd09RM2hvZVpwNDRUTERROU81RDdFYzB5LWdCTk9HZnFjSE9ab0VBTE1ieUx1M1NfQVNz?oc=5",
+    "publishedAt": "2026-11-21T08:22:00.000Z",
+    "collectedAt": "2026-11-21T11:59:11.696Z",
+    "translation": {
+      "titleKo": "인도네시아 규제 당국, 주가 조작 및 공시 위반으로 기업들에 벌금 및 제재 부과 - The Business Times",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "182c890d90ba3c71032ffe406486873ccde7a881",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions Iranian oil facilitators as Washington ramps up economic pressure on Tehran - Rudaw",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94eFR1dFQzY1cwai11OGJTRkpPS29JdHdVWUNEbm9kOEtnOWw5NVNJNG0xQVg1bFpiUnIwamlBcUZLb3o2SHkySlBzMHk0bW9ORV92WC1LSWVDS3hKNjhEdDlJTQ?oc=5",
+    "publishedAt": "2026-11-21T05:55:22.000Z",
+    "collectedAt": "2026-11-21T11:59:11.696Z",
+    "translation": {
+      "titleKo": "미국이 테헤란에 대한 경제적 압박을 강화함에 따라 이란 석유 조력자들 제재 - Rudaw",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "85048554692a7e967476a69b2cd9c9b78ca58819",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Treasury Presses Singapore, Malaysia to Comply With Iran Sanctions, Warns of Targeting \"Lifelines\" - BigGo Finance",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kd1Q5dWlmbS1oandCOHJBS1FwSEFxdjVONXRneHg3UjlmOGxUd2NKcjE0akd1ejlXZVlaODZiMHQwS0FYOG14OVhsRHp1dlZZZlRxNTQ3QVQxdzByTnMwbUkwTUU5WVJXZzg4M25CWDdTMVBPWlE?oc=5",
+    "publishedAt": "2026-11-20T19:55:00.000Z",
+    "collectedAt": "2026-11-21T11:59:11.696Z",
+    "translation": {
+      "titleKo": "미 재무부, 싱가포르와 말레이시아에 이란 제재 준수 압박, \"생명선\" 겨냥 경고 - BigGo Finance",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6ab2ec55aef9c7c2389a7662c92ba048c40ac177",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US imposes new sanctions on Iran's oil industry - RBC-Ukraine",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmFjY2FYMGlQbFRrZVNuam9JZ1RjM3ZZZV9YQjFjMGJoTVBfcnp2eHJ6TExsa0hSNXhiTUpwdkxiOGIwT2NZNWtuSlAzVDBxLS1YdllvT19aazcyVW9NSUlHR2Q1V3BlUDI3Yk9Yc3pvOXBsWk5oazRxUnNfX29icS12YTdnRWwwTzhFSnN4RmhtU3B6Yk9uNXltRQ?oc=5",
+    "publishedAt": "2026-11-21T09:20:00.000Z",
+    "collectedAt": "2026-11-21T11:59:11.696Z",
+    "translation": {
+      "titleKo": "미국, 이란 석유 산업에 새 제재 부과 - RBC-Ukraine",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b146ff37b6359bea0dfa948cca3ff5c4eb26ed62",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US sanctions Cambodian scam boss who paid “protection fees” to Prince Group’s Chen Zhi - Cryptonews.net",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56dlk3STNFVDlWWXd2YVY0ZExkLVZhWTVQX0ZSaUJqQkFYOGhKYXhEUTRZWUhKa3hIWkVNMjVnNnpsYlRNbVByQU9zV0VkcVJFRmt1MHhB?oc=5",
+    "publishedAt": "2026-11-20T22:31:01.000Z",
+    "collectedAt": "2026-11-21T11:59:11.696Z",
+    "translation": {
+      "titleKo": "미국, 프린스 그룹의 천즈에게 \"보호비\"를 지불한 캄보디아 사기 조직 두목 제재 - Cryptonews.net",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d2fe4315d3cc264d78df7e2329a4f214f0021612",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Rights groups urge sanctions after top UN court finds Myanmar committed genocide against Rohingya - Oskaloosa Herald",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQZXhLSEczM3NaR0pqMEpjcjZTNHFyV180bWxEYUdTcWJZODVhOG1Ielc1OHYweWhZTTk0YnBrQTh6eGpNNjhuOUEwUWlCVEFYblowX2dKZnNzN0lBOTdZSEJsbjJmUUZFaG01Y1lyNFVMaWtSWmxYX0hBYjNKcU9HMFJRNUdCMzZqY1pyOFl0WFVrelE2R0wxTUZPdmNldTEwMm1uamVsMGIweVkwc2dabnlIZzhKTEdkaE5RTWpuLU9TRTBBckZNbEdfMmR4cEJCNG1lblF6cFZFSWlKY2h0eGpvbXNvVUhsX1dySDgyQ1VfY1RuLUJJTHItTEp0Y2t0X0ZBa0RJMDhmcUhrNy1QTE5ZUWhQY1NaVzhHWg?oc=5",
+    "publishedAt": "2026-11-20T10:40:17.000Z",
+    "collectedAt": "2026-11-21T11:59:11.697Z",
+    "translation": {
+      "titleKo": "인권 단체들, UN 최고법원이 미얀마의 로힝야족 대상 집단학살(제노사이드) 자행을 인정한 후 제재 촉구 - Oskaloosa Herald",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d111de2cc96016146fdb417ff1d762b6ae80495e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US imposes new sanctions on Iranian oil traders and government-linked facilitators - Saudi Gazette",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbVZxMmxlNTBnYlplOFAycC1Xc29JeEdvaGRSYTdvODF1VFZFblZUSy1mTkpGTDg1Q28zVlA2UEFHaTM4VnRGY212empvdWRSby1OOE84aFRFa3JfWHR1SklLaWctWUxtbWtvSjIyTl9QRlRWbHdFeDN3cnZpYi12MG9MTXBfamRBWUdnMVYwUEd4TnJYTVQ1d1F4NHdBSnNocTVjLVYxbDBSMDdoWVVjOU1wV0NPb1YwRUJOODU3NXhQZlZnZnFiUGhwNA?oc=5",
+    "publishedAt": "2026-11-21T11:03:00.000Z",
+    "collectedAt": "2026-11-21T11:59:11.697Z",
+    "translation": {
+      "titleKo": "미국, 이란 석유 무역상 및 정부 관련 조력자들에게 새 제재 부과 - Saudi Gazette",
+      "snippetKo": ""
+    }
   }
 ]
