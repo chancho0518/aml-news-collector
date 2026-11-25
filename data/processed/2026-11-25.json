@@ -1241,5 +1241,1428 @@
       "titleKo": "화웨이, 이란 제재, 영업 비밀 도용, 은행 사기로 미국에서 유죄 판결을 받다 - 비즈니스 스탠다드",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "0f4a37621dfe400c8cb1b10d30f82d21e1f7abbb",
+    "source": "파이낸셜뉴스 증권",
+    "category": "domestic",
+    "lang": "ko",
+    "title": "코인원 \"두나무도 영업정지 처분 취소 받아\"…法 \"두나무 2심 지켜보겠다\" [크립토브리핑]",
+    "snippet": "[파이낸셜뉴스] 코인원이 앞서 관련 사건으로 승소를 받은 두나무의 1심 판결을 언급하며 금융정보분석원(FIU)의 영업정지 처분이 부당하다고 주장했다. 법원 역시 두나무 재판 추이를 지켜보며 심리를 진행하겠다는 입장을 밝혔다. 서울행정법원 행정10부(정은영 부장판사)는 25일 코인원이 FIU를 상대로 제기한 영업 일부정지 처분 취소소송 1차 변론기일을 열었다. 코인원은 고의·중과실을 전면 부인했다. FIU가 내린 영업정지 처분은 고의 또는 중대한 과실이 인정돼야 내릴 수 있는데, 코인원은 당시 규제 공백 상황에서 나름의 조치를 취한 ",
+    "keywords": [
+      "금융정보분석원",
+      "FIU"
+    ],
+    "link": "https://www.fnnews.com/news/202611251159436313",
+    "publishedAt": "2026-11-25T04:54:50.000Z",
+    "collectedAt": "2026-11-25T13:48:25.829Z"
+  },
+  {
+    "id": "b02d1798bb39289bef8e408b2fd2b1bb5060d8b7",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "내년 2월 트래블룰 확대…자금세탁방지 체계 강화 속도 - 매일경제TV",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KNjdRUnhvRTZ4WFRrR1Q5YUVmQS1RbHZOeFdlNkNiUXZwSUs5ZjRFeWMwRnNCWmZHdkJOSW4zRExvSEFtcExkOTcwWXdFLW1ueC1ndmpIVTBfS1k3dlZEUnBVRzJvWThD?oc=5",
+    "publishedAt": "2026-11-25T08:09:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.076Z"
+  },
+  {
+    "id": "f568d329395b840d941b2a3accaa9f3bed3cbc18",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "플라이빗, 외부 전문기관 AML 독립감사 완료 … 자금세탁방지 통제체계 점검 - 워크투데이",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CdWU4U3RFaXpJVXZheENwOFlqSFhPLVZzRTk5UzgzMjBPcTY2RWVZTUoweVFBZHhxYjQ0MFZBRVJMRVhaUXNoVGN5Z3E4Rmk3VTlYaEh5ZHgwRURiVDdxNGNXa1JiYWhkeXZPSA?oc=5",
+    "publishedAt": "2026-11-25T06:49:01.000Z",
+    "collectedAt": "2026-11-25T13:48:26.076Z"
+  },
+  {
+    "id": "0efcf7b2c79ce6e21d962c25dcac7f563c25a1fe",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "ABL생명, 보험업계 최초 자금세탁방지 ‘대통령 표창’ 수상 - 한국보험신문",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sTEJLUHF0bXNWNVFERXZNanM2OXNSQW43eXNRNnV3SzRINUFDZEZGek5XRVdOeENuRS13WmZhUTB0NUV3SXdkeWQ3bm95VzdveVJBdkd5OEJSZUZhV3J0d2s5M0laV1FnWVhB0gFvQVVfeXFMT3o5TVpvWDg0QW9WNHJVU0t6dVQ0Q1hDSEpqdTVCNFcwVXJVbDJZdmhmYkx4UVZEYU8xYlRwQXpqOFpHelN6cTdlaWl3YXdrV3RzRGZLTGt3Y0o0blVvcWJrSU1NempEejV5T3RDbDUw?oc=5",
+    "publishedAt": "2026-11-24T01:31:21.000Z",
+    "collectedAt": "2026-11-25T13:48:26.076Z"
+  },
+  {
+    "id": "6d31792e46e0ff97ad9b074747ef066bf5b437fc",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융당국, 가상자산거래소 '1거래소 1은행' 체제 유지…자금세탁방지 우선 - 블루밍비트",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pZUQwRDlPNklac0pWSi1YTDBmcXE1LTh5RmlCblpPanVONE1ZaHRHcTQ0WER1WVR0dDhnVVBwbFdRYXA3b0laaXpqNWM1Rk9r?oc=5",
+    "publishedAt": "2026-11-25T06:01:07.000Z",
+    "collectedAt": "2026-11-25T13:48:26.076Z"
+  },
+  {
+    "id": "25722a82e03ff4c48a00ebe39c2ca2b47a21929a",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "자금세탁방지의날, 축사하는 조용병 은행연합회장 - 연합뉴스",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kSXhpR3lDRDUwY0JMbnRUejRQOUh1ZGhfMnd3TTFMX25sMUVubVh1UVVaRnlyNFFMa3BIN2RMb09yUExlMU56RHREV2JFczhkaTJ4czdubkVLZmdGMzZQStIBYEFVX3lxTE1kSXhpR3lDRDUwY0JMbnRUejRQOUh1ZGhfMnd3TTFMX25sMUVubVh1UVVaRnlyNFFMa3BIN2RMb09yUExlMU56RHREV2JFczhkaTJ4czdubkVLZmdGMzZQSg?oc=5",
+    "publishedAt": "2026-11-23T01:29:10.000Z",
+    "collectedAt": "2026-11-25T13:48:26.076Z"
+  },
+  {
+    "id": "8849385276db1fd8a1281f0994361b5bb2eb8145",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "신진창 금융위 부위원장 “국제 기준 부합하는 선진 자금세탁방지 체계 구축” - Chosunbiz",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVS1rTi1DWDk4bmdla2xwN0xMYTNJaHBVZDZiY29rMDRCVV90dG1pcVF5aElRWVd5V3JJYTBXRGNtMTRTRW5hc3RaclMxMVpuUnNCLVB3eWVydFJUZ2lidEFBQXBvZlZqOEcyeVRia2pPYkk5dV80OGFrd05sNktDejdMTG9Va1hpZGJIczlLU0dPS0pB0gGUAUFVX3lxTE9VLWtOLUNYOThuZ2VrbHA3TExhM0locFVkNmJjb2swNEJVX3R0bWlxUXloSVFZV3lXcklhMFdEY20xNFNFbmFzdFpyUzExWm5Sc0ItUHd5ZXJ0UlRnaWJ0QUFBcG9mVmo4RzJ5VGJrak9iSTl1XzQ4YWt3Tmw2S0N6N0xMb1VrWGlkYkhzOUtTR09LSkE?oc=5",
+    "publishedAt": "2026-11-23T05:43:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.076Z"
+  },
+  {
+    "id": "8e2c216c6c40e3961e0077605aa992ba9f7a534c",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "디지털자산 시대 ‘자금세탁 방지’ 해법 나오나:동아경제신문 & daenews.co.kr - 동아경제",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jSGxkMDVuc0R4QzdIUUhoZFVURzRvdEttZ0diXzZQUFZhVGlCdHhUUnV4NzBPc1dkNnEzTV80c2FuZVB2VC1pTGRiZXo3Z0dheERPTW1OcTZSVWY0TVBXcU1n0gFiQVVfeXFMTmNIbGQwNW5zRHhDN0hRSGhkVVRHNG90S21nR2JfNlBQVmFUaUJ0eFRSdXg3ME9zV2Q2cTNNXzRzYW5lUHZULWlMZGJlejdnR2F4RE9NbU5xNlJVZjRNUFdxTWc?oc=5",
+    "publishedAt": "2026-11-23T13:38:12.000Z",
+    "collectedAt": "2026-11-25T13:48:26.076Z"
+  },
+  {
+    "id": "f73cbcfd977e73e14b18434106593723b772d9aa",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "케이뱅크·ABL생명, '자금세탁방지의 날' 대통령 표창 - 머니투데이 - 머니투데이",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvT2ppNWo4a1lpTjM3OU96NG1iQ2hSN2VPbEYyNjlhLVUxa1M1M19qMGV5Rm5yLVZGVU9ieS1WWnhDRnJmMk9mc05rMFVyRk1tb25nZWtJWG9oTmNSOERDVkIwVnctd3V0emU3dnNpTE7SAXBBVV95cUxQb09qaTVqOGtZaU4zNzlPejRtYkNoUjdlT2xGMjY5YS1VMWtTNTNfajBleUZuci1WRlVPYnktVlp4Q0ZyZjJPZnNOazBVckZNbW9uZ2VrSVhvaE5jUjhEQ1ZCMFZ3LXd1dHplN3ZzaUxO?oc=5",
+    "publishedAt": "2026-11-23T01:00:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.076Z"
+  },
+  {
+    "id": "f4a8e8cdd31707001fc1078cf2343bac31077991",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "[포토] 비씨카드, 자금세탁방지 표창 - TradingView",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVd3h4Vk0tc1NuelhYU2tyX1VIZGhyMXM4Ym0zZUdLNnFOMjZldnk2ZHlSek9maVZNc0pIUEdsZGQ5cWRVNkxsbWhscU1TT1cwbzlYQjVVX3ZObDl5dkZOeGJ1MWdkOFd2?oc=5",
+    "publishedAt": "2026-11-23T08:44:14.000Z",
+    "collectedAt": "2026-11-25T13:48:26.076Z"
+  },
+  {
+    "id": "01569054e6f030ab56313889db2be48b423d0eb9",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "자금세탁 의심거래 보고, 작년 133만 건… 피싱·가상자산에 커지는 FIU - 한국일보",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aTTNIV09JR21jM25od0lYRHVWOUJfVDVldDh4XzJuZzVleklhNC01ZmphMTdSWGtZdTJSVmE0NlVIMzBXTnlLRGVIREF6c0xVS0Q3Q2kycS1XWDNONVZER005SWZsemZ6ZVRpWW5uanJ4cGfSAXNBVV95cUxOWk0zSFdPSUdtYzNuaHdJWER1VjlCX1Q1ZXQ4eF8ybmc1ZXpJYTQtNWZqYTE3UlhrWXUyUlZhNDZVSDMwV055S0RlSERBenNMVUtEN0NpMnEtV1gzTjVWREdNOUlmbHpmemVUaVlubmpyeHBn?oc=5",
+    "publishedAt": "2026-11-23T06:56:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.076Z"
+  },
+  {
+    "id": "a60011032a5ffe5a6f92a03ed8bd2a2bfe6cf7cf",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "자금세탁방지의날 기념사하는 이정현 검찰총장 직무대행 - 뉴스핌",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQzRhY2stQkZsRExUV3k1WDY3UjlJa043VndBaHlqX0J5MWNiQV84cEJNUjRDU0ZEZ2I5cjZlVkpVUHdRaHZiWWhQaEFHSF8wRVYtRVNMdkZwVWhh?oc=5",
+    "publishedAt": "2026-11-23T02:20:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.076Z"
+  },
+  {
+    "id": "54cca615ddee06a5337d36c5b2f4bf5503e6c045",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "비씨카드, 자금세탁방지의 날 금융위원장 표창 - 중소기업신문",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IZWQycDZGTHIwekxWTDZ5MUk1bEl0RS1lWlFZeGMwTThOZ0Fha09zVDc0MmxpYXZQZm5qVFdwZDFyQUpMd2t3Y2xscEUtWUg5cFVXcE1iRjM5ampxcUZnMjVtb3g3d01uSkVCRQ?oc=5",
+    "publishedAt": "2026-11-23T07:07:13.000Z",
+    "collectedAt": "2026-11-25T13:48:26.077Z"
+  },
+  {
+    "id": "45531864b88d7020ad10fb8f0f2b57d6f6b977c1",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "'잠깐 거쳐가는 자리'로 전락한 FIU 원장···금융위 인사에 '좌지우지' - 서울파이낸스",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9seGViY09wekFzQU56LXJEZlRreE4yNjBpMWpaT2dPWXRySnlqYmswRnlnSHZPazdFOEl0ZE44SnVvbnBhakZtdlg5VEI5UkZBS1pVc0xRb0tDRFBac1E3b0QtNWdZazRZQWc?oc=5",
+    "publishedAt": "2026-11-25T08:28:02.000Z",
+    "collectedAt": "2026-11-25T13:48:26.226Z"
+  },
+  {
+    "id": "67ce84e930240bfc40602898944452d3f4d6d468",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Dr Sallman on How Bleximenib Compares With Other Menin Inhibitors in R/R AML - OncLive",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaS1yeV9KSENweHhITERqNnZTcExuU1NxNXp1MFRHWXRxVjVEQnV2ZUdJanBISFlaeFR6MjRmX3NxMXdpemZZNHRLMGNUNDd0U0VBbThpMjVHd1FYdHdQT2NYeWY3Rm1KbnhGYks1ZjItanlEcXRYN0VoUzNRRzM2SjYwS1VoVTRMMTh2dUlqM1hneF8wMzVCSkM5SUxTbG5tb0xvUHFVUEE?oc=5",
+    "publishedAt": "2026-11-25T06:08:14.000Z",
+    "collectedAt": "2026-11-25T13:48:26.307Z",
+    "translation": {
+      "titleKo": "R/R AML에서 블렉시메닙이 다른 메닌 억제제와 어떻게 비교되는지에 대한 살만 박사의 설명 - OncLive",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0553552625282674dc86bd98f45852f04e5f109b",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "What's holding back AI in AML screening, lawyers clash with AMLA, why AMLR tech readiness cannot wait for July 2027 - LinkedIn",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS2RsYmo5c3ptQWtLc1BSVXprR21lTjJEbU1BVmF4d1RMTjlaeEppWnp4NGhCNDJnbkZMcjB5VXZYbUx4clJvT3ZZbDFKTUluRFlkTXFxS25IdG1WbFNEV2g5YnYtY3lnb0NJZS1LYml4bFZzTHd2S2pBU2hYRGVjaUFfblJvRXpRbUdXSnlzOHVVQjFCM0E?oc=5",
+    "publishedAt": "2026-11-25T10:39:51.000Z",
+    "collectedAt": "2026-11-25T13:48:26.307Z",
+    "translation": {
+      "titleKo": "AML 스크리닝에서 AI를 저해하는 요소, 변호사들과 AMLA의 충돌, AMLR 기술 준비를 2027년 7월까지 기다릴 수 없는 이유 - LinkedIn",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1ed9095f49906e7d5e82d3882e431b1bb33e617e",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AML Contractor Accuses Kraken of Retaliation - ACAMS",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uNmVkeTJKMHpWb3pXajFieEVMbDFMS3NIOU1fS29sQS14ekpFM2c5SlJkZndMcy1HY1dTZnhHa0JwbmFhSW1jTDB1dTNNSFh1YzhVdzc2ZHlsbWhmVnJWdXFtYTMzNVI4RnRtcVRUckZrQ2N6am5rOFJsWQ?oc=5",
+    "publishedAt": "2026-11-24T22:43:34.000Z",
+    "collectedAt": "2026-11-25T13:48:26.307Z",
+    "translation": {
+      "titleKo": "AML 계약업체, 크라켄을 보복 행위로 고소 - ACAMS",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0b56e60ec93fd4732252aa645af64e53ca138ebb",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Epigenetic activation of the ATF5–NCAM1 axis promotes leukemic cell survival and shapes azacitidine sensitivity in DNMT3A-mutant AML - Nature",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qZ1MtYWplYW1lQ1IwYXd5Y29VeGZvQzhockkwMVBGMU1KS3hSQThNR2lCQWtkUy1Ca3lCM1M4QXU5MTFlclJPd1o4SjJDVmcxUWo4Y3hMdFUySHhDQVFR?oc=5",
+    "publishedAt": "2026-11-24T17:22:14.000Z",
+    "collectedAt": "2026-11-25T13:48:26.307Z",
+    "translation": {
+      "titleKo": "ATF5–NCAM1 축의 후성유전학적 활성화가 DNMT3A 변이 AML에서 백혈병 세포 생존을 촉진하고 아자시티딘 감수성을 형성한다 - Nature",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "60c1e09cc59f6001965ca2c8d6b1f3071dc6424e",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "iDenfy Prepares for EUDI Wallet Integration to Meet New EU AML Standards - FF News",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03SmJKTTJCRjlNZGx3YjdVS2NyRm9Qb1c0NHBjMXpHcmRneS1oTV84TTdhTlpyWk5MWlg0UWxxZzdpWXk0eDRYeEVMc0VhMl9iZzVyNFl0dE9zMnRXZnZDcGZHWW11dFI2ZlVfeGVKOER4RHJST0RF?oc=5",
+    "publishedAt": "2026-11-25T11:51:16.000Z",
+    "collectedAt": "2026-11-25T13:48:26.308Z",
+    "translation": {
+      "titleKo": "iDenfy, 새로운 EU AML 기준을 충족하기 위해 EUDI 지갑 통합 준비 - FF News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e24cbb45e419005246d73b46a7029b6c7e3488d7",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "General Court upholds ECB’s withdrawal of Banque Havilland’s banking licence over AML/CFT and governance failures - EU Law Live",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMWFnanBBQ2hnLS1pZjFvRHMyd2FVdUZwTVd1bnNhVzFCUXItcVpNalQxR3JLalZpMXJNcFpZaFFwS1VPYVRHbmhsRVBwUnJfSmwzRXZ6R0ZUS0FMWmZTbFhaTGFOWGVFVVFRMTNhcmd0d2I2Z3R3VnVKQUVFOHdXUVkyWjlTNmJzX1NBclBOSVQyX2ZDTUZXcEpGUWNGN0pWSlI3c3NKYkV4T3R3NzBMZ1hmS0VpVGFaRllQLWJPakxNV2g3TjdRcVkxbkN0VXM?oc=5",
+    "publishedAt": "2026-11-25T12:00:20.000Z",
+    "collectedAt": "2026-11-25T13:48:26.308Z",
+    "translation": {
+      "titleKo": "일반법원, AML/CFT 및 지배구조 실패에 따른 유럽중앙은행(ECB)의 방크 하빌랜드 은행 인가 취소 결정 유지 - EU Law Live",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2fc55bf19a90c2828b91d23eccab555ec6a4bd19",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Ghana budget outlines gaming enforcement and AML priorities - sigma.world",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdl9fWVN5SHJTcm5lTEo1TEJrSjBXNEhhTWxYbGgwbmVxNEVjUHVjNXkxX0libFZyWWJ3cmI5NlQ2US1VZTg1dGRCcHpiQjNIZURESU43NDFEX0ZUYTVFR3FETWtwQlNHSmdqNks4X3RDYWZnUzAzVWo2c19VZ1RHZ004cGhrajJ0XzVHbGl3?oc=5",
+    "publishedAt": "2026-11-25T08:32:45.000Z",
+    "collectedAt": "2026-11-25T13:48:26.308Z",
+    "translation": {
+      "titleKo": "가나 예산안, 게이밍 단속 및 AML 우선과제 개요 발표 - sigma.world",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "50b74640c9a87d57d1a9933f71f9fffb89c904e0",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "A More Effective AML Regime Puts Flexibility First - Bank Policy Institute",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yWkhwUGQtd2VfNTVOWGtyWTdrTEVsNGVvWGo5VE5MOVl4X2xoWGZlY3RqVVgtdmdpMDlGU0JBblRQN29lN0ZmTy1YWWoxdElIMUVQQktITWxadmVtclY3cEJjem50dGwtdG5kZ280dlVVWXFJX2c?oc=5",
+    "publishedAt": "2026-06-10T07:00:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.308Z",
+    "translation": {
+      "titleKo": "더 효과적인 AML 제도는 유연성을 최우선으로 둔다 - Bank Policy Institute",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f91a784947f70245641852ae7c4b1708b3fa1da3",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury's FinCEN says 'cybersecurity incident' includes 'unauthorized access' of some systems - ABC News - Breaking News, Latest News and Videos",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPXzlJeUNoWDFFR2Y2Q1VIRTM4d2pITHdIWHFHcGFUT201SFllejlJNjZISnlEbjFxcERUYUc2bzBYS0xwTFVUYmFONFJYWEgySWhQZkFLWExySzhzV0lVc1RrT0lwZzdCMEx6aVVnU2x4QlF0ZHlMQzA0em0wbVF4RFpxMWtoS18tMHNHTENQa1BmRFdySkdtZGV6X3JRRWFnUlhzYjVOQVdmS2drQTZZUXFJVUp0RUk2SlHSAb8BQVVfeXFMTXEzUDFZZ2RhdGdjX2RDU3FHVEhST3ctVUVnN0tFWEpBaUNLbFR2a3BKT29GNWFwTHZiVWluTWRtem1tWlVEb0szZENEUFFNS1NnM3UyUlJVYmItMmJJNi1GSmw4bkV3NWlGZzJacjNwOU9yNUtNMFFUaG1VUXZUT0M4Q0ZyTS1ZcURZQVMzUERNX1ByTTc0WmczTG5Hc0hpb19BZWlES3dWZ19fa1F4OXM3b0tTRU5oRW02VE1fd1k?oc=5",
+    "publishedAt": "2026-11-25T07:41:03.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "재무부 FinCEN, '사이버 보안 사건'에 일부 시스템의 '무단 접근'이 포함되어 있다고 밝혀 - ABC News - Breaking News, Latest News and Videos",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "03ebb157ba15f94a3a0aa947082266a359c274ec",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Treasury's FinCEN Takes Some Systems Offline After Unauthorized Access - The Hacker News",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZVVZSGhZemo1YmgwN0Y1MnYxWTgyYzFpcG9wVEFXYmQ3UlFlQ1p4VlpCNnFQbVBBNVA4dnRqb0VMQ0hmUTJaSURFaVlmWmZQQlRFbWIyYmFOeEhXTmdZU3ZSS05wbUVyLVJxWk9MSXc5S0ZnSTZzUUxyS3Q1SVV6R1A1bw?oc=5",
+    "publishedAt": "2026-11-25T12:30:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "미국 재무부 FinCEN, 무단 접근 발생 후 일부 시스템 오프라인 전환 - The Hacker News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f6b3519a57e4a30b80ddc0ba2c6ed67ffe37f254",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN investigates cybersecurity incident, takes systems offline - CyberScoop",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEhjZi1TSFJkM2Rza1YyNUtFVThxZHBtYXVMeVFFSkpTLUJ2VFhaX0cwaTdvS0twVE5ISGttYUM0RWNqTGNHOVRqVnV5R09nbk9CbEJTS0p4aURrc2xzX1JZeDBXZTBYTTVsVmNUU3NaclR1clhFRXpnLWFfQ2U1LTdxV3lfTGxjSFE?oc=5",
+    "publishedAt": "2026-11-25T13:07:41.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "FinCEN, 사이버 보안 사건 조사 중, 시스템 오프라인 전환 - CyberScoop",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "71edd6af63d5436f407b55cb93c7b7bb2ac9fca1",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident - SecurityWeek",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRlo0dHFnZjlwTXVxSUdNa1ZOSnFnMUp3cEItdkJSMHpWU1loSlUwSjZ4RGZnM0U0SEtSaVlkVDJ6N19jUWpPMFM5Vm5tdU9IOVpQRmVQZ0VtVnlCWG1mczRoSDNWUWhsa2lOUmRwUFp0R1Z5TVlCSXN3ay1qUGItX2UxYjg2c3RRa0l1T0JXS3Brdk9jWGswcktn?oc=5",
+    "publishedAt": "2026-11-25T13:39:21.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "미국 재무부 FinCEN, 사이버 사건 발생 후 시스템 연결 해제 - SecurityWeek",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9a6637f161cf9ab79e8f22e1201ede6afb668ec5",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury's FinCEN takes systems offline after cybersecurity incident - The Record from Recorded Future News",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNXBqYVIwNDBSNGdPOVcyNHZyNmV1ZW43R0hBc1MtVHhJYjVaaThXOXZwSWdXdnRocVVoS3J6cWtKVnZQV1BFbnJSNXozMXBvemkwSnRBTVRPWEhSZ2p0eUR1b3JDcHRWLW5BcVJIRGFyRXNJNHduR3o5alNST2RneVdrbk1GSHpIZkE?oc=5",
+    "publishedAt": "2026-11-25T10:18:32.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "재무부 FinCEN, 사이버 보안 사건 이후 시스템 오프라인 전환 - The Record from Recorded Future News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6519d1ab942a034e13d7369d910c5ff643f8a730",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury's FinCEN says an intruder reached a limited subset of its systems - MLQ.ai",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUFdxeXNLd3B0STlfNXYyd203V2UtRzZRaWQyWDBkMUVheWVtbXEtY1FocFRVbkRoQzNGZUI5eTR2UnRuQ0pSM1VvaS1lemY2bFkxTnZLeUNoS0JDT09KUTI4OW5xZWxLRHc0VVNTNnlMSk1peWg2RHlNa3lRX0QzemVzbEM2RVBzMWVaWXp0N2I4eDFrLUh3U0Zn?oc=5",
+    "publishedAt": "2026-11-25T05:12:09.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "재무부 FinCEN, 침입자가 시스템의 제한된 일부 하위 집합에 접근했다고 밝혀 - MLQ.ai",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "770f9c02806ea676a2f9349f883fcd86e91f6205",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Discloses Breach, Pulls Systems Offline and Extends BSA Filing Deadline to Dec. 30 - BigGo Finance",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJODBjUUJqQ0Y3U25QbVFvNzZZQ3dXZnotbUFEanpmazRVY01idVp0aF9DVVVOQXRuUUZfWGxYREdRU1Jhd2hRb01UdjJubXM3VVJJRVA4ZW4wX3R4WUJSUFlMNWdsMWRBUG1CSEQtVXdBZHhkUWc?oc=5",
+    "publishedAt": "2026-11-25T13:05:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "FinCEN, 침해 사실 공개, 시스템 오프라인 전환 및 BSA 제출 마감일을 12월 30일로 연장 - BigGo Finance",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "465760d9624a446877c820bc7297b8941b3952a7",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages - the-decoder.com",
+    "snippet": "",
+    "keywords": [
+      "STR"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUDd1SW9qS05iUDRWMjlKS2thTzZnb0RmQkI1MTZyZVRMS0Y1V2xZaWlkMFNBbkhocDg1VVozMUFzdnplM3U2dFdiOHBsUzQyVDQ5ajNNZXVvd0ZoazNQMkE3NlFOaVEwck1vQS1XcG44SFRpOFowejhVUW4xa3h6VjRwN0EzQmJhOEx1MTc3b0Z1QlI4V2FDSC1CZTV6NkdxWC1kRkFscFVnc2M1Nk85c0dveFZjWnJfam1aZnRaeUZMekdyMzdoX2pxTzQ2b21nRE5nWVNGVzJsRktJNGc?oc=5",
+    "publishedAt": "2026-11-25T13:07:44.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "미국 금융 조사기관 및 정보기관에서 잇달아 발생한 사이버 사건, 연이은 연방 해킹 및 정지 사태 뒤이어 - the-decoder.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4e035d950480f19d6f52d181f009624a1ec31e3b",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Reported a Cyber Incident and a Temporary Shutdown of Part of Its Systems - Incrypted",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0ZQY3BXYjJaRE5pemtBYWRQWWhEVFZIbWVXbTBUdkFFRnhzd2FXR25QZU0xUHhrNUxyeVFjY19nZkRXUTRqQlBCQjJiQ01vSF9xdU5TcE5ySl9Za1dud0I5TXlFeHZqZjcwYjNiTTN6djdBRzBWbWVYeldlY3pNNlhQNFhrQmJxMk5oLWRDa3dwSmZnOUdONlpWWVp4NE0yeU1iNGIyT2lTQQ?oc=5",
+    "publishedAt": "2026-11-25T09:28:01.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "FinCEN, 사이버 사건 및 일부 시스템의 일시적 중단 보고 - Incrypted",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c998741c3969b18e1d83933f26f822f1610f786d",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Hack: US Treasury Unit Takes Systems Offline and Extends Filing Deadlines - Dawan Africa",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2pBWUJHeFM4MExEY3d4YmVLazhJTXdsSjI3eVB5VWFMTlU4UFpxR2lnOEp3RnZ1bDA1NElyZnE0VnBpTXZhMmJVQTNRd2tCM2ZUTDQyWFlYX3BmVzNnNDlHbGxlY0tGSi1nOXljdkJ4eUc3a2FZakszQ2RGWE45YmdCOGk2QWxYcXJGNm9aNm1mQWxKemxDN3kzWmtpM0t6NWJpVUtFdXZuQzFSeWc?oc=5",
+    "publishedAt": "2026-11-25T09:10:13.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "FinCEN 해킹: 미국 재무부 부서, 시스템 오프라인 전환 및 제출 마감일 연장 - Dawan Africa",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d33df5f333109b68ef6fea23a8e3598d49658a02",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "crampell criticizes Treasury CIO’s apparent Civilization-clone project amid reported FinCEN breach - Digg",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA5dno3MERYcDMzX25wLS1ZR1dhUWNraDlVZFk0M3BqMndsRXNGeXNZWlNmazJHeXdCZDV5c1ZjLU1FZw?oc=5",
+    "publishedAt": "2026-11-25T05:39:09.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "크램펠, FinCEN 침해 보고 속 재무부 CIO의 문명 클론 추정 프로젝트 비판 - Digg",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "efb897939345db2ca8ce5c28622830c7dd35d71e",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "A cyberattack forces FinCEN, the financial agency of the U.S. Treasury, to disconnect part of its systems - Demócrata",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQekZ6Q3pBbmlIdGRzeVp0UlpDa2lscDdaVTVXYzRpYW9HRWJrd0dUZ0tZaXY0RzMzMHZQbVJpeHdINW03c2JJbVB1d2pqOW9ZYVRnQ1hVLUh6MU5VaHp5M2J2bUpLSF9hb3NrZ3V0VFBXREVVeVZNNHdrVkh1NTMtNGMxYjlVVW1PZG9wMHoxdk02QnpGUjR4YzdYSXUxMGppcG56VG1TZmjSAa4BQVVfeXFMT0tYQlpTQ0N0Z21ocDk0TEJ0UEg1ZGF6ZjBCeDlyZDBEQlVBWGhJenk0eE8zemt0Q3RfWlZJWTJZdU5GRVlWXzJ6YTBvVUNsQkU3VlZhaGxORnlBUWZ4bVFpdEoxWG8tbmRCbVpia2REM1Mxc1RUVnRaMzV1Qzk5cWZSbmh0Wnl4Qk04NjVRekJxT3Bad2xuUm1JT0U2UmxkdGN2anZPOGNXRW50Q0N3?oc=5",
+    "publishedAt": "2026-11-25T08:00:29.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "사이버 공격으로 미국 재무부 금융 기관인 FinCEN, 시스템 일부 연결 해제 - Demócrata",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7e55cf492db8de618fd4612c79e491601956a184",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Reports Unauthorised Access to Systems, Extends Financial Filing Deadlines - The 420.in",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GR3pNaGNEa0pCM1NrV01LV0VkUnJrQ2J4OWZTclo3SkhCWjE2eTFvZFAwMW5oNGYzWnJnMlVPV2VnU3pKNFlSaDZiMExyTTQ2N1hkaFFPYlpmc1VwUUR0Q1hGUVlvdXVfNmxfUjhUTEsyVmFzNldRdXlrY0FqQQ?oc=5",
+    "publishedAt": "2026-11-24T08:00:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "FinCEN, 시스템 무단 접근 보고, 금융 제출 마감일 연장 - The 420.in",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c6998809b4d6d9456c03eb39a321fb9080d30ed6",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. Treasury’s FinCEN Hit by Cyberattack Hours After CIA, ODNI Breach - Cryptopolitan",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY1ZzQmQwd0hTWXFEUnZpLTYzWnhheGxmV0dCNHRtYjh2bXVDcHA0WjJzSGd1X0lneEJFdHlBSnY0YmNGNEpsVTRiaFV3RTZrNVJrcW5UTXZEQmRvYUVvQnRQeV9DYkxrQk5qVEdaUVBpUS01U1hva1owbXItMTVVVmZQNA?oc=5",
+    "publishedAt": "2026-11-25T06:01:28.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "미국 재무부 FinCEN, CIA 및 ODNI 침해 수 시간 만에 사이버 공격 받아 - Cryptopolitan",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8d61dd25509f302c139cb81d65e1fb98cef24810",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Treasury’s FinCEN Suffers Cybersecurity Breach, Takes Systems Offline as Precaution - FinanceFeeds",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlVmT21ESVZvcmlGWXRaSUJmM2JhQ2tVRkF2TkJsWnFHS2RIZ0VVQUdBanY3QVhqM1o4QzIzakg0TTdMZU93MDAwd1FWamlxV21WYm81SDNuM0RfeFlJdnNERmkyRUZWVGwzQ0ZnSHJnZ2I1RnJHd05IcXh6bWdydlk5RkNERnJWbEtzUVN0ODRGWm5DdVN5cEJGaUdJOXNFc1picXhmMzNtYmNVakt3?oc=5",
+    "publishedAt": "2026-11-25T08:06:55.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "미국 재무부 FinCEN, 사이버 보안 침해 발생, 예방 조치로 시스템 오프라인 전환 - FinanceFeeds",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4ea9b1536efdc157330913cf652d6cc7e415fac0",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Confirms Security Breach, Keeps Suspicious Activity Reporting Online - Coin Edition",
+    "snippet": "",
+    "keywords": [
+      "FinCEN",
+      "suspicious activity report"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSmpXWUtWd0E1YnhfNUNhbzFCeVRKa25kZTVLYnoxZWhTQ2RXZmt3Z205UDdGSWhXbGdzRnNyY2pTM0lQSDM1ekxhT0RjS0d6Tk1NM3R3UHNfNFdtS2lMeEY5MUgxZGdja2JIVFM1WV9sOUJmb2RBN2ItbDJGTkVRZmQxWW13YkgyaUVjMUJUUFBZVUZ3QXlwVUhHSDBPMktW?oc=5",
+    "publishedAt": "2026-11-25T12:00:06.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "FinCEN, 보안 침해 확인, 의심 거래 보고 시스템은 온라인 유지 - Coin Edition",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9151f75f4635004babebe5119eecac53e218f3d0",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Took In 16M Ownership Reports; It Pledged Deletions - FourWeekMBA",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDhYT2lPSUNuWkQ2S0dGOWhYZU1UUzh2TDItVF9YSDdRSmJrczRndVExNEs3aTlLTkl6QjFiY1JqUEdKbFNMTEg2Z3J0eWNzUzNlay1PUllWanVmQXpvSi1ETXNIeVNsYzFRcTZJZjBTakhtZDBPWE9xVnphby14d01LRUZnWjNhN0d5VGZn?oc=5",
+    "publishedAt": "2026-11-25T06:49:52.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "FinCEN, 1,600만 건의 소유권 보고서 수집; 삭제 약속 - FourWeekMBA",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "961a9e21447597d505a263d1a8759d34e3e49200",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN, Which Cut Off MEXC Over $16B, Discloses a Breach - FourWeekMBA",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORE9uNFAyaVd4OFFtOGZBSUEtWWwzbkpTY1NBSWt3a0I2dU9IcmdTVHRpUHJ3NHFRank5dE9wSTg4d05RWlNsN2VxcjQ4RGRsUVZQaTZyc2h4MGZmM19YeFJzd3dGeTlNM2NSLWVPbHBERGhYUFdMTDVsc1Vvb2ozeVNPUGQ4OU9Y?oc=5",
+    "publishedAt": "2026-11-25T07:14:07.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "160억 달러 문제로 MEXC를 차단했던 FinCEN, 침해 사실 공개 - FourWeekMBA",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ca50f2d0d918e2633c4a09052728fa9ad726bbcb",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Is Treasury’s 3rd Breach Disclosed in Under 2 Years - FourWeekMBA",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa0VrUGVvMUp6ajBMZ2VUN1FtUEdBMUppVzRqdDBjQUZ0anFOT0lHUmxKaDFfYjFfVnF1dEpmbjB5aURJV0hjaTkySlpQVGJ5NV9CbTZVMVFVRjZZVXpnWHpjeEVfaW9jRWZOUlgwZU1ZVHJRRHB6VmlNdEZNblZZTWpfTTVabURtNGQ2NEZ3?oc=5",
+    "publishedAt": "2026-11-25T06:38:05.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "FinCEN 침해, 재무부에서 2년 미만 동안 공개된 3번째 침해 - FourWeekMBA",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "13ab10aceba79e0f6d1b2306313e535e599a04ea",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bitcoin Price Holds Near $59,000 While FinCEN Discloses Cybersecurity Incident - The Crypto Times",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcGVCUkN4eDE3Y3VzSW9VVHM2WS1MS1V2NjBjNndfOTNuSDFtWk8wTFFnNmNnSWVnMkpVWkJJNWFKTXJrQ1NhbGt5QU44Q0JlLWp0MnhZQVNEMVNRanBrTXlKS3hWNzdpRTJNY3lLZHByQ0xXLWxQX3FNc2RFRl9FOUpmbDNUU1pDTGFGMjliZUJqaTduUkxUZWg5V1ZOQ2hqT0RoTnVfa2pCaFBwTVRZc1dEMlRTZw?oc=5",
+    "publishedAt": "2026-11-25T06:31:45.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "FinCEN이 사이버 보안 사건을 공개하는 동안 비트코인 가격 59,000달러 선 유지 - The Crypto Times",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4149d1122edb9aa4d8ea55d5441f75fec622b6fd",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN investigating cyber breach after unauthorized access, systems taken offline - NewsBytes",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcUdkdzV2M0NWZjV5NFhFNnZzbER1MXlucWV2VlY5LW54THNXUlZEdmNGR2dCV0VYMklBdkNhZm83WUd1aHJrMEs1bS1VUHRYTFo2djRFblVhMDE2UmFMdjdFeUVOUDVyMk13ZHplV2U1THRkcHhuaVlQTWxmdEQ2ck5iWVdtM29SN0xtcHIxQ2JSOGE2aFVGOHJfT04zUkVPZ0NlS2pERlMyODNKRkdmUzV4MlltdEwwUTNPbGdRbEhRZXBVb0Vj?oc=5",
+    "publishedAt": "2026-11-25T04:16:40.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "FinCEN, 무단 접근 후 사이버 침해 조사 중, 시스템 오프라인 전환 - NewsBytes",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "61c453309114406c9f973c0cd22ed4326274f508",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury’s FinCEN Breach Is the 4th Federal Hack in 5 Days - FourWeekMBA",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWE85MXNEODI2S082VjB2Wm5TVHJLTl82d2stU2VYWi1KMEZISjhuUUtsSFhHOWpEUkZLVm84TlgzQlRVdlIyTVdFaTZ2Mzk5MW94NWM2UERvbjdsdEZyTm5uNmk3X0dwcnluS2FrNndHc2NiOEt6Q0F4U1dBdXgtSnFXcDVkRllFWWs2QTVB?oc=5",
+    "publishedAt": "2026-11-25T05:17:18.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "재무부 FinCEN 침해, 5일 만에 발생한 4번째 연방 해킹 - FourWeekMBA",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b6d446c23f9b2d263ec99c34ff00464236ace937",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Cyberattack: Why Has the US Agency Taken Systems Offline? - Coin Gabbar",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNTNWTUZrYVp4alJnWDFjUmtFbzNqM0RjckdQSTg1OHd5UlNkVWZoTGFYcUhnYTgzSGVXMmpzTmpWZi0ybkxrYUxHZnlZYWpJQlc1ZmU2SG9wb1NkMEtwZXQ5bThqamJkSVNMbVo1a21LSHg0M3lnWGRsZDZJQWl0RDgwZy14SUtRb1dMVlZ3?oc=5",
+    "publishedAt": "2026-11-25T05:00:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.142Z",
+    "translation": {
+      "titleKo": "FinCEN 사이버 공격: 미국 기관은 왜 시스템을 오프라인으로 전환했는가? - Coin Gabbar",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "93bfd5fd79b1f1073e01a7750ce0d7628f86afce",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US Treasury Confirms FinCEN Cyberattack as Multiple Government Systems Go Offline - Hokanews",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcnhiVF94eEw4ZWZyZlVJN2NDOGhfWV9wR3IybXkxYjl1SzZBdGt4U3BiN09neU5GWmpOR19JSklxenJ5eEJOVDlrLURNeG5LNlIzQkx4LXVxQThoZ29tQ2Z6bFBXYkYtdjR4empqNW5PMXVLVmNJV2ZtRDlWR2dyU3U1Zw?oc=5",
+    "publishedAt": "2026-11-25T12:29:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.143Z",
+    "translation": {
+      "titleKo": "미국 재무부, 여러 정부 시스템이 오프라인으로 전환됨에 따라 FinCEN 사이버 공격 확인 - Hokanews",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7760297ab9bdbdfbe938402f249155831de84738",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.K. Sanctions Yemen’s Houthis Over Attacks on Saudi Arabia and Shipping - WSJ",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ3A0LXhOVDZKQjZyZGIxUlpHN2ZKOVF2S2tmcmpsdkpQQ0VKcVhveHRQRFpIblg5Q3JlN3ptcV9hN3ljWjduTHZ4b05GUHMwVjRZczJuajVfNnVIZl9rMWhPcVVSYlZPLU1lOTVhRVc4V3VPZzZLMUh3YVE4Y3p5TUgyb0RtSTZiU3VGa0E2TVZYOXdlNVQ5QXZFdmF6Qkg0T3pVTkhEaHZ2SXM?oc=5",
+    "publishedAt": "2026-11-25T12:46:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.132Z",
+    "translation": {
+      "titleKo": "영국, 사우디아라비아 및 해운 공격에 대해 예멘 후티 반군 제재 - WSJ",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6c998524f54409fa22819bafaf2a84622dccc1cb",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran rations electricity: How deeply are US sanctions, blockade biting? - Al Jazeera",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZ0SENvb0cxQVppX2ZNRFQyVDNzb0dKNzl3NHlBQS1TaFpQNlVpd0ZUZUtGSTBaa2pDTk95VVdaWXFxS3UzUTRmYXRXZUtCbndXZnV6VjZSZU92d0ZKU0RzbmptZUM2LXV2M3ZpWkNuMnBpdExGa3gxQjlOc1NyTnFkcnhKODlwbXpnMkhzQ2h1UjhKNUZYMFlWUXJsbm1HUm9Gdm5nZENCenQ2RHVkUUE1WWLSAboBQVVfeXFMTktvbUdsUC1kNmVoLVl3eGY1Yk1vZEpoUFFtQXFOY0NQcXltdzVZSi1HaG91OGxMRmMyWk4zMXFzWThnYjNpYXJzNUVTLVJuUTM5OF9aa2J2RDZIZzNSSW1IdUN1a1QzX2lGYlF0RTVtZFRuREI5Ym9uRFlidUhXT0wxN3cwMXc4YWx2M1lOV2l0eUhhVi1wcEF0emp0bXdwTkpLc2l1WDlkU1JYTElEd1N4eENHUTdnVGpR?oc=5",
+    "publishedAt": "2026-11-25T10:05:47.000Z",
+    "collectedAt": "2026-11-25T13:48:26.132Z",
+    "translation": {
+      "titleKo": "이란 전력 배분제 실시: 미국의 제재와 봉쇄가 얼마나 심각한 타격을 주고 있는가? - Al Jazeera",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "dca9a5261b10694aba9f241bbe81fed6f5202d2c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3FWXzBPaVJLUVVWWDJYZkxmcEYwMU5rSUItY2lVcmRzaVFPN3VOZzBLTFIzMExSY0x0VmxfSXZwV1Y5LW5yekNHNnJhcFFPMlpiVVN1ZnBTSUtyblY4U0xLemRSS0lZQ2RGSGZ3bFowcS13V3J5LXZ5LVExTTBtdXhncFJrYUlKbEI0cENTc3ZMSFR3dkx3dzdtWGFUY1o1cExsWUZEZw?oc=5",
+    "publishedAt": "2026-11-23T21:50:55.000Z",
+    "collectedAt": "2026-11-25T13:48:26.133Z",
+    "translation": {
+      "titleKo": "트럼프 행정부, 엔비디아 스캔들의 중심에 있는 싱가포르 기업 메가스피드에 제재 부과 - The New York Times",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1d9a8d393cb23c4dfa14ece4f615b65236b4e7b0",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "North Korea expels Swiss diplomat over sanctions weeks after office reopening - Reuters",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNUNWNUd3TUtJYTY3OEc0TGI5U1NhNDdFREhNdzVxU3pnV2ZoaDgybzlaS0lvbVRXNWVxeG5uZFRRVEswT2s3V25GLWppMEJtLUZvSTJ3UVVVTE8tMUtGVFVSempYNmhyMmdjTXJGb0RGTFdMcVc0ZTJaUkVENC1tWk1Mbl9LYlBGZUYyRUJqejhCRXdyWGdhVVdxNnJjRTA1dlVmdUxHd0JOalNrWXBLQ2hGQktJalJjQmhqMkVBT1ZNWlFqa2xWeHFiMWdaRmZtRV9EYkNibTczZw?oc=5",
+    "publishedAt": "2026-11-25T03:19:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.133Z",
+    "translation": {
+      "titleKo": "북한, 사무실 재개소 불과 수주 만에 제재를 이유로 스위스 외교관 추방 - Reuters",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cb323da7adbb6abe7d21cfebc04fdd0cc6cca3b7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "North Korea expels Swiss diplomat over sanctions on children’s camp - NK News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkd2N2pOWEZoUktJbktYdzk4M0xzRWxiY0xNWHp3cmFwaGQ5dktaV2ZnR0I4T0VBalBBY082SHNVaWE3WUFqOHpRc3dVWUFZeFlCN0lCc3NzNXRuSVluVzhWbUxxV1ZvZEdjcFc4bjh5bFp1cll0dFo2QlhwLURadzkydTk2RTk1REVyaG9ic3daZnFVcFN3alhGamFzQ0E?oc=5",
+    "publishedAt": "2026-11-25T04:54:05.000Z",
+    "collectedAt": "2026-11-25T13:48:26.133Z",
+    "translation": {
+      "titleKo": "북한, 어린이 야영장에 대한 제재를 이유로 스위스 외교관 추방 - NK News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fb59604312155b86166cb8327d6701b2b61ea8fe",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Huawei convicted of sanctions breaches, fraud and conspiracy to steal trade secrets - ICLG",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVlmVmZmelhvSEdRWExVdEFuVHNDdnJ5amhLU2thdzZxQmx6X2ZMN2VjVUdXUGMza1lhbTA2RENUT294X2hzN3FkYnRDLUJUMTBMRERNUi1uajNJLVRTXzlYSDVQbnVRb3BHR1NmVEhTd01EdlVsejFmQzB6WDJ5d0VOVDdtdVdYRTlqUGJlanRycGw4UmVCVnJwSmpGYVVtSWFnaG93RTk?oc=5",
+    "publishedAt": "2026-11-25T09:46:11.000Z",
+    "collectedAt": "2026-11-25T13:48:26.133Z",
+    "translation": {
+      "titleKo": "화웨이, 제재 위반, 사기 및 영업 비밀 도용 공모 혐의로 유죄 판결 - ICLG",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "344765815cdfafd7f270b0afa1e0ef1767f76701",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury Department Targets Iranian Exchange Houses with New Sanctions - The Presidential Prayer Team",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVpYOGFDd0ttM3R4V0ZFbnB5ekd3Z203dWM2aUhoaERzRHdUbmtEMkI3ZW9WTmxWOWpXcGt6UzFfdjJLTEVad1VTSzZRMkFmTVBDUlJDS3V6elU2NktuRlMxc1B0cTlwbGJwQ0xTRm8tWTlIZFlZUjhsNDVJRTRLVGZRVC00LVROdVBKLXBhWG4zc1RMd09raFhyWWFGY2VXZzhhVWdJdS0zM3NCdmpNaFo2WTVydzVNWXZ1aDRn?oc=5",
+    "publishedAt": "2026-11-25T10:00:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.133Z",
+    "translation": {
+      "titleKo": "재무부, 새로운 제재로 이란 환전소 표적 지정 - The Presidential Prayer Team",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7495122d5b590745a4db4d2fd93b3adf1f2cb183",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Jury finds Huawei stole US tech, laundered money, and broke sanctions - The Register",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2ViTG85WkQ5R2s0MmRIVnFGY2dWc2g2S2hkZlVXbEdjd1ZEd1pxZFJ6T3BScXdVeURvWldZdlZFSkVYU1lMenhGZWxzTGtSSkdCWU5iVFdOZGIwSXQ1U1hwZmM1cXhsZ29oRk1Ga2FhZDhPbU9xYnBaTnY4UlV5Uk5VZml2SDVKV0pYb1B5aWJocXBqTk5rUjVpZnRuMHJSdzdZalRRbkdXYUx3QTRxQVI5Q0Y4NGhPNHFKVQ?oc=5",
+    "publishedAt": "2026-11-25T06:16:02.000Z",
+    "collectedAt": "2026-11-25T13:48:26.133Z",
+    "translation": {
+      "titleKo": "배심원단, 화웨이가 미국 기술을 훔치고 자금을 세탁하며 제재를 위반했다고 결론 - The Register",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bbd05778b11be5155fe07488811a0f7db1c2ccdf",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Why Did a US Jury Convict China’s Huawei? Iran Sanctions Case Deals Blow to Beijing - Modern Diplomacy",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb3ROdFBZMEI5cWlYS0o1T191S1h1d0o3dldObnFnVk5Ta0x3WmJ2SzRSNkZJUWRfVFdMNlZ4TW9QbUt3WXQ2ZUVkVEpjV1l1WU1qV0hxMTRWMFdScVU4Yjc4d0pNWk5id3o1Njc0UGwyM0d3YXFKam1fNTJUUjgtUk5LVEUwYkpJNG5lbTNHcnZoaks0VXhlaTJHN19CQmpnS2JJMzVzbmJ2b3JpNy1Ba3RDQ3d2MEs0MjNtMg?oc=5",
+    "publishedAt": "2026-11-25T08:21:54.000Z",
+    "collectedAt": "2026-11-25T13:48:26.133Z",
+    "translation": {
+      "titleKo": "미국 배심원단은 왜 중국의 화웨이에 유죄 판결을 내렸는가? 이란 제재 사건이 베이징에 타격을 주다 - 모던 디플로머시",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5d6cbd252891dce7f95e6be7127f5dab3deb70be",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Huawei found guilty of sanctions violations and stealing US trade secrets - Data Center Dynamics",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnZndkRQX2lhQ3RHWVc2ZWFMbUNGTXdabVFoRVhPQjlzbUZMYXZqM1hPNTJXTGhkeXg2c2tzWXlEdGVnaUh1NFY2ZFh5QlV6M1RtcjRVbFp1dmdaMVlkMkI4Wko3cGRHbU5DcWwwVF9NcW9sdEJpTkh3QWlqT2g1ZE4xaFlfM05qN1pTY3hKaEw3eFZpSThzUnRCU0hsaHU0SG5QSWhqa0ZIajE3dlV2T2xxVVdZT0VW?oc=5",
+    "publishedAt": "2026-11-25T12:18:25.000Z",
+    "collectedAt": "2026-11-25T13:48:26.133Z",
+    "translation": {
+      "titleKo": "화웨이, 제재 위반 및 미국 영업비밀 절도 혐의로 유죄 판결 받다 - 데이터 센터 다이내믹스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "227d9a1e595951fac766b158cef8b006917a762c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations - upi",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZV9tZUx0bDdvbVFBWEo5LWk2RWdPUGU2aGhDWGhQLV9kNUh2U2pqNzluQjRkM0ZRRVpyWkhJWmFkZlluc3lYd2xvMTg5WUNSdGYxRmhfakVkTzhFZmFxVHF2V3ZxNFlVOFNVc2ZTSnRUTG42SjZjSGhwdWViX3Y3dktXLW7SAYoBQVVfeXFMTTJiX3hFaGZpdklHSVhEc1pROUJlTmdLcDhVelQ3SzdPVDY3VHIxMV9tQzNYSE5yQ3lubXBXckVIeW1qSE9FSk1iTXNJSDFsWS1ZMlAySFIxQmEwc2dlQ1RNRUZuSWpTNm5EQnpld01valZQLU4zbHgzUEVRTEJUYzNrTS1XT0FrNzRB?oc=5",
+    "publishedAt": "2026-11-25T07:07:25.000Z",
+    "collectedAt": "2026-11-25T13:48:26.133Z",
+    "translation": {
+      "titleKo": "미국 배심원단, 사기 및 이란 제재 위반 혐의로 화웨이에 유죄 판결 - upi",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ffd23bc9adc7b2551d80e05a5525b8ca48e6cc8b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "North Korea expels Swiss envoy over sanctions on children’s camp - Anadolu Ajansı",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEstaWtKOXBvbjJiV1pXeHJEZWZ3alJUZlM2SGpRNnMteEdWMzdmUy1oQ0VmakFMWHBpX28tcnFiTzZaakVNRG1yenJlU2JlbE1xWFNpYkhPZkczYm9vbGo4cmxDMkRTY2VHSGoybzJ5SGlCeWJKRFA3bGd4UkU0ZzF3U2lIVWp2NnJzWGZXLWxrOW84RXBvQTBSRlctaUZrWll1MF94THAtV1BycS1F?oc=5",
+    "publishedAt": "2026-11-25T09:32:19.000Z",
+    "collectedAt": "2026-11-25T13:48:26.133Z",
+    "translation": {
+      "titleKo": "북한, 어린이 야영장에 대한 제재를 이유로 스위스 특사 추방 - 아나돌루 통신",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "64eb7ba6cceaf33d6f7ed8eb68efd0f2749c9b1d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US warns Kim Ju-ae’s ski gear may breach UN sanctions on North Korea - South China Morning Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV0R1bHBicFFGQ2h3azVmbmk0Mlh2VzV6S0w1YkJLcjREMmtZWHhXaUVvdmRuVzlBdFFNRFhmT09yQWk2VGVGYVNVRE5CMXU1UlZrNTFobEZLcVFKQU55c1ZGandLRXp5ZmhkUUxOaXo5bmRlbkdtVkxsWHpJajIzUXdVQ2diUmZxLXNSTTdNamhaRk56OXBzM0g4NTBmamlzNzVrVWRnNlJGdDhOUU5hVmZ1Yk4wMENFamVPSDItNlZKM2_SAcMBQVVfeXFMTVdZdm5IRDIxWnB0SXR2aVpRV1VMalN1VVVvb0l0TUZxNlRMcW9LcnFUSEQxSEtvZ0Y1MDE5NkJoOHQ5eENhbElseWpZaldPMTM2ZzJkNGZ4TnM5TG40MWJWUWpJYlJiS041c2k1UjNJWnNtWHZ5bWE2RmxDLVZDQ1NRZzRiSW5wckQwTVU3dzhkRDBvSDNfNE5odDJOU19vc2ZCS19UNHRRaVllVTVWRHJHRWhzZ3hROHRVU1dhWXJ1emc4?oc=5",
+    "publishedAt": "2026-11-25T09:24:47.000Z",
+    "collectedAt": "2026-11-25T13:48:26.133Z",
+    "translation": {
+      "titleKo": "미국, 김주애의 스키 장비가 대북 유엔 제재를 위반할 수 있다고 경고 - 사우스 차이나 모닝 포스트",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b2879de31647b8448731a6afa38067901e7cb0e4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "North Korea expels Swiss envoy over children's camp sanctions - upi",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNE5meURFNThCSDRtQV9lWk00S1BGQXBhTV9sZU5hMU9oaU02aHhxZ3lHSER2ZHBPZWRjZTdCcF81c1lmdjBkMXdfa2YzUnlhQWtrN25WQVBtMWx2b2tYNDF5MkJEVTZURWc3Vzg2Y0FzVGhrX193Q2dHNTRyQzBZb2dJQ1ZMM0wtdlUzZ2p3eFYxazh2a3JKZFE5cTBqWVY2aURhNEJRcndnVjZwVlFjMW5jNDd0WFpwaXhsc1VxaEkwd9IBxwFBVV95cUxOVWpQYUZ6bjFsaFFoaDJxMkZVVVJKeFRwbjJ6SC1PYnplY0R4VDdHZHprMXptSzZwakdkN1NpbXBaTUEtTGk0alRBaktUWkthemt2clNGVDJ6ZEVsV3lxYkQxcktXRDVobkRhLXVkSHlPd2lwTExpM2ZLYWhWYmlicFBTR0tzWXV6VGtBOXFfczlOUmN3dmY2RGk0MWhXZEl1bzhhRnp3bGJ6eHg0cktXeVBvZE4tdHFjVE1JUmZ6TWlJV3ZUZ044?oc=5",
+    "publishedAt": "2026-11-25T08:46:35.000Z",
+    "collectedAt": "2026-11-25T13:48:26.134Z",
+    "translation": {
+      "titleKo": "북한, 어린이 야영장 제재를 이유로 스위스 특사 추방 - upi",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f08e0e0dcb777a0c536e78bf5745a96aae432df5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Huawei guilty of trade theft, sanctions evasion - Global Investigations Review",
+    "snippet": "",
+    "keywords": [
+      "sanctions",
+      "sanctions evasion"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjlKMHNBbHlWYUVzNlFPa2VPVGpPVURCZDJHdjJZdzVqZWZ3dHhtMDlDTnAxRVhDNUZPdFFWZWs0QXl2Y3gxWFlaa1o4czh4MTF6dFVDcDRsQW5CQVJzVG1kc1NZTjVMUEhGR3Q3eUtaYW16eUxIMkxqd2JmRktTUG5YSlgxQi1lb2ZoeVdHRU9yb19qT1c1aGpSc2p0SEtpLTd2anBmOENIWmdM?oc=5",
+    "publishedAt": "2026-11-24T22:44:12.000Z",
+    "collectedAt": "2026-11-25T13:48:26.134Z",
+    "translation": {
+      "titleKo": "화웨이, 영업비밀 절도 및 제재 회피 혐의로 유죄 - 글로벌 인베스티게이션스 리뷰",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "850f4f06277dda442efd554a72237e8b512665b1",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK cites Houthi abuses, regional attacks in fresh sanctions move - The Arab Weekly",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcS1TRTJvN3huWm9JNHBnTjBmMHg1RW5iMEV6Vl9MeHk3VnJxNGMzeEFZTUVNN3RZbGVYaHRkd1ZjLVVvV1hYd2RhZDlfdkExbDRvSGhEdndvTDJaYU9PUHF3MTlmTlNQNXdrZjNpZVNEc3loemE2OTVDVnBUS1FFMXBkaTBmU0xDOUlEaTBUWQ?oc=5",
+    "publishedAt": "2026-11-25T10:10:06.000Z",
+    "collectedAt": "2026-11-25T13:48:26.134Z",
+    "translation": {
+      "titleKo": "영국, 새로운 제재 조치에서 후티의 만행과 지역 공격을 언급 - 디 아랍 위클리",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8bf659032b12a5ce254c42640f7fcf1d28f833f5",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Russian Diesel Sanctions License Has an Expiry Date for UK Importers - StoneX",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalR5OVphOUk3ZjJYYmJTelJPV1Mycm9PM3NfM2piMjRpQVY4Qi03RDh0WGFxNGFZX2JRNF9NOVRQQUV2Q243MVpyNS1zNDJsRV9tS0dTRVRmQkFNaVQ5eTI2bWJOd0pvN2d3X2VreUhETUJ1dkRvTXlIVkVJek9xSDZpSmhya1NLSmlqYkZBV3FROEQ4Y2FmeVdHdFRvVktFZVhUVHFIakw1eFU?oc=5",
+    "publishedAt": "2026-11-25T08:41:20.000Z",
+    "collectedAt": "2026-11-25T13:48:26.134Z",
+    "translation": {
+      "titleKo": "러시아 디젤 제재 라이선스, 영국 수입업체에 대한 만료일이 있다 - StoneX",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fc275362e7c4622a43be44a1fcdf2fb196c26b76",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Huawei Convicted of Trade Secret Theft, Sanctions Evasion Conspiracy - Law.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions",
+      "sanctions evasion"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWENOMFZQaDBTekw5X2E5SGVXV3FzY2RFeGhvWEN5eUFwUEdmeTZ4YTBLRUJJNU9zcVpqS1VFa3VHM0lPUWhrdUxoRnpZZ0lxVnZLR3lEMkFDazRKVHZWNGxBemx6ckdFcFYxdFdMNHFpMHBfbXJCRUZiakdEQXNKNTlNMkQwXzNRdG9xR2ZxN0dpbnBLUU1BajJiTHNkYlB2Z1ZUdjJzY0ZkakxlMjNXSmNueFlENHg0cWVhZ29XUU1icHd4M0xLR2ROblFraHFzcF9zM3hKR3FBeGxzSTAweG9R?oc=5",
+    "publishedAt": "2026-11-24T20:29:09.000Z",
+    "collectedAt": "2026-11-25T13:48:26.134Z",
+    "translation": {
+      "titleKo": "화웨이, 영업비밀 절도 및 제재 회피 공모 혐의로 유죄 판결 - Law.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "3c3a7d02fd77686761f0f9be9f08cc8489eb4118",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Amtrak Seeks Sanctions Over Dead Plaintiffs In Race Bias Suit - Law360",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbkpua1ZTajFwRU50N3k2eXBFaFBkT3hNbThHVFpSS3NZWHJvLXZBVVRVNFpvUzNTczNGeUhXTXMxUzE0WFJTeFBTRDI4T28tQmM0RjRSUGNpZGN4eXpqemk2UWdZbnI4V3ExRXg4cDB2WTd0MXVBYURXTDctczdqRHhhcWExVmU1cHhyTlZfSEhYc25KcVV3VFBCTmQyOGp5ZmNqNlZfTDZob3PSAV5BVV95cUxPc0lPb0hZbHZEV0oxMFlGc2FOVGloTUtMYXRVNXlzMFVwRmxBNFFFTmEzSnVWY0xYM3hRSnZlVkRNU3VtVWxOSFJvTG9tY0p6ZGVlM29PY3pqRW9PQk9R?oc=5",
+    "publishedAt": "2026-11-24T21:36:49.000Z",
+    "collectedAt": "2026-11-25T13:48:26.134Z",
+    "translation": {
+      "titleKo": "암트랙, 인종 차별 소송에서 사망한 원고들에 대해 제재를 요구하다 - Law360",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "63fa7ab1d64c4266db2982f13d2d5d4cb784bbe6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Iran Urges UNCTAD to Address Impact of Unilateral Sanctions on Development - تسنیم",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbnV3T0Jlck1kTTUwcTc5VWszZ1lFOXQtVEkwR25vZHdUdm5GbGEwajRiUEhzZzdzbHdCaEJvSVYtY19hbVpsYlRqNlprNnZUNFV4Q09OSi1taUpjX3hjUFEyaThVckkwMjRVX2pKdy0zbzNlVmU3YWRLelVfb21yTU1nVVhxUWs3bExxNmp4SUZNOVpkOHQ5V0VuQmRBREtEeVo4R0xXMUlUQ1NwMFg1UTZ0MVppc3RHRGhMYjFCY2QzaDFMcUHSAcsBQVVfeXFMUGE4M2F4MWVTT2RVcDNyYUROTXc1Sndlc0tLNmh4N1ZBOGJweUdkcmtzQ3FkSDFfWm1URDVQQWMyemFjc0E5bmk0RlJWdmlYT29oeGpUd2N3N0xkNjR3ZHVQU2gwYUs0X3NrWElrV21EZllqdk91LVhTREplUGstSUVCeUJNU3pDRU5oWFRYWHQtYjdnMjNsbG5MRV9SU2ZJV1Fza3pHTFJ2VWI4bEJEN21BQzdMODVadWY0Tkwya2h3MWVKcEdYRXBpQ3c?oc=5",
+    "publishedAt": "2026-11-25T08:18:38.000Z",
+    "collectedAt": "2026-11-25T13:48:26.134Z",
+    "translation": {
+      "titleKo": "이란, UNCTAD에 일방적 제재가 개발에 미치는 영향 해결을 촉구하다 - 타스님",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "dbf9a89ccf871f191cbef5cb801ce9f099df363b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "These are the possible sanctions awaiting Héctor Herrera after his unexpected arrest in the U.S. - MARCA",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPclZMRVgyeVNFOFljb3BXeDEzZU5wSjY5NUFzLW93YnlFMWM4bzV0eGZYWnRHa3gzd3ZaTzNvZ3U4d1V4b3o0VFpBWkVqUWtka2JKbU9RUFQ1WFV2TWhCMHo2YW9welRKejc1ek1xYzk4SUdhVHM4RmJ2cGhZc2d5djhEaFJGcGp0bUtSRFd6d0pHaXhNcVExSnhMTUc4VWZVVTNZdmJjNHJBMndrU1JpZVZKN19oV1dFZzJienRKcHR2Zm5uVi15SVZrajNpM2dNcUt6dW9zc2hUZkZvVkdNNXY2d9IB4wFBVV95cUxPbXQ4a2xxc2MyY0tXaHFtcHk3RUdrQkpzTlVYQVdKWExwTFBqM1B0MEpoLU05UTNzUTdiZkItMUNqMHotaDJoTksxdDVWQlRxWXc4bDRfb2lJQVNzejZVNWVyQXhmNlltSFljZnpJSFVNczN2UDJKZi01c0M3cnM1U1B2MXBEWDUxeENMcFVhU2dIRk05UzhTVThoS29Qek1QOUlRYlR4UGg4U2ZscjBEajFVYmRQMFdXdXZJdWJ4TXBHNzJ6cWtlbWlwcEd5c2h0VVQ3OHpNR1F6bGRMUzF1YVQxRQ?oc=5",
+    "publishedAt": "2026-11-25T12:25:45.000Z",
+    "collectedAt": "2026-11-25T13:48:26.134Z",
+    "translation": {
+      "titleKo": "미국에서 예상치 못한 체포 이후 엑토르 에레라를 기다리는 가능한 제재 조치들은 다음과 같다 - MARCA",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c69485b09b2db1ac3d52452ca6ac7693e6c50d74",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The EU is contemplating sanctions for its own citizens who cooperate with Russia, and The Insider already has a list of potential targets - https://theins.press/en",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YcWZEY05nSXdHaEpsOTJTNldZOHFneFRDNUVJVlNCTWhlMllUM2ZtR0tRYXAxdU9qRkVlTjJaa1NPd3hyV0JvWHRKQQ?oc=5",
+    "publishedAt": "2026-11-25T06:29:50.000Z",
+    "collectedAt": "2026-11-25T13:48:26.134Z",
+    "translation": {
+      "titleKo": "EU는 러시아와 협력하는 자국 시민에 대한 제재를 고려 중이며, 디 인사이더는 이미 잠재적 대상 목록을 확보했다 - https://theins.press/en",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "42bf435c171e3d0d0c31545b6796cafd2bd7a7d8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK targets Houthis with new sanctions - Al-Monitor",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ25ScmEzd2doc3VubzdpZ1prLUpRQXQ1OFUzZE1jWm9KaWV4bjdvX0pES2QxNmpuSjRYZGlLZzg3UG9vdnd5a0ZDYXJvbnVVN0NLQWxic3RkWnFNUUdjdFp1SEpDdmhQOWNuSy1tZkUyTHQwYzRzM0UyN3NPci1JdmpSQQ?oc=5",
+    "publishedAt": "2026-11-24T12:04:43.000Z",
+    "collectedAt": "2026-11-25T13:48:26.134Z",
+    "translation": {
+      "titleKo": "영국, 새로운 제재로 후티를 겨냥하다 - 알모니터",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "773370c0d86daba90f7234026d1652397081b94c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Huawei convicted in US over Iran sanctions violations, bank fraud and trade secret theft - AzerNews",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DYnhlWHMxc2YwTkdWV3VuamwzZnVaNXItRG1JM2diYmJCdThDRTRnVWtyeEhrbUVRbXBhWGdsN0dXY2hXZERqSWl5NFg1Q0RMNmxiVw?oc=5",
+    "publishedAt": "2026-11-25T10:02:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.134Z",
+    "translation": {
+      "titleKo": "화웨이, 이란 제재 위반, 은행 사기 및 영업비밀 절도 혐의로 미국에서 유죄 판결 받다 - 아제르뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "601c46a6c011af303adcab33fd1531a5b8ba1f68",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US targets Iran's alleged 'shadow banking' network with new sanctions - Le Monde.fr",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT19tejRadTZLTEVieTRxamNJdC1DTUlVVU1GcmMtZ3RTNERVRnVBTEMxZTVjTXN2ZWJKajVqdjV2UGVxNWozNFRKaUxXc0JFX1NKVWdwMW95UV9Jc2hsbkZwSFZGNlFDU2NBajlYcXJ6MHRuTGhHZHlxbzN1YW91OTM4QVNnVm4wNWxZaEFLQ3Ftd1A0eEZSMlczd1YwRUlYcWVpanVrQUg2bXYwWEtJZ3owZTZYY0h1UHNEWFcwM28yNW5xNTlMMmdDWmV2LXJZdVBLQkt2TEw?oc=5",
+    "publishedAt": "2026-11-23T23:31:03.000Z",
+    "collectedAt": "2026-11-25T13:48:26.134Z",
+    "translation": {
+      "titleKo": "미국, 새로운 제재로 이란의 이른바 '그림자 금융' 네트워크를 겨냥하다 - 르몽드",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "d14cce629ba54b72fec713df63cfaa8964541210",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "New EU sanctions proposal threatens Russia’s return to international sport - Sports Business Journal",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR0MzY0s5TDI3cjNCcUxLdjdMaUFsellxUW9fTlRUNU1DMGg1Rk1GeUwwSHpQc2VBaDVSSDd1M2JmcVR2b3BjMHAyZTlhOFkxek5fRzhrLWZNaVBqVmlVdGtnZ0FBS3VCc1NoY0hlTmFfN1VxTXNaNXdkdTRsOEZBaUdMM1A4NHl4dUVxdHZDSlJBYXVBX2kycEVsRkotUHZaN2cyUlBpdWNuVXE5dUc4cU1HWkV2X014TVNQaXltUW1PQ05aaE9wVTZkWEM?oc=5",
+    "publishedAt": "2026-11-23T20:58:57.000Z",
+    "collectedAt": "2026-11-25T13:48:26.134Z",
+    "translation": {
+      "titleKo": "새로운 EU 제재 안안이 러시아의 국제 스포츠 복귀를 위협하다 - 스포츠 비즈니스 저널",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "420af755e1ee28e94d4b8504bce722288eef8c9c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Turkey says F110 engines for KAAN fighter face no sanctions risk, Oktay states - ssbulten.com.tr",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTUNOSFV5SlIyUGxxNTY3ZUxCSWZmTXk0Ykx1cnpaQ1MtZWhsX0M1QWprbmEwV1A3RGtybW5UN05LdTRHUE14d3lKVXBFOGdxNm1FZ0pvOHBiUVhyNUtmQ1I2cjFNTUQyODBjNWk2SFlGS0xJRWwwZU5ob0U3RmVQYmNWWGs5NGgxLXBXdXRwTkd6b01yZHpVazNtNzQ5bjdyb0R4UW9sZm1mUHlDTkdUbXJSRVd5TXJMTThtb0tVOWRGUQ?oc=5",
+    "publishedAt": "2026-11-25T13:01:05.000Z",
+    "collectedAt": "2026-11-25T13:48:26.134Z",
+    "translation": {
+      "titleKo": "터키, KAAN 전투기용 F110 엔진은 제재 위험에 직면하지 않는다고 옥타이가 밝혔다 - ssbulten.com.tr",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6867033d2dbe4557f7b0b9ee399a94a04af42359",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Do EU sanctions against Russia make a difference? - Modern Ghana",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00YTlCbWRmXzRzQWhnOVdJaW1BS0xDdEJFWWFtdFZQeVNxejJpeHZIUTVZRzEyUklmYXZVczFIY2k5bGg1Y1FPa2R6YTBFc3RLb0ZOeDIzdjZNdlhGd3FrVdIBXEFVX3lxTFB6b2NkdUd6YWd3M2o5SThiOUlLcXlCZnRFbXNyYS0yejN3NlFJVk1OS3N5UVZuWG9kbUdvdG9LanNFakkzSDltems2Z0xDM3RIcHRHRWg1OWpwYngx?oc=5",
+    "publishedAt": "2026-11-25T13:30:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.134Z",
+    "translation": {
+      "titleKo": "러시아에 대한 EU의 제재가 실질적인 변화를 만들어내는가? - 모던 가나",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "506ac5973fd592f38776006148c619f4cab75b9f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "N. Korea seeks closure of Swiss office in Pyongyang over sanctions - Japan Wire by Kyodo News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzSnItTFBvaWRKNzU5RXFkdGQwdXhJeVAzS21OQmlmTC1jN2pKa1VFUnR0VXB4bTFxR2t5UVAtVlYtRXctcnFaZk9LaEhPVWpLNEpOTC1DRXhtQQ?oc=5",
+    "publishedAt": "2026-11-25T04:59:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.135Z",
+    "translation": {
+      "titleKo": "북한, 제재를 이유로 평양 소재 스위스 사무소의 폐쇄를 추진하다 - 교도통신 재팬 와이어",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b97e414709b8b906590d9ac1ce4e0502635e3121",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "Fair Trade Commission Sanctions CJ Freshway for Unfair Inducement - 조선일보",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ3JFcE9lc21DRDZLTm91cFJadWJ0ckIwSEY4eDNqSkVlY3hoVHg2dGQzV2xJTkgwQ2NPVEV5YlpIeThDSGtwSlpGWTUxUExBOFpvTHM2b2QyYTNGMTF1S1FqLTJzOHFvMTVORXRYSHYySjBxUW5MYlRucWpRbDBZa3o3UkEwOE5QcV9MOG9B?oc=5",
+    "publishedAt": "2026-11-25T03:58:27.000Z",
+    "collectedAt": "2026-11-25T13:48:26.135Z"
+  },
+  {
+    "id": "a1ff834c9d462d7a6ee5c9e61ab30a8dfc720f79",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Emory Doc's Attys Duck Sanctions In Gaza Defamation Case - Law360",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQlVzQ0NZbzNWc3VMVnNyZlBFQ1pTMXR4RzJzODVKenBpQVFBOTJWTk8zRUhjaE5nOFdpelRQTndpYkJ1T0ItOURiNWpVTGM4SzdIZ2FaNTNkc2JqMF96cUFJbDFHZHZnUEc3SmJNZGEzb0ptMzlvOFZKQ29iekE3TC1kZXFhcE9zaDhGUmJZMllEVUZvVmFxRUotWFFuX2h2VGkyM9IBXkFVX3lxTE9MUk1iZFpidGFHVWtLRExIZURrMExpekh0ak5XNkp5cXBtby03NHBRa0JnWFFmbUoyaHVqekpfVVpYck9IQXl4dl81X1h5YmFId3R3SmJXYVJ2eGxoZ1E?oc=5",
+    "publishedAt": "2026-11-23T21:40:15.000Z",
+    "collectedAt": "2026-11-25T13:48:26.135Z",
+    "translation": {
+      "titleKo": "에모리대 의사의 변호인들, 가자지구 명예훼손 사건에서 제재를 면하다 - Law360",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2fa147db1cef8044309b6eca38824c0af65070c2",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "British sanctions put $390m of Dynagas charter revenues at risk - Splash247",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWVpMXlRT1lITi1OUHhLMWt2OVAyU24wckpKT2NBTUFkRjlfc2pyZWdUQldTbnZJLW9KajBxOUhUYmRiSE8xR0VUaHA2dENiVFg1U0MxZUNxVVZzck5na0pSSjM4bWF0bng2WU9oZ0cyalpYeWI3d2RIZkIyTFBQTFl1WUEwYzREZXFzQVlB?oc=5",
+    "publishedAt": "2026-11-25T08:10:04.000Z",
+    "collectedAt": "2026-11-25T13:48:26.135Z",
+    "translation": {
+      "titleKo": "영국의 제재로 다이나가스의 3억 9천만 달러 규모 용선 수입이 위험에 처하다 - Splash247",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4f370ce04696ba472e81ee3955fb713c64ecd4a4",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "N.Korea expels Swiss diplomat over sanctions - NHKニュース",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fNVh0MFlzblJRYUhER2RidVdfOXZ2Vm5oX19tNUh2X2ZxZ2k1RldyN3cxUVp0bzZyc29CTXlweEZBVU5VV2VkaFlOX3FPd2M0dzZaanZMSk5tZlBXU2dJOWF4OA?oc=5",
+    "publishedAt": "2026-11-25T12:40:13.000Z",
+    "collectedAt": "2026-11-25T13:48:26.135Z",
+    "translation": {
+      "titleKo": "북한, 제재를 이유로 스위스 외교관 추방 - NHK 뉴스",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "468ad171bdb14e01faa6bb101fc4a8eb487d8982",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Decision Notice - CIRO Sanctions Vachana Cissy Terance - PR Newswire Canada",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkx1bUxrZV9lWjc4MmN2RHhIN2l1TEluRjlHYUVpOElxVDBjYWMtQTZyaEx2YjRoZGxzNmhRaEhGUkhUZHl3MVREQnVFczA4YzV0RDZDbnF3VkxtLUViSlRsZEdnYkpsclZDczVrYWllRHdJbkVTSHFpbUVqRG5kQ01iWTJ3ZmZHS2N4elE5d2Y2QVBSU1FDMml0VUo2RjFhMVpiMVVNMWk?oc=5",
+    "publishedAt": "2026-11-24T21:00:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.135Z",
+    "translation": {
+      "titleKo": "결정 통지서 - CIRO, 바차나 시시 테란스를 제재하다 - PR 뉴스와이어 캐나다",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "aaea06975047a7697fada53204e9faa2b5e778e8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Jury convicts Huawei of violating sanctions, conspiring to steal U.S. trade secrets - Peoples Gazette Nigeria",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd3RtTlNMNGd2ZFhrM0o2RU41TmszUnQwOHIxM2JpaGNQM1FETFpQcWhKeVpJbllrd1RZZXBFa2tWbnJQZWlBUy1kLTd0VTNkWGVLNk5jdG5LakpETzdGdDFDNGJBeFN3d1BudGpMVlYzMkFDZTlYcldza3ZueDZqNFdQaHZlSkRyc2xwYU1jdExkNkwycUtlQkxoR2xIa2VWcUtXZG95WEQ?oc=5",
+    "publishedAt": "2026-11-25T09:29:55.000Z",
+    "collectedAt": "2026-11-25T13:48:26.135Z",
+    "translation": {
+      "titleKo": "배심원단, 제재 위반 및 미국 영업비밀 절도 공모 혐의로 화웨이에 유죄 판결 - 피플스 가제트 나이지리아",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "10a8d7e06275101bc5b30ddb18338e2bc16fd96b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "European Commission proposes lifting sanctions on Georgia's Kulevi oil refinery - AzerNews",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91UlFDSHRGeFVydG9oVGNMVWVDdTc0YUJmMW9SQklPdGEzdVA0dHBZVDdDREY0MnZfdUpHVllNXzlqWk1KQTVFa2h1c1dkTVJOZzV2Wg?oc=5",
+    "publishedAt": "2026-11-25T08:38:00.000Z",
+    "collectedAt": "2026-11-25T13:48:26.135Z",
+    "translation": {
+      "titleKo": "유럽연합 집행위원회, 조지아 쿠레비 정유공장에 대한 제재 해제 제안 - 아제르뉴스",
+      "snippetKo": ""
+    }
   }
 ]
