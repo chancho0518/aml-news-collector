@@ -1,1 +1,537 @@
-[]
+[
+  {
+    "id": "d95ab5e5db3cb7297fc062165fa2cc36f0eda158",
+    "source": "파이낸셜뉴스 금융",
+    "category": "domestic",
+    "lang": "ko",
+    "title": "\"인방에서 댓글 달고 구매만 하면 '고수익?' 사기입니다\"…FIU, 사기 계좌 1만5000건 적발",
+    "snippet": "[파이낸셜뉴스] #. 취업 준비 기간이 길어지면서 단기 아르바이트를 찾던 A씨에게 '짧은 시간 고수익을 낼 수 있는 부업'이 있다는 광고 문자가 왔다. 인터넷방송에서 DJ가 판매하는 물품에 호응하는 댓글을 달고, 구매만 하면 된다는 이른바 '꿀알바'라는 것. 사기꾼(피싱범)이 초대한 단체 카톡방에는 비슷한 알바를 한다는 사람들도 있다. 처음엔 저가 상품 1~2개를 구매하라는 미션을 받았다. 약속한 대로 인센티브도 받았다. 점차 상품 가격도 오르고, 개수도 늘었다. 결국 고액의 상품을 다수 구매한 직후 단체카톡방은 사라졌다. 26일 ",
+    "keywords": [
+      "금융정보분석원",
+      "FIU"
+    ],
+    "link": "https://www.fnnews.com/news/202611261117209436",
+    "publishedAt": "2026-11-26T06:00:00.000Z",
+    "collectedAt": "2026-11-26T06:59:24.259Z"
+  },
+  {
+    "id": "4c946d9d181b1e27b03f670c9a70d1aa3fe35ded",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "'바이낸스 해킹' 자금세탁 우려에…英, 디파이 규제 강화 추진 - 블루밍비트",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82eTMyTUE4MjJIQ2h2TGpSbnYxVDctaXprZC0xY3FTYTJTRU1LNlRMaHppWmFGamtjWWlpSmFPWnVac085Q1pxZElRV3lVbjIt?oc=5",
+    "publishedAt": "2026-11-26T06:21:08.000Z",
+    "collectedAt": "2026-11-26T06:59:24.389Z"
+  },
+  {
+    "id": "8904be9973986290172c632121c03abe07472aed",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Beyond Siloed Fraud and AML Systems: Unifying Financial Crime Intelligence Through FRAML Architecture - CXOToday.com",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMzV3NXdSMG9JSWRxVXpzdFJkeXVJVndWY1ZXZUIxeDFBbUdEWU5HcXR1RFYwMUZPRUlSNmxkQVpoekI5NW9vSHlteEhHNUgyb0VZM3ZMUEZRR2dyM2FSV0FQNmozdjFOZGRpN3pxRXZ5OXNjVXdYU3Fyd1g4aV9UZUJLNGlKV2IzZ2E0eHRPZTl6Yk1QSk44MThHQ180clNscTJBV3ZFSlZ6TU85WVM5U3YyaUNsOEl3RWpocEx0RVl5aVRNa1BYcENjQ285aTZBa3c?oc=5",
+    "publishedAt": "2026-11-26T06:12:34.000Z",
+    "collectedAt": "2026-11-26T06:59:24.338Z",
+    "translation": {
+      "titleKo": "고립된 사기 및 AML 시스템을 넘어: FRAML 아키텍처를 통한 금융범죄 정보의 통합 - CXOToday.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "583e6e53b963ae9122a616dff49afdd73303c392",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "South Korea to Keep One-Exchange, One-Bank Rule for Crypto Exchanges, Prioritizing AML - bloomingbit",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kZEJXV3o5WHFJVndzalBCb1JybkZtVm56a2FVTnhNaUFtWFBvWF9xbnAxemxFbF9YSHI0Ti1BSFJrVmhEYlc5STdDTWxPTFBMWmFCOA?oc=5",
+    "publishedAt": "2026-11-25T06:01:41.000Z",
+    "collectedAt": "2026-11-26T06:59:24.338Z",
+    "translation": {
+      "titleKo": "한국, 자금세탁방지(AML)를 최우선시하며 암호화폐 거래소에 대한 1개 거래소 1개 은행 규정 유지할 예정 - bloomingbit",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7420aa55f49581b5c554b35db959ef0bfa6c2a40",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "IPA is supporting PNG’s efforts to strengthen AML/CFT compliance - Post Courier",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelo5Q3B4UUE0ZVVEaEZ4RlFwUGdpWlI4M0JESVZpTVFGeFdyT1lVdVozOFlIbFg4NWFpcjU3T2h1RTMzdjVrWTROcC1jSDRpeHAzSVVkY2g5TGhkWUNrOFpLMU9aX3NoUEl4UlFncVZhcHdITnZEVm5fTmFMaHJYcWluRkNFNGtSdjVuTUtYdjdadHdHelVIRVgzUQ?oc=5",
+    "publishedAt": "2026-11-25T03:49:43.000Z",
+    "collectedAt": "2026-11-26T06:59:24.338Z",
+    "translation": {
+      "titleKo": "IPA, AML/CFT 준수를 강화하기 위한 파푸아뉴기니(PNG)의 노력을 지원 - Post Courier",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f82b8883e17761bfe631f090e8e35bff352ebd93",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Basel Institute’s New Paper Tackles Crypto AML Risk Signals - Coinfomania",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1JxdWJzQmdpaHh3TWhGQzBHbEVnQTE0akZvaklkcW9zcHJ2S3NZWTkyWXB5bkRxT1VWa0o0SHhqcGNLQkZSZS1PSVk5M0ZkSGdOd2Z6eHMzMXRRSWZOcDF0UjdMWTU5UHF3V1RIbWtTUm0zUU1XZUJVNUprSjZkRXQ3alFWSXVqbWVN?oc=5",
+    "publishedAt": "2026-11-25T12:16:12.000Z",
+    "collectedAt": "2026-11-26T06:59:24.338Z",
+    "translation": {
+      "titleKo": "바젤 연구소의 새 보고서, 암호화폐 AML 위험 신호를 다루다 - Coinfomania",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0741420e891f4964d3e434fdc2a0b943a23451db",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Mercantile Bank organises training on AML, CFT - The New Nation",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBORTd4QXdIWC1PalJEelM4MGZqVWVhN2o0dEo3Sm4zQjBDZFRuS2ZSdDZMNk50NXduUzliclJkamwxSlVZeFM2WkJza0x0SVk?oc=5",
+    "publishedAt": "2026-11-24T21:50:56.000Z",
+    "collectedAt": "2026-11-26T06:59:24.338Z",
+    "translation": {
+      "titleKo": "머칸타일 은행, AML 및 CFT에 관한 교육 실시 - The New Nation",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f5713a1d0680f9b90b7654701598803dcd63365a",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury's FinCEN takes systems offline after unauthorized access - WCPO 9 Cincinnati",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGh6VWw4RkRGTUhLR2JtTG9YSk5yejdZYl9PU1Q5LWN5bnFnTENzXzJRSXpqenZyRXZuZWg3MkRqOThONTdjdnBRMllFQWczMzRjR0ZXMHQ4TGFUUnVJQzlvX2lSZUU4bDFDa3pMc2hncldmbDFwRk9LNUN2SlhPVThHeVp2VU02aXV5X2p5OGp2WGZETXZubDJoZlYzYWM?oc=5",
+    "publishedAt": "2026-11-25T18:40:18.000Z",
+    "collectedAt": "2026-11-26T06:59:24.429Z",
+    "translation": {
+      "titleKo": "미 재무부 FinCEN, 무단 접근 발생 후 시스템 오프라인 전환 - WCPO 9 Cincinnati",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b00aba06704cbea474f2aa9d9d5929ff94b7d51e",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury's FinCEN takes systems offline after unauthorized access - Scripps News",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTZyTzc4UndxdjBoZ2ZfcFM3a3RGMzRYSjg1NkhQMmxJWFl6Q1dpSUgyRXk2MmRTbXluQ1J0ZFkxTWRqMzJWVmx5VnRPQ0NWM2l2MjNicjFsT0E1OENKQnVCbTdWSVhXeEtEY09idWcwYTVpdWpUc00tRHhEanBJMjRiemdXdlVhc3BhZGo0bnVHX3Y3d2ZfZlVvNDdIaGRNeGc?oc=5",
+    "publishedAt": "2026-11-25T17:09:38.000Z",
+    "collectedAt": "2026-11-26T06:59:24.430Z",
+    "translation": {
+      "titleKo": "미 재무부 FinCEN, 무단 접근 발생 후 시스템 오프라인 전환 - Scripps News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cac20ab1a6625427497e8addf1cd9295deb9f74f",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Proposes Changes to the Customer Due Diligence (CDD) Rule: Five Key Takeaways - Legal 500",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaXh5OVl2cDB4NmZYSlhVVlJXdm1sdFNDbUZxOF9UeVd4dG1XcXpBMXRxMUhFS0phR0hBal9Ya0JfRU9IbTVwS1hDNmVpX3BaRGd4Mk5iQjVDSkluc05lcVdNako2VjZRamx6UnV3ZHFzQWRXV3FtcEdjSklJNG0zaklSNFhGNGl0QlJIeUhHUk9KQXJmVjh6MXp5eG5oVG1CXzJFaXp4UTVKUU1FV01UaGFlMG5BRVdza2FBM19KVWswVzloSkR2VXlKVUdjU2R3TGRvNjE5cko5eElNY3BiS293cVFWTjB5?oc=5",
+    "publishedAt": "2026-11-25T10:59:15.000Z",
+    "collectedAt": "2026-11-26T06:59:24.430Z",
+    "translation": {
+      "titleKo": "FinCEN, 고객 확인(CDD) 규정 개정안 제안: 5가지 주요 시사점 - Legal 500",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2f5b373dc2f59a78070f107db97280c2c86cb092",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury's FinCEN takes systems offline after unauthorized access - KOAA News 5",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUnZHWmxvT2lXQzhkaWtUVzhtNDAwQVlNVnZ5cXB5alZGZHcwc25MOFhLOHJmZXRhVkVoXzlJREctbmVncHV5S2tGbXB5OXNlSnZqMHlrS3pnY3E5VEZRTmZTNHlfY1JRS2Z1VHhJd3dsYkhQd0daRzFJaG9Ga0RleDIweEQ0TmhPVVQwbG5GemN4Z3d4WE90elVpUTQtb0M3MWlBWHl2TVhZUzVOVVFGLQ?oc=5",
+    "publishedAt": "2026-11-25T23:53:58.000Z",
+    "collectedAt": "2026-11-26T06:59:24.430Z",
+    "translation": {
+      "titleKo": "미 재무부 FinCEN, 무단 접근 발생 후 시스템 오프라인 전환 - KOAA News 5",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0daa9383f5ef62b2bb0681f8f56afb43c9772086",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury's FinCEN takes systems offline after unauthorized access - WMAR 2 News Baltimore",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSDEzMFA5aVdWUVZpeWR1STh5eEh6ZUZsMHlXMW1BN19WVG9YbVZuWFVkd3AzdzZMM0Mwck1rVnBEZklZUXRBem5BWEg5dnBYdWNvblZxek82RHRoUlJ4dzd6WHQzMi15LTdsb1JmNzJiRXhIMjB4dVZPWldXUzJ1MEVBUWlwTWlqS3hLREUzOFdsMm5TYm1MeVU0MmVEeW5SRnNsWE13?oc=5",
+    "publishedAt": "2026-11-25T18:40:18.000Z",
+    "collectedAt": "2026-11-26T06:59:24.430Z",
+    "translation": {
+      "titleKo": "미 재무부 FinCEN, 무단 접근 발생 후 시스템 오프라인 전환 - WMAR 2 News Baltimore",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b8b2bb568e4fcea5f1e7e7ef90e86c9c11456dcb",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury's FinCEN takes systems offline after unauthorized access - 23ABC News Bakersfield",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN08tNzRZUEc4dlhqSlM4UDVOWnhKYkFQek9MWnNHNU1rS1F2UHZ1dmdjeGJKcC1YT0J2ZVlvZHk5bGlxVXdqRWxtbnI2SXJmWFM5MnQtNmVMcXRCVTc4QjlHbHZULWJkMi1oNkp4eldmWE95MDdhd0JpZTlpTF9sRjNPazdCRTMtdS1teFhnTFNJeVpfeC10WE5WZE1wMDJESHZIMVluOWhkLUk?oc=5",
+    "publishedAt": "2026-11-25T18:40:18.000Z",
+    "collectedAt": "2026-11-26T06:59:24.430Z",
+    "translation": {
+      "titleKo": "미 재무부 FinCEN, 무단 접근 발생 후 시스템 오프라인 전환 - 23ABC News Bakersfield",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "8058dc8b60256396243541fdeea63a2b43ba76cd",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US imposes sweeping sanctions on Iran - Fox News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJejVKSHAtQkRqc2JpNHVYOXNOeHJhVmpJU0ZhZWhJSU0zdzVCNUlxdWxOTlNhOUhONXVpNmx3MW1pOGZpSDd0S2pFZG5GMDFrbFN2NFN3?oc=5",
+    "publishedAt": "2026-11-25T23:53:36.000Z",
+    "collectedAt": "2026-11-26T06:59:24.414Z",
+    "translation": {
+      "titleKo": "미국, 이란에 전면적인 제재 부과 - Fox News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5d571b0c9135cbb64275f1e18c61cbb81d0f26dd",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war - WFLA",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbTFncWpxWE04YkNjaE1fa0drRURXNmxHbk5SdzAxQUNOSFpLTjNjVUhELVJDeEFwLTRGWGJkMjk1SGRyazZiRS1hN0Q4QzJ5NTg5MDkyUkl5VWJtdHIxZGVCbGtWNUNIandMSXdHN0lQQlRacWpBQ0dXdUdYcU5CYVlYcGN5TlR0ZlV1bW1ZblllOHNrSThUbGdWUVZyZm56dFczOU0ya3NwS0tuX2hTSUZyWl8xdEJtdHBnYVAtSFZGUUlzU083V1drUTdnOFZQa1ZkaXNOUjQtZVJvT0hJ0gHkAUFVX3lxTFBpRkd2eU5Id0hSZVVoSVZwZVZoZS1wWjdyTHVFLXVDMzhjYkdSV252dzIybzhkWk5SekdBa1JlcXZ4X2RlMUZ2VlBKc1N1alNWTjNxaWVTMkplLXM2WlVYR0tucS05X01Td1JyMGh0UURwbnNFVWo1NzNGYnd6NjNQd1Q5SWkwWWx5SUItaloxUTVCaU4zdjU4d2tWajBNRURfXzdNWnU0N0hZY0dpRU45bV85ZW05WUYtZXVwSG1uRmZSdTJmbEpnYjY3RzBIMi1yUkRxcFlQQ3ZqcHhMaTk1ZHBndw?oc=5",
+    "publishedAt": "2026-11-24T13:49:18.000Z",
+    "collectedAt": "2026-11-26T06:59:24.414Z",
+    "translation": {
+      "titleKo": "북한, 러시아-우크라이나 전쟁과 관련된 청소년 캠프에 대한 제재 이후 스위스와의 관계 재검토 - WFLA",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9a6a020d78fe4288e10b38c31c3a9d887031d698",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Exclusive: EU report confirms Trump threw Russian energy sector an economic lifeline even as sanctions, Ukrainian drones, bite hard - The Kyiv Independent",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbnpiaXVERGNxYVJURUF0Vjhqd2NNMDdqQ2pseUVNVXk3VXBlMGFPdEVIa0hxaHVKcUhsazFCNmdYb2JDNy1tS04xS2RSUGVJYXJxcUJiVkxGRjhkYUI2aEpoV3NJbjFpN2Q0VERUbE1LVnY4alY5NlBNV2tJQUhLdUdZTy1qWjc1REVVV1lTMWdCZFlyWmdtcVEyVDJPd3FSRHdIVU53bEJadzdYR1p2T2hCczdvLXJqUG1sd3ZfUGVlYjhkZzJiX0ItbDRnYnFJSUREYzZ3QXVfY0o3RDlXc29kdHdVb1RyT05nM0dR?oc=5",
+    "publishedAt": "2026-11-26T05:00:16.000Z",
+    "collectedAt": "2026-11-26T06:59:24.414Z",
+    "translation": {
+      "titleKo": "단독: EU 보고서, 제재와 우크라이나 드론이 큰 타격을 주는 가운데에도 트럼프가 러시아 에너지 부문에 경제적 구명줄을 던졌음을 확인 - The Kyiv Independent",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5ef2b4be548941c9fce1ab27bce4b67464f642b8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "A federal judge permanently blocks part of Trump's International Criminal Court sanctions order, protecti - The Times of India",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNRnVYM19wX2tUaWVzTEV1UnljSnlXTGN6QXh3YkREMkhEZWdIVHp6WlRsbmVPaWdPOXpIamNBcldVdzFXLTVibTVYS2R4WEZPMHFQOWlhNFF6V01nWEVGZ1V2MnpPVFBMckxYV29qYnpKLXA2T3RJY3RzZ0dOdEFLUnhzemo0amIzQ09Ra2F4RkRnc0xHR2Q4WkhCSE9KWHc2UHFoeFlzVlhHZ1NmQVV5Q0s2NE1MdmlTcFQ3VVpPZGo1dzJibXR2X05sVHVod0J6ZTB1R0pvR3BZQWtmTlhQekdzODNNVFhMMjR5OFpzM3MxenNJYS1tOFhxVWtxU2p4UWpvaFhBaW44U0xFVHk0QlhKSEhoMUlUbWY1VWJZcTBucmZxb1BaRjhJcWlQcXRiSGVGWVRLZVpraExsWXlWUHZsOWhNREx5bWJ6cHNqMGlhNzlaNEc1NVNXQ0RmTkdIVjJSd0Y1WEZndVJOZFQ4WmxDUm4ya1ppMW03VTlETFRwQTV5dEHSAYsDQVVfeXFMTnhHdy1uejJaekR6RjNsRU5tSVFlN2RvYlVkNFdKN3dXVDYxdVN4X3d5OWN5WnpDTEw1YmZ3Q3RuUENxVUJwX1JPSzFlTE9FY0ZPUVhFRnhSZDl3NVYwaU5YQlF6cE1HV0Z3VHE4U0xoS3ZUMnRwb0g5WmV4Vk9jb005Q1ZQSEQtQkxpWkFBUGU2dXJnU2trTmtwTjhGNzk1QUNHSkx2M0k5eU1BcDVSZ2R2NXEzSzRpS2pwZllXWjFPWTNqZnNtdDh4RFRxZmlhNV9oWmRkMFNlSWpNVWVJZG9wVm5ybVg4ajVpejhjOTJDSjRpTVd4REhYTDZzWUYxWG9HWnEtTVJNQVJEMy03VHFCMVFzdGF0OWNiODctS3NnZUQ1cl9sSDlfWFRRclFLTlJld2tEdDZCOHg5TzlkS1IzMVVPZ2VISExfcURFRkdIdUZ6RmYtaV9QbGt5dzBZRlowRGE1THlKbWp5eEZfYklXNVRBZUpoNldxcER0dF84WnMwcWZvRWNrbEU?oc=5",
+    "publishedAt": "2026-11-26T05:31:00.000Z",
+    "collectedAt": "2026-11-26T06:59:24.414Z",
+    "translation": {
+      "titleKo": "연방법원 판사, 트럼프의 국제형사재판소 제재 명령의 일부를 영구적으로 차단하여 보호... - The Times of India",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7e322ce7fdbf7dc28bbfbf8a329b50263eea696f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions - Al Jazeera",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWdYMTZKOS1KOXVpdXRLUkVDeGNhaVJOZGhZbVIyRDh2dnA1WUZNM1ZMNVFXMTU3UllPNE5SanBGZW1TX3NyMnM0OHVlalJhZmt1U184Y0wzNUhPa2N4b1FHeldLRTBhb09XVlZwemF6VTVwY0w0eEstMG5yNzdCSzI1WWFKOUNSVHNZcHdDRG9OQ2JUYzFDcHNJWW5NVHIyUHV5RkRHa0NEUEk4ay1FQmd1VdIBuAFBVV95cUxOa0I5N0VOM1ZmRWVnekJDbnA4WENieml4SEFGR3lOLTRBWWZTWjJkeC04SWJLWDRBRldjMi0tUmVyTHBCWjhzb2dqZWo2eVN3OVFac293ckVOYmVKS3loTmw5ZldMdVVscmg2cUpwNDVqamtCaWFKOEFsVnhvU3BUR0VRdnhqY0NKV05JSXF0Um5GZ0UzbGFYVV8wZUoyTldNODdSemwzWTJkVlpqdElfOU9ZRzR3VWl1?oc=5",
+    "publishedAt": "2026-11-26T06:10:13.000Z",
+    "collectedAt": "2026-11-26T06:59:24.414Z",
+    "translation": {
+      "titleKo": "ICC 킴벌리 프로스트 판사는 전쟁 범죄를 재판한다. 그녀는 미국의 제재 대상이다 - Al Jazeera",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "939f6d5c9f7806d4f3e37dcf4179a1ddacbd19f1",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The Times: Dan Gertler sanctions dropped by Donald Trump - https://thesentry.org/",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMFZTMWVNZm90TkFwOHY1UW81djl1WTBqdHJHM0E1cjU2WEJKNUtUdFE1ZXhicFBIcFJxOVhCMEd6T1BuWjBwbTctaGlEZ0Vjc3VYSDkxVTlteUFVTmZnWGgtR1FmWkFfMV9Tb0Fuckpwbmc5dzdpU3JzVkZTaUVfWDBB?oc=5",
+    "publishedAt": "2026-11-26T00:45:21.000Z",
+    "collectedAt": "2026-11-26T06:59:24.414Z",
+    "translation": {
+      "titleKo": "더 타임스: 도널드 트럼프에 의해 철회된 댄 거틀러 제재 - https://thesentry.org/",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cb67f7b48a252e2fb2a9a939971893e890872b56",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Democrats’ push for sanctions could force Israel into fateful choice - The Jewish Chronicle",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcUdTZTF0TzZKTmdXOW1sX0xwQWtXUTJza0o2dFRlWXU5eTJsUlFBQTdlS0ljcmNHeENIT0VLRDVhUjZoUEJOVTNWTWQ1UnRXY0E5bThpQ3BDNGw3ZW9ZLUxhMk10WTNxMXJGZWhreWZnREt6RlQzcmcxV1hwTlFtaHJsTnFIelNrbGlybVNoWUExYjdwNTdONU1SNUg2VEE0UDEzT2Z0ZVByUQ?oc=5",
+    "publishedAt": "2026-11-25T17:32:43.000Z",
+    "collectedAt": "2026-11-26T06:59:24.415Z",
+    "translation": {
+      "titleKo": "민주당원들의 제재 추진, 이스라엘을 운명적인 선택으로 몰아넣을 수 있어 - The Jewish Chronicle",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ff7471a96d9e16ae8e164e78686c84813860118b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US imposes sweeping sanctions on Iran - Yahoo News Canada",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaW95ZUVRNmJOSWZUM1FEaDhsRHpRbHl0VmNCN3NPQVEtU2lPUXhER3pxUVlhaUJuX2RjU19BS3czV2F6cTFIaUlYVGtWNnVQam84blU3VDhLQzE3SFNnVnFKVFJhcFRKbjBZVXlkWDBiUlZDak5LMEVPZWRsS3ZxQg?oc=5",
+    "publishedAt": "2026-11-25T23:53:36.000Z",
+    "collectedAt": "2026-11-26T06:59:24.415Z",
+    "translation": {
+      "titleKo": "미국, 이란에 전면적인 제재 부과 - Yahoo News Canada",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "aa89b39e226494e4dc46aa5593fc2ff045dbad92",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU adds Russian billionaires, F1 driver to sanctions list - Yeni Safak English",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdHBYWFFORjhzeE5GZ0Y3NF9jUDFxMzBxcVg2Mlp3RlNlWGFPOHpVTmswOXpjM2k4VWhERzlyc2NsVXpCZmdZcUdCR1pnSm9IMjlRQ3RtTHBfWEtOVGE2a3BhZTlOVmRkMGdBaFpJejNrbGhINGxiYkt3T2JQSTNHekd5a1hvSVpQdVRpNG03QUFzQTJCYjBua1VBTQ?oc=5",
+    "publishedAt": "2026-11-26T05:39:42.000Z",
+    "collectedAt": "2026-11-26T06:59:24.415Z",
+    "translation": {
+      "titleKo": "EU, 러시아 억만장자들과 F1 드라이버를 제재 명단에 추가 - Yeni Safak English",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f324856c6bfe1f4f2967d4e5f1ea958d62cf2295",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Cross-Border Sanctions, Domestic Contracts: India’s Emerging Legal Position - Legal 500",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSC1GbEN2UmlFb1RyYkNZSG5sbWk3aElNUGNDZ2EwR0tLS3VvQjhtMVZ0OGEwY0loMWk2TGVaS3VwLWFoY3NyUHRjaTdmZWxOTTl4dW1xcVhlblBfMWZvLU9VNzhjbzVxTnVWX1RrUThBZGVOLXhKaHRRellpWXpHQTRveEVlV0I2T0RmVjFxQmJGVnFObU1OMUVUaFlxbHZtVnpEdGZtd05Vd3RUNFZ6elN0YlpvT0pXR0NxcllveHdkSTlqVnRDS3N3ZUo5NDdQcEJCZjFFaEg?oc=5",
+    "publishedAt": "2026-11-25T16:34:51.000Z",
+    "collectedAt": "2026-11-26T06:59:24.415Z",
+    "translation": {
+      "titleKo": "국경 간 제재, 국내 계약: 인도의 부상하는 법적 입장 - Legal 500",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "daba1a6a47a32563c3396da2fb1a56a5f9959b70",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK targets Houthis with new sanctions - Taylorville Daily News",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYjVkb3BvTXpKZWo2clhGV0k4cE5fLWhsYzVYdWJyVDJRVWpNU29oN3ZkZmJRY0MxdEE5US0tWUF5Yjh1TUVqWDNlRm82T2IzeV9JTFhPSG9zVlVkamVSN3VMc0NfWjRVVlA2VDI0UEgtMDdidUdTYkpnbTFJZXV6dg?oc=5",
+    "publishedAt": "2026-11-24T06:03:17.000Z",
+    "collectedAt": "2026-11-26T06:59:24.415Z",
+    "translation": {
+      "titleKo": "영국, 새로운 제재로 후티 반군 겨냥 - Taylorville Daily News",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b4fb56c7073967f37a2f82a382040a7d999c02e8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU agrees on new sanctions package against Russia - Yeni Safak English",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTzhybHJRTFpXUDFLdDdoQkZoVmlsdXloWXdsc0ZXeGdkdFlsV28zTENLaVVNelByMWZLdEduenYtdkp4MUg4b3k2NXBPV3A5WjhrMXFvTzVuNE96YUtObGc3XzJqVEowNDNTWEl1dl9tMjRmTzlfSFlwZ3Q2cDE4dVJWRmEzYl9WOUhnOUhuY2Npdw?oc=5",
+    "publishedAt": "2026-11-26T04:50:04.000Z",
+    "collectedAt": "2026-11-26T06:59:24.415Z",
+    "translation": {
+      "titleKo": "EU, 대러시아 신규 제재 패키지에 합의 - Yeni Safak English",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "dc820ce540741170cd2915241a9769d580296cea",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK announces sanctions on Yemen’s Houthis and senior officials - Qazinform",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjh3U3BhaV96WEphYTM5c3hrQVJsNHZuOEVxZmFJVUNqaGRubjZuT2FQZWl6SmVrTTN4a0FDQkR6cVU2d2NwVXRWZ2wzUzNWMG9wSXE0NjhuQ2JiMW1DZ3cxR2NSYU9UbTRCRDlIWTJHclNtUzZuYXBQWkkza09jMVhOWFhWbl84WUtBdUNWR3lnY2lUaWxDSC1rWdIBmwFBVV95cUxQUkVuNW9iTTRFSjJWVFJTbEpxNkxQUlNvZks3LUJuVXNpUTZsQk5uaEVlak5SYWkwWlNzWF9OWWphbW95cXFsZ3hUaWZXSG9ETVE0M3NGRW5heEd0X1RFTkx4MnhZaDRHcGNmS0JRLTlEVHcxX0ZiZmJ2dHJHVjVQZzVaRmxmZV8zUk5LSXFpZGVBb2p6aGxPMXEtcw?oc=5",
+    "publishedAt": "2026-11-26T01:30:46.000Z",
+    "collectedAt": "2026-11-26T06:59:24.415Z",
+    "translation": {
+      "titleKo": "영국, 예멘의 후티 반군 및 고위 관리들에 대한 제재 발표 - Qazinform",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "75da3c5a8a77e890fdb5cfee8c5921c9d09252cb",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "China’s Commerce Ministry welcomes EU’s removal of Yusha Group from Russia-related sanctions list, urges more delistings - Global Times",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MZTc2ZU1oWERoX1ZjNU4yWmNrV1dpOHBCZ3VSMHZNanRhQjQwQTdsaDZQUmhON3BGd242Nkd4cERRTU5Gbmt4ZUowN0dYRllpMVE5ZWJfSThraFlZaF9Gb1pR?oc=5",
+    "publishedAt": "2026-11-26T04:15:00.000Z",
+    "collectedAt": "2026-11-26T06:59:24.415Z",
+    "translation": {
+      "titleKo": "중국 상무부, EU의 러시아 관련 제재 명단에서 위샤 그룹 제외를 환영하며 더 많은 제재 해제 촉구 - Global Times",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "794efeb8af2366bae7780a1609d0dc062abba8b1",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU Parliament calls for tougher sanctions against Russia, Belarus - Yeni Safak English",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWFlhbTR4TUxyM0IzbmthLXJOR3NCMmlXY013SDJiRGphQmwycThSNEY3U1FxVGdoWXZ4X29kYUtlZlNQLUVCOVpqd0NHQU15VnpvRHl2TVk4NnFOVlRBYlNMVnd4QldwOWhRR3RVNFpPVlNvVXJDUkNDRXFRNndUQjg0T2hTOEF4d2JxeVk1LTlnWmxlQ2NUMlNhcm4waHQyWW5yc213?oc=5",
+    "publishedAt": "2026-11-26T05:39:48.000Z",
+    "collectedAt": "2026-11-26T06:59:24.415Z",
+    "translation": {
+      "titleKo": "EU 의회, 러시아와 벨라루스에 대한 더 강력한 제재 촉구 - Yeni Safak English",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "0c26589d4a0fc87d03d45d326ef4a22f5c3e4a7d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU's latest sanctions package includes ban on tankers insured in Russia - Baird Maritime",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeUQtdy1YU2M2QXVEMjI1bGl6bkZYUlFTSFV1aXZaaUQtbmlCaktoMmI1RVBXNHl4bExKcXNQYlQxM2QzLTNpSXJVZklPanlRWWNCVlJEeG1HUVhTTjVYWjlGcmxEcXRQbHZ6VUdXOWtUU2hXY2kwUVljdDUxbk5pcWlKUGQwNkNkZTdad3VrTWJVZ9IBnwFBVV95cUxOa2IzWHhFYnhRb2J0d1dWMmpEUTFpNDZDOUVqOXNGR1JzU3lQTXhxUWdLNWVaa0JXTjV3T0IxWlFJREtWMzI3YVdVTzJMLTdETkd6bDFpY1ZNZGsxQ1FhYXNPU2VTSVh1QlNxN21leTFXSWJOM3FqNU51VGk5dzc1ZE15UXNZd2x1dXFIV3Q4dzlQd3U1aUJrdHI1UC1OY1U?oc=5",
+    "publishedAt": "2026-11-26T01:41:32.000Z",
+    "collectedAt": "2026-11-26T06:59:24.415Z",
+    "translation": {
+      "titleKo": "EU의 최신 제재 패키지, 러시아에서 보험에 가입된 유조선 금지 포함 - Baird Maritime",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f9df176180dff3afabaf4fe7d7052172d36c1e0d",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "U.S. sanctions reported against Megaspeed as Nvidia inquiry continues - NeoTeo",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOakt3Uktib292NG1MMTYwUWFwVFN5MVZxbDQ4NnlldGpTRGlpSHlrcFJDQzA2SjdJOGRkM1plTGNSOE00WUpyT2E4cUpodUIwNTA3UGxlbnJNaFFRMm0wSGxtWFJsNDRwQ3NmLW9ZX2p4U0hqUmhaaGVXNGs3TjdLQncxRTRJOFQzNUxSUTdxUkRodmFOZ0VMSw?oc=5",
+    "publishedAt": "2026-11-26T06:28:07.000Z",
+    "collectedAt": "2026-11-26T06:59:24.415Z",
+    "translation": {
+      "titleKo": "엔비디아 조사가 계속됨에 따라 메가스피드에 대한 미국의 제재가 보고됨 - NeoTeo",
+      "snippetKo": ""
+    }
+  }
+]
