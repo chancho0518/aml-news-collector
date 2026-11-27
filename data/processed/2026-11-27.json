@@ -3064,5 +3064,935 @@
       "titleKo": "호주 크리켓 협회, 샌드페이퍼게이트 조사를 2017-18 애시스로 확대, 소급 제재는 배제 - NewsCord",
       "snippetKo": ""
     }
+  },
+  {
+    "id": "ca28ec0ac326de2aa2573113fc28e30dd2a8025d",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "BNK경남은행, 임직원 자금세탁방지 실무 역량 강화 위한 행사 진행 - 팝콘뉴스",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KRU05dUJyb1h0bTV3VkxEOUUzRmxIWHNJSGlkM1R0X3VGNHZJaGkxbnczSEFjTHVHU0RVeEFCNlFzUEs4VEhHSlZWb0lJajRwLVBiMVFScUZ4MU1kbEFYTnlSTVhpZzdpYkNNRHFn0gFyQVVfeXFMT3ZVNE9MUDR3YVQ0WEZyMzJvTHV1MGYzLW9JNFhOakprczFsUHBzOE1mek54dnVhVUZXc1IxUngybUxPYldoQ2VlNHRtcC1mYnRZcFBEQlpfSU5nV0FNN1VuUlQzdC16blV2TlVEYmpxZlVn?oc=5",
+    "publishedAt": "2026-11-27T08:35:26.000Z",
+    "collectedAt": "2026-11-27T23:52:28.816Z"
+  },
+  {
+    "id": "23e76f2789d66b73a51a1a2d47d20ce05f383ce9",
+    "source": "Google News - 자금세탁",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "DAXA, 국내 가상자산사업자 28곳 대상 AML 실무교육 - 이투데이",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQOWtRMGFMS3o2bHlNLXFPSHg5QzlJSFgtWU1yazBrc3RpX05xdWZwb1dqV1FTdHFfZ3dFQnhsN0xPZzJ1NWxxYzlvLTBfdXdwRzVlaA?oc=5",
+    "publishedAt": "2026-11-27T10:33:00.000Z",
+    "collectedAt": "2026-11-27T23:52:28.816Z"
+  },
+  {
+    "id": "ccce15c27d92adde40ae705a0e13cd4eb5c2bda7",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "ABL생명, 업계 최초 ‘제20회 자금세탁방지의 날’ 대통령 표창 수상 - CEO스코어데일리",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12YnZkVnl3enV2cERobGt1WmtfdkZySXVEZ0pLVzRuQmdpeUFFblZpanM3UWdEOUpaMS01dUJtSFdWZlNzX1R6VzJDQXVvRnVOWFJ2ZWZRaTd3ZjZoZF80Nk15X19zYy1m?oc=5",
+    "publishedAt": "2026-11-24T01:22:37.000Z",
+    "collectedAt": "2026-11-27T23:52:28.808Z"
+  },
+  {
+    "id": "3d0053e6f7f93780f1eda310c1dc83a103569fc8",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "FIU·금감원, 가상자산사업자 28곳 부칙신고 심사 착수 - 핀테크투데이",
+    "snippet": "",
+    "keywords": [
+      "FIU"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OeTlnZDg1cll2YXFpUF95Q0FqdzhVR0tiaG9UVWlNSlhTSFZFbUE0R2JnQmFOVFlLQmZlb1V0WDFGWXhDSldsX05wcFFsdGtTR25NczEteXBCdFFCck51VkVJSVJ1N1VXZy1pdDJYa9IBc0FVX3lxTE1EZ3Zfa1R0Ujh1S3MyOXJ5YkhnMWFmdVA5S0N5MTNia21tZ0FnTEpCRnJaTnE1MUs2Nkt0QlRpRVdFU18xZVdTbnNLbEZIbmEwcGVFU1hlcnUwX28xaGNNcUVqdW1NdEw1WkZjblFpNDl1VXM?oc=5",
+    "publishedAt": "2026-11-23T22:20:05.000Z",
+    "collectedAt": "2026-11-27T23:52:28.809Z"
+  },
+  {
+    "id": "49e7ff2c274c87cced24c927d230ff2877645e68",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "환영사하는 이형주 금융정보분석원장 - 뉴시스",
+    "snippet": "",
+    "keywords": [
+      "금융정보분석원"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kVlB4MGpBYy1Tb3dheHZIQnUtd0U3S1VFMnhLZEpFb0tRUTRxd0hMWmNWLXZuYzRVY2d4aU0tQ21ueUo1eHRHVlhLNnNETWtSdTNrV0x2RTlsbWJkeW90MA?oc=5",
+    "publishedAt": "2026-11-23T02:02:25.000Z",
+    "collectedAt": "2026-11-27T23:52:28.809Z"
+  },
+  {
+    "id": "09be42cb76a7739818f7c80ca0d8dcbf91769625",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "의심거래보고 100배↑…자금세탁방지에 첨병 - 서울경제",
+    "snippet": "",
+    "keywords": [
+      "자금세탁",
+      "의심거래보고"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84ODBFWFdzdXE1SjRsVXN1Uno3LUtYQUdPRlh5ZlRZRF9LSk56S3FCZDZJOVk2SXpDR1lKR0FQc0hGNEFkM05rYWZndW1RUVctd25pOXBaT0JJQm9GdWdsQkdJakV3UdIBU0FVX3lxTFBMNnhFWjExQXIzWHUwdExJeWdYcTVjeGpXLVdrdWdyUDFPZktUbVZqSFRrejVqd3g2RlFGMm1JMnd3bU9pZTEtcmpjWnhHbV9aSExv?oc=5",
+    "publishedAt": "2026-11-23T06:25:37.000Z",
+    "collectedAt": "2026-11-27T23:52:28.809Z"
+  },
+  {
+    "id": "0abd14c0ab582b9b8fbfb57ca70e7fb090b751fb",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "자금세탁방지의 날 기념사하는 이억원 금융위원장 - 뉴시스",
+    "snippet": "",
+    "keywords": [
+      "자금세탁"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kMkdJN2M2enYzbzFpY3Y0THRWQ3M1aERJR2x3ZmU2OFlLTzNCYjliWHp1U2x1V2xYTExLTXhRbUl5UGNFUkU2UTNBQnVBalBXNVJBRm9GOUFIaGRlUUZaeQ?oc=5",
+    "publishedAt": "2026-11-23T02:02:25.000Z",
+    "collectedAt": "2026-11-27T23:52:28.809Z"
+  },
+  {
+    "id": "a216a0d392789df18f50587f2cfca238ffc4b670",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "금융위원회 금융정보분석원, 2026 에그몽 그룹(Egmont Group) 총회 참석 - 코리아 이슈저널",
+    "snippet": "",
+    "keywords": [
+      "금융정보분석원"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IVVBKNTZZUHRuNFdLYUZUYnFLSG0yS1FwemhkWm1kMk5IcDlVdFBqOVlmME9PdXNielBCaDdDZkFFci1NZDI2bWI5U2tUN1NROUFFRWNWQU9xVkxRdEtpQkNtS1BtVmtqNUpWU05meVZuNVhXRE9LLUw5S0k?oc=5",
+    "publishedAt": "2026-07-13T07:00:00.000Z",
+    "collectedAt": "2026-11-27T23:52:28.810Z"
+  },
+  {
+    "id": "7052846346e219b028b6fbd59b690869c3aba762",
+    "source": "Google News - 금융정보분석원",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "이형주 금융정보분석원장, 25일 FATF 운영위 참석…\"국제 정책 논의 앞장\" - 부산파이낸셜뉴스",
+    "snippet": "",
+    "keywords": [
+      "금융정보분석원",
+      "FATF"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGd0lXbURYMHlLUG1hWW9MWUw0RDJXQkpERDIyRlNDT1BlanNqZkJ1cUFjaFJTUzk2REhyd0ZwMVJvOEZGQnRIY2h6SUhaejFEV3UtakVGd0trR0l5?oc=5",
+    "publishedAt": "2026-10-14T07:00:00.000Z",
+    "collectedAt": "2026-11-27T23:52:28.810Z"
+  },
+  {
+    "id": "3966ce28441dbd95136aebd8b89302c6414680e7",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Venetoclax Induction, Intensive Chemo Yield Similar AML Transplant RFS - The American Journal of Managed Care",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRkZrMkdLQU1UZUxwVkdVekpMUzgyc2pvYzBhajVqUkFzX0NxSjRySFFFa01SYWdXVkwzcnIyc2FJWldGVnNqUlJpUkctNGI0cko3UGdnNDNCM1RUQVlHYnF4SWplbXp1ekJfazN0SXZVRlJHWUZNSFRkeXNabEtpb0hLYnJXbmdkZ0ROV3E1Q0RDVVVVcFRrVFdVWQ?oc=5",
+    "publishedAt": "2026-11-27T14:33:49.000Z",
+    "collectedAt": "2026-11-27T23:52:28.793Z",
+    "translation": {
+      "titleKo": "베네토클락스 유도요법, 고강도 화학요법이 유사한 AML(급성 골수성 백혈병) 이식 RFS를 나타냄 - The American Journal of Managed Care",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "af2eebfd26b22ee4d118c2ed8e8971df4c2e418a",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "When Sanctions Evasion Becomes An AML Problem: Lessons From The A7 Network - Legal 500",
+    "snippet": "",
+    "keywords": [
+      "AML",
+      "sanctions",
+      "sanctions evasion"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRTR6eC1waVRIMF94Q2Rpa18zTXpZNjJxMEpUa3dnQnhKQTZMZ2RPLTRiamVQSE5WUXhtVnpDSVRNZkRfdEJUX1JmMlh6ZHZVNU1TMnZPT0ZPbGhMZkdROUFDRzhLTERocGNTajBOMmJQeGhHbTBxbFZ0MldIaTVuRUxZemVfUGY3TXFHLTh2R1pOekVwVGp4X0JxZFZvT2tjRUo2RTZWSHlxTnVkV1dQRFdVeVI3UVc5RnNoYjJIYXhuTC1Xc0tIS0hUcUQzSEJCdGNoRXMza0psai1zai1FcWkteE8?oc=5",
+    "publishedAt": "2026-11-27T23:48:25.000Z",
+    "collectedAt": "2026-11-27T23:52:28.793Z",
+    "translation": {
+      "titleKo": "제재 회피가 AML 문제가 될 때: A7 네트워크가 주는 교훈 - Legal 500",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e83dc223d4d94aaab142330c77e1df653443f54d",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Entain close to settling Australian AML case - Global Investigations Review",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOExzNXduM2ZRMC11eFNzOXFNT2FlSWZWY3praDlFS0dLckZqUlZwRFd5UDV0bGtjS1pQOFMyVFJiU1hhREJ6aHQ3VEhOX19WTUsxQVRDSjJrZUJJQXdQWFhtLVgyb3A3UnNlUWg3d0JHNTlOTXVjc1NxSmFCUzJGeVpXcGtqTkU2ZlFnVGxPZUl3QQ?oc=5",
+    "publishedAt": "2026-11-27T15:23:09.000Z",
+    "collectedAt": "2026-11-27T23:52:28.793Z",
+    "translation": {
+      "titleKo": "엔테인, 호주 AML 사건 합의에 근접 - Global Investigations Review",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7c075a6e110dc9e91c864be59182b7c9982b9a0a",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Italy’s AML package implementation: the MEF launches public consultation - Hogan Lovells Cadwalader",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOVg0Y0FEWHE4dzlVU0RDUmkxd3lRaDZvREpWczNJUlFPT0IwaHZxenNIaThsOU53UDlIckNkT1M5Ynd2YklfNFBTQzFoVTc2OEExMnJmMlJ5ckpTMHVXNlo5NkwzYVRCaXNIQXlPanRuU3A2Nm12bFIwdzVxMDRuYjdaV0tFTXE1Q2F2dTBqQ1N1Rl9VU0xodHkzcWhOaHZ5OGMzMXFtb2ZiQQ?oc=5",
+    "publishedAt": "2026-11-23T15:37:56.000Z",
+    "collectedAt": "2026-11-27T23:52:28.793Z",
+    "translation": {
+      "titleKo": "이탈리아의 AML 패키지 이행: 경제재정부(MEF) 공공 의견 수렴 착수 - Hogan Lovells Cadwalader",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "7d66adde41807d1c5b71e7494ecdaf16ded50c34",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "AMLA consults on AML outsourcing, reliance and third-party arrangements - Arthur Cox LLP",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTURtUVJNSTJDOXJ5d2JnMENmTU51M3FjVEJ3TWctM2dnVVE2Q2dOMEI4Qk1hcU1lZHhxRTY2TVBGZVdmRHl3UHREX1BHQmg4U005WmszQ1ZnZ1d2MkZYLUpndnNOeWtYbEpDSU4wbTM3QjQxOUFISzZSdGlDOWpRd1U4MHpsOEFtb0lLLXBWQWRXXzk4WWVSR3kzNVpJWG5YUGtLdVhRd0VMZw?oc=5",
+    "publishedAt": "2026-11-27T15:27:09.000Z",
+    "collectedAt": "2026-11-27T23:52:28.793Z",
+    "translation": {
+      "titleKo": "AMLA, AML 아웃소싱, 의존 및 제3자 계약에 대해 의견 수렴 - Arthur Cox LLP",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "54bcb1df8966bbb8c6058b20300619f1e4c2fd4f",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Medicare Part D Redesign, Oral Chemotherapy Parity, and AML Treatment Costs - The American Journal of Managed Care",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbndHUnliVHE2SVBOSkl2Y0FudnA4OUcwZWtKT0F2WmdoZFFmamVBOC1BbVpjSmdTZ1FjSXR2S2VRSmhqYVhxS0Iwb3dwQ010RTBodWtOb1NSZkpNUGZlV0ZBSW0zZVJYSGpMM1FIemZiQlhEanVGVEpXV1pfNWk5d0g2M1pLYkpkQndZOGdWYXptUzE5ZW01bDZNX2dsRzY0?oc=5",
+    "publishedAt": "2026-11-26T13:51:30.000Z",
+    "collectedAt": "2026-11-27T23:52:28.793Z",
+    "translation": {
+      "titleKo": "메디케어 파트 D 개편, 경구용 항암제 동등성, 그리고 AML 치료 비용 - The American Journal of Managed Care",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f51171b51d8e362700ed1950ee8743fe4c55c37c",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Optimizing Adherence to Oral AML Therapy: Calendars, Logs, and Ongoing Education - The American Journal of Managed Care",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTBpSzA1V1RsX0dEV0FwYzY1blRCZW9ONjl1TkkyeFdfX3QxamZfVnBBQ09SRWpubTlfa1o2Zl9rQ0NCSmxqcHRHaUZ2b1NJcnVhN1g4WkEtVEZjdHZJSVl1cy1RZDk3VFVHcUpWN0FIZzhhNFhCdl8yWjRLSXlyOTFRcEJ0cHRVTGZnV2taXzZWYVBBOWxRWHZUN1RHcHpKTzNwYVRR?oc=5",
+    "publishedAt": "2026-11-26T13:39:37.000Z",
+    "collectedAt": "2026-11-27T23:52:28.793Z",
+    "translation": {
+      "titleKo": "경구용 AML 치료 복약 순응도 최적화: 달력, 기록 및 지속적인 교육 - The American Journal of Managed Care",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e3f2534aedce2fe186195eabc68711b0ea218b59",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Overcoming AML and regulation barriers | by Sinem Kruca | Nov, 2026 - DataDrivenInvestor",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQlhaQ1dtUHVqLUZueDhGMFNKTmlZUlRVUzNHd29XN2xTRmJqaE1qaU5Ydi1meGpSTTVlbmoxb0xMbmhVcEwxYnQ5NDh6b3R0X2F0eDQzUlI4dXowZE1ZTWZ1aERMZ3pJNXNGOHhnVVdQbWU2QWpBbmZ3RDVQYi1QNFN2bndlRTVqYWt0VU9QTmIzT2s?oc=5",
+    "publishedAt": "2026-11-27T13:12:40.000Z",
+    "collectedAt": "2026-11-27T23:52:28.794Z",
+    "translation": {
+      "titleKo": "AML 및 규제 장벽 극복 | 시넴 크루카 | 2026년 11월 - DataDrivenInvestor",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "94ae2df63822f70ff755a37aef85d178d6119638",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Entain Agrees to $123M Australian AML Settlement Days Before Trial - Casino.org",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYlJnbjFOWW1Hal91RUZWOEVJd21Wa0VKMlAxcjZLNTlKdWotWTQ3Y2ppVVZ6SWV3bnFUc1pPVkVubXNvaklNZ0Q5X0ctQTZBS0E4bHhTZm9qZGtrVlBfaDk3NnFUWmotNmpaWFhJVkxMLUZKVTNMdjluN09WVzB6STBNX2xvdUNvX1pZQ2lZcUlHclZzc2U2NGM2dmNSSlVIQmhmMmU2QjBaSTg?oc=5",
+    "publishedAt": "2026-11-27T12:54:43.000Z",
+    "collectedAt": "2026-11-27T23:52:28.794Z",
+    "translation": {
+      "titleKo": "엔테인, 재판 며칠 전 1억 2,300만 달러 규모의 호주 AML 합의에 동의 - Casino.org",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9475e1ab0dfc59ae5fae5972eb27ff29d4436414",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Building Defensible Anti-Money Laundering Decisions in the AMLA Era - IT Brief UK",
+    "snippet": "",
+    "keywords": [
+      "money laundering",
+      "anti-money laundering",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaVpKaHk5T2FZMTRnSW5RQktqUGhwbmtGX2U1aU4yU2YzUzEtdjRqME85QXB4QTBVMl9qVnR4LXdrYmYweDNfVURHTmFkU0hGaW4xd29LMHpVN0lBMkl1X2NpSXRZYU1xZGtvTThyR2dabzRXRkhKcDB5Z3FIcmZVZm40N0VrNXpZTGVqSHlKOGNXSnZuRXMwTFJFSQ?oc=5",
+    "publishedAt": "2026-11-27T21:54:00.000Z",
+    "collectedAt": "2026-11-27T23:52:28.794Z",
+    "translation": {
+      "titleKo": "AMLA 시대에 방어 가능한 자금세탁방지 결정 구축하기 - IT Brief UK",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "b1f60bfac8ea0b4635039787d52c03cafd82adac",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Entain settles Australian AML case for A$185m three days before trial - NEXT.io",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYV91ekJhSDMzTEdxckctVDFadUhULWZiZDg3ZmpScERXSXg3VWZGakdLVXpMVXVGVjJDam9nc3lET1I2QWNPRGNnOHpPSW5tQmVsVm9Kd1NCbk5Xb0RYeDhneDBqYmFEWDByaUx2Zm1ReW5POHg3UVIxSktHM24tZTlDRWlxVlE?oc=5",
+    "publishedAt": "2026-11-27T08:16:29.000Z",
+    "collectedAt": "2026-11-27T23:52:28.794Z",
+    "translation": {
+      "titleKo": "엔테인, 재판 3일 전 1억 8,500만 호주 달러에 호주 AML 사건 합의 - NEXT.io",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4f76a0daaf262468013a3b5db1700b7bc5a86349",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Entain’s Australia unit to pay $123M to settle AML case By Investing.com - Investing.com Canada",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcXdabTJDdXFMejd6bmJoRGgxY2JILVVyb1JCWXJZaldvNVBtVVJjUjVpYkNGR0d4NU0zYlhYb3duZTZBZ01mSFNyazk2Q0FNWDEwREdFZlBvY1hlTV9DbFpPR3FTQkRQZXktYjg1bVNoOFNhY2JOVTZPYzdMUktfWEFNV3B6LTNuNHZFMTFIZUNZbGVrcExkWWktbTF1eGdNZ3ZBeFM5cjR2ek4xRnhfOW01ZkE?oc=5",
+    "publishedAt": "2026-11-27T09:36:21.000Z",
+    "collectedAt": "2026-11-27T23:52:28.794Z",
+    "translation": {
+      "titleKo": "엔테인의 호주 법인, AML 사건 합의 위해 1억 2,300만 달러 지불 예정 (Investing.com 작성) - Investing.com Canada",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "a3b89cbf9e79ae42af0daed4c229058d48836791",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Entain’s Australia unit to pay $123M to settle AML case - Investing.com Australia",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczhNOWZoYWxSRGdoZ05qUWdMWTlwLUVxVlh2OEFFRnpocW5kbk4tVkRQUmZQRU96dUcwaGpXZlNoTzhnLTkwSVJmcGgxYUlBLW1XYjVIX3RnelQ5amUtZzc5ZzZaOVB4X01RdTR4VDBrVUxNSFZlb0RDLUVEWkwwbTZqbHBBSEdINUFkdWJFTzZHMmF3SUhZWVlWaE85dHoyVG05WkRhUjFjOTk2SEpKc1JDYUU?oc=5",
+    "publishedAt": "2026-11-27T09:27:22.000Z",
+    "collectedAt": "2026-11-27T23:52:28.795Z",
+    "translation": {
+      "titleKo": "엔테인의 호주 법인, AML 사건 합의 위해 1억 2,300만 달러 지불 예정 - Investing.com Australia",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "c494feb4438424982ca98ba844aae628a75b5e39",
+    "source": "Google News - AML",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Lawyers' Bodies Urge AML Authority to Rethink Rules - Wisevoter",
+    "snippet": "",
+    "keywords": [
+      "AML"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOG9OdFpueTZMbjI3cFl2NDllRjY0RElWTmJmYmZ3M3FKYWh2Q0x3T1QwNFI5bEtUdkRUZzRwYTFtcVd3SUVZWW1zeVluQzg4d3ZQVUNCcW0wdWJ2TTgxNzEyRGdwNDI3Smdoc1RYQmg1QU9LcjFvbTdYRDFLQ05uWTk1SDNFZ3VrMlNhNmVBZFFFNnM?oc=5",
+    "publishedAt": "2026-11-27T19:43:20.000Z",
+    "collectedAt": "2026-11-27T23:52:28.795Z",
+    "translation": {
+      "titleKo": "변호사 단체들, AML 당국에 규정 재검토 촉구 - Wisevoter",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "dd0c2a69f9e753a3d1543bcb04ce5a63d0db2dcf",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US FinCEN takes some systems offline after cyber incident, official says - Reuters",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWM5VEUyRVVFMDgwbkZqY3NGWVE1RXhFWjA1S1NseTlHQzUxMkVLSnpTNU5NbnV6ejRwd0hHSTNadk1CRzdubk9MRjExMWc3RUZ1YVVqRnczOFY3VGRzNm5LcHAyQ295dThkdGNkWUV4b2t0MDFQbDhZbE03XzQ2Um1EWE9QNHBkSjFKc05GZkFPNjZnYi16REtjcmJDZ1kxZ0ZmVTd1LV9lVWM1Z01xal9mRQ?oc=5",
+    "publishedAt": "2026-11-25T20:42:56.000Z",
+    "collectedAt": "2026-11-27T23:52:28.830Z",
+    "translation": {
+      "titleKo": "미국 FinCEN, 사이버 사건 이후 일부 시스템 오프라인 전환, 당국자 밝혀 - Reuters",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "cc41a9fb5095f456e74951d0c64d03a61c322362",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "US FinCEN hit by cyberattack, takes some systems offline - TechInformed",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeEtQOVFaV2MxQ0VSMTRIaVJpRC1FZl9GQ0dqSTRzMWM2NnoxdzU1VUt0cmI1azA5RHl0XzU3OHE0d193bkdQM21lOURPdzE1NW5tczRReVBTRzZrUjhVZVVfd0FsMXVndXI0N0JRMVVERklJMjZtbVQ0bDhLWVpXNy1SNUNnemZR?oc=5",
+    "publishedAt": "2026-11-27T15:45:23.000Z",
+    "collectedAt": "2026-11-27T23:52:28.830Z",
+    "translation": {
+      "titleKo": "미국 FinCEN 사이버 공격 받아 일부 시스템 오프라인 전환 - TechInformed",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ed5b0597bca836cdc22c3e8f926fa67beaa1a827",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Treasury's FinCEN takes systems offline after unauthorized access - ABC15 Arizona",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTk9oVFI4aTlLNTBONUVIdW9WekRaZG5pb25hbHpKNVI0Qmp1NGpaOHdYOUp0Y0NCRmpJcDlicVFTOGZ0TnpzX2Utczdnd09GX0xmdTFLaUdid3VicU04TTZHaktfZ2pHVmc3ZVlVenl4SExDRmExci1ka3pWanRuNjFJOUsxVnhkbC0teVdDVXFNWHhtcms1ZmRB?oc=5",
+    "publishedAt": "2026-11-25T17:02:33.000Z",
+    "collectedAt": "2026-11-27T23:52:28.830Z",
+    "translation": {
+      "titleKo": "재무부 FinCEN, 무단 접근 발생 후 시스템 오프라인 전환 - ABC15 Arizona",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "94a21d7c90aa5b967ab71d2ddb06cd92c19d2fc5",
+    "source": "Google News - FinCEN",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "FinCEN Provides CDD Relief For New Account Openings - Legal 500",
+    "snippet": "",
+    "keywords": [
+      "FinCEN"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObXRGTklLNUtvVGNhSXJsaEJRQXJPWHVPWXZXX0JOSlV6NnlQNDVRVkloMTRwa0kxZDk2djhVVHBWeXMwRjVTVTNrZVhVanhtanZWWDdWNFRuOEk3cGFJUmlvYlNYZ2VOTHZBUWJCb202UUU1c3hXUFRXQVk3Z3lrNEt2aDREUVMzNGJ1VUxaWk03VVU3WkFLSzR0MHhVc0ozTVN6VlJQTmpRNkpqbkwyLXNpdjg3Ym5sc1FHbExhUEFrOHFONGRF?oc=5",
+    "publishedAt": "2026-11-08T21:03:35.000Z",
+    "collectedAt": "2026-11-27T23:52:28.831Z",
+    "translation": {
+      "titleKo": "FinCEN, 신규 계좌 개설에 대한 CDD(고객유의사항) 완화 제공 - Legal 500",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1f4c60b3e80ec330ffb3e5bc2c9ac0f16d218562",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bulgaria holding EU's 22nd Russia sanctions package hostage in bid to extract concessions - The Kyiv Independent",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRnlCU2lZWjJWYW1mSk91dHFObkFhX1FpekQzVkJHakRhVm5pamlJR2R1WlR0T2FsSEtFZXBNLW1hbWxlYU9SSy1NbG5WWHpESDF6MkhtUUdfdm95bWhNekIxU2hNSGZxSEZzZmRWV1VaZnpUaC0yZUQ3SFQtSnBnUXBiczUyS1Q0OGdZU3hEYlpoaWNhV2wzZWRPbmE1ODZWREhyLVZEUHVYWEx3azRoZm9RLUx0eGN6?oc=5",
+    "publishedAt": "2026-11-27T16:28:40.000Z",
+    "collectedAt": "2026-11-27T23:52:28.764Z",
+    "translation": {
+      "titleKo": "불가리아, 양보를 얻어내기 위해 EU의 제22차 대러시아 제재 패키지를 인질로 잡고 있어 - The Kyiv Independent",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "bca36e011f4b014c170cd82840e6e6a2ce291bc9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "A Guide to Trump’s Second-Term Sanctions - Council on Foreign Relations",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVVN0LXVRSlBzd1RLaHY4MzFCYmc4ZXA3R09rdWhaVy1wVy1seS1UVDhxd1RLWnkxYmJPT2JPV2h4RkhJSVB6R19oQW9GeUtfRU5KR3Z4d2MwVE9JQjRlMWlKdTRfRnU5MzMzaTFPb1llbHBuZ3ppalJjOUtjRzA5Q085NUtfM0cyLThrTVBnSURDMmZ4NEc1Yg?oc=5",
+    "publishedAt": "2026-11-27T14:00:00.000Z",
+    "collectedAt": "2026-11-27T23:52:28.764Z",
+    "translation": {
+      "titleKo": "트럼프 2기 제재 가이드 - Council on Foreign Relations",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "23b18f3e2047b98d9109b8ccc3a24f7e08a4bae6",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "EU proposes sweeping new Russia sanctions targeting banks, crypto and sports events - WHEC.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObllxQlM5RHVhX2JKUXVMZ1htRnlTWk1rZ01EeWtVaVpoal9HSlJGN2w5QXBLX3ctS1ZDOUJraHI5ODFiR0ZmWF9aTU9YdmstOHdyX0FSODVNRkhGdEo4RmJvNFVDNWk5bmtScXVmLTFzUG92U2tFU0NHZjk1dXhPNURjcEYwZWF5MTRLc2tIQV9fckJBZFBodkllOFo0NFQ5SXRxX2RubVl3SGNLZXU3S0Y2MnNra00?oc=5",
+    "publishedAt": "2026-11-27T20:11:35.000Z",
+    "collectedAt": "2026-11-27T23:52:28.764Z",
+    "translation": {
+      "titleKo": "EU, 은행, 암호화폐 및 스포츠 행사를 겨냥한 전면적인 신규 대러시아 제재 제안 - WHEC.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e67c239a5f76c09e0aa6b28a0343d5b669f4ec58",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Experts urge European governments to shield ICC from US sanctions - Anadolu Ajansı",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNENJbGQ0YXBFY3Fsb2lXTl9XVGdTU0s5TWxNQTVfSEpBWnJZRW1VaVY1WGhybFFBNEs1OC1OZzlLWFFleUcyMUM1WEROaTE4blNoWkpzU0dfbmpmcGRWSGdvUDh1TERnMG0yTVF6aTZ5b2tfOERlRGZQck5ET3ctZ0NYR3NCRnc2LU1kUW1aVVFTMzVRaXdOaUxNZm0zY0xwaE9RZ0ZFUlc?oc=5",
+    "publishedAt": "2026-11-27T18:33:46.000Z",
+    "collectedAt": "2026-11-27T23:52:28.764Z",
+    "translation": {
+      "titleKo": "전문가들, 유럽 정부에 미국 제재로부터 국제형사재판소(ICC)를 보호할 것 촉구 - Anadolu Ajansı",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1b2b80857a7d5950f60c658bbdbb337b748a0222",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Life on the blacklist: 'When sanctions hit, I realized we must be doing something right' - Israel Hayom",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQzVTdGZOTFVmcVlkYWR0VEFGdERfRXdtci0wRWNsU2N6MGpXTTh3YmVyY1puVDBxWUZpd1pDdUZxajE4ZWVWdXF0THJLb3k5SHlJNmx4X2l3VFBjUVRzakFfVE1GMFktcWJDdDBFdUVDN1FnbjlfTEJlTDd1T0duQ0FoVDRXcXB1MWVzUDl3bzczUS1jRUNNV1dWVFN4a3JrTEVLNHMtNmNSdGdMY0FURHBvdkYzaDZiZHN4bDZQdVdNQQ?oc=5",
+    "publishedAt": "2026-11-27T21:19:54.000Z",
+    "collectedAt": "2026-11-27T23:52:28.764Z",
+    "translation": {
+      "titleKo": "블랙리스트에서의 삶: '제재가 가해졌을 때, 우리가 뭔가 제대로 하고 있음에 틀림없다는 것을 깨달았다' - Israel Hayom",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "6f832b007588e736d55b8b965411c1f5458ca486",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Burbank Sanctions 30 Advertising Kiosks - Outlook Newspapers",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDB2TGphbnlrQlA2SXpIZE56RmpPZC0tdWRIbUdRbHBlYW84LWMyblVOMkdWVXFoNVR1VGpHRFRGZ0g3SHU4YUhFSEs0WjdMNHFsR3RWWHNvWTQ3dUF0YWhjeGVWTlFGZDVQSldib1A5WENfVEZRcDduV3c2YkdldEZJS1BSaHJyNE1GdVoxRGV3NWxCaXotTk1IaG04SWZSbGhxYWQzQ1BVM21CUm1FMWV6S3lIUUg4eFBmU2QyZHlSV3U3djFwLWtHaUhWZw?oc=5",
+    "publishedAt": "2026-11-27T14:30:00.000Z",
+    "collectedAt": "2026-11-27T23:52:28.764Z",
+    "translation": {
+      "titleKo": "버뱅크시, 30개 광고 키오스크 승인 - Outlook Newspapers",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ad19c3005197a33f6e5c03ba945d3fb9027372b7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "The United States Sanctions The International Criminal Court - The Organization for World Peace",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVzFJRFlDR2xJRkd0SE55SENibVd6SWhmVjY3UVNFNGR0cTBDLUt2YXR1NmVRMGF5WDBkMXh0VFlPU2RPbDEzcWZ6Z0I1YmlYUmlXVUVGT0ZwWGlnakhBVzlxa2JScDlubm03c3VFSXZheEtLT282cUJ5SVJEaGc1Z3BVMUQzMjQ?oc=5",
+    "publishedAt": "2026-11-27T18:30:35.000Z",
+    "collectedAt": "2026-11-27T23:52:28.764Z",
+    "translation": {
+      "titleKo": "미국, 국제형사재판소 제재 - The Organization for World Peace",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "af2eebfd26b22ee4d118c2ed8e8971df4c2e418a",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "When Sanctions Evasion Becomes An AML Problem: Lessons From The A7 Network - Legal 500",
+    "snippet": "",
+    "keywords": [
+      "AML",
+      "sanctions",
+      "sanctions evasion"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRTR6eC1waVRIMF94Q2Rpa18zTXpZNjJxMEpUa3dnQnhKQTZMZ2RPLTRiamVQSE5WUXhtVnpDSVRNZkRfdEJUX1JmMlh6ZHZVNU1TMnZPT0ZPbGhMZkdROUFDRzhLTERocGNTajBOMmJQeGhHbTBxbFZ0MldIaTVuRUxZemVfUGY3TXFHLTh2R1pOekVwVGp4X0JxZFZvT2tjRUo2RTZWSHlxTnVkV1dQRFdVeVI3UVc5RnNoYjJIYXhuTC1Xc0tIS0hUcUQzSEJCdGNoRXMza0psai1zai1FcWkteE8?oc=5",
+    "publishedAt": "2026-11-27T23:48:25.000Z",
+    "collectedAt": "2026-11-27T23:52:28.764Z",
+    "translation": {
+      "titleKo": "제재 회피가 AML 문제가 될 때: A7 네트워크가 주는 교훈 - Legal 500",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "5678a34cf3119aa4d0c2b176fb64fa5a2892836f",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Over 200 US lawmakers to back sanctions bill over West Bank settler violence, sources say - The Jerusalem Post",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtckd2c1p2VTVRTUlYYUgxc2Rvd0V5OE41UnFOcE1HaVk4VEpDa0lBaFV1aURqTHdycmNkX1l4M2dtZzdaZk0tcEduRHUwdVZUU3dnWV9xbXAzNjBzVkp0eDIwcWE?oc=5",
+    "publishedAt": "2026-11-27T20:08:14.000Z",
+    "collectedAt": "2026-11-27T23:52:28.764Z",
+    "translation": {
+      "titleKo": "200명 이상의 미국 의원들, 서안 지구 정착민 폭력에 대한 제재 법안 지지할 예정, 소식통 밝혀 - The Jerusalem Post",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ac142fc32ef0fba8ff55e60378a5bff6a742c649",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "UK Says Ovsiannikov Sanctions Will Deter Kremlin Supporters - Law360",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2kwcEJiWks4c3haaVh3bVZ5Q3k2SEFObE5EZ0kwd0JyR2E4RWJ1eHExbjYzaUVRUlhjcGNvblF6eG0wZTlZaTV3RW9aQ0hqNGdtZmhteFdndllYVWc4d0hCSk5sMFA3b2tmWEtMV0dPTkExOWFqNDd0R0lPalkxS3RsTWlCODJYNzV4UkI1UWNwcVlIVm9yRnVfeXFxR3R10gFWQVVfeXFMT0tWbXVsRTNMQVJ2RndITGs0dkxkMzIxdlVpRDIxQ3NjR09qQm1iZmhYMU5QMXk5a2NXNXV4QnY0cEI0UHFJMnJDNV9UeVkyLUhQQTkxU1E?oc=5",
+    "publishedAt": "2026-11-27T15:42:36.000Z",
+    "collectedAt": "2026-11-27T23:52:28.764Z",
+    "translation": {
+      "titleKo": "영국, 욉샤니코프 제재가 크렘린 지지자들을 단념시킬 것이라고 밝혀 - Law360",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fdac870320961a65450aec765c208cef06ff6b58",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Australia Sanctions Alleged Iranian Agents Suspected of Directing Antisemitic Attacks - Algemeiner.com",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQREpVdVNvU0EwbGhYVUdpUVdpUVJZMGpFV1plSW5NczV3anBPdDdyYjkwMUVVbFlBMml1N1FnRTNDSEY5SHBoNmtadjJ3clQtSEwzUHZxS1h6UXpGSWo5dF9OaVY0UTBzci1uWkRTOElYcFA3QlRRNXBWYmhsZldaaEtVZjZxaWlLa01rZWNldDNoQlhZb2xTcWV5ZGQwTXp2dUZvei1mZUF3ZHExQkg2T1lzNVNIWXJqTmxuRFdB?oc=5",
+    "publishedAt": "2026-11-27T16:54:00.000Z",
+    "collectedAt": "2026-11-27T23:52:28.764Z",
+    "translation": {
+      "titleKo": "호주, 반유대주의 공격 지휘 혐의 받는 이란 공작원 혐의자들 제재 - Algemeiner.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "f4286a4ec693066e7db8d85ded2a80914edc3c12",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Belarus's Hrodna Azot invests in new production amid sanctions - Belsat",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUGU5M1F5UV9XaFU5S3QwRU5IWU9reG1tbHMzQm1SOGdtU1dZaGhfYlYyOVJCUWxDSGVua1B0dDlmeUVPbFBvRDhLNTNBd3p4eDhvRTBZMTNVUjNzWDZvMzVkUmVlbWstdkFjNTF3cjNGZmRfQ1RaNmJCS3NBMGkteHNmcFRRMnpxR1QwVzRUajJXUWphWWc?oc=5",
+    "publishedAt": "2026-11-27T19:35:00.000Z",
+    "collectedAt": "2026-11-27T23:52:28.764Z",
+    "translation": {
+      "titleKo": "벨라루스 흐로드나 아조트, 제재 속에서 신규 생산에 투자 - Belsat",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "32c500fad74bc3fa14c6255cd1dca84e6deac4b7",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "War, Sanctions Leave 53,000 Iranian Applicants Out of This Year's Hajj - IranWire",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSVZISVo1TTBVUnRkMm4zczU5VVJPSVNYME9rdWRlTTQxdkRCTGdCNHUweVUzT29VbndURk9rNmhkbGVrR0o5a1BPbzVJYnFDWnhSdGZBU1RTWkFVamFvWTM3c1lLVF9jbUxIWDZTM1NMUGcwZzVwdzNDeC1JNmdMaXl1bVROYjA0ZnhYOWpfOW9BNzZjbHhXaW9BREx1cHUya2NfREtvSQ?oc=5",
+    "publishedAt": "2026-11-27T16:07:29.000Z",
+    "collectedAt": "2026-11-27T23:52:28.764Z",
+    "translation": {
+      "titleKo": "전쟁과 제재로 53,000명의 이란 신청자가 올해 성지순례(하주)에서 제외되어 - IranWire",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e551e6ba7c4ec4f1b67b2ab970df1cebdad140a9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "BCSC sanctions pump-and-dump players - Investment Executive",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjZueC13NGQzX2U5MjgtZ2pMd2JEaWtMeFhIaU9UNGhOZUtYVHZmdHVnZXlYZWxENW84ZUVib0tBVVdqZk02V3pMNW9mX2RNNEwtclZSM2FFRWdNSGU3aERqUlZRejhGZC01UFdwMlotLTdiMlRqemdTdlhIczMweElLTmNZNDFGZGVYaFprWTZIMjg?oc=5",
+    "publishedAt": "2026-11-27T20:15:11.000Z",
+    "collectedAt": "2026-11-27T23:52:28.765Z",
+    "translation": {
+      "titleKo": "BCSC, 펌프 앤 덤프(주가 조작) 참여자들 제재 - Investment Executive",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "ed2dc8aa4e43fd5e775b8b686f0ce72ffd78868e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "ko",
+    "title": "Huawei Advances AI Semiconductor Trio Amid U.S. Sanctions - 조선일보",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGw2ZEdLeHQzUzZiUnlXc1FWX19yS1ktNVR6bWRtcE1HUW5YVGdBNUh1RmpzNzd0T2RsakVBMXNUNlBoOE1pOFY3SW5vWFNsZ1pITUFtZ05ucldNRFY5TlJrTmxrQTFZVnh4c0VibnBVMVZOVTdMa1FYWmY5QWVqT3NBREYtTzlr?oc=5",
+    "publishedAt": "2026-11-27T20:49:41.000Z",
+    "collectedAt": "2026-11-27T23:52:28.765Z"
+  },
+  {
+    "id": "944459f94e0a72d3909159a9ce00b221c2437073",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bans and fines: sanctions hit Al Ahly, Zamalek and Pyramids - Goal.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDBCQWRwY1psdUFfUjVwcGNmeWtabWdfc3FPcURaZ2xnSC0xSkRhM1l3Z3ROcFp6Sm0zamhfakdraWVGblZ1Ul9ac2pUbHpmdU1pU3o5SE1oZU0tUDZnMUphZ2dBanFJdUxOUWZiYU5rVHk2OUY5MlRQU0FqcXVPNGN6NmNURkJXLVpwOEdhSHA2Q1RNZ0VqXzZHT3g4MEtiWDF3WXBTTjR1UQ?oc=5",
+    "publishedAt": "2026-11-27T22:43:24.000Z",
+    "collectedAt": "2026-11-27T23:52:28.765Z",
+    "translation": {
+      "titleKo": "출전 정지 및 벌금: 알 아흘리, 자말레크, 피라미드에 징계 가해져 - Goal.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4be46a22162bfa6912a2676b785c9be38997cdc9",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Marseille risk UEFA sanctions after Europa League tie violence - Egyptian Gazette",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOekZsSGIySGo0ZUw1TUJVNTFzRnpqYlFhdWxfbDdYWW81Q3VtV3M3UGxFbU5waUlINDVGQlcwMVdPZlR6Nm5UVDd6bFROR2xHeEhBNFhwdzBueXBZYWhlM3plQzhMYms0d2dpS2w2SFRBY2MzbXlqM1hoS0NUaWR4YXpfYkVjbzMzYzFvSVJaeTVyQWQ4ODVUU1pubDZpSzRn?oc=5",
+    "publishedAt": "2026-11-27T14:04:07.000Z",
+    "collectedAt": "2026-11-27T23:52:28.765Z",
+    "translation": {
+      "titleKo": "마르세유, 유로파리그 경기 폭력 사태 이후 UEFA 징계 위기 - Egyptian Gazette",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "e1326cc378aa3d08142a1ed800937a24a5dbc364",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Cricket Australia rules out retroactive sanctions in Sandpapergate review forum - Oskaloosa Herald",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUmo2ZFJQQWcwT3RwdmJ5RFMyRUVodDhhSlRKSzBqcFkzLUd0RUNvWGZfN190TjIxT3l6dEk0QnlCWTVkdDJkTWZTYkkxVUV2V0dzV2Z1T1FUOEdzdXpWenl5d2RBdVE1WXNTbWVXZTdzRE1KRUFjdTFURWF5SmVFMFFKQ0NoSGlGWlBoVlFfNXJlMlNXZFAtRHNLMktuQUZYSkpVSzB6eVVGM1FxZFBERTdsRFN3cVFCbXpuRWVtZDRPOFJKV1A4VXk1VmxfQ2tqTWEza3o5ZnBreElzTXAwdUxYX0Z3SldOVE4tVm9OSFQ4ZmVXaHdBZkN6TV9QV0Jlay16UGJ1eDVVdw?oc=5",
+    "publishedAt": "2026-11-27T05:03:53.000Z",
+    "collectedAt": "2026-11-27T23:52:28.766Z",
+    "translation": {
+      "titleKo": "호주 크리켓 협회, 샌드페이퍼게이트 재검토 포럼에서 소급 징계 가능성 배제 - Oskaloosa Herald",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1c293c5e7ec9422622766772dfd9b9058800af2b",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Kenya News Agency - KNA. . President William Samoei Ruto – Support for the AU and unfair sanctions on Zimbabwe - Facebook",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkF2RG1FdFdpal9MdDdiTTJkZkJ1SDBKT0U3UGNEQW9pSHJlT3FlUjIwU3pSTmZzN2RqMTlyRnk1S1AyZVNkVFozU1ZRbHRDR29qNUVya2tQcVh4QVppcHNtZC1lR0hyS0d2SHlBSUlTOHFZTVFtNHVQV3NZQl8wdERPd2RTOFZXZ3UwNE1tcjA3c3FWajJsT3FQN090bDNlY0dsT21HaDRnYk1PQld0Q1B2cHA0TTNscXVYN3ZheGZ2bUo3Rl9SbFdxVkY3dllwVWFiTTk3LWJrSHFWRnI0?oc=5",
+    "publishedAt": "2026-11-27T15:50:07.000Z",
+    "collectedAt": "2026-11-27T23:52:28.766Z",
+    "translation": {
+      "titleKo": "케냐 뉴스 아젠시 - KNA. . 윌리엄 사모에이 루토 대통령 – 아프리카연합(AU) 지지 및 짐바브웨에 대한 부당한 제재 - Facebook",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "2fd3bf5f85e8c13d276d5d231cd7550091283559",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Bayern Munich rule out Joshua Kimmich sanctions after outspoken Jamal Musiala criticism - Goal.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQzVpNHVyaFBUQU5tdThUVDVSWjdZel9hdFRMSE96aUU2bXZDX0R2Zy1iYzl5cEZ1UE8yeE1NTzJnVDIwaU5lWDNxMzlxZnpHczdhanB0T1IyaTlxVVRpZGdXYjVnSktsWXBKdENrM3JVZ19QbndHNWszbHJxWHhpOURDRGtOVDNuY2g0MWczdjdYaFUwZkc5THhrcjluLUo1Q2dVQy02RU5hVDY1VVdHMw?oc=5",
+    "publishedAt": "2026-11-27T12:24:10.000Z",
+    "collectedAt": "2026-11-27T23:52:28.766Z",
+    "translation": {
+      "titleKo": "바이에른 뮌헨, 자말 무시알라에 대한 거침없는 비판 이후 요주아 키미히에 대한 징계 배제 - Goal.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "1a2fca93aa5f24c13e2b722b215cbd29bb56200e",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "President William Samoei Ruto – Support for the AU and unfair sanctions on Zimbabwe - Facebook",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcUdLaExmczRPWkgxOWdXSVdjd2Y4empZeUVnb1Y1ZWd3cW9HZ1l6S25ucUp6RkNpZUtQOUttR3c1UjAwMEJvSmxzQW1wQjNzV3JPbXY5aTRSVENJZzNxc3N6R0Z3LWU2M3VjRjVNR1FLTDNVWDFjcHdOUlU4Yjd5akNBaGtJZjkyVFowemxPWGpjdUZGeXJjSGZoWWFlaTFZak9aNWoxRXNlSDJCc2Z0Q3lFaTktMVNoWnY3RnlYNTNvNk5OUFF1REFjRm1FeEJMTUJubURzMEM2dzk2M3c?oc=5",
+    "publishedAt": "2026-11-27T17:51:09.000Z",
+    "collectedAt": "2026-11-27T23:52:28.766Z",
+    "translation": {
+      "titleKo": "윌리엄 사모에이 루토 대통령 – 아프리카연합(AU) 지지 및 짐바브웨에 대한 부당한 제재 - Facebook",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "41ac46ea99b9c266f3a815066508ec945ae641a8",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Australia sanctions two men accused of orchestrating Iran-backed attacks on Jewish sites - Rudaw",
+    "snippet": "",
+    "keywords": [
+      "STR",
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52bm43elQ0cktpZEx2X2xOSmRmZHNIOEdBam1vbV81N0UzNUtPeWJVU2hDR0ZBMDFTRmJZWjZpamRWcXg3MEd6VVkxa05WeUZ1eV9aX1Z2SzVfS1k2bG4xNnpCbDc?oc=5",
+    "publishedAt": "2026-11-27T07:51:43.000Z",
+    "collectedAt": "2026-11-27T23:52:28.766Z",
+    "translation": {
+      "titleKo": "호주, 유대인 시설 대상 이란 배후 공격 기획 혐의를 받는 남성 2명 제재 - Rudaw",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "fb83c679bf7537709dc54ec7b3af597b937cb921",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Possible sanctions for Man City amid appeal update before Arsenal showdown - London Evening Standard",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbUlETXFpTXBTdS1sOUE5Z0FaNklsc2pEZ0FfeDkwRkVVTWV6d00tNldHSE9BNU9rZ0tIRVhMRXo0dVlwNUowQnFiNTVFUUVlV214SlowVTN4VWU4UjFhTDZzcmNPVFVaLThjckptckRkdUQtaFk1WWRQb2VKWDBjd0VHbVJjU1JmckdVTnBpMURRWHN4VC1zc0g0MS1WLWpi?oc=5",
+    "publishedAt": "2026-11-27T20:01:59.000Z",
+    "collectedAt": "2026-11-27T23:52:28.766Z",
+    "translation": {
+      "titleKo": "아스널과의 일전을 앞두고 항소 소식 속에 맨체스터 시티에 대한 징계 가능성 - London Evening Standard",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "9d4cffff7eab8a4b63eba8d125b25a5b8863fa73",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Marseille face possible UEFA sanctions after violence at Europa League match - Euronews.com",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLXkxdU90RTk5bk95aFVjYTZNR3l1SVk3anVPTkVfN2QtQzBUZ2IyY2JFd0lvcWc3a3EyN0NPbzRpVWhRandMS1dLYzRycGxETjJPMld4Q280ODZHSldkaDExZXh4ZHFpSFNWMmxaajdycF83UnkwZlVFUy1VS3hhSDgwdnplMkxvYzBWQ05kMmlCOVM4NTB5VGVfbi1RZms5enZsUkl1YTJ5Q1doM2swYk9fN0NMcjd1TFVKcXJCQjc?oc=5",
+    "publishedAt": "2026-11-27T11:32:18.000Z",
+    "collectedAt": "2026-11-27T23:52:28.766Z",
+    "translation": {
+      "titleKo": "마르세유, 유로파리그 경기 폭력 사태 이후 UEFA 제재 가능성에 직면 - Euronews.com",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "4ab3b3652d7670ff525d681cb0f63642ddc28c00",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "CLOGSAG Demands Probe, Sanctions Over Alleged Assaults on Assembly Officers| The Pulse (27-11-26) - Modern Ghana",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JMjdmaHBFOFpFcW1pay1rSUhuYnJxV3oyVk10R0ZKV0t5cC1xRWpraUVsWXU4YlM5d1poYjZSX201WHI3T2NqTDFLMnJtQS0xd0ZNU3lZNVJXQzlmUGxxWUNtazHSAVxBVV95cUxQLWxxdmVHZjZPUVVkZFU4YjQxSF90ZHBaNDdOMVVVeEotRjFLVlhxOFhPVy1UYk5BU3o1T054MkpCLXcwaFB0cTh1Y3RBbFpRZ1QyczJiSWJKUjJ3Tw?oc=5",
+    "publishedAt": "2026-11-27T21:40:00.000Z",
+    "collectedAt": "2026-11-27T23:52:28.766Z",
+    "translation": {
+      "titleKo": "CLOGSAG, 의회 공무원 폭행 혐의에 대한 조사 및 제재 요구| The Pulse (27-11-26) - Modern Ghana",
+      "snippetKo": ""
+    }
+  },
+  {
+    "id": "92593c115e3815d6ead60e2d1288165bdf20db8c",
+    "source": "Google News - sanctions",
+    "category": "googlenews",
+    "lang": "en",
+    "title": "Marseille face UEFA sanctions after violence leaves Bulgarian fans injured - RFI",
+    "snippet": "",
+    "keywords": [
+      "sanctions"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUUwZ25jZDVTNlJTNjNFRXZuVWxrSl9XbllMWEVTSGxDNGJiN29OeHRxSUVGWDFzNVBOS3Y0UnhMZGw4Yy0wY0JSdFk5RG1iSm9kVmtaTFo3bzVhM0ROOHdtTWdpMjZ2RFVnMmdFN0NiTnRvQ2hmR1NHZXM2dDFwZHUxa0VOVlNkLWlFMXFDLWVycTJsMTMyM3NPSFFUTlFmaURiNVJRSjJzSmlxRk10YmltRDVITnFvSElF?oc=5",
+    "publishedAt": "2026-11-27T13:59:37.000Z",
+    "collectedAt": "2026-11-27T23:52:28.766Z",
+    "translation": {
+      "titleKo": "마르세유, 폭력 사태로 불가리아 팬들이 부상을 입은 후 UEFA 제재에 직면 - RFI",
+      "snippetKo": ""
+    }
   }
 ]
